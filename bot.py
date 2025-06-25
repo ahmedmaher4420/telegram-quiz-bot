@@ -6,23 +6,28 @@ from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 from quizzes_data import quizzes
 
-# 📝 تسجيل الأنشطة
-def log_user_action(user_id, name, action):
-    log_file = "user_logs.json"
-    try:
-        with open(log_file, "r", encoding="utf-8") as f:
-            logs = json.load(f)
-    except FileNotFoundError:
-        logs = {}
+from openpyxl import Workbook, load_workbook
+from openpyxl.utils import get_column_letter
+import os
 
-    if str(user_id) not in logs:
-        logs[str(user_id)] = {"name": name, "actions": []}
+def log_user_action(user_id, name, action):
+    # إنشاء ملف Excel إذا لم يكن موجودًا
+    excel_file = "user_logs.xlsx"
+    if not os.path.exists(excel_file):
+        wb = Workbook()
+        ws = wb.active
+        ws.title = "Logs"
+        ws.append(["User ID", "Full Name", "Action", "Timestamp"])
+        wb.save(excel_file)
+
+    # فتح الملف وكتابة صف جديد
+    wb = load_workbook(excel_file)
+    ws = wb["Logs"]
 
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    logs[str(user_id)]["actions"].append(f"{timestamp} - {action}")
+    ws.append([str(user_id), name, action, timestamp])
+    wb.save(excel_file)
 
-    with open(log_file, "w", encoding="utf-8") as f:
-        json.dump(logs, f, indent=2, ensure_ascii=False)
 
 user_state = {}
 
