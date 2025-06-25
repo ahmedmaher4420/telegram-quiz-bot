@@ -1,8 +1,28 @@
 import os
 import random
+import json
+from datetime import datetime
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 from quizzes_data import quizzes
+
+# 📝 تسجيل الأنشطة
+def log_user_action(user_id, name, action):
+    log_file = "user_logs.json"
+    try:
+        with open(log_file, "r", encoding="utf-8") as f:
+            logs = json.load(f)
+    except FileNotFoundError:
+        logs = {}
+
+    if str(user_id) not in logs:
+        logs[str(user_id)] = {"name": name, "actions": []}
+
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    logs[str(user_id)]["actions"].append(f"{timestamp} - {action}")
+
+    with open(log_file, "w", encoding="utf-8") as f:
+        json.dump(logs, f, indent=2, ensure_ascii=False)
 
 user_state = {}
 
@@ -20,20 +40,26 @@ def get_lectures(subject, type_):
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     uid = update.effective_user.id
+    name = update.effective_user.full_name
     user_state[uid] = {}
+    log_user_action(uid, name, "Started bot")
+
     keyboard = [[s] for s in get_subjects()] + [["🔁 ابدأ من جديد"]]
     await update.message.reply_text("📚 اختر المادة:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
 
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     uid = update.effective_user.id
+    name = update.effective_user.full_name
     text = update.message.text
     state = user_state.get(uid, {})
 
     if text == "🔁 ابدأ من جديد":
+        log_user_action(uid, name, "Restarted bot")
         return await start(update, context)
 
     if text in get_subjects():
         user_state[uid] = {"subject": text}
+        log_user_action(uid, name, f"Selected subject: {text}")
         types = get_types(text)
         if types != [""]:
             keyboard = [[t] for t in types] + [["🔁 ابدأ من جديد"]]
@@ -46,12 +72,14 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     elif "subject" in state and text in get_types(state["subject"]):
         user_state[uid]["type"] = text
+        log_user_action(uid, name, f"Selected type: {text}")
         lectures = get_lectures(state["subject"], text)
         keyboard = [[l] for l in lectures] + [["🔁 ابدأ من جديد"]]
         await update.message.reply_text("📖 اختر المحاضرة:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
 
     elif "subject" in state and "type" in state and text in get_lectures(state["subject"], state["type"]):
         user_state[uid]["lecture"] = text.replace(".pdf", "").strip()
+        log_user_action(uid, name, f"Selected lecture: {text}")
         keyboard = [["📄 View Lecture File", "📝 Take Quiz"], ["🔁 ابدأ من جديد"]]
         await update.message.reply_text(f"📘 {text}\nاختر ما تريد:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
 
@@ -61,6 +89,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         lecture = state.get("lecture") + ".pdf"
         file_path = f"lectures/{subject}/{type_}/{lecture}" if type_ else f"lectures/{subject}/{lecture}"
         if os.path.exists(file_path):
+            log_user_action(uid, name, f"Viewed lecture file: {lecture}")
             with open(file_path, "rb") as f:
                 await update.message.reply_document(f)
         else:
@@ -72,6 +101,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await update.message.reply_text("❗ لا يوجد كويز مضاف لهذه المحاضرة حتى الآن.")
             return
 
+        log_user_action(uid, name, f"Started quiz: {lecture}")
         mcqs = quizzes[lecture].get("MCQs", [])
         tfs = quizzes[lecture].get("TF", [])
         random.shuffle(mcqs)
@@ -94,8 +124,9 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     elif text == "⛔️ إنهاء الكويز" and "quiz" in state:
         quiz = state["quiz"]
-        total = len(quiz["mcqs"]) + len(quiz["tfs"])
         score = quiz["score"]
+        total = len(quiz["mcqs"]) + len(quiz["tfs"])
+        log_user_action(uid, name, f"Ended quiz: score {score}/{total}")
         del user_state[uid]["quiz"]
         await update.message.reply_text(f"⛔️ الكويز تم إنهاؤه يدويًا.\n✅ درجتك: {score}/{total}")
         return
@@ -154,6 +185,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         else:
             await update.message.reply_text(feedback)
             score = quiz["score"]
+            log_user_action(uid, name, f"Finished quiz: score {score}/{total_all}")
             del user_state[uid]["quiz"]
             await update.message.reply_text(f"✅ انتهى الكويز!\nدرجتك: {score}/{total_all}")
 
