@@ -46,7 +46,6 @@ def get_lectures(subject, type_):
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     uid = update.effective_user.id
     user_state[uid] = {}
-
     keyboard = [[s] for s in get_subjects()] + [["🏠 القائمة الرئيسية"]]
     await update.message.reply_text("📚 اختر المادة:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
 
@@ -74,22 +73,59 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             return await start(update, context)
         return
 
-if text in get_subjects():
-    user_state[uid] = {"subject": text}
-    if text == "Adults":
-        keyboard = [["🧪 امتحان شامل", "📚  المحاضرات النظري وكويزات خفيفة"], ["🏠 القائمة الرئيسية"]]
-        await update.message.reply_text("📘 اختر نوع المحتوى:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
-    else:
-        types = get_types(text)
+    if text in get_subjects():
+        user_state[uid] = {"subject": text}
+        if text == "Adults":
+            keyboard = [["🧪 امتحان شامل", "📚  المحاضرات النظري وكويزات خفيفة"], ["🏠 القائمة الرئيسية"]]
+            await update.message.reply_text("📘 اختر نوع المحتوى:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
+        else:
+            types = get_types(text)
+            if types != [""]:
+                keyboard = [[t] for t in types] + [["🏠 القائمة الرئيسية"], ["🔙 الرجوع للخلف"]]
+                await update.message.reply_text("📘 اختر النوع (نظري / عملي):", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
+            else:
+                lectures = get_lectures(text, "")
+                keyboard = [[l] for l in lectures] + [["🏠 القائمة الرئيسية"], ["🔙 الرجوع للخلف"]]
+                user_state[uid]["type"] = ""
+                await update.message.reply_text("📖 اختر المحاضرة:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
+
+    elif "subject" in state and text == "📚  المحاضرات النظري وكويزات خفيفة":
+        subject = state["subject"]
+        types = get_types(subject)
         if types != [""]:
             keyboard = [[t] for t in types] + [["🏠 القائمة الرئيسية"], ["🔙 الرجوع للخلف"]]
-            await update.message.reply_text("📘 اختر النوع :", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
+            await update.message.reply_text("📘 اختر النوع (نظري / عملي):", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
         else:
-            lectures = get_lectures(text, "")
+            lectures = get_lectures(subject, "")
             keyboard = [[l] for l in lectures] + [["🏠 القائمة الرئيسية"], ["🔙 الرجوع للخلف"]]
             user_state[uid]["type"] = ""
             await update.message.reply_text("📖 اختر المحاضرة:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
-    
+
+    elif "subject" in state and text == "🧪 امتحان شامل":
+        if "exam" not in quizzes:
+            await update.message.reply_text("❗ لا يوجد امتحان شامل مضاف حتى الآن.")
+            return
+
+        mcqs = quizzes["exam"].get("MCQs", [])
+        tfs = quizzes["exam"].get("TF", [])
+        random.shuffle(mcqs)
+        random.shuffle(tfs)
+
+        user_state[uid]["quiz"] = {
+            "lecture": "exam",
+            "current": 0,
+            "score": 0,
+            "mcqs": mcqs,
+            "tfs": tfs
+        }
+
+        question_data = mcqs[0]
+        keyboard = [[opt] for opt in question_data["options"]] + [["⛔️ إنهاء الكويز"], ["🏠 القائمة الرئيسية"]]
+        await update.message.reply_text(
+            f"🧪 السؤال 1:\n{question_data['question']}",
+            reply_markup=ReplyKeyboardMarkup(keyboard, one_time_keyboard=True, resize_keyboard=True)
+        )
+
     elif "subject" in state and text in get_types(state["subject"]):
         user_state[uid]["type"] = text
         lectures = get_lectures(state["subject"], text)
