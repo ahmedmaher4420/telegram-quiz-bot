@@ -102,17 +102,17 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await update.message.reply_text("📖 اختر المحاضرة:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
 
     elif "subject" in state and text == "🧪 امتحان شامل":
-        if "Adult Comprehensive Quiz" not in quizzes:
+        if "exam" not in quizzes:
             await update.message.reply_text("❗ لا يوجد امتحان شامل مضاف حتى الآن.")
             return
 
-        mcqs = quizzes["امتحان شامل"].get("MCQs", [])
-        tfs = quizzes["امتحان شامل"].get("TF", [])
+        mcqs = quizzes["exam"].get("MCQs", [])
+        tfs = quizzes["exam"].get("TF", [])
         random.shuffle(mcqs)
         random.shuffle(tfs)
 
         user_state[uid]["quiz"] = {
-            "lecture": "امتحان شامل",
+            "lecture": "exam",
             "current": 0,
             "score": 0,
             "mcqs": mcqs,
