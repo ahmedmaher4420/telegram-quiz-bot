@@ -68,7 +68,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             del user_state[uid]["type"]
             types = get_types(state["subject"])
             keyboard = [[t] for t in types] + [["🏠 القائمة الرئيسية"]]
-            await update.message.reply_text("📘 اختر النوع (نظري / عملي):", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
+            await update.message.reply_text("📘 اختر النوع :", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
         elif "subject" in state:
             return await start(update, context)
         return
@@ -82,7 +82,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             types = get_types(text)
             if types != [""]:
                 keyboard = [[t] for t in types] + [["🏠 القائمة الرئيسية"], ["🔙 الرجوع للخلف"]]
-                await update.message.reply_text("📘 اختر النوع (نظري / عملي):", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
+                await update.message.reply_text("📘 اختر النوع :", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
             else:
                 lectures = get_lectures(text, "")
                 keyboard = [[l] for l in lectures] + [["🏠 القائمة الرئيسية"], ["🔙 الرجوع للخلف"]]
@@ -94,7 +94,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         types = get_types(subject)
         if types != [""]:
             keyboard = [[t] for t in types] + [["🏠 القائمة الرئيسية"], ["🔙 الرجوع للخلف"]]
-            await update.message.reply_text("📘 اختر النوع (نظري / عملي):", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
+            await update.message.reply_text("📘 اختر النوع :", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
         else:
             lectures = get_lectures(subject, "")
             keyboard = [[l] for l in lectures] + [["🏠 القائمة الرئيسية"], ["🔙 الرجوع للخلف"]]
