@@ -1090,8 +1090,2833 @@ quizzes = {
         {"question": "Dialysis removes waste, excess fluids, and electrolytes from the blood.", "answer": True}
     ]
 },
+"exam": [
+    {
+        "question": "What are the two main fluid compartments in the body?",
+        "options": [
+            "Intracellular space and interstitial space",
+            "Intracellular space and extracellular space",
+            "Extracellular space and intravascular space",
+            "Extracellular space and interstitial space"
+        ],
+        "answer": "Intracellular space and extracellular space"
+    },
+    {
+        "question": "What percentage of body fluid is typically found in the intracellular fluid (ICF) compartment?",
+        "options": ["10%", "50%", "66%", "90%"],
+        "answer": "66%"
+    },
+    {
+        "question": "Which of the following is NOT a major cation in body fluid?",
+        "options": ["Sodium", "Potassium", "Calcium", "Iron"],
+        "answer": "Iron"
+    },
+    {
+        "question": "What is the process where water moves from an area of lesser solute concentration to one of greater solute concentration called?",
+        "options": ["Filtration", "Osmosis", "Diffusion", "Active transport"],
+        "answer": "Osmosis"
+    },
+    {
+        "question": "Which process involves the passive movement of electrolytes down concentration gradients?",
+        "options": ["Filtration", "Osmosis", "Active transport", "Diffusion"],
+        "answer": "Diffusion"
+    },
+    {
+        "question": "What is the primary function of the sodium-potassium pump in active transport?",
+        "options": [
+            "Pumping sodium out of the cell",
+            "Pumping potassium into the cell",
+            "Maintaining osmotic pressure",
+            "Facilitating diffusion"
+        ],
+        "answer": "Pumping sodium out of the cell"
+    },
+    {
+        "question": "Which electrolyte plays a crucial role in nerve impulse transmission and muscle contraction?",
+        "options": ["Calcium", "Magnesium", "Sodium", "Chloride"],
+        "answer": "Sodium"
+    },
+    {
+        "question": "What is the main function of chloride ions in the body?",
+        "options": [
+            "Regulating blood glucose levels",
+            "Regulating acid-base balance",
+            "Enhancing oxygen transport",
+            "Promoting bone growth"
+        ],
+        "answer": "Regulating acid-base balance"
+    },
+    {
+        "question": "How does filtration differ from diffusion in terms of movement of substances?",
+        "options": [
+            "Filtration involves active transport, while diffusion does not",
+            "Filtration moves substances down concentration gradients",
+            "Diffusion requires energy, while filtration is passive",
+            "Filtration moves substances based on hydrostatic pressure"
+        ],
+        "answer": "Filtration moves substances based on hydrostatic pressure"
+    },
+    {
+        "question": "In which fluid compartment are electrolytes like sodium and potassium primarily found?",
+        "options": [
+            "Intracellular fluid",
+            "Extracellular fluid",
+            "Intravascular fluid",
+            "Interstitial fluid"
+        ],
+        "answer": "Extracellular fluid"
+    },
+    {
+        "question": "Which of the following is an example of active transport in the body?",
+        "options": [
+            "Movement of oxygen in the lungs",
+            "Movement of water in the kidneys",
+            "Pumping of ions against concentration gradients",
+            "Passive diffusion of nutrients in the intestines"
+        ],
+        "answer": "Pumping of ions against concentration gradients"
+    },
+    {
+        "question": "What is the main function of phosphate ions in the body?",
+        "options": [
+            "Regulation of acid-base balance",
+            "Facilitating muscle contraction",
+            "Enhancing iron absorption",
+            "Promoting blood clotting"
+        ],
+        "answer": "Regulation of acid-base balance"
+    },
+    {
+        "question": "Which process is responsible for the movement of water and solutes based on hydrostatic pressure?",
+        "options": ["Osmosis", "Diffusion", "Filtration", "Active transport"],
+        "answer": "Filtration"
+    },
+    {
+        "question": "Which major anion is crucial for buffering systems in the body to maintain pH balance?",
+        "options": ["Phosphate", "Sulfate", "Chloride", "Bicarbonate"],
+        "answer": "Bicarbonate"
+    },
+    {
+        "question": "What is the consequence of significant imbalances in fluid and electrolytes in the body?",
+        "options": [
+            "Increased energy levels",
+            "Improved immune function",
+            "Disruption of normal physiological processes",
+            "Enhanced cognitive abilities"
+        ],
+        "answer": "Disruption of normal physiological processes"
+    },
+    {
+        "question": "What is hypovolemia also known as?",
+        "options": [
+            "Excessive fluid intake",
+            "Fluid volume deficit",
+            "Hyperhydration",
+            "Renal failure"
+        ],
+        "answer": "Fluid volume deficit"
+    },
+    {
+        "question": "Which of the following is NOT a cause of hypovolemia?",
+        "options": ["Vomiting", "Diarrhea", "Excessive fluid intake", "Hemorrhage"],
+        "answer": "Excessive fluid intake"
+    },
+    {
+        "question": "What happens to the skin turgor in hypovolemia?",
+        "options": ["It remains the same", "It becomes firmer", "It decreases", "It becomes warmer"],
+        "answer": "It decreases"
+    },
+    {
+        "question": "Which electrolyte solutions are used to treat hypotensive patients with fluid volume deficit?",
+        "options": [
+            "Hypertonic solutions",
+            "Isotonic solutions",
+            "Hypotonic solutions",
+            "No electrolyte solutions"
+        ],
+        "answer": "Isotonic solutions"
+    },
+    {
+        "question": "What is a common clinical manifestation of hypovolemia?",
+        "options": ["Hypertension", "Bradycardia", "Increased central venous pressure", "Oliguria"],
+        "answer": "Oliguria"
+    },
+    {
+        "question": "What is the normal range for urine specific gravity?",
+        "options": ["1.001 to 1.005", "1.010 to 1.025", "1.030 to 1.035", "1.040 to 1.045"],
+        "answer": "1.010 to 1.025"
+    },
+    {
+        "question": "Which of the following is NOT a cause of hypervolemia?",
+        "options": ["Heart failure", "Renal failure", "Excessive sodium intake", "Dehydration"],
+        "answer": "Dehydration"
+    },
+    {
+        "question": "What is the primary goal in managing hypervolemia?",
+        "options": ["Administering more fluids", "Restricting fluids and sodium", "Increasing sodium intake", "Ignoring the symptoms"],
+        "answer": "Restricting fluids and sodium"
+    },
+    {
+        "question": "What is a common sign of hypervolemia?",
+        "options": ["Decreased blood pressure", "Decreased urine output", "Edema", "Bradycardia"],
+        "answer": "Edema"
+    },
+    {
+        "question": "How is pitting edema assessed?",
+        "options": ["By measuring body temperature", "By assessing respiratory rate", "By pressing a finger into the skin", "By checking blood pressure"],
+        "answer": "By pressing a finger into the skin"
+    },
+    {
+        "question": "What should a nurse monitor in a patient with hypervolemia?",
+        "options": ["Blood glucose levels", "Lung sounds", "Hair color", "Temperature"],
+        "answer": "Lung sounds"
+    },
+    {
+        "question": "What is an important nursing intervention for a patient with hypervolemia?",
+        "options": ["Encouraging excessive fluid intake", "Limiting sodium intake", "Avoiding diuretics", "Ignoring edema"],
+        "answer": "Limiting sodium intake"
+    },
+    {
+        "question": "What is the primary cause of fluid volume deficit?",
+        "options": ["Excessive fluid intake", "Excessive sodium intake", "Increased renal function", "Abnormal fluid losses"],
+        "answer": "Abnormal fluid losses"
+    },
+    {
+        "question": "Which electrolyte solution is used when the patient becomes normotensive in fluid volume deficit?",
+        "options": ["Hypertonic solution", "Isotonic solution", "Hypotonic solution", "No electrolyte solution"],
+        "answer": "Hypotonic solution"
+    },
+    {
+        "question": "Which of the following is a clinical manifestation of hypovolemia?",
+        "options": ["Increased skin turgor", "Increased central venous pressure", "Bradycardia", "Oliguria"],
+        "answer": "Oliguria"
+    },
+    {
+        "question": "What is the recommended frequency for monitoring fluid intake and output in patients with fluid volume disturbances?",
+        "options": ["Every 24 hours", "Every week", "Every 8 hours", "Every month"],
+        "answer": "Every 8 hours"
+    },
+    {
+        "question": "What is the role of a nurse in managing fluid volume disturbances?",
+        "options": ["Administering medications only", "Monitoring and measuring fluid intake and output", "Ignoring clinical manifestations", "Avoiding patient assessments"],
+        "answer": "Monitoring and measuring fluid intake and output"
+    },
+    {
+        "question": "Which body part is commonly monitored for edema in patients with fluid volume excess?",
+        "options": ["Arms", "Head", "Feet and ankles", "Back"],
+        "answer": "Feet and ankles"
+    },
+    {
+        "question": "What is the purpose of assessing breath sounds in patients with fluid volume excess?",
+        "options": ["To check for heart rate", "To monitor urine output", "To identify excessive fluid retention", "To measure blood pressure"],
+        "answer": "To identify excessive fluid retention"
+    },
+    {
+        "question": "What is the scale used to evaluate pitting edema?",
+        "options": ["1-5", "1-10", "1-3", "1-4"],
+        "answer": "1-4"
+    },
+    {
+        "question": "What is the primary cause of fluid volume excess?",
+        "options": ["Dehydration", "Excessive sodium intake", "Decreased renal function", "Abnormal fluid losses"],
+        "answer": "Excessive sodium intake"
+    },
+    {
+        "question": "What should be restricted in the management of fluid volume excess?",
+        "options": ["Fluids and sodium", "Electrolytes", "Medications", "Physical activity"],
+        "answer": "Fluids and sodium"
+    },
+    {
+        "question": "How is urine concentration monitored in patients with fluid volume disturbances?",
+        "options": ["By checking blood pressure", "By measuring urine output", "By assessing skin turgor", "By evaluating urine specific gravity"],
+        "answer": "By evaluating urine specific gravity"
+    },
+    {
+        "question": "What is a common sign of hypervolemia in the neck veins?",
+        "options": ["Flattened neck veins", "Distended neck veins", "No change in neck veins", "Red neck veins"],
+        "answer": "Distended neck veins"
+    },
+    {
+        "question": "Which of the following is NOT a clinical manifestation of hypovolemia?",
+        "options": ["Cool, clammy, pale skin", "Flattened neck veins", "Increased temperature", "Increased central venous pressure"],
+        "answer": "Increased central venous pressure"
+    },
+    {
+        "question": "What is the effect of hypovolemia on urine output?",
+        "options": ["Increased urine output", "Decreased urine output", "No change in urine output", "Dark urine color"],
+        "answer": "Decreased urine output"
+    },
+    {
+        "question": "How does hypervolemia affect blood pressure?",
+        "options": ["Increases blood pressure", "Decreases blood pressure", "No effect on blood pressure", "Causes irregular blood pressure"],
+        "answer": "Increases blood pressure"
+    },
+    {
+        "question": "Which electrolyte solutions are used to treat hypotensive patients with fluid volume deficit?",
+        "options": ["Hypertonic solutions", "Isotonic solutions", "Hypotonic solutions", "No electrolyte solutions"],
+        "answer": "Isotonic solutions"
+    },
+    {
+        "question": "What is the purpose of monitoring central venous pressure in patients with fluid volume disturbances?",
+        "options": ["To assess skin turgor", "To avoid volume overload", "To measure urine output", "To increase blood pressure"],
+        "answer": "To avoid volume overload"
+    },
+    {
+        "question": "How can a nurse assess peripheral edema in patients with fluid volume excess?",
+        "options": ["By measuring central venous pressure", "By checking respiratory rate", "By pressing a finger into the skin", "By measuring circumference of extremity"],
+        "answer": "By measuring circumference of extremity"
+    },
+    {
+        "question": "What is Chronic Obstructive Pulmonary Disease (COPD) characterized by?",
+        "options": ["Fully reversible airflow limitation", "Airflow limitation that is not fully reversible", "Chronic airway expansion", "Chronic obstructive lung improvement"],
+        "answer": "Airflow limitation that is not fully reversible"
+    },
+    {
+        "question": "Why do the airways and air sacs in COPD lose their elastic quality?",
+        "options": ["They become stronger", "They get larger", "They lose their elastic quality", "They become more flexible"],
+        "answer": "They lose their elastic quality"
+    },
+    {
+        "question": "What happens to the walls of the airways in COPD?",
+        "options": ["They become thinner", "They become thicker and inflamed", "They disappear", "They become elastic"],
+        "answer": "They become thicker and inflamed"
+    },
+    {
+        "question": "What is the characteristic feature of Emphysema?",
+        "options": [
+            "Destruction of air sacs leads to oxygen retention",
+            "Destruction of air sacs leads to carbon dioxide retention",
+            "Destruction of air sacs leads to over-inflation of alveoli",
+            "Destruction of air sacs leads to under-inflation of alveoli"
+        ],
+        "answer": "Destruction of air sacs leads to over-inflation of alveoli"
+    },
+    {
+        "question": "How is Chronic Bronchitis defined?",
+        "options": [
+            "Presence of cough and sputum for at least 1 month",
+            "Presence of cough and sputum for at least 6 months",
+            "Presence of cough and sputum for at least 12 months",
+            "Presence of cough and sputum for at least 24 months"
+        ],
+        "answer": "Presence of cough and sputum for at least 6 months"
+    },
+    {
+        "question": "What causes less air flow in COPD due to the airways and air sacs losing their elastic quality?",
+        "options": {
+            "a": "Increased flexibility",
+            "b": "Decreased strength",
+            "c": "Increased mucus production",
+            "d": "Decreased size"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is a consequence of the walls between many air sacs being destroyed in COPD?",
+        "options": {
+            "a": "Increased air flow",
+            "b": "Reduced air flow",
+            "c": "Increased mucus production",
+            "d": "Thickening of airways"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What leads to central cyanosis and respiratory failure in Emphysema?",
+        "options": {
+            "a": "Destruction of air sacs",
+            "b": "Over-inflation of alveoli",
+            "c": "Peripheral edema",
+            "d": "Diuretic therapy"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "How is Chronic Bronchitis different from Emphysema?",
+        "options": {
+            "a": "Chronic Bronchitis affects the alveoli",
+            "b": "Emphysema leads to cough and sputum production",
+            "c": "Chronic Bronchitis is characterized by central cyanosis",
+            "d": "Emphysema is defined by cough and sputum production"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main cause of Chronic Bronchitis?",
+        "options": {
+            "a": "Smoke and environmental pollutants",
+            "b": "Genetic factors",
+            "c": "Lack of exercise",
+            "d": "Allergic reactions"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What happens to ciliary function in Chronic Bronchitis?",
+        "options": {
+            "a": "It increases",
+            "b": "It stays the same",
+            "c": "It is reduced",
+            "d": "It disappears"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What occurs when the bronchial walls become thickened in Chronic Bronchitis?",
+        "options": {
+            "a": "Increased air flow",
+            "b": "Decreased mucus production",
+            "c": "Narrowing of the bronchial lumen",
+            "d": "Strengthening of airways"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is a treatment for peripheral edema in Emphysema?",
+        "options": {
+            "a": "Antibiotics",
+            "b": "Diuretic therapy",
+            "c": "Steroids",
+            "d": "Antihistamines"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary symptom of Chronic Bronchitis?",
+        "options": {
+            "a": "Shortness of breath",
+            "b": "Wheezing",
+            "c": "Cough and sputum production",
+            "d": "Chest pain"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "How does Emphysema affect gas exchange in the lungs?",
+        "options": {
+            "a": "It improves gas exchange",
+            "b": "It impairs gas exchange",
+            "c": "It has no effect on gas exchange",
+            "d": "It reduces mucus production"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What leads to the destruction of the walls of the alveoli in Emphysema?",
+        "options": {
+            "a": "Over-inflation of alveoli",
+            "b": "Decreased air flow",
+            "c": "Thickening of air sacs",
+            "d": "Inflammation of airways"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the role of mucus in COPD?",
+        "options": {
+            "a": "Prevents airway obstruction",
+            "b": "Improves air flow",
+            "c": "Tends to clog the airways",
+            "d": "Reduces inflammation"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which term describes the abnormal distention of air spaces beyond the terminal bronchioles in Emphysema?",
+        "options": {
+            "a": "Asthma",
+            "b": "Cystic fibrosis",
+            "c": "Emphysema",
+            "d": "Pneumonia"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "How does smoke and environmental pollutants contribute to Chronic Bronchitis?",
+        "options": {
+            "a": "They reduce mucus production",
+            "b": "They lead to central cyanosis",
+            "c": "They irritate the airways",
+            "d": "They increase ciliary function"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the main difference between Emphysema and Chronic Bronchitis?",
+        "options": {
+            "a": "Emphysema affects the airways, while Chronic Bronchitis affects the alveoli",
+            "b": "Chronic Bronchitis is reversible, while Emphysema is irreversible",
+            "c": "Emphysema is characterized by cough and sputum production, while Chronic Bronchitis is not",
+            "d": "Chronic Bronchitis is caused by genetic factors, while Emphysema is caused by smoking"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are the three primary symptoms characterizing COPD?",
+        "options": {
+            "a": "Shortness of breath, chest pain, fever",
+            "b": "Chronic cough, sputum production, dyspnea on exertion",
+            "c": "Headache, nausea, abdominal pain",
+            "d": "Muscle weakness, joint pain, fatigue"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which symptoms of COPD often precede the development of airflow limitation?",
+        "options": {
+            "a": "Shortness of breath",
+            "b": "Chronic cough and sputum production",
+            "c": "Chest tightness",
+            "d": "Wheezing"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What physical configuration does chronic hyperinflation lead to in patients with a primary emphysematous component of COPD?",
+        "options": {
+            "a": "Sunken chest",
+            "b": "Barrel chest",
+            "c": "Rounded shoulders",
+            "d": "Narrow waist"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What occurs during inspiration in COPD patients that leads to the shoulders heaving upward?",
+        "options": {
+            "a": "Diaphragmatic contraction",
+            "b": "Supraclavicular fossae retraction",
+            "c": "Rib cage expansion",
+            "d": "Accessory muscle relaxation"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Why is weight loss common in COPD patients?",
+        "options": {
+            "a": "Decreased appetite",
+            "b": "Increased metabolism",
+            "c": "Dyspnea interfering with eating and energy-depleting work of breathing",
+            "d": "Excessive sweating"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the purpose of recruiting accessory muscles in COPD patients?",
+        "options": {
+            "a": "To improve posture",
+            "b": "To aid in digestion",
+            "c": "To facilitate breathing",
+            "d": "To increase muscle mass"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which diagnostic test provides information on the airflow limitation in COPD?",
+        "options": {
+            "a": "Chest x-ray",
+            "b": "CT scan",
+            "c": "Pulmonary function test (spirometry)",
+            "d": "Arterial blood gases test"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the purpose of a sample of sputum in diagnosing COPD?",
+        "options": {
+            "a": "To check for allergies",
+            "b": "To assess lung function",
+            "c": "To detect the presence of bacteria or infection",
+            "d": "To measure oxygen saturation"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which diagnostic test measures the amount of oxygen and carbon dioxide in the blood?",
+        "options": {
+            "a": "Chest x-ray",
+            "b": "CT scan",
+            "c": "Pulmonary function test (spirometry)",
+            "d": "Arterial blood gases test"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is the primary function of a pulse oximeter in COPD diagnosis?",
+        "options": {
+            "a": "Measure lung capacity",
+            "b": "Monitor heart rate",
+            "c": "Monitor oxygen saturation in the blood",
+            "d": "Assess blood pressure"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What major complications may arise in COPD patients leading to life-threatening situations?",
+        "options": {
+            "a": "Asthma attacks",
+            "b": "Respiratory insufficiency and failure",
+            "c": "Allergic reactions",
+            "d": "Heart palpitations"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which condition is NOT a complication of COPD?",
+        "options": {
+            "a": "Pneumonia",
+            "b": "Atelectasis",
+            "c": "Pneumothorax",
+            "d": "Myocardial infarction"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is the term for the condition where the lung partially or completely collapses?",
+        "options": {
+            "a": "Pneumonia",
+            "b": "Pneumothorax",
+            "c": "Atelectasis",
+            "d": "Pulmonary embolism"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the medical term for right-sided heart failure that results from pulmonary hypertension?",
+        "options": {
+            "a": "Congestive heart failure",
+            "b": "Atrial fibrillation",
+            "c": "Cor pulmonale",
+            "d": "Ventricular septal defect"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What preventive measure is recommended to avoid irritation and infection of the airways in COPD patients?",
+        "options": {
+            "a": "Avoiding fruits and vegetables",
+            "b": "Avoiding water consumption",
+            "c": "Avoiding exposure to cigarette smoke and dust",
+            "d": "Avoiding physical activity"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "When should COPD patients stay indoors according to preventive measures?",
+        "options": {
+            "a": "When the sun is shining",
+            "b": "When the temperature is low",
+            "c": "When the pollen count is high",
+            "d": "When humidity is low"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "How can air conditioning help COPD patients in managing their condition?",
+        "options": {
+            "a": "Increase exposure to pollutants",
+            "b": "Control temperature and decrease pollutants",
+            "c": "Increase humidity levels",
+            "d": "Improve lung function"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What should COPD patients do during cold and flu season to prevent respiratory tract infections?",
+        "options": {
+            "a": "Avoid crowded areas",
+            "b": "Increase physical activity",
+            "c": "Consume cold beverages",
+            "d": "Stay outdoors"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which immunizations are recommended for COPD patients?",
+        "options": {
+            "a": "Chickenpox and measles",
+            "b": "Influenza and tetanus",
+            "c": "Polio and hepatitis",
+            "d": "Mumps and rubella"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What should COPD patients avoid to reduce the risk of respiratory tract infections?",
+        "options": {
+            "a": "Enclosed, crowded areas during cold and flu season",
+            "b": "Regular exercise",
+            "c": "Fresh air and sunlight",
+            "d": "Healthy foods"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the most effective intervention to reduce the risk of developing COPD and slow its progression?",
+        "options": {
+            "a": "Vaccination",
+            "b": "Oxygen therapy",
+            "c": "Smoking cessation",
+            "d": "Antibiotic treatment"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is a key aspect of smoking prevention in COPD management?",
+        "options": {
+            "a": "Increasing cigarette consumption",
+            "b": "Avoiding occupational exposures",
+            "c": "Using bronchodilators",
+            "d": "Smoking with oxygen"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "How can occupational exposures be managed to reduce the risk of COPD?",
+        "options": {
+            "a": "Increasing exposure levels",
+            "b": "Wearing protective equipment",
+            "c": "Avoiding ventilation systems",
+            "d": "Smoking during exposure"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the purpose of portable oxygen systems in COPD management?",
+        "options": {
+            "a": "Improve lung function",
+            "b": "Aid in digestion",
+            "c": "Allow patients to exercise, work, and travel",
+            "d": "Prevent coughing"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Why is it extremely dangerous to smoke with or near oxygen therapy?",
+        "options": {
+            "a": "It enhances the effects of oxygen therapy",
+            "b": "It reduces the risk of lung infections",
+            "c": "It can cause fires and explosions",
+            "d": "It improves lung capacity"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "How can the proper flow rate and duration of oxygen therapy be determined for a patient?",
+        "options": {
+            "a": "By increasing the flow rate gradually",
+            "b": "By patient's choice",
+            "c": "By arbitrary changes",
+            "d": "By healthcare provider's recommendation"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is the purpose of regular evaluations of blood oxygenation in COPD patients?",
+        "options": {
+            "a": "To monitor blood sugar levels",
+            "b": "To assess lung capacity",
+            "c": "To check for allergies",
+            "d": "To ensure oxygen therapy effectiveness"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Which type of medication is commonly used in COPD management to help relax the muscles around the airways?",
+        "options": {
+            "a": "Antibiotics",
+            "b": "Bronchodilators",
+            "c": "Glucocorticosteroids",
+            "d": "Vaccines"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the role of mucolytic medications in COPD treatment?",
+        "options": {
+            "a": "Reduce inflammation",
+            "b": "Dilate blood vessels",
+            "c": "Break down mucus",
+            "d": "Suppress coughing"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which type of medication is used to suppress coughing in COPD patients?",
+        "options": {
+            "a": "Antibiotics",
+            "b": "Antitussives",
+            "c": "Respiratory stimulants",
+            "d": "Vaccines"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is a bullectomy in the context of COPD surgical management?",
+        "options": {
+            "a": "Removal of lung tissues",
+            "b": "Excision of enlarged airspaces",
+            "c": "Transplantation of healthy lungs",
+            "d": "Repair of bronchial walls"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "When is a bullectomy considered as a surgical option for COPD patients?",
+        "options": {
+            "a": "Stage I COPD",
+            "b": "End-stage COPD with primary emphysematous component",
+            "c": "Stage III COPD",
+            "d": "Stage IV COPD"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the purpose of lung volume reduction surgery in COPD management?",
+        "options": {
+            "a": "Increase mucus production",
+            "b": "Improve lung function",
+            "c": "Remove lung tissues",
+            "d": "Prevent bronchoconstriction"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "In which stage of COPD is lung transplantation considered a viable alternative for surgical treatment?",
+        "options": {
+            "a": "Stage I",
+            "b": "Stage II",
+            "c": "Stage III",
+            "d": "Stage IV"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What aspects of the patient's history are important during the assessment phase of the nursing process for COPD?",
+        "options": {
+            "a": "Exercise pattern and diet",
+            "b": "Work history and environmental factors",
+            "c": "Social media usage",
+            "d": "Educational background"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What should nurses assess regarding the onset and development of symptoms in COPD patients?",
+        "options": [
+            "Sleeping positions",
+            "Eating habits",
+            "Medication history",
+            "Travel history"
+        ],
+        "answer": "Medication history"
+    },
+    {
+        "question": "Which physical examination finding is indicative of heavy smoking in COPD patients?",
+        "options": [
+            "Clubbing of fingers",
+            "Distended neck veins on inspiration",
+            "Presence of barrel chest",
+            "Abdominal breathing"
+        ],
+        "answer": "Clubbing of fingers"
+    },
+    {
+        "question": "What nursing intervention is important for patients with impaired gas exchange in COPD?",
+        "options": [
+            "Promoting smoking",
+            "Improving gas exchange",
+            "Achieving airway clearance",
+            "Enhancing self-care strategies"
+        ],
+        "answer": "Improving gas exchange"
+    },
+    {
+        "question": "Which nursing diagnosis may be related to bronchoconstriction and increased mucus production in COPD patients?",
+        "options": [
+            "Impaired gas exchange",
+            "Ineffective airway clearance",
+            "Ineffective breathing pattern",
+            "Activity intolerance"
+        ],
+        "answer": "Ineffective airway clearance"
+    },
+    {
+        "question": "What is a common nursing diagnosis for COPD patients due to shortness of breath and airway irritants?",
+        "options": [
+            "Activity intolerance",
+            "Deficient knowledge",
+            "Ineffective breathing pattern",
+            "High risk for altered health maintenance"
+        ],
+        "answer": "Ineffective breathing pattern"
+    },
+    {
+        "question": "How can nurses help improve activity tolerance in COPD patients?",
+        "options": [
+            "Encouraging bed rest",
+            "Limiting physical activities",
+            "Enhancing self-care strategies",
+            "Monitoring potential complications"
+        ],
+        "answer": "Enhancing self-care strategies"
+    },
+    {
+        "question": "What is a key nursing intervention to enhance self-care strategies in COPD patients?",
+        "options": [
+            "Setting unrealistic goals",
+            "Avoiding lifestyle modifications",
+            "Educating on temperature extremes",
+            "Encouraging healthy habits"
+        ],
+        "answer": "Encouraging healthy habits"
+    },
+    {
+        "question": "Which nursing intervention focuses on monitoring and managing potential complications in COPD patients?",
+        "options": [
+            "Promoting smoking cessation",
+            "Improving gas exchange",
+            "Enhancing self-care strategies",
+            "Monitoring potential complications"
+        ],
+        "answer": "Monitoring potential complications"
+    },
+    {
+        "question": "What is the purpose of reviewing the results of diagnostic procedures like arterial blood gases and pulmonary function tests in COPD patients?",
+        "options": [
+            "To assess medication effectiveness",
+            "To monitor disease progression",
+            "To evaluate lung function",
+            "To identify potential complications"
+        ],
+        "answer": "To identify potential complications"
+    },
+    {
+        "question": "Which surgical intervention involves the excision of enlarged airspaces that do not contribute to ventilation in COPD patients?",
+        "options": [
+            "Lung volume reduction surgery",
+            "Lung transplantation",
+            "Bronchodilator therapy",
+            "Bullectomy"
+        ],
+        "answer": "Bullectomy"
+    },
+    {
+        "question": "What is the primary goal of lung transplantation in COPD management?",
+        "options": [
+            "Preventing bronchoconstriction",
+            "Improving quality of life",
+            "Enhancing cough reflex",
+            "Reducing mucus production"
+        ],
+        "answer": "Improving quality of life"
+    },
+    {
+        "question": "How does lung volume reduction surgery benefit COPD patients?",
+        "options": [
+            "Increases mucus production",
+            "Improves lung function",
+            "Reduces oxygen saturation",
+            "Induces bronchoconstriction"
+        ],
+        "answer": "Improves lung function"
+    },
+    {
+        "question": "What is the significance of assessing the patient's environment in the nursing process for COPD?",
+        "options": [
+            "To determine social status",
+            "To evaluate financial status",
+            "To identify potential triggers or irritants",
+            "To assess educational background"
+        ],
+        "answer": "To identify potential triggers or irritants"
+    },
+    {
+        "question": "Why is it essential for nurses to observe for clubbing in COPD patients during physical examinations?",
+        "options": [
+            "To monitor heart rate",
+            "To assess lung capacity",
+            "To detect changes in finger appearance",
+            "To evaluate oxygen saturation"
+        ],
+        "answer": "To detect changes in finger appearance"
+    },
+    {
+        "question": "What is a common symptom observed in COPD patients due to bronchial inflammation and mucus production?",
+        "options": [
+            "Wheezing",
+            "Coughing",
+            "Sneezing",
+            "Yawning"
+        ],
+        "answer": "Coughing"
+    },
+    {
+        "question": "How can nurses help improve breathing patterns in COPD patients?",
+        "options": [
+            "Encouraging shallow breathing",
+            "Providing oxygen therapy at high rates",
+            "Facilitating pursed lips breathing",
+            "Discouraging physical activities"
+        ],
+        "answer": "Facilitating pursed lips breathing"
+    },
+    {
+        "question": "Which nursing diagnosis is related to fatigue, ineffective breathing patterns, and hypoxemia in COPD patients?",
+        "options": [
+            "Ineffective airway clearance",
+            "Activity intolerance",
+            "Impaired gas exchange",
+            "Deficient knowledge"
+        ],
+        "answer": "Activity intolerance"
+    },
+    {
+        "question": "What is the role of antibiotics in the pharmacologic therapy of COPD patients?",
+        "options": [
+            "Relaxing the airway muscles",
+            "Breaking down mucus",
+            "Treating bacterial infections",
+            "Improving lung function"
+        ],
+        "answer": "Treating bacterial infections"
+    },
+    {
+        "question": "Which medication type is used to suppress coughing in COPD patients?",
+        "options": [
+            "Bronchodilators",
+            "Glucocorticosteroids",
+            "Antitussives",
+            "Vaccines"
+        ],
+        "answer": "Antitussives"
+    },
+    {
+        "question": "What is the approximate weight of the human heart?",
+        "options": ["100 g", "200 g", "300 g", "400 g"],
+        "answer": "300 g"
+    },
+    {
+        "question": "Where is the heart located in the human body?",
+        "options": [
+            "In the upper chest",
+            "In the lower abdomen",
+            "In the center of the thorax",
+            "In the left side of the chest"
+        ],
+        "answer": "In the center of the thorax"
+    },
+    {
+        "question": "Which layer of the heart is responsible for its pumping action?",
+        "options": ["Endocardium", "Myocardium", "Epicardium", "Pericardium"],
+        "answer": "Myocardium"
+    },
+    {
+        "question": "What is the name of the fibrous sac that encases the heart?",
+        "options": ["Endocardium", "Myocardium", "Epicardium", "Pericardium"],
+        "answer": "Pericardium"
+    },
+    {
+        "question": "How much fluid is normally found in the pericardial space?",
+        "options": ["About 5 mL", "About 10 mL", "About 20 mL", "About 50 mL"],
+        "answer": "About 20 mL"
+    },
+    {
+        "question": "Which of the following is NOT a layer of the heart?",
+        "options": ["Endocardium", "Myocardium", "Epicardium", "Mesocardium"],
+        "answer": "Mesocardium"
+    },
+    {
+        "question": "Where do the coronary arteries originate?",
+        "options": [
+            "From the pulmonary artery",
+            "From the aorta",
+            "From the superior vena cava",
+            "From the left ventricle"
+        ],
+        "answer": "From the aorta"
+    },
+    {
+        "question": "When are the coronary arteries primarily perfused?",
+        "options": [
+            "During systole",
+            "During diastole",
+            "Continuously throughout the cardiac cycle",
+            "Only during exercise"
+        ],
+        "answer": "During diastole"
+    },
+    {
+        "question": "What is the normal resting heart rate range for adults?",
+        "options": [
+            "40 to 60 beats per minute",
+            "60 to 80 beats per minute",
+            "80 to 100 beats per minute",
+            "100 to 120 beats per minute"
+        ],
+        "answer": "60 to 80 beats per minute"
+    },
+    {
+        "question": "What is the medical term for an abnormally fast heart rate?",
+        "options": ["Bradycardia", "Tachycardia", "Arrhythmia", "Fibrillation"],
+        "answer": "Tachycardia"
+    },
+    {
+        "question": "What is the most common cause of cardiovascular disease?",
+        "options": ["Hypertension", "Diabetes", "Atherosclerosis", "Obesity"],
+        "answer": "Atherosclerosis"
+    },
+    {
+        "question": "What substances accumulate in the arterial walls during atherosclerosis?",
+        "options": [
+            "Calcium and iron",
+            "Protein and carbohydrates",
+            "Lipids and fibrous tissue",
+            "Water and electrolytes"
+        ],
+        "answer": "Lipids and fibrous tissue"
+    },
+    {
+        "question": "Which of the following is NOT a nonmodifiable risk factor for coronary artery disease?",
+        "options": ["Family history", "Age", "Gender", "Smoking"],
+        "answer": "Smoking"
+    },
+    {
+        "question": "At what age do men typically have an increased risk of coronary artery disease?",
+        "options": [
+            "More than 35 years",
+            "More than 40 years",
+            "More than 45 years",
+            "More than 50 years"
+        ],
+        "answer": "More than 45 years"
+    },
+    {
+        "question": "Which racial group has a higher incidence of coronary artery disease?",
+        "options": [
+            "Caucasians",
+            "Hispanic Americans",
+            "Asian Americans",
+            "African Americans"
+        ],
+        "answer": "African Americans"
+    },
+    {
+        "question": "Which of the following is NOT a modifiable risk factor for coronary artery disease?",
+        "options": ["Hyperlipidemia", "Hypertension", "Physical inactivity", "Race"],
+        "answer": "Race"
+    },
+    {
+        "question": "What is the medical term for high blood cholesterol levels?",
+        "options": [
+            "Hyperglycemia",
+            "Hyperlipidemia",
+            "Hypertension",
+            "Hypercholesterolemia"
+        ],
+        "answer": "Hyperlipidemia"
+    },
+    {
+        "question": "Which layer of the heart is in direct contact with the blood in the heart chambers?",
+        "options": ["Epicardium", "Myocardium", "Endocardium", "Pericardium"],
+        "answer": "Endocardium"
+    },
+    {
+        "question": "What is the primary function of the pericardial fluid?",
+        "options": [
+            "To provide nutrients to the heart",
+            "To regulate heart rate",
+            "To lubricate the heart's surface and reduce friction",
+            "To remove waste products from the heart"
+        ],
+        "answer": "To lubricate the heart's surface and reduce friction"
+    },
+    {
+        "question": "What condition may occur when there is inadequate oxygen supply to the heart muscle?",
+        "options": [
+            "Myocardial infarction",
+            "Myocardial ischemia",
+            "Myocardial hypertrophy",
+            "Myocardial fibrosis"
+        ],
+        "answer": "Myocardial ischemia"
+    },
+    {
+        "question": "What is angina pectoris primarily characterized by?",
+        "options": ["Stomach pain", "Chest pain or pressure", "Headache", "Joint pain"],
+        "answer": "Chest pain or pressure"
+    },
+    {
+        "question": "Which of the following is NOT a factor associated with anginal pain?",
+        "options": ["Physical exertion", "Exposure to cold", "Eating a light snack", "Stress"],
+        "answer": "Eating a light snack"
+    },
+    {
+        "question": "How does eating a heavy meal potentially trigger angina?",
+        "options": [
+            "It increases heart rate",
+            "It causes direct damage to the heart",
+            "It reduces blood supply to the heart muscle",
+            "It increases blood pressure"
+        ],
+        "answer": "It reduces blood supply to the heart muscle"
+    },
+    {
+        "question": "What type of angina is characterized by pain at rest caused by coronary artery vasospasm?",
+        "options": ["Stable angina", "Unstable angina", "Silent ischemia", "Variant angina"],
+        "answer": "Variant angina"
+    },
+    {
+        "question": "Which type of angina shows objective evidence of ischemia but the patient reports no pain?",
+        "options": ["Intractable angina", "Stable angina", "Silent ischemia", "Unstable angina"],
+        "answer": "Silent ischemia"
+    },
+    {
+        "question": "In stable angina, what typically relieves the pain?",
+        "options": ["Exercise", "Eating", "Rest and/or nitroglycerin", "Cold exposure"],
+        "answer": "Rest and/or nitroglycerin"
+    },
+    {
+        "question": "Where might angina pain radiate to?",
+        "options": ["Legs", "Stomach", "Neck and jaw", "Feet"],
+        "answer": "Neck and jaw"
+    },
+    {
+        "question": "Which of the following is NOT a common clinical manifestation of angina?",
+        "options": ["Shortness of breath", "Nausea", "Fever", "Dizziness"],
+        "answer": "Fever"
+    },
+    {
+        "question": "What is the primary purpose of nitroglycerin in treating angina?",
+        "options": [
+            "To increase heart rate",
+            "To reduce myocardial oxygen consumption",
+            "To increase blood pressure",
+            "To thin the blood"
+        ],
+        "answer": "To reduce myocardial oxygen consumption"
+    },
+    {
+        "question": "How do beta-adrenergic blocking agents help in managing angina?",
+        "options": [
+            "By increasing heart rate",
+            "By dilating blood vessels",
+            "By reducing myocardial oxygen consumption",
+            "By increasing blood pressure"
+        ],
+        "answer": "By reducing myocardial oxygen consumption"
+    },
+    {
+        "question": "What is the main effect of calcium channel blocking agents in angina treatment?",
+        "options": [
+            "They increase heart rate",
+            "They decrease heart rate",
+            "They increase blood pressure",
+            "They increase oxygen demand"
+        ],
+        "answer": "They decrease heart rate"
+    },
+    {
+        "question": "Why are antiplatelet and anticoagulant medications used in angina management?",
+        "options": [
+            "To increase heart rate",
+            "To decrease pain",
+            "To prevent platelet aggregation and thrombosis",
+            "To increase oxygen supply to the heart"
+        ],
+        "answer": "To prevent platelet aggregation and thrombosis"
+    },
+    {
+        "question": "What is the primary reason for administering oxygen during an angina attack?",
+        "options": [
+            "To decrease heart rate",
+            "To increase oxygen delivery to the myocardium",
+            "To reduce blood pressure",
+            "To thin the blood"
+        ],
+        "answer": "To increase oxygen delivery to the myocardium"
+    },
+    {
+        "question": "Which of the following is NOT a responsibility of the nurse when administering oxygen to an angina patient?",
+        "options": [
+            "Observing respiratory rate",
+            "Monitoring blood oxygen saturation",
+            "Adjusting room temperature",
+            "Observing respiratory rhythm"
+        ],
+        "answer": "Adjusting room temperature"
+    },
+    {
+        "question": "What does \"unstable angina\" indicate?",
+        "options": [
+            "Symptoms are decreasing in frequency",
+            "Symptoms are consistent and predictable",
+            "Symptoms are increasing in frequency and severity",
+            "Symptoms only occur during rest"
+        ],
+        "answer": "Symptoms are increasing in frequency and severity"
+    },
+    {
+        "question": "Which type of angina is described as severe and incapacitating chest pain?",
+        "options": ["Stable angina", "Variant angina", "Intractable angina", "Silent ischemia"],
+        "answer": "Intractable angina"
+    },
+    {
+        "question": "How does exposure to cold potentially trigger angina?",
+        "options": [
+            "By causing vasodilation",
+            "By lowering blood pressure",
+            "By causing vasoconstriction and elevating blood pressure",
+            "By decreasing oxygen demand"
+        ],
+        "answer": "By causing vasoconstriction and elevating blood pressure"
+    },
+    {
+        "question": "What effect do catecholamines have during emotional stress that can trigger angina?",
+        "options": [
+            "They decrease heart rate",
+            "They lower blood pressure",
+            "They decrease myocardial workload",
+            "They increase heart rate and blood pressure"
+        ],
+        "answer": "They increase heart rate and blood pressure"
+    },
+    {
+        "question": "Which of the following is a common description of angina pain?",
+        "options": [
+            "Sharp and localized",
+            "Dull and widespread",
+            "Burning and itchy",
+            "Throbbing and pulsating"
+        ],
+        "answer": "Dull and widespread"
+    },
+    {
+        "question": "What is the primary difference between stable and unstable angina?",
+        "options": [
+            "Stable angina only occurs at night",
+            "Unstable angina is relieved by rest",
+            "Stable angina is predictable and consistent",
+            "Unstable angina decreases in severity over time"
+        ],
+        "answer": "Stable angina is predictable and consistent"
+    },
+    {
+        "question": "What is angina pectoris primarily characterized by?",
+        "options": ["Stomach pain", "Chest pain or pressure", "Headache", "Joint pain"],
+        "answer": "Chest pain or pressure"
+    },
+    {
+        "question": "Which of the following is NOT a factor associated with anginal pain?",
+        "options": ["Physical exertion", "Exposure to cold", "Eating a light snack", "Stress"],
+        "answer": "Eating a light snack"
+    },
+    {
+        "question": "How does eating a heavy meal potentially trigger angina?",
+        "options": [
+            "It increases heart rate",
+            "It causes direct damage to the heart",
+            "It reduces blood supply to the heart muscle",
+            "It increases blood pressure"
+        ],
+        "answer": "It reduces blood supply to the heart muscle"
+    },
+    {
+        "question": "What type of angina is characterized by pain at rest caused by coronary artery vasospasm?",
+        "options": ["Stable angina", "Unstable angina", "Silent ischemia", "Variant angina"],
+        "answer": "Variant angina"
+    },
+    {
+        "question": "Which type of angina shows objective evidence of ischemia but the patient reports no pain?",
+        "options": ["Intractable angina", "Stable angina", "Silent ischemia", "Unstable angina"],
+        "answer": "Silent ischemia"
+    },
+    {
+        "question": "In stable angina, what typically relieves the pain?",
+        "options": ["Exercise", "Eating", "Rest and/or nitroglycerin", "Cold exposure"],
+        "answer": "Rest and/or nitroglycerin"
+    },
+    {
+        "question": "Where might angina pain radiate to?",
+        "options": ["Legs", "Stomach", "Neck and jaw", "Feet"],
+        "answer": "Neck and jaw"
+    },
+    {
+        "question": "Which of the following is NOT a common clinical manifestation of angina?",
+        "options": ["Shortness of breath", "Nausea", "Fever", "Dizziness"],
+        "answer": "Fever"
+    },
+    {
+        "question": "What is the primary purpose of nitroglycerin in treating angina?",
+        "options": [
+            "To increase heart rate",
+            "To reduce myocardial oxygen consumption",
+            "To increase blood pressure",
+            "To thin the blood"
+        ],
+        "answer": "To reduce myocardial oxygen consumption"
+    },
+    {
+        "question": "How do beta-adrenergic blocking agents help in managing angina?",
+        "options": [
+            "By increasing heart rate",
+            "By dilating blood vessels",
+            "By reducing myocardial oxygen consumption",
+            "By increasing blood pressure"
+        ],
+        "answer": "By reducing myocardial oxygen consumption"
+    },
+    {
+        "question": "What is the main effect of calcium channel blocking agents in angina treatment?",
+        "options": [
+            "They increase heart rate",
+            "They decrease heart rate",
+            "They increase blood pressure",
+            "They increase oxygen demand"
+        ],
+        "answer": "They decrease heart rate"
+    },
+    {
+        "question": "Why are antiplatelet and anticoagulant medications used in angina management?",
+        "options": [
+            "To increase heart rate",
+            "To decrease pain",
+            "To prevent platelet aggregation and thrombosis",
+            "To increase oxygen supply to the heart"
+        ],
+        "answer": "To prevent platelet aggregation and thrombosis"
+    },
+    {
+        "question": "What is the primary reason for administering oxygen during an angina attack?",
+        "options": [
+            "To decrease heart rate",
+            "To increase oxygen delivery to the myocardium",
+            "To reduce blood pressure",
+            "To thin the blood"
+        ],
+        "answer": "To increase oxygen delivery to the myocardium"
+    },
+    {
+        "question": "Which of the following is NOT a responsibility of the nurse when administering oxygen to an angina patient?",
+        "options": [
+            "Observing respiratory rate",
+            "Monitoring blood oxygen saturation",
+            "Adjusting room temperature",
+            "Observing respiratory rhythm"
+        ],
+        "answer": "Adjusting room temperature"
+    },
+    {
+        "question": "What does 'unstable angina' indicate?",
+        "options": [
+            "Symptoms are decreasing in frequency",
+            "Symptoms are consistent and predictable",
+            "Symptoms are increasing in frequency and severity",
+            "Symptoms only occur during rest"
+        ],
+        "answer": "Symptoms are increasing in frequency and severity"
+    },
+    {
+        "question": "Which type of angina is described as severe and incapacitating chest pain?",
+        "options": ["Stable angina", "Variant angina", "Intractable angina", "Silent ischemia"],
+        "answer": "Intractable angina"
+    },
+    {
+        "question": "How does exposure to cold potentially trigger angina?",
+        "options": [
+            "By causing vasodilation",
+            "By lowering blood pressure",
+            "By causing vasoconstriction and elevating blood pressure",
+            "By decreasing oxygen demand"
+        ],
+        "answer": "By causing vasoconstriction and elevating blood pressure"
+    },
+    {
+        "question": "What effect do catecholamines have during emotional stress that can trigger angina?",
+        "options": [
+            "They decrease heart rate",
+            "They lower blood pressure",
+            "They decrease myocardial workload",
+            "They increase heart rate and blood pressure"
+        ],
+        "answer": "They increase heart rate and blood pressure"
+    },
+    {
+        "question": "Which of the following is a common description of angina pain?",
+        "options": [
+            "Sharp and localized",
+            "Dull and widespread",
+            "Burning and itchy",
+            "Throbbing and pulsating"
+        ],
+        "answer": "Dull and widespread"
+    },
+    {
+        "question": "What is the primary difference between stable and unstable angina?",
+        "options": [
+            "Stable angina only occurs at night",
+            "Unstable angina is relieved by rest",
+            "Stable angina is predictable and consistent",
+            "Unstable angina decreases in severity over time"
+        ],
+        "answer": "Stable angina is predictable and consistent"
+    },
+    {
+        "question": "What is the primary characteristic of Acute Coronary Syndrome (ACS)?",
+        "options": [
+            "a. Chronic chest pain",
+            "b. Sudden onset of myocardial ischemia",
+            "c. Slow heart rate",
+            "d. Improved blood flow to the heart"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is NOT a common clinical manifestation of ACS?",
+        "options": [
+            "a. Chest pain",
+            "b. Shortness of breath",
+            "c. Nausea",
+            "d. Fever"
+        ],
+        "answer": "d"
+    },
+    {
+        "question": "What is another term used for Acute Coronary Syndrome?",
+        "options": [
+            "a. Bronchitis",
+            "b. Pneumonia",
+            "c. Heart attack",
+            "d. Stroke"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "How does the skin typically appear during an ACS event?",
+        "options": [
+            "a. Hot, red, and dry",
+            "b. Cool, pale, and moist",
+            "c. Flushed and warm",
+            "d. Yellow and itchy"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is one of the primary methods used to diagnose a Myocardial Infarction (MI)?",
+        "options": [
+            "a. Blood pressure check",
+            "b. X-ray",
+            "c. 12-lead ECG",
+            "d. Ultrasound"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What medication is typically administered first in the early management of ACS?",
+        "options": [
+            "a. Ibuprofen",
+            "b. Aspirin",
+            "c. Acetaminophen",
+            "d. Penicillin"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "How is nitroglycerin usually administered in the initial stages of treatment?",
+        "options": [
+            "a. Orally",
+            "b. Intravenously",
+            "c. Sublingually",
+            "d. Intramuscularly"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What is the recommended initial dose of aspirin for ACS?",
+        "options": [
+            "a. 81 mg",
+            "b. 160 to 325 mg",
+            "c. 500 mg",
+            "d. 1000 mg"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "How long is the minimum recommended bed rest period for ACS patients?",
+        "options": [
+            "a. 6 to 12 hours",
+            "b. 12 to 24 hours",
+            "c. 2 to 3 days",
+            "d. 1 week"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is NOT a typical nursing diagnosis for a patient with ACS?",
+        "options": [
+            "a. Ineffective cardiac tissue perfusion",
+            "b. Risk for imbalanced fluid volume",
+            "c. Improved oxygenation",
+            "d. Anxiety related to cardiac event"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What type of medication is typically administered within the initial hours of an evolving infarction?",
+        "options": [
+            "a. Antibiotic",
+            "b. Beta blocker",
+            "c. Steroid",
+            "d. Antidepressant"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "How long is IV nitroglycerin usually continued in intensive care management?",
+        "options": [
+            "a. 6 to 12 hours",
+            "b. 12 to 24 hours",
+            "c. 24 to 48 hours",
+            "d. 3 to 5 days"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is a risk factor associated with ACS?",
+        "options": [
+            "a. Regular exercise",
+            "b. Balanced diet",
+            "c. Smoking",
+            "d. Low stress levels"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What does ACS stand for?",
+        "options": [
+            "a. Acute Cardiac Syndrome",
+            "b. Advanced Coronary System",
+            "c. Acute Coronary Syndrome",
+            "d. Automated Cardiac Support"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is NOT typically included in the systematic assessment of an ACS patient?",
+        "options": [
+            "a. Chest pain or discomfort",
+            "b. Dyspnea",
+            "c. Unusual fatigue",
+            "d. Bone density"
+        ],
+        "answer": "d"
+    },
+    {
+        "question": "Which of the following is NOT considered one of the four major modifiable risk factors for Coronary Artery Disease (CAD)?",
+        "options": [
+            "a. Cholesterol abnormalities",
+            "b. Tobacco use",
+            "c. Obesity",
+            "d. Diabetes mellitus"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What is the recommended triglyceride level to reduce the risk of CAD?",
+        "options": [
+            "a. Less than 100 mg/dL",
+            "b. Less than 150 mg/dL",
+            "c. Less than 200 mg/dL",
+            "d. Less than 250 mg/dL"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "The Therapeutic Lifestyle Changes (TLC) diet is characterized by:",
+        "options": [
+            "a. High in saturated fat and low in fiber",
+            "b. Low in saturated fat and high in soluble fiber",
+            "c. High in protein and low in carbohydrates",
+            "d. Low in fat and high in simple sugars"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is NOT a recommendation for physical activity in patients at risk for CAD?",
+        "options": [
+            "a. Start with short durations of activity",
+            "b. Monitor pulse rate during exercise",
+            "c. Continue activity even if chest pain occurs",
+            "d. Alternate activity with rest periods"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "Lipid-lowering medications are typically prescribed when:",
+        "options": [
+            "a. Diet alone can normalize serum cholesterol levels",
+            "b. The patient has no other risk factors for CAD",
+            "c. Diet alone cannot normalize serum cholesterol levels",
+            "d. The patient is already physically active"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What percentage of patients with diabetes have cardiovascular disease identified as the cause of death?",
+        "options": [
+            "a. 25% to 35%",
+            "b. 45% to 55%",
+            "c. 65% to 75%",
+            "d. 85% to 95%"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is a complication of acute myocardial infarction?",
+        "options": [
+            "a. Hyperthyroidism",
+            "b. Cardiogenic shock",
+            "c. Kidney stones",
+            "d. Osteoporosis"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary goal of controlling hypertension in relation to CAD?",
+        "options": [
+            "a. To increase vessel wall stiffness",
+            "b. To promote inflammatory response",
+            "c. To prevent vessel injury and inflammation",
+            "d. To increase blood pressure variability"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "How does hyperglycemia contribute to the development of heart disease in diabetic patients?",
+        "options": [
+            "a. By decreasing platelet aggregation",
+            "b. By improving red blood cell function",
+            "c. By reducing thrombus formation",
+            "d. By fostering increased platelet aggregation"
+        ],
+        "answer": "d"
+    },
+    {
+        "question": "Which of the following is NOT a component of pericardial effusion management?",
+        "options": [
+            "a. Monitoring for cardiac tamponade",
+            "b. Encouraging tobacco use",
+            "c. Administering prescribed medications",
+            "d. Regular cardiac function assessments"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary benefit of adopting a strict vegetarian diet in relation to CAD risk?",
+        "options": [
+            "a. Increased blood lipids",
+            "b. Elevated blood glucose",
+            "c. Reduced blood pressure and lipids",
+            "d. Higher body mass index"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is a sign that a patient should stop physical activity immediately?",
+        "options": [
+            "a. Mild muscle soreness",
+            "b. Increased heart rate",
+            "c. Unusual shortness of breath",
+            "d. Slight perspiration"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "How does long-standing elevated blood pressure contribute to CAD?",
+        "options": [
+            "a. By decreasing vessel wall stiffness",
+            "b. By increasing vessel wall stiffness",
+            "c. By reducing inflammatory response",
+            "d. By improving endothelial function"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary purpose of using metformin in diabetic patients at risk for CAD?",
+        "options": [
+            "a. To increase plasma glucose levels",
+            "b. To worsen endothelial function",
+            "c. To lower plasma glucose levels",
+            "d. To promote platelet aggregation"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is NOT a recommended approach for promoting cessation of tobacco use?",
+        "options": [
+            "a. Educational programs",
+            "b. Consistent motivation",
+            "c. Encouraging occasional use",
+            "d. Support groups"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What is the recommended timing for physical exercise in relation to meals for CAD prevention?",
+        "options": [
+            "a. Immediately before meals",
+            "b. Immediately after meals",
+            "c. At least 2 hours after meals",
+            "d. Only during fasting periods"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is a potential complication of acute myocardial infarction?",
+        "options": [
+            "a. Improved cardiac output",
+            "b. Reduced risk of dysrhythmias",
+            "c. Acute pulmonary edema",
+            "d. Enhanced coronary blood flow"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "How does regular, moderate physical activity benefit patients at risk for CAD?",
+        "options": [
+            "a. By increasing triglyceride levels",
+            "b. By reducing the incidence of coronary events",
+            "c. By elevating blood pressure",
+            "d. By promoting insulin resistance"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which medication is commonly used to lower plasma glucose levels in diabetic patients at risk for CAD?",
+        "options": [
+            "a. Aspirin",
+            "b. Warfarin",
+            "c. Insulin",
+            "d. Nitroglycerin"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What is the primary goal of the TLC diet in CAD prevention?",
+        "options": [
+            "a. To increase saturated fat intake",
+            "b. To reduce soluble fiber consumption",
+            "c. To promote weight gain",
+            "d. To reduce saturated fat intake and increase fiber consumption"
+        ],
+        "answer": "d"
+    },
+    {
+        "question": "What is the primary function of the kidneys in terms of waste removal?",
+        "options": [
+            "a. Regulation of blood pressure",
+            "b. Excretion of metabolic waste",
+            "c. Regulation of body temperature",
+            "d. Production of hormones"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following substances is NOT typically excreted by the kidneys?",
+        "options": [
+            "a. Urea",
+            "b. Creatinine",
+            "c. Glucose",
+            "d. Electrolytes"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What hormone produced by the kidneys regulates red blood cell production?",
+        "options": [
+            "a. Renin",
+            "b. Erythropoietin",
+            "c. Insulin",
+            "d. Aldosterone"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What condition is characterized by an abrupt decline in renal function?",
+        "options": [
+            "a. Chronic renal failure",
+            "b. Acute renal failure (ARF)",
+            "c. End-stage renal disease",
+            "d. Nephrotoxicity"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which type of renal failure implies that kidney function will not return?",
+        "options": [
+            "a. Reversible renal failure",
+            "b. Acute renal failure",
+            "c. Irreversible renal failure",
+            "d. Chronic renal failure"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What is a common cause of prerenal acute renal failure?",
+        "options": [
+            "a. Urinary tract obstruction",
+            "b. Nephrotoxic agents",
+            "c. Volume depletion",
+            "d. Infections"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is a characteristic of the oliguric phase?",
+        "options": [
+            "a. Increased urine output",
+            "b. Urinary output of less than 400 ml/day",
+            "c. Complete recovery of kidney function",
+            "d. No symptoms present"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What phase follows the oliguric phase in acute renal failure?",
+        "options": [
+            "a. Initiation phase",
+            "b. Recovery phase",
+            "c. Diuretic phase",
+            "d. Terminal phase"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is a subjective symptom of renal failure?",
+        "options": [
+            "a. Edema",
+            "b. Nausea",
+            "c. Hypertension",
+            "d. Decreased urine output"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is a key sign of the oliguric phase?",
+        "options": [
+            "a. Decreased potassium levels",
+            "b. Increased sodium levels",
+            "c. Vomiting",
+            "d. Increased urine output"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What is the role of renin secreted by the kidneys?",
+        "options": [
+            "a. Regulates calcium uptake",
+            "b. Regulates blood pressure",
+            "c. Promotes red blood cell production",
+            "d. Eliminates waste"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What condition can be caused by urinary tract obstruction?",
+        "options": [
+            "a. Prerenal failure",
+            "b. Intrarenal failure",
+            "c. Post-renal failure",
+            "d. Chronic kidney disease"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following factors increases the risk of acute renal failure?",
+        "options": [
+            "a. Low protein diet",
+            "b. Age 65 years or over",
+            "c. Regular exercise",
+            "d. High fluid intake"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary purpose of monitoring fluid and electrolyte balance in renal failure?",
+        "options": [
+            "a. To prevent kidney stones",
+            "b. To ensure proper hydration",
+            "c. To manage blood pressure",
+            "d. To prevent renal damage"
+        ],
+        "answer": "d"
+    },
+    {
+        "question": "Which diagnostic study is commonly used to assess kidney function?",
+        "options": [
+            "a. MRI",
+            "b. Renal ultrasound",
+            "c. CT scan",
+            "d. X-ray"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What dietary restriction is recommended for patients with renal failure?",
+        "options": [
+            "a. Increased protein intake",
+            "b. Restricted fluid intake",
+            "c. High-carbohydrate meals",
+            "d. Increased potassium intake"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What is a potential complication of using nephrotoxic drugs?",
+        "options": [
+            "a. Improved kidney function",
+            "b. Acute renal failure",
+            "c. Enhanced metabolism",
+            "d. Decreased heart rate"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What should be done to prevent infections in patients with indwelling catheters?",
+        "options": [
+            "a. Change catheters weekly",
+            "b. Use aseptic technique",
+            "c. Avoid catheter use",
+            "d. Limit fluid intake"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is the significance of anuria in a patient with renal failure?",
+        "options": [
+            "a. It indicates recovery",
+            "b. It is a normal finding",
+            "c. It requires renal replacement therapy",
+            "d. It shows improved kidney function"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following symptoms indicates a possible worsening of renal function?",
+        "options": [
+            "a. Increased appetite",
+            "b. Improved urine output",
+            "c. Hypertension",
+            "d. Weight loss"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What is the recommended action for a patient experiencing hypotension?",
+        "options": [
+            "a. Increase sodium intake",
+            "b. Treat promptly",
+            "c. Limit fluid consumption",
+            "d. Restrict movement"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary role of activated vitamin D in renal function?",
+        "options": [
+            "a. Promotes red blood cell production",
+            "b. Regulates calcium uptake",
+            "c. Eliminates waste",
+            "d. Maintains blood pressure"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which phase of acute renal failure is characterized by a gradual increase in urine output?",
+        "options": [
+            "a. Initiation phase",
+            "b. Oliguric phase",
+            "c. Diuretic phase",
+            "d. Recovery phase"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What type of renal failure is caused by nephrotoxic agents?",
+        "options": [
+            "a. Prerenal",
+            "b. Intrarenal",
+            "c. Post-renal",
+            "d. Chronic"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is a common risk factor for chronic kidney disease?",
+        "options": [
+            "a. High physical activity",
+            "b. Age under 30",
+            "c. History of diabetes",
+            "d. Low sodium intake"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What is the primary reason for providing adequate hydration to at-risk patients?",
+        "options": [
+            "a. To prevent kidney stones",
+            "b. To promote appetite",
+            "c. To prevent dehydration",
+            "d. To reduce weight"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What does the presence of uremic breath indicate?",
+        "options": [
+            "a. Improved renal function",
+            "b. Accumulation of waste products",
+            "c. Dehydration",
+            "d. Infection"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "During the recovery phase of acute renal failure, what happens to urine output?",
+        "options": [
+            "a. It decreases significantly",
+            "b. It remains unchanged",
+            "c. It begins to normalize",
+            "d. It becomes anuric"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What is a common sign of fluid overload in renal failure patients?",
+        "options": [
+            "a. Weight loss",
+            "b. Edema",
+            "c. Increased appetite",
+            "d. Hypotension"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What should be done when administering blood to a patient to prevent transfusion reactions?",
+        "options": [
+            "a. Administer quickly",
+            "b. Ensure correct patient identification",
+            "c. Use outdated blood",
+            "d. Limit monitoring"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which electrolyte imbalance is common in the oliguric phase?",
+        "options": [
+            "a. Hypernatremia",
+            "b. Hyperkalemia",
+            "c. Hypokalemia",
+            "d. Hyponatremia"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is the main function of the kidneys in regulating acid-base balance?",
+        "options": [
+            "a. Filtering blood",
+            "b. Excreting hydrogen ions",
+            "c. Producing erythropoietin",
+            "d. Regulating calcium"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following can lead to chronic kidney disease?",
+        "options": [
+            "a. One-time use of nephrotoxic drugs",
+            "b. Long-term diabetes management",
+            "c. Continued exposure to nephrotoxic agents",
+            "d. Regular hydration"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What is the significance of a gradual decline in BUN and creatinine levels?",
+        "options": [
+            "a. It indicates worsening kidney function",
+            "b. It shows kidney recovery",
+            "c. It is an irrelevant finding",
+            "d. It requires immediate intervention"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What should be monitored to assess the effectiveness of renal therapy?",
+        "options": [
+            "a. Weight only",
+            "b. Urinalysis only",
+            "c. Blood pressure only",
+            "d. Vital signs and laboratory values"
+        ],
+        "answer": "d"
+    },
+    {
+        "question": "What is an important nursing intervention for a patient with acute renal failure?",
+        "options": [
+            "a. Encourage high protein intake",
+            "b. Maintain strict I&O records",
+            "c. Limit fluid intake",
+            "d. Increase physical activity"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is the effect of acute glomerulonephritis on kidney function?",
+        "options": [
+            "a. It increases urine output",
+            "b. It causes nephrotoxicity",
+            "c. It leads to inflammation",
+            "d. It improves filtration"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is a non-invasive diagnostic test for kidney function?",
+        "options": [
+            "a. Renal biopsy",
+            "b. Chest X-ray",
+            "c. Renal ultrasound",
+            "d. CT scan"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What is the expected outcome of nutritional therapy for renal failure?",
+        "options": [
+            "a. Increased potassium intake",
+            "b. Reduced metabolic waste",
+            "c. Improved fluid retention",
+            "d. Decreased protein intake"
+        ],
+        "answer": "d"
+    },
+    {
+        "question": "What is a common cause of post-renal acute renal failure?",
+        "options": [
+            "a. Dehydration",
+            "b. Urinary tract obstruction",
+            "c. Nephrotoxic drugs",
+            "d. Chronic disease"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which symptom is associated with hypokalemia in renal failure?",
+        "options": [
+            "a. Muscle cramps",
+            "b. Edema",
+            "c. Hypertension",
+            "d. Increased appetite"
+        ],
+        "answer": "a"
+    },
+    {
+        "question": "What is the purpose of monitoring daily weights in renal failure patients?",
+        "options": [
+            "a. To assess protein intake",
+            "b. To evaluate fluid status",
+            "c. To measure kidney size",
+            "d. To determine electrolyte balance"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is the role of bed rest during the management of acute renal failure?",
+        "options": [
+            "a. To increase appetite",
+            "b. To reduce metabolic rate",
+            "c. To encourage activity",
+            "d. To improve kidney filtration"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is a common finding in patients experiencing uremia?",
+        "options": [
+            "a. Clear urine",
+            "b. Decreased appetite",
+            "c. Weight gain",
+            "d. Improved energy levels"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which condition may require renal replacement therapy?",
+        "options": [
+            "a. Reversible renal failure",
+            "b. Chronic renal failure",
+            "c. Diuretic phase",
+            "d. Recovery phase"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "How can infections be prevented in patients with renal failure?",
+        "options": [
+            "a. Using aseptic technique",
+            "b. Avoiding medications",
+            "c. Increasing fluid intake",
+            "d. Limiting physical activity"
+        ],
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary concern when using iodinated contrast agents in renal failure patients?",
+        "options": [
+            "a. Improved imaging",
+            "b. Risk of nephrotoxicity",
+            "c. Enhanced blood flow",
+            "d. Increased hydration"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What should be done if a patient with renal failure shows signs of acidosis?",
+        "options": [
+            "a. Increase protein intake",
+            "b. Administer bicarbonate",
+            "c. Limit hydration",
+            "d. Encourage exercise"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is a long-term consequence of untreated acute renal failure?",
+        "options": [
+            "a. Complete recovery",
+            "b. Chronic kidney disease",
+            "c. Improved kidney function",
+            "d. No symptoms"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is the main goal of treatment in patients with acute renal failure?",
+        "options": [
+            "a. To increase protein intake",
+            "b. To prevent further kidney damage",
+            "c. To enhance exercise capacity",
+            "d. To improve skin integrity"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary characteristic of chronic renal failure?",
+        "options": [
+            "a. Reversible deterioration of renal function",
+            "b. Progressive, irreversible deterioration of renal function",
+            "c. Sudden onset of kidney failure",
+            "d. Normal renal function"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which systemic disease is a common cause of chronic renal failure?",
+        "options": [
+            "a. Asthma",
+            "b. Diabetes mellitus",
+            "c. Osteoporosis",
+            "d. Hypothyroidism"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What laboratory value is a better indicator of kidney function?",
+        "options": [
+            "a. BUN",
+            "b. Serum creatinine",
+            "c. Blood glucose",
+            "d. Hemoglobin"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is uremia?",
+        "options": [
+            "a. A condition of normal kidney function",
+            "b. Retention of urea and other nitrogenous wastes in the blood",
+            "c. A type of kidney infection",
+            "d. A dietary deficiency"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following symptoms is associated with the neurologic effects of chronic renal failure?",
+        "options": [
+            "a. Shortness of breath",
+            "b. Confusion and disorientation",
+            "c. Chest pain",
+            "d. Jaundice"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is a common integumentary manifestation of chronic renal failure?",
+        "options": [
+            "a. Red, inflamed skin",
+            "b. Gray-bronze skin color",
+            "c. Excessive sweating",
+            "d. Skin rashes"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which cardiovascular symptom is commonly observed in chronic renal failure?",
+        "options": [
+            "a. Hypotension",
+            "b. Hypertension",
+            "c. Bradycardia",
+            "d. Peripheral artery disease"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is the term for the ammonia odor to breath associated with chronic renal failure?",
+        "options": [
+            "a. Halitosis",
+            "b. Uremic fetor",
+            "c. Diabetic breath",
+            "d. Metallic breath"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What dietary restriction is important for patients with chronic renal failure?",
+        "options": [
+            "a. Increased protein intake",
+            "b. Increased sodium intake",
+            "c. Restriction of potassium",
+            "d. Decreased fluid intake only"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What can cause hyperkalemia in patients with chronic renal failure?",
+        "options": [
+            "a. Increased potassium intake",
+            "b. Decreased excretion of potassium",
+            "c. Excessive sweating",
+            "d. Increased physical activity"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is a common hematologic finding in chronic renal failure?",
+        "options": [
+            "a. Leukocytosis",
+            "b. Anemia",
+            "c. Thrombocytosis",
+            "d. Polycythemia"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is a sign of fluid imbalance in chronic renal failure patients?",
+        "options": [
+            "a. Increased urine output",
+            "b. Pitting edema",
+            "c. Decreased heart rate",
+            "d. Normal blood pressure"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which medication is commonly administered to manage hypertension in chronic renal failure?",
+        "options": [
+            "a. Antipyretics",
+            "b. Antihypertensives",
+            "c. Antibiotics",
+            "d. Antidepressants"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is the recommended action when administering phosphorus-binding antacids?",
+        "options": [
+            "a. Take on an empty stomach",
+            "b. Take with food",
+            "c. Avoid taking with fluids",
+            "d. Take before bed"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which lab value indicates a need for dialysis when it reaches 70 mg/dL?",
+        "options": [
+            "a. Serum creatinine",
+            "b. BUN",
+            "c. Potassium",
+            "d. Calcium"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is a common gastrointestinal symptom of chronic renal failure?",
+        "options": [
+            "a. Diarrhea",
+            "b. Metallic taste",
+            "c. Constipation only",
+            "d. Increased appetite"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is a potential complication of chronic renal failure related to bone health?",
+        "options": [
+            "a. Osteoporosis",
+            "b. Bone fractures",
+            "c. Osteoarthritis",
+            "d. Osteomyelitis"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which vitamin supplementation is often recommended for patients with chronic renal failure?",
+        "options": [
+            "a. Vitamin A",
+            "b. Vitamin C",
+            "c. Vitamin D",
+            "d. Vitamin K"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What is the role of erythropoietin in chronic renal failure patients?",
+        "options": [
+            "a. Increase blood pressure",
+            "b. Stimulate red blood cell production",
+            "c. Decrease potassium levels",
+            "d. Regulate blood sugar"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which dietary protein is recommended for patients with chronic renal failure?",
+        "options": [
+            "a. High-biologic-value proteins",
+            "b. Processed meats",
+            "c. High-fat dairy",
+            "d. Non-complete proteins"
+        ],
+        "answer": "a"
+    },
+    {
+        "question": "How does chronic renal failure affect the respiratory system?",
+        "options": [
+            "a. Increased lung capacity",
+            "b. Depressed cough reflex and shortness of breath",
+            "c. Decreased respiratory rate",
+            "d. Normal respiratory function"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is the fluid allowance for chronic renal failure patients?",
+        "options": [
+            "a. Equal to the previous day's output",
+            "b. 500-600 mL more than the previous day’s output",
+            "c. 1 liter more than the previous day’s output",
+            "d. No fluid intake"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is an expected renal function test result in chronic renal failure?",
+        "options": [
+            "a. Elevated RBC count",
+            "b. Normal serum electrolytes",
+            "c. Elevated BUN and creatinine levels",
+            "d. Decreased liver enzymes"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What is a common musculoskeletal symptom in chronic renal failure?",
+        "options": [
+            "a. Increased muscle strength",
+            "b. Muscle cramps and bone pain",
+            "c. Normal muscle function",
+            "d. Increased joint flexibility"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What contributes to the development of pericarditis in chronic renal failure patients?",
+        "options": [
+            "a. High blood sugar levels",
+            "b. Retention of uremic waste products",
+            "c. Decreased blood pressure",
+            "d. Normal fluid balance"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is a common skin manifestation in chronic renal failure?",
+        "options": [
+            "a. Yellow discoloration",
+            "b. Ecchymosis",
+            "c. Thick, oily skin",
+            "d. Excessive hair growth"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which electrolyte imbalance is commonly associated with chronic renal failure?",
+        "options": [
+            "a. Hypernatremia",
+            "b. Hypocalcemia",
+            "c. Hyperkalemia",
+            "d. Hypokalemia"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following indicates a need for monitoring in chronic renal failure?",
+        "options": [
+            "a. Decreased hydration and output",
+            "b. Increased cardiovascular status",
+            "c. Stable respiratory status",
+            "d. Normal mental status"
+        ],
+        "answer": "a"
+    },
+    {
+        "question": "What is a common psychological effect of chronic renal failure?",
+        "options": [
+            "a. Increased motivation",
+            "b. Emotional well-being",
+            "c. Anxiety and confusion",
+            "d. Enhanced cognitive function"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is NOT a symptom of chronic renal failure?",
+        "options": [
+            "a. Burning of soles of feet",
+            "b. Elevated energy levels",
+            "c. Weakness and fatigue",
+            "d. Seizures"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What intervention is important for managing anemia in chronic renal failure?",
+        "options": [
+            "a. Increased fluid intake",
+            "b. Iron supplementation",
+            "c. Decreased red meat consumption",
+            "d. Increased calcium intake"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What does the term 'azotemia' refer to?",
+        "options": [
+            "a. Normal nitrogen levels",
+            "b. Decreased waste retention",
+            "c. Increased nitrogenous wastes in the blood",
+            "d. Complete renal failure"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following can lead to confusion in chronic renal failure patients?",
+        "options": [
+            "a. High blood pressure",
+            "b. Nutritional deficiencies",
+            "c. Retention of urea and toxins",
+            "d. Increased hydration"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What is a key nursing responsibility for patients undergoing dialysis?",
+        "options": [
+            "a. Increase dietary protein",
+            "b. Monitor for bleeding problems",
+            "c. Encourage fluid retention",
+            "d. Limit patient education"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is a common complication of fluid overload in patients with chronic renal failure?",
+        "options": [
+            "a. Hypotension",
+            "b. Pulmonary edema",
+            "c. Dehydration",
+            "d. Hyperglycemia"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What dietary change may help to manage hypertension in chronic renal failure patients?",
+        "options": [
+            "a. Increase sodium intake",
+            "b. Decrease fluid intake",
+            "c. Increase potassium intake",
+            "d. Decrease sodium intake"
+        ],
+        "answer": "d"
+    },
+    {
+        "question": "Which symptom indicates a potential cardiovascular issue in chronic renal failure?",
+        "options": [
+            "a. Increased urine output",
+            "b. Pitting edema",
+            "c. Improved exercise tolerance",
+            "d. Decreased weight"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "How often should the nutritional state of a chronic renal failure patient be monitored?",
+        "options": [
+            "a. Monthly",
+            "b. Weekly",
+            "c. Daily",
+            "d. Every few months"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What effect does chronic renal failure have on the erythropoietin production?",
+        "options": [
+            "a. Increased production",
+            "b. Decreased production",
+            "c. No effect",
+            "d. Variable production"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What should be avoided to prevent magnesium toxicity in chronic renal failure patients?",
+        "options": [
+            "a. Calcium-based antacids",
+            "b. Phosphorus-binding antacids",
+            "c. Magnesium-based antacids",
+            "d. Iron supplements"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What laboratory test is affected by the breakdown of protein in chronic renal failure?",
+        "options": [
+            "a. BUN",
+            "b. Serum electrolytes",
+            "c. Complete blood count",
+            "d. Liver function tests"
+        ],
+        "answer": "a"
+    },
+    {
+        "question": "What is a potential complication of anemia in chronic renal failure?",
+        "options": [
+            "a. Increased energy levels",
+            "b. Decreased exercise tolerance",
+            "c. Enhanced immune response",
+            "d. Improved oxygenation"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which dietary component is restricted due to its breakdown products accumulating in chronic renal failure?",
+        "options": [
+            "a. Carbohydrates",
+            "b. Fats",
+            "c. Proteins",
+            "d. Vitamins"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "How does chronic renal failure affect the gastrointestinal system?",
+        "options": [
+            "a. Increased hunger",
+            "b. Normal digestive function",
+            "c. Nausea and vomiting",
+            "d. Decreased appetite only"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "Which symptom is indicative of pericardial effusion in chronic renal failure?",
+        "options": [
+            "a. Pitting edema",
+            "b. Distended neck veins",
+            "c. Elevated blood pressure",
+            "d. Decreased heart rate"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is the main reason for bone disease in chronic renal failure patients?",
+        "options": [
+            "a. Increased calcium levels",
+            "b. Retention of phosphorus",
+            "c. Decreased vitamin D metabolism",
+            "d. Both b and c"
+        ],
+        "answer": "d"
+    },
+    {
+        "question": "What is the role of dietary protein in chronic renal failure management?",
+        "options": [
+            "a. It should be increased",
+            "b. It should be eliminated",
+            "c. It should be restricted",
+            "d. It should be consumed freely"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What is a common allergic reaction in chronic renal failure patients?",
+        "options": [
+            "a. Skin rash",
+            "b. Increased urination",
+            "c. Weight loss",
+            "d. Hair loss"
+        ],
+        "answer": "a"
+    },
+    {
+        "question": "What is a complication of decreased erythropoietin production in chronic renal failure?",
+        "options": [
+            "a. Hypertension",
+            "b. Hyperkalemia",
+            "c. Anemia",
+            "d. Edema"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is important for chronic renal failure patients to monitor?",
+        "options": [
+            "a. Weight",
+            "b. Urine color",
+            "c. Blood glucose",
+            "d. All of the above"
+        ],
+        "answer": "d"
+    }
+]
 
 
 
 
+
+
+    
 }
