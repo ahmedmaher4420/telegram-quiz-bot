@@ -46,7 +46,6 @@ def get_lectures(subject, type_):
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     uid = update.effective_user.id
     user_state[uid] = {}
-
     keyboard = [[s] for s in get_subjects()] + [["🏠 القائمة الرئيسية"]]
     await update.message.reply_text("📚 اختر المادة:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
 
@@ -69,59 +68,51 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             del user_state[uid]["type"]
             types = get_types(state["subject"])
             keyboard = [[t] for t in types] + [["🏠 القائمة الرئيسية"]]
-            await update.message.reply_text("📘 اختر النوع (نظري / عملي):", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
+            await update.message.reply_text("📘 اختر النوع :", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
         elif "subject" in state:
             return await start(update, context)
         return
 
     if text in get_subjects():
         user_state[uid] = {"subject": text}
-        types = get_types(text)
+        if text == "البالغين":
+            keyboard = [["🧪 امتحان شامل", "📚  المحاضرات النظري وكويزات خفيفة"], ["🏠 القائمة الرئيسية"]]
+            await update.message.reply_text("📘 اختر نوع المحتوى:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
+        else:
+            types = get_types(text)
+            if types != [""]:
+                keyboard = [[t] for t in types] + [["🏠 القائمة الرئيسية"], ["🔙 الرجوع للخلف"]]
+                await update.message.reply_text("📘 اختر النوع :", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
+            else:
+                lectures = get_lectures(text, "")
+                keyboard = [[l] for l in lectures] + [["🏠 القائمة الرئيسية"], ["🔙 الرجوع للخلف"]]
+                user_state[uid]["type"] = ""
+                await update.message.reply_text("📖 اختر المحاضرة:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
+
+    elif "subject" in state and text == "📚  المحاضرات النظري وكويزات خفيفة":
+        subject = state["subject"]
+        types = get_types(subject)
         if types != [""]:
             keyboard = [[t] for t in types] + [["🏠 القائمة الرئيسية"], ["🔙 الرجوع للخلف"]]
-            await update.message.reply_text("📘 اختر النوع (نظري / عملي):", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
+            await update.message.reply_text("📘 اختر النوع :", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
         else:
-            lectures = get_lectures(text, "")
+            lectures = get_lectures(subject, "")
             keyboard = [[l] for l in lectures] + [["🏠 القائمة الرئيسية"], ["🔙 الرجوع للخلف"]]
             user_state[uid]["type"] = ""
             await update.message.reply_text("📖 اختر المحاضرة:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
 
-    elif "subject" in state and text in get_types(state["subject"]):
-        user_state[uid]["type"] = text
-        lectures = get_lectures(state["subject"], text)
-        keyboard = [[l] for l in lectures] + [["🏠 القائمة الرئيسية"], ["🔙 الرجوع للخلف"]]
-        await update.message.reply_text("📖 اختر المحاضرة:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
-
-    elif "subject" in state and "type" in state and text in get_lectures(state["subject"], state["type"]):
-        user_state[uid]["lecture"] = text.replace(".pdf", "").strip()
-        keyboard = [["📄 View Lecture File", "📝 Take Quiz"], ["🏠 القائمة الرئيسية"], ["🔙 الرجوع للخلف"]]
-        await update.message.reply_text(f"📘 {text}\nاختر ما تريد:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
-
-    elif text == "📄 View Lecture File":
-        subject = state.get("subject")
-        type_ = state.get("type")
-        lecture = state.get("lecture") + ".pdf"
-        file_path = f"lectures/{subject}/{type_}/{lecture}" if type_ else f"lectures/{subject}/{lecture}"
-        if os.path.exists(file_path):
-            with open(file_path, "rb") as f:
-                await update.message.reply_document(f)
-        else:
-            await update.message.reply_text("❌ الملف غير موجود.")
-        log_to_excel(name, "Viewed Lecture", subject, state.get("lecture"))
-
-    elif text == "📝 Take Quiz":
-        lecture = state.get("lecture", "").strip()
-        if not lecture or lecture not in quizzes:
-            await update.message.reply_text("❗ لا يوجد كويز مضاف لهذه المحاضرة حتى الآن.")
+    elif "subject" in state and text == "🧪 امتحان شامل":
+        if "Adult Comprehensive Quiz" not in quizzes:
+            await update.message.reply_text("❗ لا يوجد امتحان شامل مضاف حتى الآن.")
             return
 
-        mcqs = quizzes[lecture].get("MCQs", [])
-        tfs = quizzes[lecture].get("TF", [])
+        mcqs = quizzes["Adult Comprehensive Quiz"].get("MCQs", [])
+        tfs = quizzes["Adult Comprehensive Quiz"].get("TF", [])
         random.shuffle(mcqs)
         random.shuffle(tfs)
 
         user_state[uid]["quiz"] = {
-            "lecture": lecture,
+            "lecture": "امتحان شامل",
             "current": 0,
             "score": 0,
             "mcqs": mcqs,
