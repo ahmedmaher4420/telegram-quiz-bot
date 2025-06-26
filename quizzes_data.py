@@ -1090,7 +1090,8 @@ quizzes = {
         {"question": "Dialysis removes waste, excess fluids, and electrolytes from the blood.", "answer": True}
     ]
 },
-"exam": [
+"exam": {
+        "MCQs": [
     {
         "question": "What are the two main fluid compartments in the body?",
         "options": [
@@ -3912,6 +3913,7 @@ quizzes = {
         "answer": "d"
     }
 ]
+    }
 
 
 
