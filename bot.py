@@ -32,16 +32,16 @@ def log_to_excel(name, action, subject=None, lecture=None, score=None, total=Non
     wb.save(file)
 
 def get_subjects():
-    return [name for name in os.listdir("lectures") if os.path.isdir(f"lectures/{name}")]
+    return sorted([name for name in os.listdir("lectures") if os.path.isdir(f"lectures/{name}")])
 
 def get_types(subject):
     path = f"lectures/{subject}"
     folders = [name for name in os.listdir(path) if os.path.isdir(f"{path}/{name}")]
-    return folders if folders else [""]
+    return sorted(folders) if folders else [""]
 
 def get_lectures(subject, type_):
     path = f"lectures/{subject}/{type_}" if type_ else f"lectures/{subject}"
-    return [name for name in os.listdir(path) if name.endswith(".pdf")]
+    return sorted([name for name in os.listdir(path) if name.endswith(".pdf")])
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     uid = update.effective_user.id
@@ -74,18 +74,22 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             return await start(update, context)
         return
 
-    if text in get_subjects():
-        user_state[uid] = {"subject": text}
+if text in get_subjects():
+    user_state[uid] = {"subject": text}
+    if text == "Adults":
+        keyboard = [["🧪 امتحان شامل", "📚  المحاضرات النظري وكويزات خفيفة"], ["🏠 القائمة الرئيسية"]]
+        await update.message.reply_text("📘 اختر نوع المحتوى:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
+    else:
         types = get_types(text)
         if types != [""]:
             keyboard = [[t] for t in types] + [["🏠 القائمة الرئيسية"], ["🔙 الرجوع للخلف"]]
-            await update.message.reply_text("📘 اختر النوع (نظري / عملي):", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
+            await update.message.reply_text("📘 اختر النوع :", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
         else:
             lectures = get_lectures(text, "")
             keyboard = [[l] for l in lectures] + [["🏠 القائمة الرئيسية"], ["🔙 الرجوع للخلف"]]
             user_state[uid]["type"] = ""
             await update.message.reply_text("📖 اختر المحاضرة:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
-
+    
     elif "subject" in state and text in get_types(state["subject"]):
         user_state[uid]["type"] = text
         lectures = get_lectures(state["subject"], text)
