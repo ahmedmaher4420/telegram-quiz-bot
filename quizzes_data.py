@@ -1091,1362 +1091,1688 @@ quizzes = {
     ]
 },
 "exam": {
-        "MCQs": [
-    {
-        "question": "What are the two main fluid compartments in the body?",
-        "options": [
-            "Intracellular space and interstitial space",
-            "Intracellular space and extracellular space",
-            "Extracellular space and intravascular space",
-            "Extracellular space and interstitial space"
-        ],
-        "answer": "Intracellular space and extracellular space"
-    },
-    {
-        "question": "What percentage of body fluid is typically found in the intracellular fluid (ICF) compartment?",
-        "options": ["10%", "50%", "66%", "90%"],
-        "answer": "66%"
-    },
-    {
-        "question": "Which of the following is NOT a major cation in body fluid?",
-        "options": ["Sodium", "Potassium", "Calcium", "Iron"],
-        "answer": "Iron"
-    },
-    {
-        "question": "What is the process where water moves from an area of lesser solute concentration to one of greater solute concentration called?",
-        "options": ["Filtration", "Osmosis", "Diffusion", "Active transport"],
-        "answer": "Osmosis"
-    },
-    {
-        "question": "Which process involves the passive movement of electrolytes down concentration gradients?",
-        "options": ["Filtration", "Osmosis", "Active transport", "Diffusion"],
-        "answer": "Diffusion"
-    },
-    {
-        "question": "What is the primary function of the sodium-potassium pump in active transport?",
-        "options": [
-            "Pumping sodium out of the cell",
-            "Pumping potassium into the cell",
-            "Maintaining osmotic pressure",
-            "Facilitating diffusion"
-        ],
-        "answer": "Pumping sodium out of the cell"
-    },
-    {
-        "question": "Which electrolyte plays a crucial role in nerve impulse transmission and muscle contraction?",
-        "options": ["Calcium", "Magnesium", "Sodium", "Chloride"],
-        "answer": "Sodium"
-    },
-    {
-        "question": "What is the main function of chloride ions in the body?",
-        "options": [
-            "Regulating blood glucose levels",
-            "Regulating acid-base balance",
-            "Enhancing oxygen transport",
-            "Promoting bone growth"
-        ],
-        "answer": "Regulating acid-base balance"
-    },
-    {
-        "question": "How does filtration differ from diffusion in terms of movement of substances?",
-        "options": [
-            "Filtration involves active transport, while diffusion does not",
-            "Filtration moves substances down concentration gradients",
-            "Diffusion requires energy, while filtration is passive",
-            "Filtration moves substances based on hydrostatic pressure"
-        ],
-        "answer": "Filtration moves substances based on hydrostatic pressure"
-    },
-    {
-        "question": "In which fluid compartment are electrolytes like sodium and potassium primarily found?",
-        "options": [
-            "Intracellular fluid",
-            "Extracellular fluid",
-            "Intravascular fluid",
-            "Interstitial fluid"
-        ],
-        "answer": "Extracellular fluid"
-    },
-    {
-        "question": "Which of the following is an example of active transport in the body?",
-        "options": [
-            "Movement of oxygen in the lungs",
-            "Movement of water in the kidneys",
-            "Pumping of ions against concentration gradients",
-            "Passive diffusion of nutrients in the intestines"
-        ],
-        "answer": "Pumping of ions against concentration gradients"
-    },
-    {
-        "question": "What is the main function of phosphate ions in the body?",
-        "options": [
-            "Regulation of acid-base balance",
-            "Facilitating muscle contraction",
-            "Enhancing iron absorption",
-            "Promoting blood clotting"
-        ],
-        "answer": "Regulation of acid-base balance"
-    },
-    {
-        "question": "Which process is responsible for the movement of water and solutes based on hydrostatic pressure?",
-        "options": ["Osmosis", "Diffusion", "Filtration", "Active transport"],
-        "answer": "Filtration"
-    },
-    {
-        "question": "Which major anion is crucial for buffering systems in the body to maintain pH balance?",
-        "options": ["Phosphate", "Sulfate", "Chloride", "Bicarbonate"],
-        "answer": "Bicarbonate"
-    },
-    {
-        "question": "What is the consequence of significant imbalances in fluid and electrolytes in the body?",
-        "options": [
-            "Increased energy levels",
-            "Improved immune function",
-            "Disruption of normal physiological processes",
-            "Enhanced cognitive abilities"
-        ],
-        "answer": "Disruption of normal physiological processes"
-    },
-    {
-        "question": "What is hypovolemia also known as?",
-        "options": [
-            "Excessive fluid intake",
-            "Fluid volume deficit",
-            "Hyperhydration",
-            "Renal failure"
-        ],
-        "answer": "Fluid volume deficit"
-    },
-    {
-        "question": "Which of the following is NOT a cause of hypovolemia?",
-        "options": ["Vomiting", "Diarrhea", "Excessive fluid intake", "Hemorrhage"],
-        "answer": "Excessive fluid intake"
-    },
-    {
-        "question": "What happens to the skin turgor in hypovolemia?",
-        "options": ["It remains the same", "It becomes firmer", "It decreases", "It becomes warmer"],
-        "answer": "It decreases"
-    },
-    {
-        "question": "Which electrolyte solutions are used to treat hypotensive patients with fluid volume deficit?",
-        "options": [
-            "Hypertonic solutions",
-            "Isotonic solutions",
-            "Hypotonic solutions",
-            "No electrolyte solutions"
-        ],
-        "answer": "Isotonic solutions"
-    },
-    {
-        "question": "What is a common clinical manifestation of hypovolemia?",
-        "options": ["Hypertension", "Bradycardia", "Increased central venous pressure", "Oliguria"],
-        "answer": "Oliguria"
-    },
-    {
-        "question": "What is the normal range for urine specific gravity?",
-        "options": ["1.001 to 1.005", "1.010 to 1.025", "1.030 to 1.035", "1.040 to 1.045"],
-        "answer": "1.010 to 1.025"
-    },
-    {
-        "question": "Which of the following is NOT a cause of hypervolemia?",
-        "options": ["Heart failure", "Renal failure", "Excessive sodium intake", "Dehydration"],
-        "answer": "Dehydration"
-    },
-    {
-        "question": "What is the primary goal in managing hypervolemia?",
-        "options": ["Administering more fluids", "Restricting fluids and sodium", "Increasing sodium intake", "Ignoring the symptoms"],
-        "answer": "Restricting fluids and sodium"
-    },
-    {
-        "question": "What is a common sign of hypervolemia?",
-        "options": ["Decreased blood pressure", "Decreased urine output", "Edema", "Bradycardia"],
-        "answer": "Edema"
-    },
-    {
-        "question": "How is pitting edema assessed?",
-        "options": ["By measuring body temperature", "By assessing respiratory rate", "By pressing a finger into the skin", "By checking blood pressure"],
-        "answer": "By pressing a finger into the skin"
-    },
-    {
-        "question": "What should a nurse monitor in a patient with hypervolemia?",
-        "options": ["Blood glucose levels", "Lung sounds", "Hair color", "Temperature"],
-        "answer": "Lung sounds"
-    },
-    {
-        "question": "What is an important nursing intervention for a patient with hypervolemia?",
-        "options": ["Encouraging excessive fluid intake", "Limiting sodium intake", "Avoiding diuretics", "Ignoring edema"],
-        "answer": "Limiting sodium intake"
-    },
-    {
-        "question": "What is the primary cause of fluid volume deficit?",
-        "options": ["Excessive fluid intake", "Excessive sodium intake", "Increased renal function", "Abnormal fluid losses"],
-        "answer": "Abnormal fluid losses"
-    },
-    {
-        "question": "Which electrolyte solution is used when the patient becomes normotensive in fluid volume deficit?",
-        "options": ["Hypertonic solution", "Isotonic solution", "Hypotonic solution", "No electrolyte solution"],
-        "answer": "Hypotonic solution"
-    },
-    {
-        "question": "Which of the following is a clinical manifestation of hypovolemia?",
-        "options": ["Increased skin turgor", "Increased central venous pressure", "Bradycardia", "Oliguria"],
-        "answer": "Oliguria"
-    },
-    {
-        "question": "What is the recommended frequency for monitoring fluid intake and output in patients with fluid volume disturbances?",
-        "options": ["Every 24 hours", "Every week", "Every 8 hours", "Every month"],
-        "answer": "Every 8 hours"
-    },
-    {
-        "question": "What is the role of a nurse in managing fluid volume disturbances?",
-        "options": ["Administering medications only", "Monitoring and measuring fluid intake and output", "Ignoring clinical manifestations", "Avoiding patient assessments"],
-        "answer": "Monitoring and measuring fluid intake and output"
-    },
-    {
-        "question": "Which body part is commonly monitored for edema in patients with fluid volume excess?",
-        "options": ["Arms", "Head", "Feet and ankles", "Back"],
-        "answer": "Feet and ankles"
-    },
-    {
-        "question": "What is the purpose of assessing breath sounds in patients with fluid volume excess?",
-        "options": ["To check for heart rate", "To monitor urine output", "To identify excessive fluid retention", "To measure blood pressure"],
-        "answer": "To identify excessive fluid retention"
-    },
-    {
-        "question": "What is the scale used to evaluate pitting edema?",
-        "options": ["1-5", "1-10", "1-3", "1-4"],
-        "answer": "1-4"
-    },
-    {
-        "question": "What is the primary cause of fluid volume excess?",
-        "options": ["Dehydration", "Excessive sodium intake", "Decreased renal function", "Abnormal fluid losses"],
-        "answer": "Excessive sodium intake"
-    },
-    {
-        "question": "What should be restricted in the management of fluid volume excess?",
-        "options": ["Fluids and sodium", "Electrolytes", "Medications", "Physical activity"],
-        "answer": "Fluids and sodium"
-    },
-    {
-        "question": "How is urine concentration monitored in patients with fluid volume disturbances?",
-        "options": ["By checking blood pressure", "By measuring urine output", "By assessing skin turgor", "By evaluating urine specific gravity"],
-        "answer": "By evaluating urine specific gravity"
-    },
-    {
-        "question": "What is a common sign of hypervolemia in the neck veins?",
-        "options": ["Flattened neck veins", "Distended neck veins", "No change in neck veins", "Red neck veins"],
-        "answer": "Distended neck veins"
-    },
-    {
-        "question": "Which of the following is NOT a clinical manifestation of hypovolemia?",
-        "options": ["Cool, clammy, pale skin", "Flattened neck veins", "Increased temperature", "Increased central venous pressure"],
-        "answer": "Increased central venous pressure"
-    },
-    {
-        "question": "What is the effect of hypovolemia on urine output?",
-        "options": ["Increased urine output", "Decreased urine output", "No change in urine output", "Dark urine color"],
-        "answer": "Decreased urine output"
-    },
-    {
-        "question": "How does hypervolemia affect blood pressure?",
-        "options": ["Increases blood pressure", "Decreases blood pressure", "No effect on blood pressure", "Causes irregular blood pressure"],
-        "answer": "Increases blood pressure"
-    },
-    {
-        "question": "Which electrolyte solutions are used to treat hypotensive patients with fluid volume deficit?",
-        "options": ["Hypertonic solutions", "Isotonic solutions", "Hypotonic solutions", "No electrolyte solutions"],
-        "answer": "Isotonic solutions"
-    },
-    {
-        "question": "What is the purpose of monitoring central venous pressure in patients with fluid volume disturbances?",
-        "options": ["To assess skin turgor", "To avoid volume overload", "To measure urine output", "To increase blood pressure"],
-        "answer": "To avoid volume overload"
-    },
-    {
-        "question": "How can a nurse assess peripheral edema in patients with fluid volume excess?",
-        "options": ["By measuring central venous pressure", "By checking respiratory rate", "By pressing a finger into the skin", "By measuring circumference of extremity"],
-        "answer": "By measuring circumference of extremity"
-    },
-    {
-        "question": "What is Chronic Obstructive Pulmonary Disease (COPD) characterized by?",
-        "options": ["Fully reversible airflow limitation", "Airflow limitation that is not fully reversible", "Chronic airway expansion", "Chronic obstructive lung improvement"],
-        "answer": "Airflow limitation that is not fully reversible"
-    },
-    {
-        "question": "Why do the airways and air sacs in COPD lose their elastic quality?",
-        "options": ["They become stronger", "They get larger", "They lose their elastic quality", "They become more flexible"],
-        "answer": "They lose their elastic quality"
-    },
-    {
-        "question": "What happens to the walls of the airways in COPD?",
-        "options": ["They become thinner", "They become thicker and inflamed", "They disappear", "They become elastic"],
-        "answer": "They become thicker and inflamed"
-    },
-    {
-        "question": "What is the characteristic feature of Emphysema?",
-        "options": [
-            "Destruction of air sacs leads to oxygen retention",
-            "Destruction of air sacs leads to carbon dioxide retention",
-            "Destruction of air sacs leads to over-inflation of alveoli",
-            "Destruction of air sacs leads to under-inflation of alveoli"
-        ],
-        "answer": "Destruction of air sacs leads to over-inflation of alveoli"
-    },
-    {
-        "question": "How is Chronic Bronchitis defined?",
-        "options": [
-            "Presence of cough and sputum for at least 1 month",
-            "Presence of cough and sputum for at least 6 months",
-            "Presence of cough and sputum for at least 12 months",
-            "Presence of cough and sputum for at least 24 months"
-        ],
-        "answer": "Presence of cough and sputum for at least 6 months"
-    },
-    {
-        "question": "What causes less air flow in COPD due to the airways and air sacs losing their elastic quality?",
-        "options": {
-            "a": "Increased flexibility",
-            "b": "Decreased strength",
-            "c": "Increased mucus production",
-            "d": "Decreased size"
+    "MCQs": [
+        {
+            "question": "What are the two main fluid compartments in the body?",
+            "options": [
+                "A. Intracellular space and interstitial space",
+                "B. Intracellular space and extracellular space",
+                "C. Extracellular space and intravascular space",
+                "D. Extracellular space and interstitial space"
+            ],
+            "answer": "B"
         },
-        "answer": "b"
-    },
-    {
-        "question": "Which of the following is a consequence of the walls between many air sacs being destroyed in COPD?",
-        "options": {
-            "a": "Increased air flow",
-            "b": "Reduced air flow",
-            "c": "Increased mucus production",
-            "d": "Thickening of airways"
+        {
+            "question": "What percentage of body fluid is typically found in the intracellular fluid (ICF) compartment?",
+            "options": [
+                "A. 10%",
+                "B. 50%",
+                "C. 66%",
+                "D. 90%"
+            ],
+            "answer": "C"
         },
-        "answer": "b"
-    },
-    {
-        "question": "What leads to central cyanosis and respiratory failure in Emphysema?",
-        "options": {
-            "a": "Destruction of air sacs",
-            "b": "Over-inflation of alveoli",
-            "c": "Peripheral edema",
-            "d": "Diuretic therapy"
+        {
+            "question": "Which of the following is NOT a major cation in body fluid?",
+            "options": [
+                "A. Sodium",
+                "B. Potassium",
+                "C. Calcium",
+                "D. Iron"
+            ],
+            "answer": "D"
         },
-        "answer": "a"
-    },
-    {
-        "question": "How is Chronic Bronchitis different from Emphysema?",
-        "options": {
-            "a": "Chronic Bronchitis affects the alveoli",
-            "b": "Emphysema leads to cough and sputum production",
-            "c": "Chronic Bronchitis is characterized by central cyanosis",
-            "d": "Emphysema is defined by cough and sputum production"
+        {
+            "question": "What is the process where water moves from an area of lesser solute concentration to one of greater solute concentration called?",
+            "options": [
+                "A. Filtration",
+                "B. Osmosis",
+                "C. Diffusion",
+                "D. Active transport"
+            ],
+            "answer": "B"
         },
-        "answer": "a"
-    },
-    {
-        "question": "What is the main cause of Chronic Bronchitis?",
-        "options": {
-            "a": "Smoke and environmental pollutants",
-            "b": "Genetic factors",
-            "c": "Lack of exercise",
-            "d": "Allergic reactions"
+        {
+            "question": "Which process involves the passive movement of electrolytes down concentration gradients?",
+            "options": [
+                "A. Filtration",
+                "B. Osmosis",
+                "C. Active transport",
+                "D. Diffusion"
+            ],
+            "answer": "D"
         },
-        "answer": "a"
-    },
-    {
-        "question": "What happens to ciliary function in Chronic Bronchitis?",
-        "options": {
-            "a": "It increases",
-            "b": "It stays the same",
-            "c": "It is reduced",
-            "d": "It disappears"
+        {
+            "question": "What is the primary function of the sodium-potassium pump in active transport?",
+            "options": [
+                "A. Pumping sodium out of the cell",
+                "B. Pumping potassium into the cell",
+                "C. Maintaining osmotic pressure",
+                "D. Facilitating diffusion"
+            ],
+            "answer": "A"
         },
-        "answer": "c"
-    },
-    {
-        "question": "What occurs when the bronchial walls become thickened in Chronic Bronchitis?",
-        "options": {
-            "a": "Increased air flow",
-            "b": "Decreased mucus production",
-            "c": "Narrowing of the bronchial lumen",
-            "d": "Strengthening of airways"
+        {
+            "question": "Which electrolyte plays a crucial role in nerve impulse transmission and muscle contraction?",
+            "options": [
+                "A. Calcium",
+                "B. Magnesium",
+                "C. Sodium",
+                "D. Chloride"
+            ],
+            "answer": "C"
         },
-        "answer": "c"
-    },
-    {
-        "question": "Which of the following is a treatment for peripheral edema in Emphysema?",
-        "options": {
-            "a": "Antibiotics",
-            "b": "Diuretic therapy",
-            "c": "Steroids",
-            "d": "Antihistamines"
+        {
+            "question": "What is the main function of chloride ions in the body?",
+            "options": [
+                "A. Regulating blood glucose levels",
+                "B. Regulating acid-base balance",
+                "C. Enhancing oxygen transport",
+                "D. Promoting bone growth"
+            ],
+            "answer": "B"
         },
-        "answer": "b"
-    },
-    {
-        "question": "What is the primary symptom of Chronic Bronchitis?",
-        "options": {
-            "a": "Shortness of breath",
-            "b": "Wheezing",
-            "c": "Cough and sputum production",
-            "d": "Chest pain"
+        {
+            "question": "How does filtration differ from diffusion in terms of movement of substances?",
+            "options": [
+                "A. Filtration involves active transport, while diffusion does not",
+                "B. Filtration moves substances down concentration gradients",
+                "C. Diffusion requires energy, while filtration is passive",
+                "D. Filtration moves substances based on hydrostatic pressure"
+            ],
+            "answer": "D"
         },
-        "answer": "c"
-    },
-    {
-        "question": "How does Emphysema affect gas exchange in the lungs?",
-        "options": {
-            "a": "It improves gas exchange",
-            "b": "It impairs gas exchange",
-            "c": "It has no effect on gas exchange",
-            "d": "It reduces mucus production"
+        {
+            "question": "In which fluid compartment are electrolytes like sodium and potassium primarily found?",
+            "options": [
+                "A. Intracellular fluid",
+                "B. Extracellular fluid",
+                "C. Intravascular fluid",
+                "D. Interstitial fluid"
+            ],
+            "answer": "B"
         },
-        "answer": "b"
-    },
-    {
-        "question": "What leads to the destruction of the walls of the alveoli in Emphysema?",
-        "options": {
-            "a": "Over-inflation of alveoli",
-            "b": "Decreased air flow",
-            "c": "Thickening of air sacs",
-            "d": "Inflammation of airways"
+        {
+            "question": "Which of the following is an example of active transport in the body?",
+            "options": [
+                "A. Movement of oxygen in the lungs",
+                "B. Movement of water in the kidneys",
+                "C. Pumping of ions against concentration gradients",
+                "D. Passive diffusion of nutrients in the intestines"
+            ],
+            "answer": "C"
         },
-        "answer": "a"
-    },
-    {
-        "question": "What is the role of mucus in COPD?",
-        "options": {
-            "a": "Prevents airway obstruction",
-            "b": "Improves air flow",
-            "c": "Tends to clog the airways",
-            "d": "Reduces inflammation"
+        {
+            "question": "What is the main function of phosphate ions in the body?",
+            "options": [
+                "A. Regulation of acid-base balance",
+                "B. Facilitating muscle contraction",
+                "C. Enhancing iron absorption",
+                "D. Promoting blood clotting"
+            ],
+            "answer": "A"
         },
-        "answer": "c"
-    },
-    {
-        "question": "Which term describes the abnormal distention of air spaces beyond the terminal bronchioles in Emphysema?",
-        "options": {
-            "a": "Asthma",
-            "b": "Cystic fibrosis",
-            "c": "Emphysema",
-            "d": "Pneumonia"
+        {
+            "question": "Which process is responsible for the movement of water and solutes based on hydrostatic pressure?",
+            "options": [
+                "A. Osmosis",
+                "B. Diffusion",
+                "C. Filtration",
+                "D. Active transport"
+            ],
+            "answer": "C"
         },
-        "answer": "c"
-    },
-    {
-        "question": "How does smoke and environmental pollutants contribute to Chronic Bronchitis?",
-        "options": {
-            "a": "They reduce mucus production",
-            "b": "They lead to central cyanosis",
-            "c": "They irritate the airways",
-            "d": "They increase ciliary function"
+        {
+            "question": "Which major anion is crucial for buffering systems in the body to maintain pH balance?",
+            "options": [
+                "A. Phosphate",
+                "B. Sulfate",
+                "C. Chloride",
+                "D. Bicarbonate"
+            ],
+            "answer": "D"
+        }
+    ],
+           {
+            "question": "What is the consequence of significant imbalances in fluid and electrolytes in the body?",
+            "options": [
+                "A. Increased energy levels",
+                "B. Improved immune function",
+                "C. Disruption of normal physiological processes",
+                "D. Enhanced cognitive abilities"
+            ],
+            "answer": "C"
         },
-        "answer": "c"
-    },
-    {
-        "question": "What is the main difference between Emphysema and Chronic Bronchitis?",
-        "options": {
-            "a": "Emphysema affects the airways, while Chronic Bronchitis affects the alveoli",
-            "b": "Chronic Bronchitis is reversible, while Emphysema is irreversible",
-            "c": "Emphysema is characterized by cough and sputum production, while Chronic Bronchitis is not",
-            "d": "Chronic Bronchitis is caused by genetic factors, while Emphysema is caused by smoking"
+        {
+            "question": "What is hypovolemia also known as?",
+            "options": [
+                "A. Excessive fluid intake",
+                "B. Fluid volume deficit",
+                "C. Hyperhydration",
+                "D. Renal failure"
+            ],
+            "answer": "B"
         },
-        "answer": "a"
-    },
-    {
-        "question": "What are the three primary symptoms characterizing COPD?",
-        "options": {
-            "a": "Shortness of breath, chest pain, fever",
-            "b": "Chronic cough, sputum production, dyspnea on exertion",
-            "c": "Headache, nausea, abdominal pain",
-            "d": "Muscle weakness, joint pain, fatigue"
+        {
+            "question": "Which of the following is NOT a cause of hypovolemia?",
+            "options": [
+                "A. Vomiting",
+                "B. Diarrhea",
+                "C. Excessive fluid intake",
+                "D. Hemorrhage"
+            ],
+            "answer": "C"
         },
-        "answer": "b"
-    },
-    {
-        "question": "Which symptoms of COPD often precede the development of airflow limitation?",
-        "options": {
-            "a": "Shortness of breath",
-            "b": "Chronic cough and sputum production",
-            "c": "Chest tightness",
-            "d": "Wheezing"
+        {
+            "question": "What happens to the skin turgor in hypovolemia?",
+            "options": [
+                "A. It remains the same",
+                "B. It becomes firmer",
+                "C. It decreases",
+                "D. It becomes warmer"
+            ],
+            "answer": "C"
         },
-        "answer": "b"
-    },
-    {
-        "question": "What physical configuration does chronic hyperinflation lead to in patients with a primary emphysematous component of COPD?",
-        "options": {
-            "a": "Sunken chest",
-            "b": "Barrel chest",
-            "c": "Rounded shoulders",
-            "d": "Narrow waist"
+        {
+            "question": "Which electrolyte solutions are used to treat hypotensive patients with fluid volume deficit?",
+            "options": [
+                "A. Hypertonic solutions",
+                "B. Isotonic solutions",
+                "C. Hypotonic solutions",
+                "D. No electrolyte solutions"
+            ],
+            "answer": "B"
         },
-        "answer": "b"
-    },
-    {
-        "question": "What occurs during inspiration in COPD patients that leads to the shoulders heaving upward?",
-        "options": {
-            "a": "Diaphragmatic contraction",
-            "b": "Supraclavicular fossae retraction",
-            "c": "Rib cage expansion",
-            "d": "Accessory muscle relaxation"
+        {
+            "question": "What is a common clinical manifestation of hypovolemia?",
+            "options": [
+                "A. Hypertension",
+                "B. Bradycardia",
+                "C. Increased central venous pressure",
+                "D. Oliguria"
+            ],
+            "answer": "D"
         },
-        "answer": "b"
-    },
-    {
-        "question": "Why is weight loss common in COPD patients?",
-        "options": {
-            "a": "Decreased appetite",
-            "b": "Increased metabolism",
-            "c": "Dyspnea interfering with eating and energy-depleting work of breathing",
-            "d": "Excessive sweating"
+        {
+            "question": "What is the normal range for urine specific gravity?",
+            "options": [
+                "A. 1.001 to 1.005",
+                "B. 1.010 to 1.025",
+                "C. 1.030 to 1.035",
+                "D. 1.040 to 1.045"
+            ],
+            "answer": "B"
         },
-        "answer": "c"
-    },
-    {
-        "question": "What is the purpose of recruiting accessory muscles in COPD patients?",
-        "options": {
-            "a": "To improve posture",
-            "b": "To aid in digestion",
-            "c": "To facilitate breathing",
-            "d": "To increase muscle mass"
+        {
+            "question": "Which of the following is NOT a cause of hypervolemia?",
+            "options": [
+                "A. Heart failure",
+                "B. Renal failure",
+                "C. Excessive sodium intake",
+                "D. Dehydration"
+            ],
+            "answer": "D"
         },
-        "answer": "c"
-    },
-    {
-        "question": "Which diagnostic test provides information on the airflow limitation in COPD?",
-        "options": {
-            "a": "Chest x-ray",
-            "b": "CT scan",
-            "c": "Pulmonary function test (spirometry)",
-            "d": "Arterial blood gases test"
+        {
+            "question": "What is the primary goal in managing hypervolemia?",
+            "options": [
+                "A. Administering more fluids",
+                "B. Restricting fluids and sodium",
+                "C. Increasing sodium intake",
+                "D. Ignoring the symptoms"
+            ],
+            "answer": "B"
         },
-        "answer": "c"
-    },
-    {
-        "question": "What is the purpose of a sample of sputum in diagnosing COPD?",
-        "options": {
-            "a": "To check for allergies",
-            "b": "To assess lung function",
-            "c": "To detect the presence of bacteria or infection",
-            "d": "To measure oxygen saturation"
+        {
+            "question": "What is a common sign of hypervolemia?",
+            "options": [
+                "A. Decreased blood pressure",
+                "B. Decreased urine output",
+                "C. Edema",
+                "D. Bradycardia"
+            ],
+            "answer": "C"
         },
-        "answer": "c"
-    },
-    {
-        "question": "Which diagnostic test measures the amount of oxygen and carbon dioxide in the blood?",
-        "options": {
-            "a": "Chest x-ray",
-            "b": "CT scan",
-            "c": "Pulmonary function test (spirometry)",
-            "d": "Arterial blood gases test"
+        {
+            "question": "How is pitting edema assessed?",
+            "options": [
+                "A. By measuring body temperature",
+                "B. By assessing respiratory rate",
+                "C. By pressing a finger into the skin",
+                "D. By checking blood pressure"
+            ],
+            "answer": "C"
         },
-        "answer": "d"
-    },
-    {
-        "question": "What is the primary function of a pulse oximeter in COPD diagnosis?",
-        "options": {
-            "a": "Measure lung capacity",
-            "b": "Monitor heart rate",
-            "c": "Monitor oxygen saturation in the blood",
-            "d": "Assess blood pressure"
+        {
+            "question": "What should a nurse monitor in a patient with hypervolemia?",
+            "options": [
+                "A. Blood glucose levels",
+                "B. Lung sounds",
+                "C. Hair color",
+                "D. Temperature"
+            ],
+            "answer": "B"
         },
-        "answer": "c"
-    },
-    {
-        "question": "What major complications may arise in COPD patients leading to life-threatening situations?",
-        "options": {
-            "a": "Asthma attacks",
-            "b": "Respiratory insufficiency and failure",
-            "c": "Allergic reactions",
-            "d": "Heart palpitations"
+        {
+            "question": "What is an important nursing intervention for a patient with hypervolemia?",
+            "options": [
+                "A. Encouraging excessive fluid intake",
+                "B. Limiting sodium intake",
+                "C. Avoiding diuretics",
+                "D. Ignoring edema"
+            ],
+            "answer": "B"
         },
-        "answer": "b"
-    },
-    {
-        "question": "Which condition is NOT a complication of COPD?",
-        "options": {
-            "a": "Pneumonia",
-            "b": "Atelectasis",
-            "c": "Pneumothorax",
-            "d": "Myocardial infarction"
+        {
+            "question": "What is the primary cause of fluid volume deficit?",
+            "options": [
+                "A. Excessive fluid intake",
+                "B. Excessive sodium intake",
+                "C. Increased renal function",
+                "D. Abnormal fluid losses"
+            ],
+            "answer": "D"
         },
-        "answer": "d"
-    },
-    {
-        "question": "What is the term for the condition where the lung partially or completely collapses?",
-        "options": {
-            "a": "Pneumonia",
-            "b": "Pneumothorax",
-            "c": "Atelectasis",
-            "d": "Pulmonary embolism"
+        {
+            "question": "Which electrolyte solution is used when the patient becomes normotensive in fluid volume deficit?",
+            "options": [
+                "A. Hypertonic solution",
+                "B. Isotonic solution",
+                "C. Hypotonic solution",
+                "D. No electrolyte solution"
+            ],
+            "answer": "C"
         },
-        "answer": "b"
-    },
-    {
-        "question": "What is the medical term for right-sided heart failure that results from pulmonary hypertension?",
-        "options": {
-            "a": "Congestive heart failure",
-            "b": "Atrial fibrillation",
-            "c": "Cor pulmonale",
-            "d": "Ventricular septal defect"
+        {
+            "question": "Which of the following is a clinical manifestation of hypovolemia?",
+            "options": [
+                "A. Increased skin turgor",
+                "B. Increased central venous pressure",
+                "C. Bradycardia",
+                "D. Oliguria"
+            ],
+            "answer": "D"
         },
-        "answer": "c"
-    },
-    {
-        "question": "What preventive measure is recommended to avoid irritation and infection of the airways in COPD patients?",
-        "options": {
-            "a": "Avoiding fruits and vegetables",
-            "b": "Avoiding water consumption",
-            "c": "Avoiding exposure to cigarette smoke and dust",
-            "d": "Avoiding physical activity"
+        {
+            "question": "What is the recommended frequency for monitoring fluid intake and output in patients with fluid volume disturbances?",
+            "options": [
+                "A. Every 24 hours",
+                "B. Every week",
+                "C. Every 8 hours",
+                "D. Every month"
+            ],
+            "answer": "C"
         },
-        "answer": "c"
-    },
-    {
-        "question": "When should COPD patients stay indoors according to preventive measures?",
-        "options": {
-            "a": "When the sun is shining",
-            "b": "When the temperature is low",
-            "c": "When the pollen count is high",
-            "d": "When humidity is low"
+        {
+            "question": "What is the role of a nurse in managing fluid volume disturbances?",
+            "options": [
+                "A. Administering medications only",
+                "B. Monitoring and measuring fluid intake and output",
+                "C. Ignoring clinical manifestations",
+                "D. Avoiding patient assessments"
+            ],
+            "answer": "B"
         },
-        "answer": "c"
-    },
-    {
-        "question": "How can air conditioning help COPD patients in managing their condition?",
-        "options": {
-            "a": "Increase exposure to pollutants",
-            "b": "Control temperature and decrease pollutants",
-            "c": "Increase humidity levels",
-            "d": "Improve lung function"
+        {
+            "question": "Which body part is commonly monitored for edema in patients with fluid volume excess?",
+            "options": [
+                "A. Arms",
+                "B. Head",
+                "C. Feet and ankles",
+                "D. Back"
+            ],
+            "answer": "C"
         },
-        "answer": "b"
-    },
-    {
-        "question": "What should COPD patients do during cold and flu season to prevent respiratory tract infections?",
-        "options": {
-            "a": "Avoid crowded areas",
-            "b": "Increase physical activity",
-            "c": "Consume cold beverages",
-            "d": "Stay outdoors"
+        {
+            "question": "What is the purpose of assessing breath sounds in patients with fluid volume excess?",
+            "options": [
+                "A. To check for heart rate",
+                "B. To monitor urine output",
+                "C. To identify excessive fluid retention",
+                "D. To measure blood pressure"
+            ],
+            "answer": "C"
         },
-        "answer": "a"
-    },
-    {
-        "question": "Which immunizations are recommended for COPD patients?",
-        "options": {
-            "a": "Chickenpox and measles",
-            "b": "Influenza and tetanus",
-            "c": "Polio and hepatitis",
-            "d": "Mumps and rubella"
+        {
+            "question": "What is the scale used to evaluate pitting edema?",
+            "options": [
+                "A. 1-5",
+                "B. 1-10",
+                "C. 1-3",
+                "D. 1-4"
+            ],
+            "answer": "D"
         },
-        "answer": "b"
-    },
-    {
-        "question": "What should COPD patients avoid to reduce the risk of respiratory tract infections?",
-        "options": {
-            "a": "Enclosed, crowded areas during cold and flu season",
-            "b": "Regular exercise",
-            "c": "Fresh air and sunlight",
-            "d": "Healthy foods"
+        {
+            "question": "What is the primary cause of fluid volume excess?",
+            "options": [
+                "A. Dehydration",
+                "B. Excessive sodium intake",
+                "C. Decreased renal function",
+                "D. Abnormal fluid losses"
+            ],
+            "answer": "B"
         },
-        "answer": "a"
-    },
-    {
-        "question": "What is the most effective intervention to reduce the risk of developing COPD and slow its progression?",
-        "options": {
-            "a": "Vaccination",
-            "b": "Oxygen therapy",
-            "c": "Smoking cessation",
-            "d": "Antibiotic treatment"
+        {
+            "question": "What should be restricted in the management of fluid volume excess?",
+            "options": [
+                "A. Fluids and sodium",
+                "B. Electrolytes",
+                "C. Medications",
+                "D. Physical activity"
+            ],
+            "answer": "A"
         },
-        "answer": "c"
-    },
-    {
-        "question": "What is a key aspect of smoking prevention in COPD management?",
-        "options": {
-            "a": "Increasing cigarette consumption",
-            "b": "Avoiding occupational exposures",
-            "c": "Using bronchodilators",
-            "d": "Smoking with oxygen"
+        {
+            "question": "How is urine concentration monitored in patients with fluid volume disturbances?",
+            "options": [
+                "A. By checking blood pressure",
+                "B. By measuring urine output",
+                "C. By assessing skin turgor",
+                "D. By evaluating urine specific gravity"
+            ],
+            "answer": "D"
         },
-        "answer": "b"
-    },
-    {
-        "question": "How can occupational exposures be managed to reduce the risk of COPD?",
-        "options": {
-            "a": "Increasing exposure levels",
-            "b": "Wearing protective equipment",
-            "c": "Avoiding ventilation systems",
-            "d": "Smoking during exposure"
+        {
+            "question": "What is a common sign of hypervolemia in the neck veins?",
+            "options": [
+                "A. Flattened neck veins",
+                "B. Distended neck veins",
+                "C. No change in neck veins",
+                "D. Red neck veins"
+            ],
+            "answer": "B"
         },
-        "answer": "b"
-    },
-    {
-        "question": "What is the purpose of portable oxygen systems in COPD management?",
-        "options": {
-            "a": "Improve lung function",
-            "b": "Aid in digestion",
-            "c": "Allow patients to exercise, work, and travel",
-            "d": "Prevent coughing"
+        {
+            "question": "Which of the following is NOT a clinical manifestation of hypovolemia?",
+            "options": [
+                "A. Cool, clammy, pale skin",
+                "B. Flattened neck veins",
+                "C. Increased temperature",
+                "D. Increased central venous pressure"
+            ],
+            "answer": "D"
         },
-        "answer": "c"
-    },
-    {
-        "question": "Why is it extremely dangerous to smoke with or near oxygen therapy?",
-        "options": {
-            "a": "It enhances the effects of oxygen therapy",
-            "b": "It reduces the risk of lung infections",
-            "c": "It can cause fires and explosions",
-            "d": "It improves lung capacity"
+        {
+            "question": "What is the effect of hypovolemia on urine output?",
+            "options": [
+                "A. Increased urine output",
+                "B. Decreased urine output",
+                "C. No change in urine output",
+                "D. Dark urine color"
+            ],
+            "answer": "B"
         },
-        "answer": "c"
-    },
-    {
-        "question": "How can the proper flow rate and duration of oxygen therapy be determined for a patient?",
-        "options": {
-            "a": "By increasing the flow rate gradually",
-            "b": "By patient's choice",
-            "c": "By arbitrary changes",
-            "d": "By healthcare provider's recommendation"
+        {
+            "question": "How does hypervolemia affect blood pressure?",
+            "options": [
+                "A. Increases blood pressure",
+                "B. Decreases blood pressure",
+                "C. No effect on blood pressure",
+                "D. Causes irregular blood pressure"
+            ],
+            "answer": "A"
         },
-        "answer": "d"
-    },
-    {
-        "question": "What is the purpose of regular evaluations of blood oxygenation in COPD patients?",
-        "options": {
-            "a": "To monitor blood sugar levels",
-            "b": "To assess lung capacity",
-            "c": "To check for allergies",
-            "d": "To ensure oxygen therapy effectiveness"
+        {
+            "question": "Which electrolyte solutions are used to treat hypotensive patients with fluid volume deficit?",
+            "options": [
+                "A. Hypertonic solutions",
+                "B. Isotonic solutions",
+                "C. Hypotonic solutions",
+                "D. No electrolyte solutions"
+            ],
+            "answer": "B"
         },
-        "answer": "d"
-    },
-    {
-        "question": "Which type of medication is commonly used in COPD management to help relax the muscles around the airways?",
-        "options": {
-            "a": "Antibiotics",
-            "b": "Bronchodilators",
-            "c": "Glucocorticosteroids",
-            "d": "Vaccines"
+        {
+            "question": "What is the purpose of monitoring central venous pressure in patients with fluid volume disturbances?",
+            "options": [
+                "A. To assess skin turgor",
+                "B. To avoid volume overload",
+                "C. To measure urine output",
+                "D. To increase blood pressure"
+            ],
+            "answer": "B"
         },
-        "answer": "b"
-    },
-    {
-        "question": "What is the role of mucolytic medications in COPD treatment?",
-        "options": {
-            "a": "Reduce inflammation",
-            "b": "Dilate blood vessels",
-            "c": "Break down mucus",
-            "d": "Suppress coughing"
+        {
+            "question": "How can a nurse assess peripheral edema in patients with fluid volume excess?",
+            "options": [
+                "A. By measuring central venous pressure",
+                "B. By checking respiratory rate",
+                "C. By pressing a finger into the skin",
+                "D. By measuring circumference of extremity"
+            ],
+            "answer": "D"
         },
-        "answer": "c"
-    },
-    {
-        "question": "Which type of medication is used to suppress coughing in COPD patients?",
-        "options": {
-            "a": "Antibiotics",
-            "b": "Antitussives",
-            "c": "Respiratory stimulants",
-            "d": "Vaccines"
-        },
-        "answer": "b"
-    },
-    {
-        "question": "What is a bullectomy in the context of COPD surgical management?",
-        "options": {
-            "a": "Removal of lung tissues",
-            "b": "Excision of enlarged airspaces",
-            "c": "Transplantation of healthy lungs",
-            "d": "Repair of bronchial walls"
-        },
-        "answer": "b"
-    },
-    {
-        "question": "When is a bullectomy considered as a surgical option for COPD patients?",
-        "options": {
-            "a": "Stage I COPD",
-            "b": "End-stage COPD with primary emphysematous component",
-            "c": "Stage III COPD",
-            "d": "Stage IV COPD"
-        },
-        "answer": "b"
-    },
-    {
-        "question": "What is the purpose of lung volume reduction surgery in COPD management?",
-        "options": {
-            "a": "Increase mucus production",
-            "b": "Improve lung function",
-            "c": "Remove lung tissues",
-            "d": "Prevent bronchoconstriction"
-        },
-        "answer": "b"
-    },
-    {
-        "question": "In which stage of COPD is lung transplantation considered a viable alternative for surgical treatment?",
-        "options": {
-            "a": "Stage I",
-            "b": "Stage II",
-            "c": "Stage III",
-            "d": "Stage IV"
-        },
-        "answer": "d"
-    },
-    {
-        "question": "What aspects of the patient's history are important during the assessment phase of the nursing process for COPD?",
-        "options": {
-            "a": "Exercise pattern and diet",
-            "b": "Work history and environmental factors",
-            "c": "Social media usage",
-            "d": "Educational background"
-        },
-        "answer": "b"
-    },
-    {
-        "question": "What should nurses assess regarding the onset and development of symptoms in COPD patients?",
-        "options": [
-            "Sleeping positions",
-            "Eating habits",
-            "Medication history",
-            "Travel history"
-        ],
-        "answer": "Medication history"
-    },
-    {
-        "question": "Which physical examination finding is indicative of heavy smoking in COPD patients?",
-        "options": [
-            "Clubbing of fingers",
-            "Distended neck veins on inspiration",
-            "Presence of barrel chest",
-            "Abdominal breathing"
-        ],
-        "answer": "Clubbing of fingers"
-    },
-    {
-        "question": "What nursing intervention is important for patients with impaired gas exchange in COPD?",
-        "options": [
-            "Promoting smoking",
-            "Improving gas exchange",
-            "Achieving airway clearance",
-            "Enhancing self-care strategies"
-        ],
-        "answer": "Improving gas exchange"
-    },
-    {
-        "question": "Which nursing diagnosis may be related to bronchoconstriction and increased mucus production in COPD patients?",
-        "options": [
-            "Impaired gas exchange",
-            "Ineffective airway clearance",
-            "Ineffective breathing pattern",
-            "Activity intolerance"
-        ],
-        "answer": "Ineffective airway clearance"
-    },
-    {
-        "question": "What is a common nursing diagnosis for COPD patients due to shortness of breath and airway irritants?",
-        "options": [
-            "Activity intolerance",
-            "Deficient knowledge",
-            "Ineffective breathing pattern",
-            "High risk for altered health maintenance"
-        ],
-        "answer": "Ineffective breathing pattern"
-    },
-    {
-        "question": "How can nurses help improve activity tolerance in COPD patients?",
-        "options": [
-            "Encouraging bed rest",
-            "Limiting physical activities",
-            "Enhancing self-care strategies",
-            "Monitoring potential complications"
-        ],
-        "answer": "Enhancing self-care strategies"
-    },
-    {
-        "question": "What is a key nursing intervention to enhance self-care strategies in COPD patients?",
-        "options": [
-            "Setting unrealistic goals",
-            "Avoiding lifestyle modifications",
-            "Educating on temperature extremes",
-            "Encouraging healthy habits"
-        ],
-        "answer": "Encouraging healthy habits"
-    },
-    {
-        "question": "Which nursing intervention focuses on monitoring and managing potential complications in COPD patients?",
-        "options": [
-            "Promoting smoking cessation",
-            "Improving gas exchange",
-            "Enhancing self-care strategies",
-            "Monitoring potential complications"
-        ],
-        "answer": "Monitoring potential complications"
-    },
-    {
-        "question": "What is the purpose of reviewing the results of diagnostic procedures like arterial blood gases and pulmonary function tests in COPD patients?",
-        "options": [
-            "To assess medication effectiveness",
-            "To monitor disease progression",
-            "To evaluate lung function",
-            "To identify potential complications"
-        ],
-        "answer": "To identify potential complications"
-    },
-    {
-        "question": "Which surgical intervention involves the excision of enlarged airspaces that do not contribute to ventilation in COPD patients?",
-        "options": [
-            "Lung volume reduction surgery",
-            "Lung transplantation",
-            "Bronchodilator therapy",
-            "Bullectomy"
-        ],
-        "answer": "Bullectomy"
-    },
-    {
-        "question": "What is the primary goal of lung transplantation in COPD management?",
-        "options": [
-            "Preventing bronchoconstriction",
-            "Improving quality of life",
-            "Enhancing cough reflex",
-            "Reducing mucus production"
-        ],
-        "answer": "Improving quality of life"
-    },
-    {
-        "question": "How does lung volume reduction surgery benefit COPD patients?",
-        "options": [
-            "Increases mucus production",
-            "Improves lung function",
-            "Reduces oxygen saturation",
-            "Induces bronchoconstriction"
-        ],
-        "answer": "Improves lung function"
-    },
-    {
-        "question": "What is the significance of assessing the patient's environment in the nursing process for COPD?",
-        "options": [
-            "To determine social status",
-            "To evaluate financial status",
-            "To identify potential triggers or irritants",
-            "To assess educational background"
-        ],
-        "answer": "To identify potential triggers or irritants"
-    },
-    {
-        "question": "Why is it essential for nurses to observe for clubbing in COPD patients during physical examinations?",
-        "options": [
-            "To monitor heart rate",
-            "To assess lung capacity",
-            "To detect changes in finger appearance",
-            "To evaluate oxygen saturation"
-        ],
-        "answer": "To detect changes in finger appearance"
-    },
-    {
-        "question": "What is a common symptom observed in COPD patients due to bronchial inflammation and mucus production?",
-        "options": [
-            "Wheezing",
-            "Coughing",
-            "Sneezing",
-            "Yawning"
-        ],
-        "answer": "Coughing"
-    },
-    {
-        "question": "How can nurses help improve breathing patterns in COPD patients?",
-        "options": [
-            "Encouraging shallow breathing",
-            "Providing oxygen therapy at high rates",
-            "Facilitating pursed lips breathing",
-            "Discouraging physical activities"
-        ],
-        "answer": "Facilitating pursed lips breathing"
-    },
-    {
-        "question": "Which nursing diagnosis is related to fatigue, ineffective breathing patterns, and hypoxemia in COPD patients?",
-        "options": [
-            "Ineffective airway clearance",
-            "Activity intolerance",
-            "Impaired gas exchange",
-            "Deficient knowledge"
-        ],
-        "answer": "Activity intolerance"
-    },
-    {
-        "question": "What is the role of antibiotics in the pharmacologic therapy of COPD patients?",
-        "options": [
-            "Relaxing the airway muscles",
-            "Breaking down mucus",
-            "Treating bacterial infections",
-            "Improving lung function"
-        ],
-        "answer": "Treating bacterial infections"
-    },
-    {
-        "question": "Which medication type is used to suppress coughing in COPD patients?",
-        "options": [
-            "Bronchodilators",
-            "Glucocorticosteroids",
-            "Antitussives",
-            "Vaccines"
-        ],
-        "answer": "Antitussives"
-    },
-    {
-        "question": "What is the approximate weight of the human heart?",
-        "options": ["100 g", "200 g", "300 g", "400 g"],
-        "answer": "300 g"
-    },
-    {
-        "question": "Where is the heart located in the human body?",
-        "options": [
-            "In the upper chest",
-            "In the lower abdomen",
-            "In the center of the thorax",
-            "In the left side of the chest"
-        ],
-        "answer": "In the center of the thorax"
-    },
-    {
-        "question": "Which layer of the heart is responsible for its pumping action?",
-        "options": ["Endocardium", "Myocardium", "Epicardium", "Pericardium"],
-        "answer": "Myocardium"
-    },
-    {
-        "question": "What is the name of the fibrous sac that encases the heart?",
-        "options": ["Endocardium", "Myocardium", "Epicardium", "Pericardium"],
-        "answer": "Pericardium"
-    },
-    {
-        "question": "How much fluid is normally found in the pericardial space?",
-        "options": ["About 5 mL", "About 10 mL", "About 20 mL", "About 50 mL"],
-        "answer": "About 20 mL"
-    },
-    {
-        "question": "Which of the following is NOT a layer of the heart?",
-        "options": ["Endocardium", "Myocardium", "Epicardium", "Mesocardium"],
-        "answer": "Mesocardium"
-    },
-    {
-        "question": "Where do the coronary arteries originate?",
-        "options": [
-            "From the pulmonary artery",
-            "From the aorta",
-            "From the superior vena cava",
-            "From the left ventricle"
-        ],
-        "answer": "From the aorta"
-    },
-    {
-        "question": "When are the coronary arteries primarily perfused?",
-        "options": [
-            "During systole",
-            "During diastole",
-            "Continuously throughout the cardiac cycle",
-            "Only during exercise"
-        ],
-        "answer": "During diastole"
-    },
-    {
-        "question": "What is the normal resting heart rate range for adults?",
-        "options": [
-            "40 to 60 beats per minute",
-            "60 to 80 beats per minute",
-            "80 to 100 beats per minute",
-            "100 to 120 beats per minute"
-        ],
-        "answer": "60 to 80 beats per minute"
-    },
-    {
-        "question": "What is the medical term for an abnormally fast heart rate?",
-        "options": ["Bradycardia", "Tachycardia", "Arrhythmia", "Fibrillation"],
-        "answer": "Tachycardia"
-    },
-    {
-        "question": "What is the most common cause of cardiovascular disease?",
-        "options": ["Hypertension", "Diabetes", "Atherosclerosis", "Obesity"],
-        "answer": "Atherosclerosis"
-    },
-    {
-        "question": "What substances accumulate in the arterial walls during atherosclerosis?",
-        "options": [
-            "Calcium and iron",
-            "Protein and carbohydrates",
-            "Lipids and fibrous tissue",
-            "Water and electrolytes"
-        ],
-        "answer": "Lipids and fibrous tissue"
-    },
-    {
-        "question": "Which of the following is NOT a nonmodifiable risk factor for coronary artery disease?",
-        "options": ["Family history", "Age", "Gender", "Smoking"],
-        "answer": "Smoking"
-    },
-    {
-        "question": "At what age do men typically have an increased risk of coronary artery disease?",
-        "options": [
-            "More than 35 years",
-            "More than 40 years",
-            "More than 45 years",
-            "More than 50 years"
-        ],
-        "answer": "More than 45 years"
-    },
-    {
-        "question": "Which racial group has a higher incidence of coronary artery disease?",
-        "options": [
-            "Caucasians",
-            "Hispanic Americans",
-            "Asian Americans",
-            "African Americans"
-        ],
-        "answer": "African Americans"
-    },
-    {
-        "question": "Which of the following is NOT a modifiable risk factor for coronary artery disease?",
-        "options": ["Hyperlipidemia", "Hypertension", "Physical inactivity", "Race"],
-        "answer": "Race"
-    },
-    {
-        "question": "What is the medical term for high blood cholesterol levels?",
-        "options": [
-            "Hyperglycemia",
-            "Hyperlipidemia",
-            "Hypertension",
-            "Hypercholesterolemia"
-        ],
-        "answer": "Hyperlipidemia"
-    },
-    {
-        "question": "Which layer of the heart is in direct contact with the blood in the heart chambers?",
-        "options": ["Epicardium", "Myocardium", "Endocardium", "Pericardium"],
-        "answer": "Endocardium"
-    },
-    {
-        "question": "What is the primary function of the pericardial fluid?",
-        "options": [
-            "To provide nutrients to the heart",
-            "To regulate heart rate",
-            "To lubricate the heart's surface and reduce friction",
-            "To remove waste products from the heart"
-        ],
-        "answer": "To lubricate the heart's surface and reduce friction"
-    },
-    {
-        "question": "What condition may occur when there is inadequate oxygen supply to the heart muscle?",
-        "options": [
-            "Myocardial infarction",
-            "Myocardial ischemia",
-            "Myocardial hypertrophy",
-            "Myocardial fibrosis"
-        ],
-        "answer": "Myocardial ischemia"
-    },
-    {
-        "question": "What is angina pectoris primarily characterized by?",
-        "options": ["Stomach pain", "Chest pain or pressure", "Headache", "Joint pain"],
-        "answer": "Chest pain or pressure"
-    },
-    {
-        "question": "Which of the following is NOT a factor associated with anginal pain?",
-        "options": ["Physical exertion", "Exposure to cold", "Eating a light snack", "Stress"],
-        "answer": "Eating a light snack"
-    },
-    {
-        "question": "How does eating a heavy meal potentially trigger angina?",
-        "options": [
-            "It increases heart rate",
-            "It causes direct damage to the heart",
-            "It reduces blood supply to the heart muscle",
-            "It increases blood pressure"
-        ],
-        "answer": "It reduces blood supply to the heart muscle"
-    },
-    {
-        "question": "What type of angina is characterized by pain at rest caused by coronary artery vasospasm?",
-        "options": ["Stable angina", "Unstable angina", "Silent ischemia", "Variant angina"],
-        "answer": "Variant angina"
-    },
-    {
-        "question": "Which type of angina shows objective evidence of ischemia but the patient reports no pain?",
-        "options": ["Intractable angina", "Stable angina", "Silent ischemia", "Unstable angina"],
-        "answer": "Silent ischemia"
-    },
-    {
-        "question": "In stable angina, what typically relieves the pain?",
-        "options": ["Exercise", "Eating", "Rest and/or nitroglycerin", "Cold exposure"],
-        "answer": "Rest and/or nitroglycerin"
-    },
-    {
-        "question": "Where might angina pain radiate to?",
-        "options": ["Legs", "Stomach", "Neck and jaw", "Feet"],
-        "answer": "Neck and jaw"
-    },
-    {
-        "question": "Which of the following is NOT a common clinical manifestation of angina?",
-        "options": ["Shortness of breath", "Nausea", "Fever", "Dizziness"],
-        "answer": "Fever"
-    },
-    {
-        "question": "What is the primary purpose of nitroglycerin in treating angina?",
-        "options": [
-            "To increase heart rate",
-            "To reduce myocardial oxygen consumption",
-            "To increase blood pressure",
-            "To thin the blood"
-        ],
-        "answer": "To reduce myocardial oxygen consumption"
-    },
-    {
-        "question": "How do beta-adrenergic blocking agents help in managing angina?",
-        "options": [
-            "By increasing heart rate",
-            "By dilating blood vessels",
-            "By reducing myocardial oxygen consumption",
-            "By increasing blood pressure"
-        ],
-        "answer": "By reducing myocardial oxygen consumption"
-    },
-    {
-        "question": "What is the main effect of calcium channel blocking agents in angina treatment?",
-        "options": [
-            "They increase heart rate",
-            "They decrease heart rate",
-            "They increase blood pressure",
-            "They increase oxygen demand"
-        ],
-        "answer": "They decrease heart rate"
-    },
-    {
-        "question": "Why are antiplatelet and anticoagulant medications used in angina management?",
-        "options": [
-            "To increase heart rate",
-            "To decrease pain",
-            "To prevent platelet aggregation and thrombosis",
-            "To increase oxygen supply to the heart"
-        ],
-        "answer": "To prevent platelet aggregation and thrombosis"
-    },
-    {
-        "question": "What is the primary reason for administering oxygen during an angina attack?",
-        "options": [
-            "To decrease heart rate",
-            "To increase oxygen delivery to the myocardium",
-            "To reduce blood pressure",
-            "To thin the blood"
-        ],
-        "answer": "To increase oxygen delivery to the myocardium"
-    },
-    {
-        "question": "Which of the following is NOT a responsibility of the nurse when administering oxygen to an angina patient?",
-        "options": [
-            "Observing respiratory rate",
-            "Monitoring blood oxygen saturation",
-            "Adjusting room temperature",
-            "Observing respiratory rhythm"
-        ],
-        "answer": "Adjusting room temperature"
-    },
-    {
-        "question": "What does \"unstable angina\" indicate?",
-        "options": [
-            "Symptoms are decreasing in frequency",
-            "Symptoms are consistent and predictable",
-            "Symptoms are increasing in frequency and severity",
-            "Symptoms only occur during rest"
-        ],
-        "answer": "Symptoms are increasing in frequency and severity"
-    },
-    {
-        "question": "Which type of angina is described as severe and incapacitating chest pain?",
-        "options": ["Stable angina", "Variant angina", "Intractable angina", "Silent ischemia"],
-        "answer": "Intractable angina"
-    },
-    {
-        "question": "How does exposure to cold potentially trigger angina?",
-        "options": [
-            "By causing vasodilation",
-            "By lowering blood pressure",
-            "By causing vasoconstriction and elevating blood pressure",
-            "By decreasing oxygen demand"
-        ],
-        "answer": "By causing vasoconstriction and elevating blood pressure"
-    },
-    {
-        "question": "What effect do catecholamines have during emotional stress that can trigger angina?",
-        "options": [
-            "They decrease heart rate",
-            "They lower blood pressure",
-            "They decrease myocardial workload",
-            "They increase heart rate and blood pressure"
-        ],
-        "answer": "They increase heart rate and blood pressure"
-    },
-    {
-        "question": "Which of the following is a common description of angina pain?",
-        "options": [
-            "Sharp and localized",
-            "Dull and widespread",
-            "Burning and itchy",
-            "Throbbing and pulsating"
-        ],
-        "answer": "Dull and widespread"
-    },
-    {
-        "question": "What is the primary difference between stable and unstable angina?",
-        "options": [
-            "Stable angina only occurs at night",
-            "Unstable angina is relieved by rest",
-            "Stable angina is predictable and consistent",
-            "Unstable angina decreases in severity over time"
-        ],
-        "answer": "Stable angina is predictable and consistent"
-    },
-    {
-        "question": "What is angina pectoris primarily characterized by?",
-        "options": ["Stomach pain", "Chest pain or pressure", "Headache", "Joint pain"],
-        "answer": "Chest pain or pressure"
-    },
-    {
-        "question": "Which of the following is NOT a factor associated with anginal pain?",
-        "options": ["Physical exertion", "Exposure to cold", "Eating a light snack", "Stress"],
-        "answer": "Eating a light snack"
-    },
-    {
-        "question": "How does eating a heavy meal potentially trigger angina?",
-        "options": [
-            "It increases heart rate",
-            "It causes direct damage to the heart",
-            "It reduces blood supply to the heart muscle",
-            "It increases blood pressure"
-        ],
-        "answer": "It reduces blood supply to the heart muscle"
-    },
-    {
-        "question": "What type of angina is characterized by pain at rest caused by coronary artery vasospasm?",
-        "options": ["Stable angina", "Unstable angina", "Silent ischemia", "Variant angina"],
-        "answer": "Variant angina"
-    },
-    {
-        "question": "Which type of angina shows objective evidence of ischemia but the patient reports no pain?",
-        "options": ["Intractable angina", "Stable angina", "Silent ischemia", "Unstable angina"],
-        "answer": "Silent ischemia"
-    },
-    {
-        "question": "In stable angina, what typically relieves the pain?",
-        "options": ["Exercise", "Eating", "Rest and/or nitroglycerin", "Cold exposure"],
-        "answer": "Rest and/or nitroglycerin"
-    },
-    {
-        "question": "Where might angina pain radiate to?",
-        "options": ["Legs", "Stomach", "Neck and jaw", "Feet"],
-        "answer": "Neck and jaw"
-    },
-    {
-        "question": "Which of the following is NOT a common clinical manifestation of angina?",
-        "options": ["Shortness of breath", "Nausea", "Fever", "Dizziness"],
-        "answer": "Fever"
-    },
+   {
+    "question": "What is Chronic Obstructive Pulmonary Disease (COPD) characterized by?",
+    "options": [
+        "A. Fully reversible airflow limitation",
+        "B. Airflow limitation that is not fully reversible",
+        "C. Chronic airway expansion",
+        "D. Chronic obstructive lung improvement"
+    ],
+    "answer": "B"
+},
+{
+    "question": "Why do the airways and air sacs in COPD lose their elastic quality?",
+    "options": [
+        "A. They become stronger",
+        "B. They get larger",
+        "C. They lose their elastic quality",
+        "D. They become more flexible"
+    ],
+    "answer": "C"
+},
+{
+    "question": "What happens to the walls of the airways in COPD?",
+    "options": [
+        "A. They become thinner",
+        "B. They become thicker and inflamed",
+        "C. They disappear",
+        "D. They become elastic"
+    ],
+    "answer": "B"
+},
+{
+    "question": "What is the characteristic feature of Emphysema?",
+    "options": [
+        "A. Destruction of air sacs leads to oxygen retention",
+        "B. Destruction of air sacs leads to carbon dioxide retention",
+        "C. Destruction of air sacs leads to over-inflation of alveoli",
+        "D. Destruction of air sacs leads to under-inflation of alveoli"
+    ],
+    "answer": "C"
+},
+{
+    "question": "How is Chronic Bronchitis defined?",
+    "options": [
+        "A. Presence of cough and sputum for at least 1 month",
+        "B. Presence of cough and sputum for at least 6 months",
+        "C. Presence of cough and sputum for at least 12 months",
+        "D. Presence of cough and sputum for at least 24 months"
+    ],
+    "answer": "B"
+},
+{
+    "question": "What causes less air flow in COPD due to the airways and air sacs losing their elastic quality?",
+    "options": [
+        "A. Increased flexibility",
+        "B. Decreased strength",
+        "C. Increased mucus production",
+        "D. Decreased size"
+    ],
+    "answer": "B"
+},
+{
+    "question": "Which of the following is a consequence of the walls between many air sacs being destroyed in COPD?",
+    "options": [
+        "A. Increased air flow",
+        "B. Reduced air flow",
+        "C. Increased mucus production",
+        "D. Thickening of airways"
+    ],
+    "answer": "B"
+},
+{
+    "question": "What leads to central cyanosis and respiratory failure in Emphysema?",
+    "options": [
+        "A. Destruction of air sacs",
+        "B. Over-inflation of alveoli",
+        "C. Peripheral edema",
+        "D. Diuretic therapy"
+    ],
+    "answer": "A"
+},
+{
+    "question": "How is Chronic Bronchitis different from Emphysema?",
+    "options": [
+        "A. Chronic Bronchitis affects the alveoli",
+        "B. Emphysema leads to cough and sputum production",
+        "C. Chronic Bronchitis is characterized by central cyanosis",
+        "D. Emphysema is defined by cough and sputum production"
+    ],
+    "answer": "A"
+},
+{
+    "question": "What is the main cause of Chronic Bronchitis?",
+    "options": [
+        "A. Smoke and environmental pollutants",
+        "B. Genetic factors",
+        "C. Lack of exercise",
+        "D. Allergic reactions"
+    ],
+    "answer": "A"
+},
+{
+    "question": "What happens to ciliary function in Chronic Bronchitis?",
+    "options": [
+        "A. It increases",
+        "B. It stays the same",
+        "C. It is reduced",
+        "D. It disappears"
+    ],
+    "answer": "C"
+},
+{
+    "question": "What occurs when the bronchial walls become thickened in Chronic Bronchitis?",
+    "options": [
+        "A. Increased air flow",
+        "B. Decreased mucus production",
+        "C. Narrowing of the bronchial lumen",
+        "D. Strengthening of airways"
+    ],
+    "answer": "C"
+},
+{
+    "question": "Which of the following is a treatment for peripheral edema in Emphysema?",
+    "options": [
+        "A. Antibiotics",
+        "B. Diuretic therapy",
+        "C. Steroids",
+        "D. Antihistamines"
+    ],
+    "answer": "B"
+},
+{
+    "question": "What is the primary symptom of Chronic Bronchitis?",
+    "options": [
+        "A. Shortness of breath",
+        "B. Wheezing",
+        "C. Cough and sputum production",
+        "D. Chest pain"
+    ],
+    "answer": "C"
+},
+{
+    "question": "How does Emphysema affect gas exchange in the lungs?",
+    "options": [
+        "A. It improves gas exchange",
+        "B. It impairs gas exchange",
+        "C. It has no effect on gas exchange",
+        "D. It reduces mucus production"
+    ],
+    "answer": "B"
+},
+{
+    "question": "What leads to the destruction of the walls of the alveoli in Emphysema?",
+    "options": [
+        "A. Over-inflation of alveoli",
+        "B. Decreased air flow",
+        "C. Thickening of air sacs",
+        "D. Inflammation of airways"
+    ],
+    "answer": "A"
+},
+{
+    "question": "What is the role of mucus in COPD?",
+    "options": [
+        "A. Prevents airway obstruction",
+        "B. Improves air flow",
+        "C. Tends to clog the airways",
+        "D. Reduces inflammation"
+    ],
+    "answer": "C"
+},
+{
+    "question": "Which term describes the abnormal distention of air spaces beyond the terminal bronchioles in Emphysema?",
+    "options": [
+        "A. Asthma",
+        "B. Cystic fibrosis",
+        "C. Emphysema",
+        "D. Pneumonia"
+    ],
+    "answer": "C"
+},
+{
+    "question": "How does smoke and environmental pollutants contribute to Chronic Bronchitis?",
+    "options": [
+        "A. They reduce mucus production",
+        "B. They lead to central cyanosis",
+        "C. They irritate the airways",
+        "D. They increase ciliary function"
+    ],
+    "answer": "C"
+},
+{
+    "question": "What is the main difference between Emphysema and Chronic Bronchitis?",
+    "options": [
+        "A. Emphysema affects the airways, while Chronic Bronchitis affects the alveoli",
+        "B. Chronic Bronchitis is reversible, while Emphysema is irreversible",
+        "C. Emphysema is characterized by cough and sputum production, while Chronic Bronchitis is not",
+        "D. Chronic Bronchitis is caused by genetic factors, while Emphysema is caused by smoking"
+    ],
+    "answer": "A"
+},
+{
+    "question": "What are the three primary symptoms characterizing COPD?",
+    "options": [
+        "A. Shortness of breath, chest pain, fever",
+        "B. Chronic cough, sputum production, dyspnea on exertion",
+        "C. Headache, nausea, abdominal pain",
+        "D. Muscle weakness, joint pain, fatigue"
+    ],
+    "answer": "B"
+},
+{
+    "question": "Which symptoms of COPD often precede the development of airflow limitation?",
+    "options": [
+        "A. Shortness of breath",
+        "B. Chronic cough and sputum production",
+        "C. Chest tightness",
+        "D. Wheezing"
+    ],
+    "answer": "B"
+},
+{
+    "question": "What physical configuration does chronic hyperinflation lead to in patients with a primary emphysematous component of COPD?",
+    "options": [
+        "A. Sunken chest",
+        "B. Barrel chest",
+        "C. Rounded shoulders",
+        "D. Narrow waist"
+    ],
+    "answer": "B"
+},
+{
+    "question": "What occurs during inspiration in COPD patients that leads to the shoulders heaving upward?",
+    "options": [
+        "A. Diaphragmatic contraction",
+        "B. Supraclavicular fossae retraction",
+        "C. Rib cage expansion",
+        "D. Accessory muscle relaxation"
+    ],
+    "answer": "B"
+},
+{
+    "question": "Why is weight loss common in COPD patients?",
+    "options": [
+        "A. Decreased appetite",
+        "B. Increased metabolism",
+        "C. Dyspnea interfering with eating and energy-depleting work of breathing",
+        "D. Excessive sweating"
+    ],
+    "answer": "C"
+},
+{
+    "question": "What is the purpose of recruiting accessory muscles in COPD patients?",
+    "options": [
+        "A. To improve posture",
+        "B. To aid in digestion",
+        "C. To facilitate breathing",
+        "D. To increase muscle mass"
+    ],
+    "answer": "C"
+},
+{
+    "question": "Which diagnostic test provides information on the airflow limitation in COPD?",
+    "options": [
+        "A. Chest x-ray",
+        "B. CT scan",
+        "C. Pulmonary function test (spirometry)",
+        "D. Arterial blood gases test"
+    ],
+    "answer": "C"
+},
+{
+    "question": "What is the purpose of a sample of sputum in diagnosing COPD?",
+    "options": [
+        "A. To check for allergies",
+        "B. To assess lung function",
+        "C. To detect the presence of bacteria or infection",
+        "D. To measure oxygen saturation"
+    ],
+    "answer": "C"
+},
+   {
+    "question": "Which diagnostic test measures the amount of oxygen and carbon dioxide in the blood?",
+    "options": [
+        "A. Chest x-ray",
+        "B. CT scan",
+        "C. Pulmonary function test (spirometry)",
+        "D. Arterial blood gases test"
+    ],
+    "answer": "D"
+},
+{
+    "question": "What is the primary function of a pulse oximeter in COPD diagnosis?",
+    "options": [
+        "A. Measure lung capacity",
+        "B. Monitor heart rate",
+        "C. Monitor oxygen saturation in the blood",
+        "D. Assess blood pressure"
+    ],
+    "answer": "C"
+},
+{
+    "question": "What major complications may arise in COPD patients leading to life-threatening situations?",
+    "options": [
+        "A. Asthma attacks",
+        "B. Respiratory insufficiency and failure",
+        "C. Allergic reactions",
+        "D. Heart palpitations"
+    ],
+    "answer": "B"
+},
+{
+    "question": "Which condition is NOT a complication of COPD?",
+    "options": [
+        "A. Pneumonia",
+        "B. Atelectasis",
+        "C. Pneumothorax",
+        "D. Myocardial infarction"
+    ],
+    "answer": "D"
+},
+{
+    "question": "What is the term for the condition where the lung partially or completely collapses?",
+    "options": [
+        "A. Pneumonia",
+        "B. Pneumothorax",
+        "C. Atelectasis",
+        "D. Pulmonary embolism"
+    ],
+    "answer": "B"
+},
+{
+    "question": "What is the medical term for right-sided heart failure that results from pulmonary hypertension?",
+    "options": [
+        "A. Congestive heart failure",
+        "B. Atrial fibrillation",
+        "C. Cor pulmonale",
+        "D. Ventricular septal defect"
+    ],
+    "answer": "C"
+},
+{
+    "question": "What preventive measure is recommended to avoid irritation and infection of the airways in COPD patients?",
+    "options": [
+        "A. Avoiding fruits and vegetables",
+        "B. Avoiding water consumption",
+        "C. Avoiding exposure to cigarette smoke and dust",
+        "D. Avoiding physical activity"
+    ],
+    "answer": "C"
+},
+{
+    "question": "When should COPD patients stay indoors according to preventive measures?",
+    "options": [
+        "A. When the sun is shining",
+        "B. When the temperature is low",
+        "C. When the pollen count is high",
+        "D. When humidity is low"
+    ],
+    "answer": "C"
+},
+{
+    "question": "How can air conditioning help COPD patients in managing their condition?",
+    "options": [
+        "A. Increase exposure to pollutants",
+        "B. Control temperature and decrease pollutants",
+        "C. Increase humidity levels",
+        "D. Improve lung function"
+    ],
+    "answer": "B"
+},
+{
+    "question": "What should COPD patients do during cold and flu season to prevent respiratory tract infections?",
+    "options": [
+        "A. Avoid crowded areas",
+        "B. Increase physical activity",
+        "C. Consume cold beverages",
+        "D. Stay outdoors"
+    ],
+    "answer": "A"
+},
+{
+    "question": "Which immunizations are recommended for COPD patients?",
+    "options": [
+        "A. Chickenpox and measles",
+        "B. Influenza and tetanus",
+        "C. Polio and hepatitis",
+        "D. Mumps and rubella"
+    ],
+    "answer": "B"
+},
+{
+    "question": "What should COPD patients avoid to reduce the risk of respiratory tract infections?",
+    "options": [
+        "A. Enclosed, crowded areas during cold and flu season",
+        "B. Regular exercise",
+        "C. Fresh air and sunlight",
+        "D. Healthy foods"
+    ],
+    "answer": "A"
+},
+{
+    "question": "What is the most effective intervention to reduce the risk of developing COPD and slow its progression?",
+    "options": [
+        "A. Vaccination",
+        "B. Oxygen therapy",
+        "C. Smoking cessation",
+        "D. Antibiotic treatment"
+    ],
+    "answer": "C"
+},
+{
+    "question": "What is a key aspect of smoking prevention in COPD management?",
+    "options": [
+        "A. Increasing cigarette consumption",
+        "B. Avoiding occupational exposures",
+        "C. Using bronchodilators",
+        "D. Smoking with oxygen"
+    ],
+    "answer": "B"
+},
+{
+    "question": "How can occupational exposures be managed to reduce the risk of COPD?",
+    "options": [
+        "A. Increasing exposure levels",
+        "B. Wearing protective equipment",
+        "C. Avoiding ventilation systems",
+        "D. Smoking during exposure"
+    ],
+    "answer": "B"
+},
+{
+    "question": "What is the purpose of portable oxygen systems in COPD management?",
+    "options": [
+        "A. Improve lung function",
+        "B. Aid in digestion",
+        "C. Allow patients to exercise, work, and travel",
+        "D. Prevent coughing"
+    ],
+    "answer": "C"
+},
+{
+    "question": "Why is it extremely dangerous to smoke with or near oxygen therapy?",
+    "options": [
+        "A. It enhances the effects of oxygen therapy",
+        "B. It reduces the risk of lung infections",
+        "C. It can cause fires and explosions",
+        "D. It improves lung capacity"
+    ],
+    "answer": "C"
+},
+{
+    "question": "How can the proper flow rate and duration of oxygen therapy be determined for a patient?",
+    "options": [
+        "A. By increasing the flow rate gradually",
+        "B. By patient's choice",
+        "C. By arbitrary changes",
+        "D. By healthcare provider's recommendation"
+    ],
+    "answer": "D"
+},
+{
+    "question": "What is the purpose of regular evaluations of blood oxygenation in COPD patients?",
+    "options": [
+        "A. To monitor blood sugar levels",
+        "B. To assess lung capacity",
+        "C. To check for allergies",
+        "D. To ensure oxygen therapy effectiveness"
+    ],
+    "answer": "D"
+},
+{
+    "question": "Which type of medication is commonly used in COPD management to help relax the muscles around the airways?",
+    "options": [
+        "A. Antibiotics",
+        "B. Bronchodilators",
+        "C. Glucocorticosteroids",
+        "D. Vaccines"
+    ],
+    "answer": "B"
+},
+{
+    "question": "What is the role of mucolytic medications in COPD treatment?",
+    "options": [
+        "A. Reduce inflammation",
+        "B. Dilate blood vessels",
+        "C. Break down mucus",
+        "D. Suppress coughing"
+    ],
+    "answer": "C"
+},
+{
+    "question": "Which type of medication is used to suppress coughing in COPD patients?",
+    "options": [
+        "A. Antibiotics",
+        "B. Antitussives",
+        "C. Respiratory stimulants",
+        "D. Vaccines"
+    ],
+    "answer": "B"
+},
+{
+    "question": "What is a bullectomy in the context of COPD surgical management?",
+    "options": [
+        "A. Removal of lung tissues",
+        "B. Excision of enlarged airspaces",
+        "C. Transplantation of healthy lungs",
+        "D. Repair of bronchial walls"
+    ],
+    "answer": "B"
+},
+{
+    "question": "When is a bullectomy considered as a surgical option for COPD patients?",
+    "options": [
+        "A. Stage I COPD",
+        "B. End-stage COPD with primary emphysematous component",
+        "C. Stage III COPD",
+        "D. Stage IV COPD"
+    ],
+    "answer": "B"
+},
+{
+    "question": "What is the purpose of lung volume reduction surgery in COPD management?",
+    "options": [
+        "A. Increase mucus production",
+        "B. Improve lung function",
+        "C. Remove lung tissues",
+        "D. Prevent bronchoconstriction"
+    ],
+    "answer": "B"
+},
+{
+    "question": "In which stage of COPD is lung transplantation considered a viable alternative for surgical treatment?",
+    "options": [
+        "A. Stage I",
+        "B. Stage II",
+        "C. Stage III",
+        "D. Stage IV"
+    ],
+    "answer": "D"
+},
+{
+    "question": "What aspects of the patient's history are important during the assessment phase of the nursing process for COPD?",
+    "options": [
+        "A. Exercise pattern and diet",
+        "B. Work history and environmental factors",
+        "C. Social media usage",
+        "D. Educational background"
+    ],
+    "answer": "B"
+},
+{
+    "question": "What should nurses assess regarding the onset and development of symptoms in COPD patients?",
+    "options": [
+        "A. Sleeping positions",
+        "B. Eating habits",
+        "C. Medication history",
+        "D. Travel history"
+    ],
+    "answer": "C"
+},
+{
+    "question": "Which physical examination finding is indicative of heavy smoking in COPD patients?",
+    "options": [
+        "A. Clubbing of fingers",
+        "B. Distended neck veins on inspiration",
+        "C. Presence of barrel chest",
+        "D. Abdominal breathing"
+    ],
+    "answer": "A"
+},
+{
+    "question": "What nursing intervention is important for patients with impaired gas exchange in COPD?",
+    "options": [
+        "A. Promoting smoking",
+        "B. Improving gas exchange",
+        "C. Achieving airway clearance",
+        "D. Enhancing self-care strategies"
+    ],
+    "answer": "B"
+},
+{
+    "question": "Which nursing diagnosis may be related to bronchoconstriction and increased mucus production in COPD patients?",
+    "options": [
+        "A. Impaired gas exchange",
+        "B. Ineffective airway clearance",
+        "C. Ineffective breathing pattern",
+        "D. Activity intolerance"
+    ],
+    "answer": "B"
+},
+{
+    "question": "What is a common nursing diagnosis for COPD patients due to shortness of breath and airway irritants?",
+    "options": [
+        "A. Activity intolerance",
+        "B. Deficient knowledge",
+        "C. Ineffective breathing pattern",
+        "D. High risk for altered health maintenance"
+    ],
+    "answer": "C"
+},
+{
+    "question": "How can nurses help improve activity tolerance in COPD patients?",
+    "options": [
+        "A. Encouraging bed rest",
+        "B. Limiting physical activities",
+        "C. Enhancing self-care strategies",
+        "D. Monitoring potential complications"
+    ],
+    "answer": "C"
+},
+{
+    "question": "What is a key nursing intervention to enhance self-care strategies in COPD patients?",
+    "options": [
+        "A. Setting unrealistic goals",
+        "B. Avoiding lifestyle modifications",
+        "C. Educating on temperature extremes",
+        "D. Encouraging healthy habits"
+    ],
+        "answer": "D"
+},  
+{
+    "question": "Which nursing intervention focuses on monitoring and managing potential complications in COPD patients?",
+    "options": [
+      "A. Promoting smoking cessation",
+      "B. Improving gas exchange",
+      "C. Enhancing self-care strategies",
+      "D. Monitoring potential complications"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What is the purpose of reviewing the results of diagnostic procedures like arterial blood gases and pulmonary function tests in COPD patients?",
+    "options": [
+      "A. To assess medication effectiveness",
+      "B. To monitor disease progression",
+      "C. To evaluate lung function",
+      "D. To identify potential complications"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which surgical intervention involves the excision of enlarged airspaces that do not contribute to ventilation in COPD patients?",
+    "options": [
+      "A. Lung volume reduction surgery",
+      "B. Lung transplantation",
+      "C. Bronchodilator therapy",
+      "D. Bullectomy"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What is the primary goal of lung transplantation in COPD management?",
+    "options": [
+      "A. Preventing bronchoconstriction",
+      "B. Improving quality of life",
+      "C. Enhancing cough reflex",
+      "D. Reducing mucus production"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "How does lung volume reduction surgery benefit COPD patients?",
+    "options": [
+      "A. Increases mucus production",
+      "B. Improves lung function",
+      "C. Reduces oxygen saturation",
+      "D. Induces bronchoconstriction"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the significance of assessing the patient's environment in the nursing process for COPD?",
+    "options": [
+      "A. To determine social status",
+      "B. To evaluate financial status",
+      "C. To identify potential triggers or irritants",
+      "D. To assess educational background"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Why is it essential for nurses to observe for clubbing in COPD patients during physical examinations?",
+    "options": [
+      "A. To monitor heart rate",
+      "B. To assess lung capacity",
+      "C. To detect changes in finger appearance",
+      "D. To evaluate oxygen saturation"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is a common symptom observed in COPD patients due to bronchial inflammation and mucus production?",
+    "options": [
+      "A. Wheezing",
+      "B. Coughing",
+      "C. Sneezing",
+      "D. Yawning"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "How can nurses help improve breathing patterns in COPD patients?",
+    "options": [
+      "A. Encouraging shallow breathing",
+      "B. Providing oxygen therapy at high rates",
+      "C. Facilitating pursed lips breathing",
+      "D. Discouraging physical activities"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which nursing diagnosis is related to fatigue, ineffective breathing patterns, and hypoxemia in COPD patients?",
+    "options": [
+      "A. Ineffective airway clearance",
+      "B. Activity intolerance",
+      "C. Impaired gas exchange",
+      "D. Deficient knowledge"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the role of antibiotics in the pharmacologic therapy of COPD patients?",
+    "options": [
+      "A. Relaxing the airway muscles",
+      "B. Breaking down mucus",
+      "C. Treating bacterial infections",
+      "D. Improving lung function"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which medication type is used to suppress coughing in COPD patients?",
+    "options": [
+      "A. Bronchodilators",
+      "B. Glucocorticosteroids",
+      "C. Antitussives",
+      "D. Vaccines"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the approximate weight of the human heart?",
+    "options": [
+      "A. 100 g",
+      "B. 200 g",
+      "C. 300 g",
+      "D. 400 g"
+    ],
+    "answer": "C"
+  },
+{
+    "question": "Where is the heart located in the human body?",
+    "options": [
+      "A. In the upper chest",
+      "B. In the lower abdomen",
+      "C. In the center of the thorax",
+      "D. In the left side of the chest"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which layer of the heart is responsible for its pumping action?",
+    "options": [
+      "A. Endocardium",
+      "B. Myocardium",
+      "C. Epicardium",
+      "D. Pericardium"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the fibrous sac that encases the heart?",
+    "options": [
+      "A. Endocardium",
+      "B. Myocardium",
+      "C. Epicardium",
+      "D. Pericardium"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "How much fluid is normally found in the pericardial space?",
+    "options": [
+      "A. About 5 mL",
+      "B. About 10 mL",
+      "C. About 20 mL",
+      "D. About 50 mL"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is NOT a layer of the heart?",
+    "options": [
+      "A. Endocardium",
+      "B. Myocardium",
+      "C. Epicardium",
+      "D. Mesocardium"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Where do the coronary arteries originate?",
+    "options": [
+      "A. From the pulmonary artery",
+      "B. From the aorta",
+      "C. From the superior vena cava",
+      "D. From the left ventricle"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "When are the coronary arteries primarily perfused?",
+    "options": [
+      "A. During systole",
+      "B. During diastole",
+      "C. Continuously throughout the cardiac cycle",
+      "D. Only during exercise"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the normal resting heart rate range for adults?",
+    "options": [
+      "A. 40 to 60 beats per minute",
+      "B. 60 to 80 beats per minute",
+      "C. 80 to 100 beats per minute",
+      "D. 100 to 120 beats per minute"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the medical term for an abnormally fast heart rate?",
+    "options": [
+      "A. Bradycardia",
+      "B. Tachycardia",
+      "C. Arrhythmia",
+      "D. Fibrillation"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the most common cause of cardiovascular disease?",
+    "options": [
+      "A. Hypertension",
+      "B. Diabetes",
+      "C. Atherosclerosis",
+      "D. Obesity"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What substances accumulate in the arterial walls during atherosclerosis?",
+    "options": [
+      "A. Calcium and iron",
+      "B. Protein and carbohydrates",
+      "C. Lipids and fibrous tissue",
+      "D. Water and electrolytes"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is NOT a nonmodifiable risk factor for coronary artery disease?",
+    "options": [
+      "A. Family history",
+      "B. Age",
+      "C. Gender",
+      "D. Smoking"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "At what age do men typically have an increased risk of coronary artery disease?",
+    "options": [
+      "A. More than 35 years",
+      "B. More than 40 years",
+      "C. More than 45 years",
+      "D. More than 50 years"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which racial group has a higher incidence of coronary artery disease?",
+    "options": [
+      "A. Caucasians",
+      "B. Hispanic Americans",
+      "C. Asian Americans",
+      "D. African Americans"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is NOT a modifiable risk factor for coronary artery disease?",
+    "options": [
+      "A. Hyperlipidemia",
+      "B. Hypertension",
+      "C. Physical inactivity",
+      "D. Race"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What is the medical term for high blood cholesterol levels?",
+    "options": [
+      "A. Hyperglycemia",
+      "B. Hyperlipidemia",
+      "C. Hypertension",
+      "D. Hypercholesterolemia"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which layer of the heart is in direct contact with the blood in the heart chambers?",
+    "options": [
+      "A. Epicardium",
+      "B. Myocardium",
+      "C. Endocardium",
+      "D. Pericardium"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the primary function of the pericardial fluid?",
+    "options": [
+      "A. To provide nutrients to the heart",
+      "B. To regulate heart rate",
+      "C. To lubricate the heart's surface and reduce friction",
+      "D. To remove waste products from the heart"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What condition may occur when there is inadequate oxygen supply to the heart muscle?",
+    "options": [
+      "A. Myocardial infarction",
+      "B. Myocardial ischemia",
+      "C. Myocardial hypertrophy",
+      "D. Myocardial fibrosis"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is angina pectoris primarily characterized by?",
+    "options": [
+      "A. Stomach pain",
+      "B. Chest pain or pressure",
+      "C. Headache",
+      "D. Joint pain"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is NOT a factor associated with anginal pain?",
+    "options": [
+      "A. Physical exertion",
+      "B. Exposure to cold",
+      "C. Eating a light snack",
+      "D. Stress"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "How does eating a heavy meal potentially trigger angina?",
+    "options": [
+      "A. It increases heart rate",
+      "B. It causes direct damage to the heart",
+      "C. It reduces blood supply to the heart muscle",
+      "D. It increases blood pressure"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What type of angina is characterized by pain at rest caused by coronary artery vasospasm?",
+    "options": [
+      "A. Stable angina",
+      "B. Unstable angina",
+      "C. Silent ischemia",
+      "D. Variant angina"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which type of angina shows objective evidence of ischemia but the patient reports no pain?",
+    "options": [
+      "A. Intractable angina",
+      "B. Stable angina",
+      "C. Silent ischemia",
+      "D. Unstable angina"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "In stable angina, what typically relieves the pain?",
+    "options": [
+      "A. Exercise",
+      "B. Eating",
+      "C. Rest and/or nitroglycerin",
+      "D. Cold exposure"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Where might angina pain radiate to?",
+    "options": [
+      "A. Legs",
+      "B. Stomach",
+      "C. Neck and jaw",
+      "D. Feet"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is NOT a common clinical manifestation of angina?",
+    "options": [
+      "A. Shortness of breath",
+      "B. Nausea",
+      "C. Fever",
+      "D. Dizziness"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the primary purpose of nitroglycerin in treating angina?",
+    "options": [
+      "A. To increase heart rate",
+      "B. To reduce myocardial oxygen consumption",
+      "C. To increase blood pressure",
+      "D. To thin the blood"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "How do beta-adrenergic blocking agents help in managing angina?",
+    "options": [
+      "A. By increasing heart rate",
+      "B. By dilating blood vessels",
+      "C. By reducing myocardial oxygen consumption",
+      "D. By increasing blood pressure"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the main effect of calcium channel blocking agents in angina treatment?",
+    "options": [
+      "A. They increase heart rate",
+      "B. They decrease heart rate",
+      "C. They increase blood pressure",
+      "D. They increase oxygen demand"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Why are antiplatelet and anticoagulant medications used in angina management?",
+    "options": [
+      "A. To increase heart rate",
+      "B. To decrease pain",
+      "C. To prevent platelet aggregation and thrombosis",
+      "D. To increase oxygen supply to the heart"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the primary reason for administering oxygen during an angina attack?",
+    "options": [
+      "A. To decrease heart rate",
+      "B. To increase oxygen delivery to the myocardium",
+      "C. To reduce blood pressure",
+      "D. To thin the blood"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is NOT a responsibility of the nurse when administering oxygen to an angina patient?",
+    "options": [
+      "A. Observing respiratory rate",
+      "B. Monitoring blood oxygen saturation",
+      "C. Adjusting room temperature",
+      "D. Observing respiratory rhythm"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What does 'unstable angina' indicate?",
+    "options": [
+      "A. Symptoms are decreasing in frequency",
+      "B. Symptoms are consistent and predictable",
+      "C. Symptoms are increasing in frequency and severity",
+      "D. Symptoms only occur during rest"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which type of angina is described as severe and incapacitating chest pain?",
+    "options": [
+      "A. Stable angina",
+      "B. Variant angina",
+      "C. Intractable angina",
+      "D. Silent ischemia"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "How does exposure to cold potentially trigger angina?",
+    "options": [
+      "A. By causing vasodilation",
+      "B. By lowering blood pressure",
+      "C. By causing vasoconstriction and elevating blood pressure",
+      "D. By decreasing oxygen demand"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What effect do catecholamines have during emotional stress that can trigger angina?",
+    "options": [
+      "A. They decrease heart rate",
+      "B. They lower blood pressure",
+      "C. They decrease myocardial workload",
+      "D. They increase heart rate and blood pressure"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is a common description of angina pain?",
+    "options": [
+      "A. Sharp and localized",
+      "B. Dull and widespread",
+      "C. Burning and itchy",
+      "D. Throbbing and pulsating"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary difference between stable and unstable angina?",
+    "options": [
+      "A. Stable angina only occurs at night",
+      "B. Unstable angina is relieved by rest",
+      "C. Stable angina is predictable and consistent",
+      "D. Unstable angina decreases in severity over time"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is angina pectoris primarily characterized by?",
+    "options": [
+      "A. Stomach pain",
+      "B. Chest pain or pressure",
+      "C. Headache",
+      "D. Joint pain"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is NOT a factor associated with anginal pain?",
+    "options": [
+      "A. Physical exertion",
+      "B. Exposure to cold",
+      "C. Eating a light snack",
+      "D. Stress"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "How does eating a heavy meal potentially trigger angina?",
+    "options": [
+      "A. It increases heart rate",
+      "B. It causes direct damage to the heart",
+      "C. It reduces blood supply to the heart muscle",
+      "D. It increases blood pressure"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What type of angina is characterized by pain at rest caused by coronary artery vasospasm?",
+    "options": [
+      "A. Stable angina",
+      "B. Unstable angina",
+      "C. Silent ischemia",
+      "D. Variant angina"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which type of angina shows objective evidence of ischemia but the patient reports no pain?",
+    "options": [
+      "A. Intractable angina",
+      "B. Stable angina",
+      "C. Silent ischemia",
+      "D. Unstable angina"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "In stable angina, what typically relieves the pain?",
+    "options": [
+      "A. Exercise",
+      "B. Eating",
+      "C. Rest and/or nitroglycerin",
+      "D. Cold exposure"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Where might angina pain radiate to?",
+    "options": [
+      "A. Legs",
+      "B. Stomach",
+      "C. Neck and jaw",
+      "D. Feet"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is NOT a common clinical manifestation of angina?",
+    "options": [
+      "A. Shortness of breath",
+      "B. Nausea",
+      "C. Fever",
+      "D. Dizziness"
+    ],
+    "answer": "C"
+  },
+
+
+
+
+
+
+
+
+
+    
     {
         "question": "What is the primary purpose of nitroglycerin in treating angina?",
         "options": [
@@ -2982,6 +3308,26 @@ quizzes = {
         ],
         "answer": "b"
     },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     {
         "question": "What phase follows the oliguric phase in acute renal failure?",
         "options": [
