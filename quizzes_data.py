@@ -4021,8 +4021,3549 @@ quizzes = {
             "D. All of the above"
         ],
         "answer": "D"
-    }
-]
+    },
+{
+    "question": "What is a tumor?",
+    "options": [
+      "A. A type of blood cell",
+      "B. The formation of an abnormal mass of tissue",
+      "C. A healthy tissue growth",
+      "D. An infection"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following describes a benign tumor?",
+    "options": [
+      "A. Cancerous and invasive",
+      "B. Non-cancerous and does not invade nearby tissue",
+      "C. Spreads rapidly to other organs",
+      "D. Always requires chemotherapy"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What characterizes a malignant tumor?",
+    "options": [
+      "A. It is always benign",
+      "B. It does not invade nearby tissues",
+      "C. It may invade healthy tissue or spread to other parts of the body",
+      "D. It is always smaller than benign tumors"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What does metastasis refer to?",
+    "options": [
+      "A. The formation of new tumors",
+      "B. The spread of cancer to another part of the body",
+      "C. The diagnosis of cancer",
+      "D. The treatment of cancer"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is an example of solid cancer?",
+    "options": [
+      "A. Acute lymphocytic leukemia",
+      "B. Lung cancer",
+      "C. Chronic myeloid leukemia",
+      "D. Bone marrow cancer"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What type of cancer does hematological cancers include?",
+    "options": [
+      "A. Brain cancer",
+      "B. Blood cancers",
+      "C. Skin cancer",
+      "D. Stomach cancer"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What are tumor markers?",
+    "options": [
+      "A. Substances found in healthy individuals",
+      "B. Substances found at normal levels in cancer patients",
+      "C. Substances found at higher than normal levels in some people with cancer",
+      "D. A type of cancer treatment"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which diagnostic test uses sound waves to create images of the body's internal structures?",
+    "options": [
+      "A. Biopsy",
+      "B. Ultrasound",
+      "C. Endoscopy",
+      "D. Bone marrow aspiration"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is a biopsy?",
+    "options": [
+      "A. A type of blood test",
+      "B. An imaging test",
+      "C. A procedure to remove and examine tissue",
+      "D. A radiation treatment"
+    ],
+    "answer": "C"
+  },
+      {
+    "question": "Which of the following is a common cause of cancer?",
+    "options": [
+      "A. Regular exercise",
+      "B. Genetic factors",
+      "C. Healthy diet",
+      "D. Proper hydration"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What does the 'C' in CAUTION stand for?",
+    "options": [
+      "A. Change in appetite",
+      "B. Change in bowel or bladder habits",
+      "C. Change in weight",
+      "D. Change in energy levels"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which symptom indicates a sore that does not heal?",
+    "options": [
+      "A. A",
+      "B. C",
+      "C. A sore that does not heal",
+      "D. O"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What does the 'T' in CAUTION refer to?",
+    "options": [
+      "A. Thickening or lump in the breast or elsewhere",
+      "B. Temporary pain",
+      "C. Tiredness",
+      "D. Temporary swelling"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is chemotherapy?",
+    "options": [
+      "A. A surgical procedure",
+      "B. A treatment that uses chemical substances to treat cancer",
+      "C. A diagnostic test",
+      "D. A type of radiation therapy"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is radical surgery?",
+    "options": [
+      "A. A minor surgical procedure",
+      "B. A surgery that removes the tumor and surrounding tissue",
+      "C. A type of chemotherapy",
+      "D. A treatment involving lasers"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the purpose of laser surgery?",
+    "options": [
+      "A. To make an accurate diagnosis",
+      "B. To destroy cancer cells using laser light",
+      "C. To remove blood clots",
+      "D. To treat infections"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is radiotherapy?",
+    "options": [
+      "A. A treatment using sound waves",
+      "B. A treatment using ionizing radiation to kill malignant cells",
+      "C. A surgical technique",
+      "D. A method for diagnosing cancer"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who can be a caregiver for cancer patients?",
+    "options": [
+      "A. Only professional nurses",
+      "B. Family, partners, relatives, or friends",
+      "C. Only doctors",
+      "D. Only trained volunteers"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What does 'O' in CAUTION stand for?",
+    "options": [
+      "A. Obvious changes in warts or moles",
+      "B. Ongoing pain",
+      "C. Overweight",
+      "D. Ongoing fatigue"
+    ],
+    "answer": "A"
+  },
+       {
+    "question": "What is the most common cause of liver cirrhosis in adults?",
+    "options": [
+      "A. Viral hepatitis",
+      "B. Gallstones",
+      "C. Pancreatitis",
+      "D. Fatty diet"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is an early sign of liver cirrhosis?",
+    "options": [
+      "A. Coma",
+      "B. Jaundice",
+      "C. Ascites",
+      "D. Hepatic encephalopathy"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Why does a cirrhotic patient develop ascites?",
+    "options": [
+      "A. Low urea",
+      "B. High potassium",
+      "C. Low albumin",
+      "D. High hemoglobin"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the first nursing action when a cirrhotic patient shows confusion?",
+    "options": [
+      "A. Give high protein meal",
+      "B. Encourage ambulation",
+      "C. Assess ammonia level",
+      "D. Provide IV antibiotics"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which diuretic is most appropriate for managing ascites in liver cirrhosis?",
+    "options": [
+      "A. Furosemide",
+      "B. Spironolactone",
+      "C. Hydrochlorothiazide",
+      "D. Mannitol"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Why should protein intake be restricted in patients with hepatic encephalopathy?",
+    "options": [
+      "A. To prevent constipation",
+      "B. To reduce blood sugar",
+      "C. To decrease ammonia production",
+      "D. To prevent dehydration"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following suggests bleeding tendency in cirrhosis?",
+    "options": [
+      "A. High albumin",
+      "B. Low bilirubin",
+      "C. Prolonged PT",
+      "D. Low urea"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which test confirms hepatic encephalopathy?",
+    "options": [
+      "A. Blood glucose",
+      "B. Serum ammonia",
+      "C. Hemoglobin",
+      "D. Serum calcium"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Why does PT become prolonged in liver cirrhosis?",
+    "options": [
+      "A. Increased bile salts",
+      "B. Decreased vitamin K",
+      "C. Reduced clotting factor production",
+      "D. Elevated hemoglobin"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which symptom indicates spontaneous bacterial peritonitis (SBP)?",
+    "options": [
+      "A. Constipation",
+      "B. Fever and abdominal pain",
+      "C. Diarrhea",
+      "D. Weight gain only"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which nursing assessment is most important in ascitic patients?",
+    "options": [
+      "A. Blood glucose",
+      "B. Abdominal girth measurement",
+      "C. Skin turgor",
+      "D. Chest expansion"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the main dietary advice for cirrhosis with ascites?",
+    "options": [
+      "A. Increase sugar",
+      "B. Decrease fat",
+      "C. Restrict sodium",
+      "D. Add calcium"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which complication results from untreated hepatic encephalopathy?",
+    "options": [
+      "A. Stroke",
+      "B. Coma",
+      "C. Hypertension",
+      "D. Seizures"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is a key sign of portal hypertension in cirrhosis?",
+    "options": [
+      "A. High PT",
+      "B. Jaundice",
+      "C. Esophageal varices",
+      "D. Constipation"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Why is lactulose used in cirrhotic patients?",
+    "options": [
+      "A. Reduces blood pressure",
+      "B. Stimulates appetite",
+      "C. Lowers serum ammonia",
+      "D. Increases urine output"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which lab finding reflects the liver's synthetic failure?",
+    "options": [
+      "A. Elevated ALT",
+      "B. Low albumin",
+      "C. High creatinine",
+      "D. High sodium"
+    ],
+    "answer": "B"
+  },
+       {
+    "question": "What condition is a medical emergency in cirrhosis?",
+    "options": [
+      "A. Fatigue",
+      "B. Jaundice",
+      "C. Hematemesis",
+      "D. Muscle cramps"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which parameter helps assess fluid retention?",
+    "options": [
+      "A. Daily calorie intake",
+      "B. Body temperature",
+      "C. Daily weight",
+      "D. Pulse rate"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What does asterixis (flapping tremor) indicate?",
+    "options": [
+      "A. Dehydration",
+      "B. Encephalopathy",
+      "C. Hypoglycemia",
+      "D. Fluid overload"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the best position for a patient with massive ascites?",
+    "options": [
+      "A. Supine",
+      "B. Prone",
+      "C. High Fowler’s",
+      "D. Left lateral"
+    ],
+    "answer": "C"
+  },
+       {
+    "question": "Which of the following is NOT a function of the musculoskeletal system?",
+    "options": [
+      "A. Support",
+      "B. Digestion",
+      "C. Protection",
+      "D. Movement"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What does the musculoskeletal system produce that is crucial for the body’s overall function?",
+    "options": [
+      "A. Hormones",
+      "B. Blood cells",
+      "C. Digestive enzymes",
+      "D. Nerve impulses"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which component of the musculoskeletal system connects muscles to bones?",
+    "options": [
+      "A. Ligaments",
+      "B. Cartilage",
+      "C. Tendons",
+      "D. Joints"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the primary purpose of the skeletal muscles?",
+    "options": [
+      "A. Production of blood cells",
+      "B. Storage of minerals",
+      "C. Generation of movement",
+      "D. Regulation of body temperature"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is NOT involved in temperature regulation by the musculoskeletal system?",
+    "options": [
+      "A. Muscle contraction",
+      "B. Production of sweat",
+      "C. Blood vessel dilation",
+      "D. Bone density"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What is a fracture?",
+    "options": [
+      "A. A dislocation of a joint",
+      "B. A sprain of ligaments",
+      "C. A break in the continuity of a bone",
+      "D. An infection in the bone"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which type of fracture involves a break across the entire cross-section of the bone?",
+    "options": [
+      "A. Incomplete fracture",
+      "B. Simple fracture",
+      "C. Complete fracture",
+      "D. Greenstick fracture"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What distinguishes a compound fracture from a simple fracture?",
+    "options": [
+      "A. The location of the fracture",
+      "B. The size of the bone involved",
+      "C. Whether the fracture causes a break in the skin",
+      "D. The length of time needed for healing"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which type of fracture is most common in children due to the flexibility of their bones?",
+    "options": [
+      "A. Complete fracture",
+      "B. Greenstick fracture",
+      "C. Compound fracture",
+      "D. Simple fracture"
+    ],
+    "answer": "B"
+  },
+        {
+    "question": "Which of the following is NOT a function of the musculoskeletal system?",
+    "options": ["A. Support", "B. Digestion", "C. Protection", "D. Movement"],
+    "answer": "B"
+  },
+  {
+    "question": "What does the musculoskeletal system produce that is crucial for the body’s overall function?",
+    "options": ["A. Hormones", "B. Blood cells", "C. Digestive enzymes", "D. Nerve impulses"],
+    "answer": "B"
+  },
+  {
+    "question": "Which component of the musculoskeletal system connects muscles to bones?",
+    "options": ["A. Ligaments", "B. Cartilage", "C. Tendons", "D. Joints"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the primary purpose of the skeletal muscles?",
+    "options": ["A. Production of blood cells", "B. Storage of minerals", "C. Generation of movement", "D. Regulation of body temperature"],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is NOT involved in temperature regulation by the musculoskeletal system?",
+    "options": ["A. Muscle contraction", "B. Production of sweat", "C. Blood vessel dilation", "D. Bone density"],
+    "answer": "D"
+  },
+  {
+    "question": "What is a fracture?",
+    "options": ["A. A dislocation of a joint", "B. A sprain of ligaments", "C. A break in the continuity of a bone", "D. An infection in the bone"],
+    "answer": "C"
+  },
+  {
+    "question": "Which type of fracture involves a break across the entire cross-section of the bone?",
+    "options": ["A. Incomplete fracture", "B. Simple fracture", "C. Complete fracture", "D. Greenstick fracture"],
+    "answer": "C"
+  },
+  {
+    "question": "What distinguishes a compound fracture from a simple fracture?",
+    "options": ["A. The location of the fracture", "B. The size of the bone involved", "C. Whether the fracture causes a break in the skin", "D. The length of time needed for healing"],
+    "answer": "C"
+  },
+  {
+    "question": "Which type of fracture is most common in children due to the flexibility of their bones?",
+    "options": ["A. Complete fracture", "B. Greenstick fracture", "C. Compound fracture", "D. Simple fracture"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary difference between a complete and an incomplete fracture?",
+    "options": ["A. The number of bones involved", "B. The presence or absence of a skin wound", "C. The extent of the break across the bone", "D. The type of bone affected"],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a common symptom of a fracture?",
+    "options": ["A. Continuous and increasing pain", "B. Increased range of motion", "C. Increased muscle strength", "D. Decreased heart rate"],
+    "answer": "A"
+  },
+  {
+    "question": "What causes the loss of function in an extremity after a fracture?",
+    "options": ["A. Muscle spasms", "B. Damage to skin and tissues", "C. Disruption of the integrity of the bones", "D. Increased blood flow to the area"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the crumbling sensation felt when palpating a fractured extremity?",
+    "options": ["A. Edema", "B. Ecchymosis", "C. Crepitus", "D. Shortening"],
+    "answer": "C"
+  },
+  {
+    "question": "Which symptom is characterized by swelling and discoloration at the site of a fracture?",
+    "options": ["A. Deformity", "B. Localized edema and ecchymosis", "C. Crepitus", "D. Pain"],
+    "answer": "B"
+  },
+  {
+    "question": "What causes the shortening of an extremity in fractures of long bones?",
+    "options": ["A. Muscle spasm", "B. Compression of the fractured bone", "C. Increased blood flow", "D. Decreased muscle strength"],
+    "answer": "B"
+  },
+  {
+    "question": "What is hypovolemic shock in the context of a fracture?",
+    "options": ["A. Shock caused by a sudden increase in heart rate", "B. Shock due to an allergic reaction", "C. Shock resulting from hemorrhage and loss of intravascular volume", "D. Shock caused by nerve damage"],
+    "answer": "C"
+  },
+        
+ {
+    "question": "What is the primary difference between a complete and an incomplete fracture?",
+    "options": [
+      "A. The number of bones involved",
+      "B. The presence or absence of a skin wound",
+      "C. The extent of the break across the bone",
+      "D. The type of bone affected"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "True or False: A greenstick fracture is an example of a complete fracture.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "True or False: A compound fracture is also known as an open fracture.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a common symptom of a fracture?",
+    "options": [
+      "A. Continuous and increasing pain",
+      "B. Increased range of motion",
+      "C. Increased muscle strength",
+      "D. Decreased heart rate"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What causes the loss of function in an extremity after a fracture?",
+    "options": [
+      "A. Muscle spasms",
+      "B. Damage to skin and tissues",
+      "C. Disruption of the integrity of the bones",
+      "D. Increased blood flow to the area"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the crumbling sensation felt when palpating a fractured extremity?",
+    "options": [
+      "A. Edema",
+      "B. Ecchymosis",
+      "C. Crepitus",
+      "D. Shortening"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which symptom is characterized by swelling and discoloration at the site of a fracture?",
+    "options": [
+      "A. Deformity",
+      "B. Localized edema and ecchymosis",
+      "C. Crepitus",
+      "D. Pain"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What causes the shortening of an extremity in fractures of long bones?",
+    "options": [
+      "A. Muscle spasm",
+      "B. Compression of the fractured bone",
+      "C. Increased blood flow",
+      "D. Decreased muscle strength"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "True or False: Pain from a fracture is continuous and increases in severity until the bone fragments are immobilized.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "True or False: After a fracture, the affected extremity retains its normal function.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "True or False: Crepitus is a sign of a fracture and is described as a crumbling sensation felt when the extremity is palpated.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "True or False: Localized edema and ecchymosis around a fracture site occur due to trauma and bleeding into the tissues.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "True or False: Shortening of the extremity is a common sign in fractures of long bones due to muscle elongation.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is hypovolemic shock in the context of a fracture?",
+    "options": [
+      "A. Shock caused by a sudden increase in heart rate",
+      "B. Shock due to an allergic reaction",
+      "C. Shock resulting from hemorrhage and loss of intravascular volume",
+      "D. Shock caused by nerve damage"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a possible complication when fat globules enter the vascular compartment after a fracture?",
+    "options": [
+      "A. Hypovolemic shock",
+      "B. Compartment syndrome",
+      "C. Fat embolism",
+      "D. Bone infection"
+    ],
+    "answer": "C"
+  },
+        {
+    "question": "What causes compartment syndrome in the context of fractures?",
+    "options": [
+      "A. Increased bone density",
+      "B. Abnormal growth of bone tissue",
+      "C. Increased pressure within a compartment leading to decreased blood flow",
+      "D. Decreased muscle activity"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organs are commonly affected by fat embolism following a fracture?",
+    "options": [
+      "A. Heart, stomach, and liver",
+      "B. Lungs, brain, kidneys, and other organs",
+      "C. Skin, muscles, and joints",
+      "D. Ears, nose, and throat"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the result of untreated compartment syndrome?",
+    "options": [
+      "A. Increased muscle strength",
+      "B. Ischemic necrosis of tissues",
+      "C. Faster healing of the fracture",
+      "D. Improved circulation"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "True or False: Hypovolemic shock following a fracture is primarily due to the direct injury to the nerve endings.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "True or False: Fat embolism can occur when fat globules from the bone marrow enter the bloodstream during a fracture.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "True or False: Compartment syndrome occurs due to an increase in blood flow to an injured area.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "True or False: Fat embolism can lead to complications in the lungs, brain, kidneys, and other organs.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "True or False: Compartment syndrome, if left untreated, may result in tissue ischemia and necrosis.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is delayed union in the context of fractures?",
+    "options": [
+      "A. Fracture healing occurs faster than expected",
+      "B. Fracture healing does not occur at a normal rate for the type and location of the fracture",
+      "C. Fracture healing occurs at the expected time",
+      "D. Fracture healing is accompanied by increased blood flow"
+    ],
+    "answer": "B"
+  },
+        {
+    "question": "Which of the following is a risk factor for avascular necrosis (AVN)?",
+    "options": [
+      "A. High-calcium diet",
+      "B. Increased physical activity",
+      "C. Prolonged high-dose corticosteroid therapy",
+      "D. Low protein levels"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which condition occurs when the blood supply to a bone is disrupted, causing the bone to die?",
+    "options": [
+      "A. Malunion",
+      "B. Nonunion",
+      "C. Avascular necrosis (AVN)",
+      "D. Delayed union"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following diseases can increase the risk of developing avascular necrosis?",
+    "options": [
+      "A. Osteoporosis",
+      "B. Chronic renal disease",
+      "C. Hypertension",
+      "D. Diabetes"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the first step in the emergency management of a fracture?",
+    "options": [
+      "A. Administering pain medication",
+      "B. Applying a cold compress",
+      "C. Immobilizing the body part",
+      "D. Providing oral fluids"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "How should the lower extremities be immobilized in case of a long bone fracture?",
+    "options": [
+      "A. By applying an ice pack",
+      "B. By elevating the legs",
+      "C. By bandaging the legs together",
+      "D. By applying pressure bandages"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the purpose of assessing the neurovascular status before and after splinting a fracture?",
+    "options": [
+      "A. To monitor for signs of infection",
+      "B. To evaluate the adequacy of peripheral tissue perfusion and nerve function",
+      "C. To determine the type of fracture",
+      "D. To assess the patient's pain level"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which type of fracture management involves aligning bone fragments through manipulation and manual traction without surgery?",
+    "options": [
+      "A. Open reduction",
+      "B. Closed reduction",
+      "C. Traction reduction",
+      "D. Surgical fixation"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the purpose of internal fixation devices such as screws, plates, and rods in fracture management?",
+    "options": [
+      "A. To prevent infection",
+      "B. To reduce pain",
+      "C. To hold bone fragments in position until solid bone healing occurs",
+      "D. To enhance blood flow"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "True or False: Delayed union occurs when a fracture heals faster than normal for its location and type.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "True or False: Nonunion results when the ends of a fractured bone fail to unite in normal alignment.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "True or False: Avascular necrosis (AVN) can be caused by disruption of blood supply following a fracture.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "True or False: Prolonged high-dose corticosteroid therapy can be a risk factor for avascular necrosis.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "True or False: Malunion results in the bone ends failing to unite entirely.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "True or False: In an upper extremity injury, the arm may be bandaged to the chest for immobilization.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "True or False: Joints proximal and distal to the fracture should not be immobilized.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "True or False: In the case of an open fracture, covering the wound with a sterile dressing is necessary to prevent contamination.",
+    "options": [
+      "A. True",
+      "B. False"
+    ],
+    "answer": "A"
+  },
+        {
+    "question": "True or False: Open reduction involves aligning bone fragments surgically and may use internal fixation devices to hold the bone in position.",
+    "options": ["A. True", "B. False"],
+    "answer": "A"
+  },
+  {
+    "question": "True or False: Closed reduction always requires the use of anesthesia and surgical tools.",
+    "options": ["A. True", "B. False"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary goal of immobilization after a fracture has been reduced?",
+    "options": [
+      "A. To improve muscle strength",
+      "B. To maintain proper position and alignment of bone fragments until union occurs",
+      "C. To enhance blood circulation",
+      "D. To prevent swelling"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is NOT a method of external fixation for fractures?",
+    "options": [
+      "A. Bandages",
+      "B. Casts",
+      "C. External fixators",
+      "D. Internal screws"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "How is edema controlled in a patient with a fracture?",
+    "options": [
+      "A. By applying heat packs",
+      "B. By elevating the injured extremity and applying ice",
+      "C. By restricting fluid intake",
+      "D. By massaging the injured area"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which exercises are encouraged to minimize muscle atrophy and promote circulation after a fracture?",
+    "options": [
+      "A. Aerobic exercises",
+      "B. Isometric and muscle-setting exercises",
+      "C. Weight-lifting exercises",
+      "D. High-impact exercises"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the purpose of encouraging participation in activities of daily living (ADLs) after a fracture?",
+    "options": [
+      "A. To increase the risk of re-injury",
+      "B. To promote independent functioning and self-esteem",
+      "C. To delay recovery time",
+      "D. To reduce the need for pain medication"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "True or False: After a fracture is reduced, immobilization can be achieved by internal or external fixation methods.",
+    "options": ["A. True", "B. False"],
+    "answer": "A"
+  },
+  {
+    "question": "True or False: Applying heat is an effective method to control edema in an injured extremity.",
+    "options": ["A. True", "B. False"],
+    "answer": "B"
+  },
+  {
+    "question": "True or False: Monitoring neurovascular status includes checking circulation, motion, and sensation.",
+    "options": ["A. True", "B. False"],
+    "answer": "A"
+  },
+  {
+    "question": "True or False: Anxiety and discomfort in patients with fractures should be managed only with medication.",
+    "options": ["A. True", "B. False"],
+    "answer": "B"
+  },
+  {
+    "question": "True or False: Isometric and muscle-setting exercises should be avoided after a fracture to prevent further injury.",
+    "options": ["A. True", "B. False"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary purpose of a cast in the management of fractures?",
+    "options": [
+      "A. To improve muscle strength",
+      "B. To provide external immobilization and support to fractured bones",
+      "C. To reduce swelling",
+      "D. To administer medication"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is NOT a function of a cast?",
+    "options": [
+      "A. Immobilizing a reduced fracture",
+      "B. Correcting a deformity",
+      "C. Improving muscle strength",
+      "D. Supporting and stabilizing weakened joints"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "How should an immobilized arm be positioned to control swelling?",
+    "options": [
+      "A. Elevated",
+      "B. Depressed",
+      "C. Bent at the elbow",
+      "D. Extended horizontally"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What should be assessed to ensure proper circulation in a patient with a cast?",
+    "options": [
+      "A. Skin elasticity",
+      "B. Color, temperature, and capillary refill",
+      "C. Range of motion",
+      "D. Muscle strength"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is an important aspect of nerve function assessment in a patient with a cast?",
+    "options": [
+      "A. Checking for muscle spasms",
+      "B. Observing the patient’s ability to move fingers or toes and asking about sensations",
+      "C. Measuring the length of the cast",
+      "D. Evaluating skin dryness"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "True or False: A cast can be used to both immobilize a fracture and correct a deformity.",
+    "options": ["A. True", "B. False"],
+    "answer": "A"
+  },
+  {
+    "question": "True or False: Elevating the immobilized limb is not necessary if there is no swelling.",
+    "options": ["A. True", "B. False"],
+    "answer": "B"
+  },
+  {
+    "question": "True or False: To assess circulation in a casted limb, the nurse should check the skin’s color, temperature, and capillary refill.",
+    "options": ["A. True", "B. False"],
+    "answer": "A"
+  },
+       {
+    "question": "The ability to move the fingers or toes is not relevant in assessing nerve function in a casted limb.",
+    "options": ["A. TRUE", "B. FALSE"],
+    "answer": "B. FALSE"
+  },
+  {
+    "question": "The nurse and physical therapist are responsible for teaching the patient how to use assistive devices like crutches or walkers.",
+    "options": ["A. TRUE", "B. FALSE"],
+    "answer": "A. TRUE"
+  },
+  {
+    "question": "Traction is applied to reduce muscle spasms and align fractures.",
+    "options": ["A. TRUE", "B. FALSE"],
+    "answer": "A. TRUE"
+  },
+  {
+    "question": "Skin traction involves inserting pins into the bone for stability.",
+    "options": ["A. TRUE", "B. FALSE"],
+    "answer": "B. FALSE"
+  },
+  {
+    "question": "Skin traction is typically used to control muscle spasms and to immobilize an area before surgery.",
+    "options": ["A. TRUE", "B. FALSE"],
+    "answer": "A. TRUE"
+  },
+  {
+    "question": "Traction can also be used to increase the space between opposing surfaces.",
+    "options": ["A. TRUE", "B. FALSE"],
+    "answer": "A. TRUE"
+  },
+  {
+    "question": "The application of skin traction can lead to increased skin elasticity.",
+    "options": ["A. TRUE", "B. FALSE"],
+    "answer": "B. FALSE"
+  },
+  {
+    "question": "Buck's extension traction is used for immobilizing fractures of the proximal femur.",
+    "options": ["A. TRUE", "B. FALSE"],
+    "answer": "A. TRUE"
+  },
+  {
+    "question": "Skeletal traction is applied externally and does not touch the bone.",
+    "options": ["A. TRUE", "B. FALSE"],
+    "answer": "B. FALSE"
+  },
+  {
+    "question": "External fixators are useful for managing open fractures with soft tissue damage and allow for treatment of damaged tissues.",
+    "options": ["A. TRUE", "B. FALSE"],
+    "answer": "A. TRUE"
+  },
+  {
+    "question": "Buck's extension traction can be applied to both legs simultaneously.",
+    "options": ["A. TRUE", "B. FALSE"],
+    "answer": "A. TRUE"
+  },
+       {
+        "question": "External fixators are typically used for minor fractures with minimal soft tissue involvement.",
+        "options": ["A. TRUE", "B. FALSE"],
+        "answer": "B. FALSE"
+    },
+    {
+        "question": "Pin care should be performed with cotton-tipped applicators soaked in chlorhexidine solution to prevent infection.",
+        "options": ["A. TRUE", "B. FALSE"],
+        "answer": "A. TRUE"
+    },
+    {
+        "question": "Psychological preparation of the patient is unnecessary if the fracture is treated with external fixation.",
+        "options": ["A. TRUE", "B. FALSE"],
+        "answer": "B. FALSE"
+    },
+    {
+        "question": "Internal fixation involves using mechanical devices like rods and screws to stabilize and join fractured bones.",
+        "options": ["A. TRUE", "B. FALSE"],
+        "answer": "A. TRUE"
+    },
+    {
+        "question": "Elevating the extremity is not needed if the patient is on pain medication.",
+        "options": ["A. TRUE", "B. FALSE"],
+        "answer": "B. FALSE"
+    },
+    {
+        "question": "ORIF is typically used for minor fractures and does not require surgical intervention.",
+        "options": ["A. TRUE", "B. FALSE"],
+        "answer": "B. FALSE"
+    },
+    {
+        "question": "CRIF involves internal fixation without the need for open surgery.",
+        "options": ["A. TRUE", "B. FALSE"],
+        "answer": "A. TRUE"
+    },
+    {
+        "question": "If fracture displacement exceeds 2mm after CRIF, ORIF is generally not recommended.",
+        "options": ["A. TRUE", "B. FALSE"],
+        "answer": "B. FALSE"
+    },
+    {
+        "question": "CRIF is typically used for stable fractures and does not require any internal fixation.",
+        "options": ["A. TRUE", "B. FALSE"],
+        "answer": "B. FALSE"
+    },
+    {
+        "question": "CRIF is a less invasive alternative to ORIF and is used when displacement is minimal after reduction.",
+        "options": ["A. TRUE", "B. FALSE"],
+        "answer": "A. TRUE"
+    },
+    {
+        "question": "Open reduction and internal fixation (ORIF) is preferred over CRIF if displacement exceeds 2mm after reduction.",
+        "options": ["A. TRUE", "B. FALSE"],
+        "answer": "A. TRUE"
+    },
+        {
+    "question": "Which of the following is a potential complication of pin fixation in fracture management?",
+    "options": ["A. Osteomyelitis", "B. Improved bone healing", "C. Increased range of motion", "D. Reduced swelling"],
+    "answer": "A. Osteomyelitis"
+  },
+  {
+    "question": "How often should neurovascular status be assessed in a patient with a fracture?",
+    "options": ["A. Every hour", "B. Every 4 hours", "C. Every 8 hours", "D. Once a day"],
+    "answer": "C. Every 8 hours"
+  },
+  {
+    "question": "What should be done if there is limited range of motion (ROM) in the injured extremity?",
+    "options": ["A. Ignore the limitation", "B. Increase weight-bearing stress", "C. Assess for potential nerve damage and paralysis", "D. Remove the immobilization device"],
+    "answer": "C. Assess for potential nerve damage and paralysis"
+  },
+  {
+    "question": "What is the purpose of teaching patients to use crutches or walkers appropriately?",
+    "options": ["A. To promote progressive ambulation and mobilization", "B. To reduce pain medication use", "C. To avoid surgical intervention", "D. To enhance bone growth"],
+    "answer": "A. To promote progressive ambulation and mobilization"
+  },
+  {
+    "question": "Which of the following is a key aspect of wound care for patients with internal fixation?",
+    "options": ["A. Provide wound dressing under complete aseptic technique", "B. Perform daily skin exfoliation", "C. Apply topical antibiotics regularly", "D. Encourage frequent movement of the affected limb"],
+    "answer": "A. Provide wound dressing under complete aseptic technique"
+  },
+  {
+    "question": "Pin tract infection is a complication associated with the use of external fixators.",
+    "options": ["A. TRUE", "B. FALSE"],
+    "answer": "A. TRUE"
+  },
+  {
+    "question": "Osteomyelitis is a complication that can occur as a result of infection spreading from a pin tract.",
+    "options": ["A. TRUE", "B. FALSE"],
+    "answer": "A. TRUE"
+  },
+  {
+    "question": "Assessing skin color and temperature in the extremity is not necessary if the patient is on pain medication.",
+    "options": ["A. TRUE", "B. FALSE"],
+    "answer": "B. FALSE"
+  },
+  {
+    "question": "Progressive ambulation should be carried out according to the patient's preference, regardless of the surgeon's recommendations.",
+    "options": ["A. TRUE", "B. FALSE"],
+    "answer": "B. FALSE"
+  },
+  {
+    "question": "Loss of fracture stabilization can result from inadequate fixation or complications, which may require surgical intervention.",
+    "options": ["A. TRUE", "B. FALSE"],
+    "answer": "A. TRUE"
+  },
+        {
+    "question": "What is the primary cause of burn injuries?",
+    "options": ["A) Psychological trauma", "B) Thermal or other acute trauma", "C) Poor nutrition", "D) Genetic factors"],
+    "answer": "B) Thermal or other acute trauma"
+  },
+  {
+    "question": "Which of the following is NOT considered a cause of burns?",
+    "options": ["A) Radiation", "B) Electricity", "C) Inadequate hydration", "D) Chemicals"],
+    "answer": "C) Inadequate hydration"
+  },
+  {
+    "question": "Why is it essential for nurses to have effective communication skills when caring for burn patients?",
+    "options": ["A) To reduce the workload", "B) To ensure quality care and improved patient outcomes", "C) To increase patient anxiety", "D) To only focus on physical treatment"],
+    "answer": "B) To ensure quality care and improved patient outcomes"
+  },
+  {
+    "question": "Which age and socioeconomic group can be affected by burn injuries?",
+    "options": ["A) Only children from low socioeconomic backgrounds", "B) Only adults from high socioeconomic backgrounds", "C) All age groups and all socioeconomic groups", "D) Only elderly people"],
+    "answer": "C) All age groups and all socioeconomic groups"
+  },
+  {
+    "question": "What type of burn is caused by hot liquids?",
+    "options": ["A) Electrical burns", "B) Chemical burns", "C) Scalds", "D) Friction burns"],
+    "answer": "C) Scalds"
+  },
+  {
+    "question": "True or False: A burn is defined as an injury caused exclusively by flames.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: Burns can only occur in children.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: Effective communication by nurses is crucial in burn care.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "True or False: Friction cannot cause burn injuries.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: The care of burn patients only focuses on physical treatment.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "What percentage of annual burn center admissions are due to electrical injuries?",
+    "options": ["A) 10%", "B) 5%", "C) 3%", "D) 15%"],
+    "answer": "C) 3%"
+  },
+  {
+    "question": "Which factor does NOT affect the severity of electrical burns?",
+    "options": ["A) Voltage", "B) Type of current", "C) Skin color", "D) Path of the current"],
+    "answer": "C) Skin color"
+  },
+  {
+    "question": "Chemical burns can occur due to prolonged exposure to which of the following?",
+    "options": ["A) Water", "B) Acids, alkalis, or organic compounds", "C) Sunlight", "D) Oxygen"],
+    "answer": "B) Acids, alkalis, or organic compounds"
+  },
+  {
+    "question": "Which of the following is NOT associated with the severity of chemical burns?",
+    "options": ["A) The concentration of the chemical", "B) The speed of action", "C) The body’s resistance", "D) The penetrability of the chemical"],
+    "answer": "C) The body’s resistance"
+  },
+  {
+    "question": "Approximately how many deaths per year result from electrical burns?",
+    "options": ["A) 500", "B) 2000", "C) 1000", "D) 1500"],
+    "answer": "C) 1000"
+  },
+  {
+    "question": "True or False: Electrical injuries account for 10% of the annual burn center admissions.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: Type of current and voltage affect the severity of electrical burns.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "True or False: Chemical burns are only caused by exposure to acids.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: Skin properties do not impact severity of chemical burns.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: Path of current does not affect severity of electrical burn.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Thermal burns are caused by exposure to which of the following?",
+    "options": ["A) Chemicals", "B) Moist heat (hot liquid) and dry heat (flame)", "C) Friction", "D) Electricity"],
+    "answer": "B) Moist heat (hot liquid) and dry heat (flame)"
+  },
+  {
+    "question": "Which type of burn is most commonly associated with sunburn?",
+    "options": ["A) Electrical burn", "B) Chemical burn", "C) Thermal burn", "D) Radiation burn"],
+    "answer": "D) Radiation burn"
+  },
+  {
+    "question": "Radiation burns are typically characterized by:",
+    "options": ["A) Deep tissue damage", "B) Superficial involvement of only the outermost layers of the epidermis", "C) Involvement of bones and muscles", "D) Extensive damage to internal organs"],
+    "answer": "B) Superficial involvement of only the outermost layers of the epidermis"
+  },
+  {
+    "question": "Which of the following burns results from cancer treatment?",
+    "options": ["A) Thermal burns", "B) Electrical burns", "C) Radiation burns", "D) Chemical burns"],
+    "answer": "C) Radiation burns"
+  },
+  {
+    "question": "Moist heat exposure, such as hot liquid, typically causes which type of burn?",
+    "options": ["A) Electrical burn", "B) Radiation burn", "C) Thermal burn", "D) Chemical burn"],
+    "answer": "C) Thermal burn"
+  },
+  {
+    "question": "True or False: Thermal burns result from exposure to radiation.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: Radiation burns are always deep and affect multiple layers of skin.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: Sunburn is a type of radiation burn.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "True or False: Thermal burns can result from both hot liquids and open flames.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "True or False: Radiation burns are never related to medical treatments.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Which layer(s) of the skin are affected in superficial partial-thickness burns?",
+    "options": ["A) Epidermis only", "B) Epidermis and possibly a portion of the dermis", "C) Dermis and subcutaneous tissue", "D) Subcutaneous tissue and muscle"],
+    "answer": "B) Epidermis and possibly a portion of the dermis"
+  },
+        {
+    question: "What is a common cause of superficial partial-thickness burns?",
+    options: {
+      A: "Radiation therapy",
+      B: "High-intensity flame",
+      C: "Sunburn or low-intensity flash",
+      D: "Chemical exposure"
+    },
+    answer: "C"
+  },
+  {
+    question: "Which of the following is NOT a symptom of superficial partial-thickness burns?",
+    options: {
+      A: "Tingling",
+      B: "Hyperesthesia (increased sensitivity to stimuli)",
+      C: "Pain soothed by cooling",
+      D: "Deep tissue damage"
+    },
+    answer: "D"
+  },
+  {
+    question: "What is the typical appearance of a superficial partial-thickness burn wound?",
+    options: {
+      A: "Reddened, blanches with pressure, dry, minimal or no edema, possible blisters",
+      B: "Black, leathery, and eschar formation",
+      C: "White, waxy, with significant edema",
+      D: "Charred, involving muscle and bone"
+    },
+    answer: "A"
+  },
+  {
+    question: "How long does it usually take for a superficial partial-thickness burn to heal completely?",
+    options: {
+      A: "1-2 days",
+      B: "Within a week, with no scarring",
+      C: "2-3 weeks, with potential scarring",
+      D: "Several months, with significant scarring"
+    },
+    answer: "B"
+  },
 
+  // True/False Questions
+  { question: "Superficial partial-thickness burns are similar to first-degree burns.", answer: "True" },
+  { question: "Superficial partial-thickness burns typically result in extensive scarring.", answer: "False" },
+  { question: "Pain from superficial partial-thickness burns is often soothed by cooling.", answer: "True" },
+  { question: "The wound appearance of a superficial partial-thickness burn is typically black and leathery.", answer: "False" },
+  { question: "Superficial partial-thickness burns involve the epidermis and possibly a portion of the dermis.", answer: "True" },
+
+  // Deep Partial-Thickness MCQs
+  {
+    question: "Deep partial-thickness burns typically involve which layers of the skin?",
+    options: {
+      A: "Epidermis only",
+      B: "Epidermis, upper dermis, and a portion of the deeper dermis",
+      C: "Dermis and subcutaneous tissue",
+      D: "Subcutaneous tissue and muscle"
+    },
+    answer: "B"
+  },
+  {
+    question: "Which of the following is NOT a common cause of deep partial-thickness burns?",
+    options: {
+      A: "Scalds",
+      B: "Flash flame",
+      C: "Contact burns",
+      D: "Electrical injury"
+    },
+    answer: "D"
+  },
+  {
+    question: "What are common symptoms of deep partial-thickness burns?",
+    options: {
+      A: "Loss of sensation",
+      B: "Pain, hyperesthesia (increased sensitivity), and sensitivity to cold air",
+      C: "No pain and numbness",
+      D: "Full thickness skin necrosis"
+    },
+    answer: "B"
+  },
+  {
+    question: "What does the wound appearance of a deep partial-thickness burn typically include?",
+    options: {
+      A: "Reddened, dry surface with no edema",
+      B: "Blistered, mottled red base, broken epidermis, weeping surface, and edema",
+      C: "White, waxy appearance with significant edema",
+      D: "Charred, involving muscle and bone"
+    },
+    answer: "B"
+  },
+  {
+    question: "How long does it typically take for a deep partial-thickness burn to heal?",
+    options: {
+      A: "1 week",
+      B: "2 to 4 weeks",
+      C: "3 months",
+      D: "6 months"
+    },
+    answer: "B"
+  },
+{
+    question: "Which of the following is a common cause of full-thickness burns?",
+    options: {
+      A: "Sunburn",
+      B: "Brief exposure to hot liquid",
+      C: "Flame, prolonged exposure to hot liquid, electric current, or chemicals",
+      D: "Minor friction"
+    },
+    answer: "C"
+  },
+  {
+    question: "Full-thickness burns typically involve which layers of the skin and tissues?",
+    options: {
+      A: "Epidermis only",
+      B: "Epidermis and upper dermis",
+      C: "Epidermis, entire dermis, sometimes subcutaneous tissue, and may extend to connective tissue, muscle, or bone",
+      D: "Epidermis, upper dermis, and subcutaneous fat only"
+    },
+    answer: "C"
+  },
+  {
+    question: "Which of the following is NOT a characteristic of a full-thickness burn?",
+    options: {
+      A: "Pain-free",
+      B: "Dry, pale white, leathery, or charred appearance",
+      C: "Blistered and reddened surface with no edema",
+      D: "Broken skin with exposed fat"
+    },
+    answer: "C"
+  },
+  {
+    question: "What are potential complications associated with full-thickness burns?",
+    options: {
+      A: "Complete healing without scarring",
+      B: "Scarring, loss of contour and function, contractures, and loss of digits or extremity",
+      C: "Minimal edema with rapid recovery",
+      D: "No risk of infection or shock"
+    },
+    answer: "B"
+  },
+  {
+    question: "What is a possible indication of a full-thickness burn caused by electrical injury?",
+    options: {
+      A: "Presence of entrance and exit wounds",
+      B: "Only superficial redness",
+      C: "No damage to muscle or bone",
+      D: "Presence of blisters with minimal pain"
+    },
+    answer: "A"
+  },
+{
+    question: "Which of the following describes a superficial burn?",
+    options: {
+      A: "White or charred, dry, and leathery",
+      B: "Mottled red and white, blistered with a moist surface",
+      C: "Red, blistered, and very painful",
+      D: "Painless due to nerve damage"
+    },
+    answer: "C"
+  },
+  {
+    question: "What is a key characteristic of deep burns?",
+    options: {
+      A: "Feels dry and leathery",
+      B: "Mottled red and white, painful, and blistered with a moist surface",
+      C: "White or charred with no pain",
+      D: "Reddened, dry, with no blistering"
+    },
+    answer: "B"
+  },
+  {
+    question: "What distinguishes full-thickness burns from other types of burns?",
+    options: {
+      A: "Very painful due to nerve exposure",
+      B: "Feels dry, leathery, and is white or charred with less pain",
+      C: "Blistered with a moist surface",
+      D: "Blanches with pressure"
+    },
+    answer: "B"
+  },
+  {
+    question: "Why is pain often less in full-thickness burns?",
+    options: {
+      A: "Because they involve only the superficial layers of the skin",
+      B: "Because nerve endings are destroyed",
+      C: "Because the burns are small in size",
+      D: "Because they heal very quickly"
+    },
+    answer: "B"
+  },
+  {
+    question: "Which of the following burns is most likely to present with a dry and leathery surface?",
+    options: {
+      A: "Superficial burns",
+      B: "Deep burns",
+      C: "Full-thickness burns",
+      D: "Sunburns"
+    },
+    answer: "C"
+  },
+{
+    question: "Partial-thickness burns covering 15–25% of total body surface area in patients aged 10–50 years are considered moderate.",
+    answer: "True"
+  },
+  {
+    question: "For patients aged 10–50 years, what percentage of partial-thickness burns is considered minor?",
+    options: {
+      A: "Less than 5%",
+      B: "Less than 10%",
+      C: "Less than 15%",
+      D: "Less than 20%"
+    },
+    answer: "C"
+  },
+  {
+    question: "For patients younger than 10 years or older than 50 years, partial-thickness burns are considered minor when they cover what percentage of total body surface area?",
+    options: {
+      A: "Less than 5%",
+      B: "Less than 10%",
+      C: "Less than 15%",
+      D: "Less than 20%"
+    },
+    answer: "B"
+  },
+  {
+    question: "Which of the following describes full-thickness burns that are classified as minor?",
+    options: {
+      A: "Involving less than 2% of total body surface area without associated injuries",
+      B: "Involving 5% of total body surface area with associated injuries",
+      C: "Involving more than 10% of total body surface area",
+      D: "Involving less than 2% of total body surface area with inhalational injury"
+    },
+    answer: "A"
+  },
+  {
+    question: "A 45-year-old patient with partial-thickness burns covering 10% of total body surface area would be classified as having what type of burn severity?",
+    options: {
+      A: "Minor",
+      B: "Moderate",
+      C: "Major",
+      D: "Critical"
+    },
+    answer: "A"
+  },
+  {
+    question: "Which of the following factors would upgrade a minor burn to a more severe classification?",
+    options: {
+      A: "Burns in a person aged 10–50 years",
+      B: "Full-thickness burns covering less than 2% with no associated injuries",
+      C: "Presence of associated injuries such as fractures or inhalational injury",
+      D: "Partial-thickness burns covering less than 15% of TBSA"
+    },
+    answer: "C"
+  },
+{
+  question: "What causes edema in burn patients?",
+  options: {
+    A: "Increased cellular metabolism",
+    B: "Shifting of fluids from intracellular space to interstitial tissue",
+    C: "Dehydration",
+    D: "Elevated blood pressure"
+  },
+  answer: "B"
+},
+{
+  question: "What is a common cardiovascular response to burns that results in diminished cardiac output?",
+  options: {
+    A: "Hypervolemic shock",
+    B: "Hypovolemic shock",
+    C: "Hypercapnia",
+    D: "Bradycardia"
+  },
+  answer: "B"
+},
+{
+  question: "Which of the following is a consequence of burn injury related to red blood cells?",
+  options: {
+    A: "Hemorrhagic shock",
+    B: "Red blood cell hemolysis",
+    C: "Increased platelet aggregation",
+    D: "Elevated oxygen-carrying capacity"
+  },
+  answer: "B"
+},
+{
+  question: "What cardiovascular manifestation is associated with abnormal platelet aggregation following a burn injury?",
+  options: {
+    A: "Decreased bleeding risk",
+    B: "Increased clotting risk",
+    C: "Reduced blood viscosity",
+    D: "Improved tissue perfusion"
+  },
+  answer: "B"
+},
+{
+  question: "An elevated leukocyte count in burn patients is indicative of which of the following?",
+  options: {
+    A: "Dehydration",
+    B: "Infection",
+    C: "Hypovolemic shock",
+    D: "Reduced cardiac output"
+  },
+  answer: "B"
+},
+{
+  question: "True or False: In burn patients, fluid shifts from intracellular space to interstitial tissue often lead to edema.",
+  answer: "True"
+},
+{
+  question: "How is the body's immunologic defense affected by a burn injury?",
+  options: {
+    A: "It is enhanced and becomes more effective",
+    B: "It is greatly altered and compromised",
+    C: "It remains unchanged",
+    D: "It becomes more localized to the burn area"
+  },
+  answer: "B"
+},
+{
+  question: "What factor contributes to the loss of skin integrity in burn patients?",
+  options: {
+    A: "Decreased fluid loss",
+    B: "Release of abnormal inflammatory factors",
+    C: "Increased production of immunoglobulins",
+    D: "Elevated levels of serum complement"
+  },
+  answer: "B"
+},
+{
+  question: "Which of the following is a common immune response to burn injuries?",
+  options: {
+    A: "Enhanced neutrophil function",
+    B: "Increased lymphocyte levels",
+    C: "Impaired neutrophil function and reduced lymphocytes",
+    D: "Decreased risk of infection"
+  },
+  answer: "C"
+},
+{
+  question: "What is a significant risk for burn patients due to alterations in the immune system?",
+  options: {
+    A: "Reduced blood pressure",
+    B: "Decreased fluid balance",
+    C: "High risk for infection and sepsis",
+    D: "Increased platelet aggregation"
+  },
+  answer: "C"
+},
+{
+  question: "Which components of the immune system are typically altered following a burn injury?",
+  options: {
+    A: "Normal levels of immunoglobulins and serum complement",
+    B: "Normal neutrophil function and lymphocyte levels",
+    C: "Abnormal inflammatory factors and altered levels of immunoglobulins and serum complement",
+    D: "Decreased risk of infection"
+  },
+  answer: "C"
+},
+{
+  question: "What is a primary consequence of skin loss due to burn injuries?",
+  options: {
+    A: "Enhanced ability to regulate body temperature",
+    B: "Improved skin elasticity",
+    C: "Inability to regulate body temperature",
+    D: "Increased moisture retention"
+  },
+  answer: "C"
+},
+{
+  question: "When do patients with burn injuries typically exhibit low body temperatures?",
+  options: {
+    A: "Several weeks after injury",
+    B: "Immediately after the injury",
+    C: "In the late stages of recovery",
+    D: "During the rehabilitation phase"
+  },
+  answer: "B"
+},
+{
+  question: "What is a common manifestation of carbon monoxide poisoning?",
+  options: {
+    A: "Hyperthermia and skin rash",
+    B: "Mild visual impairment, headache, and potentially coma",
+    C: "Hyperventilation and confusion",
+    D: "Muscle cramps and sweating"
+  },
+  answer: "B"
+},
+{
+  question: "What does interstitial pulmonary edema result from in burn injuries?",
+  options: {
+    A: "Movement of fluid from interstitial space to pulmonary blood vessels",
+    B: "Movement of fluid from pulmonary blood vessels into interstitial compartment",
+    C: "Increased fluid production in alveoli",
+    D: "Decreased blood flow to the lungs"
+  },
+  answer: "B"
+},
+{
+  question: "How does smoke inhalation affect the alveoli?",
+  options: {
+    A: "It increases the production of surfactant",
+    B: "It inactivates surfactant, leading to alveolar collapse",
+    C: "It strengthens alveolar walls",
+    D: "It prevents airway obstruction"
+  },
+  answer: "B"
+},
+{
+  question: "What is a result of upper airway thermal injury from inhalation of heated air?",
+  options: {
+    A: "Decreased secretions and reduced inflammation",
+    B: "Ulceration, sloughing of the airway, increased secretions, and airway obstruction",
+    C: "Improved airway patency and reduced tissue hypoxia",
+    D: "Enhanced lung capacity and function"
+  },
+  answer: "B"
+},
+{
+  question: "Which of the following is NOT a consequence of smoke inhalation damage?",
+  options: {
+    A: "Inactivation of surfactant",
+    B: "Alveolar collapse",
+    C: "Increased airway patency",
+    D: "Complete airway obstruction"
+  },
+  answer: "C"
+},
+{
+  question: "What can result from the sloughing of the airway tissue due to upper airway thermal injury?",
+  options: {
+    A: "Reduced airway obstruction",
+    B: "Increased tissue oxygenation",
+    C: "Increased secretions and inflammation",
+    D: "Decreased airway sensitivity"
+  },
+  answer: "C"
+},
+{
+  question: "Carbon monoxide poisoning in burn patients can lead to which severe outcome?",
+  options: {
+    A: "Fever and hyperventilation",
+    B: "Confusion and blurred vision",
+    C: "Coma and death",
+    D: "Muscular spasms and tremors"
+  },
+  answer: "C"
+},
+{
+  question: "What can occur as a result of decreased surfactant activity in the alveoli due to smoke inhalation?",
+  options: {
+    A: "Increased lung capacity",
+    B: "Decreased risk of airway obstruction",
+    C: "Alveolar collapse and complete airway obstruction",
+    D: "Improved gas exchange efficiency"
+  },
+  answer: "C"
+},
+{
+  question: "What condition is commonly referred to as Curling's ulcer in burn patients?",
+  options: {
+    A: "A type of peptic ulcer",
+    B: "A skin infection",
+    C: "A form of acute gastritis",
+    D: "A gastrointestinal bleeding disorder"
+  },
+  answer: "A"
+},
+{
+  question: "Which symptom might indicate the presence of Curling's ulcer in a burn patient?",
+  options: {
+    A: "Elevated blood pressure",
+    B: "Abdominal pain and acidic gastric pH levels",
+    C: "Increased appetite",
+    D: "Normal stool appearance"
+  },
+  answer: "B"
+},
+{
+  question: "What does the presence of occult blood in the stool suggest in burn patients?",
+  options: {
+    A: "Normal gastrointestinal function",
+    B: "Possible gastric ulcer formation",
+    C: "Dehydration",
+    D: "Liver dysfunction"
+  },
+  answer: "B"
+},
+{
+  question: "Which gastrointestinal issue is commonly observed after severe burns due to impaired bowel motility?",
+  options: {
+    A: "Diarrhea",
+    B: "Paralytic ileus",
+    C: "Increased bowel sounds",
+    D: "Gastric reflux"
+  },
+  answer: "B"
+},
+{
+  question: "What is a common gastrointestinal symptom experienced by burn patients besides abdominal pain?",
+  options: {
+    A: "Nausea and vomiting",
+    B: "Constipation",
+    C: "Increased appetite",
+    D: "Weight gain"
+  },
+  answer: "A"
+},
+
+// Urinary System
+{
+  question: "What is a potential urinary manifestation of massive fluid loss in burn patients?",
+  options: {
+    A: "Increased urine output",
+    B: "Dehydration",
+    C: "Normal urine color",
+    D: "Frequent urination"
+  },
+  answer: "B"
+},
+{
+  question: "What does dark brown concentrated urine in burn patients most likely indicate?",
+  options: {
+    A: "Normal hydration status",
+    B: "Hemoglobinemia",
+    C: "Hemoglobinuria",
+    D: "Low urine specific gravity"
+  },
+  answer: "C"
+},
+{
+  question: "In burn patients, what does the occurrence of hemoglobinuria suggest about the urinary system?",
+  options: {
+    A: "Increased hydration",
+    B: "Presence of hemoglobin in the urine",
+    C: "Normal urine output",
+    D: "Absence of urinary complications"
+  },
+  answer: "B"
+},
+{
+  question: "Which gastrointestinal symptom is most commonly associated with burns and could indicate a need for further evaluation?",
+  options: {
+    A: "Nausea and vomiting",
+    B: "Increased appetite",
+    C: "Diarrhea",
+    D: "Weight loss"
+  },
+  answer: "A"
+},
+{
+  question: "What is a common complication of burns that affects both the gastrointestinal and urinary systems?",
+  options: {
+    A: "Enhanced gastric acid production",
+    B: "Paralytic ileus and hemoglobinuria",
+    C: "Increased urine output and decreased gastric pH",
+    D: "Normal bowel function and hydration status"
+  },
+  answer: "B"
+},
+{
+  question: "Which diagnostic test is used to evaluate electrolyte imbalances and kidney function in burn patients?",
+  options: {
+    A: "Chemistry panel",
+    B: "Hematology",
+    C: "Arterial blood gases",
+    D: "Urine analysis"
+  },
+  answer: "A"
+},
+{
+  question: "What does a hematology panel typically assess in burn patients?",
+  options: {
+    A: "Electrolyte levels",
+    B: "Blood urea nitrogen",
+    C: "Hematocrit and coagulation studies",
+    D: "Oxygen status"
+  },
+  answer: "C"
+},
+{
+  question: "Why are arterial blood gases (ABGs) measured in burn patients?",
+  options: {
+    A: "To monitor electrolyte levels",
+    B: "To assess oxygen status and acid-base disturbances",
+    C: "To evaluate renal perfusion",
+    D: "To determine blood group"
+  },
+  answer: "B"
+},
+{
+  question: "What is the primary purpose of urine analysis in burn patients?",
+  options: {
+    A: "To evaluate blood group compatibility",
+    B: "To monitor fluid and electrolyte balance",
+    C: "To assess renal perfusion and nutritional status",
+    D: "To detect drug toxicity"
+  },
+  answer: "C"
+},
+{
+  question: "Which test is performed to detect the presence of infection in burn patients?",
+  options: {
+    A: "Chemistry panel",
+    B: "Blood group and crossmatch",
+    C: "Cultures of sputum, blood, urine, and wound tissue",
+    D: "Total protein and albumin"
+  },
+  answer: "C"
+},
+{
+  question: "What test is crucial for ensuring compatibility in case of blood transfusion for burn patients?",
+  options: {
+    A: "Total protein and albumin",
+    B: "Drug toxicology",
+    C: "Blood group and crossmatch",
+    D: "Arterial blood gases"
+  },
+  answer: "C"
+},
+{
+  question: "Which tests are used to monitor nutritional status during the rehabilitative phase of burn recovery?",
+  options: {
+    A: "Hematology and chemistry panel",
+    B: "Total protein and albumin",
+    C: "Urine analysis",
+    D: "Cultures of wound tissue"
+  },
+  answer: "B"
+},
+{
+  question: "Drug toxicology tests are performed to:",
+  options: {
+    A: "Evaluate renal function",
+    B: "Monitor oxygen status",
+    C: "Identify the presence of toxic substances",
+    D: "Assess blood coagulation"
+  },
+  answer: "C"
+},
+{
+  question: "Which diagnostic test helps in evaluating the function of the kidneys in burn patients?",
+  options: {
+    A: "Total protein",
+    B: "Albumin",
+    C: "Blood urea nitrogen and creatinine",
+    D: "Sputum culture"
+  },
+  answer: "C"
+},
+{
+  question: "Why are cultures of wound tissue important in the management of burn injuries?",
+  options: {
+    A: "To assess renal perfusion",
+    B: "To detect the presence of infection",
+    C: "To determine blood group compatibility",
+    D: "To evaluate nutritional status"
+  },
+  answer: "B"
+},
+{
+  question: "What can a chest X-ray help document in the first 24 to 48 hours after a burn injury?",
+  options: {
+    A: "Presence of gastrointestinal bleeding",
+    B: "Renal function status",
+    C: "Atelectasis, pulmonary edema, or acute respiratory distress",
+    D: "Blood glucose levels"
+  },
+  answer: "C"
+},
+{
+  question: "When is a bronchoscope most likely indicated in burn patients?",
+  options: {
+    A: "To assess kidney function",
+    B: "When there are signs of upper airway involvement",
+    C: "To evaluate blood coagulation",
+    D: "During routine nutritional assessments"
+  },
+  answer: "B"
+},
+{
+  question: "What is the primary purpose of an electrocardiogram (ECG) in the context of burn injuries?",
+  options: {
+    A: "To monitor fluid and electrolyte balance",
+    B: "To assess nutritional status",
+    C: "To monitor cardiac function and detect any arrhythmias",
+    D: "To evaluate the presence of infection"
+  },
+  answer: "C"
+},
+{
+  question: "What condition might be detected on a chest X-ray within the first 48 hours after a burn injury?",
+  options: {
+    A: "Hepatic dysfunction",
+    B: "Gastrointestinal bleeding",
+    C: "Atelectasis",
+    D: "Hemoglobinuria"
+  },
+  answer: "C"
+},
+{
+  question: "Which diagnostic procedure is specifically used to evaluate the condition of the upper airway in burn patients?",
+  options: {
+    A: "Chest X-ray",
+    B: "Electrocardiogram (ECG)",
+    C: "Bronchoscope",
+    D: "Urine analysis"
+  },
+  answer: "C"
+},
+{
+  question: "What can the presence of pulmonary edema on a chest X-ray indicate?",
+  options: {
+    A: "Dehydration",
+    B: "Acute respiratory distress",
+    C: "Renal failure",
+    D: "Nutritional deficiencies"
+  },
+  answer: "B"
+},
+{
+  question: "Why might an ECG be performed in burn patients?",
+  options: {
+    A: "To determine the presence of infection",
+    B: "To monitor the heart's electrical activity and identify any arrhythmias",
+    C: "To assess liver function",
+    D: "To evaluate gastrointestinal health"
+  },
+  answer: "B"
+},
+{
+  question: "Which diagnostic test is least likely to be used to evaluate respiratory complications in burn patients?",
+  options: {
+    A: "Chest X-ray",
+    B: "Bronchoscope",
+    C: "Urine analysis",
+    D: "Electrocardiogram (ECG)"
+  },
+  answer: "C"
+},
+{
+  question: "In what scenario is a bronchoscope particularly useful in burn patients?",
+  options: {
+    A: "When assessing blood glucose levels",
+    B: "When evaluating cardiac rhythm",
+    C: "When there are concerns about upper airway damage",
+    D: "When monitoring electrolyte balance"
+  },
+  answer: "C"
+},
+{
+  question: "What does the presence of atelectasis on a chest X-ray indicate?",
+  options: {
+    A: "Fluid accumulation in the lungs",
+    B: "Partial collapse of lung tissue",
+    C: "Increased blood pressure",
+    D: "Elevated blood glucose levels"
+  },
+  answer: "B"
+},
+{
+  question: "What type of fluid resuscitation formula is used for children?",
+  options: {
+    A: "2-3 ml Ringer’s lactate × body weight in kg × %TBSA burn",
+    B: "3-4 ml Ringer’s lactate × body weight in kg × %TBSA burn",
+    C: "4-5 ml Normal saline × body weight in kg × %TBSA burn",
+    D: "1-2 ml Ringer’s lactate × body weight in kg × %TBSA burn"
+  },
+  answer: "B"
+},
+{
+  question: "Which of the following is NOT part of the second survey in the emergent phase?",
+  options: {
+    A: "Head",
+    B: "Back",
+    C: "Abdomen",
+    D: "Long-term rehabilitation needs"
+  },
+  answer: "D"
+},
+{
+  question: "In the emergent phase, if the patient has signs of airway obstruction, what immediate intervention is required?",
+  options: {
+    A: "Start physical therapy",
+    B: "Insert a urinary catheter",
+    C: "Administer humidified oxygen",
+    D: "Perform endotracheal intubation"
+  },
+  answer: "D"
+},
+{
+  question: "Which formula is often used for calculating fluid resuscitation in burn patients and is known as the Parkland formula?",
+  options: {
+    A: "American Burn Association Consensus Formula",
+    B: "Modified Brooke Formula",
+    C: "Brooke Formula",
+    D: "Baxter (Parkland) Formula"
+  },
+  answer: "D"
+},
+{
+  question: "What is the primary focus during the acute phase of burn care?",
+  options: {
+    A: "Fluid resuscitation",
+    B: "Infection control, burn wound care, pain management, and nutritional support",
+    C: "Psychological counseling",
+    D: "Long-term rehabilitation"
+  },
+  answer: "B"
+},
+{
+  question: "Which formula is described as the American Burn Association Consensus Formula?",
+  options: {
+    A: "Baxter (Parkland) Formula",
+    B: "Brooke Formula",
+    C: "Modified Brooke Formula",
+    D: "Evans Formula"
+  },
+  answer: "C"
+},
+{
+  question: "The Evans formula is used for:",
+  options: {
+    A: "Calculating fluid resuscitation in burn patients",
+    B: "Determining the extent of burn injuries",
+    C: "Assessing nutritional needs",
+    D: "Monitoring cardiac function"
+  },
+  answer: "A"
+},
+{
+  question: "What does the Brooke Formula calculate?",
+  options: {
+    A: "The amount of fluid required for resuscitation",
+    B: "The degree of burn depth",
+    C: "The nutritional support needed",
+    D: "The infection risk"
+  },
+  answer: "A"
+},
+{
+  question: "Which formula uses dextran as a component for fluid resuscitation in burn patients?",
+  options: {
+    A: "American Burn Association Consensus Formula",
+    B: "Dextran (Demling) Formula",
+    C: "Baxter (Parkland) Formula",
+    D: "Modified Brooke Formula"
+  },
+  answer: "B"
+},
+{
+  question: "During the acute phase, which of the following is NOT a primary concern?",
+  options: {
+    A: "Infection control",
+    B: "Pain management",
+    C: "Long-term rehabilitation",
+    D: "Nutritional support"
+  },
+  answer: "C"
+},
+{
+  question: "Which formula is associated with the use of Ringer's lactate for fluid resuscitation?",
+  options: {
+    A: "Baxter (Parkland) Formula",
+    B: "Evans Formula",
+    C: "American Burn Association Consensus Formula",
+    D: "Brooke Formula"
+  },
+  answer: "A"
+},
+{
+  question: "The Modified Brooke Formula is a variation of which other formula?",
+  options: {
+    A: "Evans Formula",
+    B: "American Burn Association Consensus Formula",
+    C: "Baxter (Parkland) Formula",
+    D: "Brooke Formula"
+  },
+  answer: "D"
+},
+{
+  question: "Which formula is NOT specifically designed for burn resuscitation?",
+  options: {
+    A: "American Burn Association Consensus Formula",
+    B: "Evans Formula",
+    C: "Dextran (Demling) Formula",
+    D: "Glasgow Coma Scale"
+  },
+  answer: "D"
+},
+{
+  question: "Which personal protective equipment is NOT typically used for infection control in burn care?",
+  options: {
+    A: "Cap",
+    B: "Gown",
+    C: "Mask",
+    D: "Safety glasses"
+  },
+  answer: "D"
+},
+{
+  question: "What is the primary purpose of using aseptic technique in burn wound care?",
+  options: {
+    A: "To enhance wound healing",
+    B: "To prevent infection",
+    C: "To reduce pain",
+    D: "To speed up recovery"
+  },
+  answer: "B"
+},
+{
+  question: "Who is required to wear gowns and gloves in a burn care setting?",
+  options: {
+    A: "Only the primary nurse",
+    B: "Only the patient",
+    C: "All caregivers and visitors",
+    D: "Only the visitors"
+  },
+  answer: "C"
+},
+{
+  question: "What should be monitored for in the wound during the acute phase?",
+  options: {
+    A: "Changes in wound appearance",
+    B: "Presence of purulent drainage",
+    C: "Increasing depth of burn wound",
+    D: "All of the above"
+  },
+  answer: "D"
+},
+{
+  question: "How are tissue specimens for infection monitoring typically obtained?",
+  options: {
+    A: "Blood sample",
+    B: "Swab or tissue biopsy",
+    C: "Urine sample",
+    D: "X-ray"
+  },
+  answer: "B"
+},
+{
+  question: "Why is hand hygiene critical before and after leaving a burn patient's room?",
+  options: {
+    A: "To avoid spreading the burn injury",
+    B: "To prevent cross-contamination and infection",
+    C: "To reduce the patient's pain",
+    D: "To ensure proper wound healing"
+  },
+  answer: "B"
+},
+{
+  question: "Which of the following is NOT a recommended practice for infection control in burn care?",
+  options: {
+    A: "Wearing cap, gown, mask, and gloves",
+    B: "Using aseptic technique",
+    C: "Sterilizing equipment",
+    D: "Wearing the same gloves for multiple patients"
+  },
+  answer: "D"
+},
+{
+  question: "When should tissue specimens be obtained for culture in burn care?",
+  options: {
+    A: "Only when the wound shows no improvement",
+    B: "To monitor for colonization and infection",
+    C: "After every dressing change",
+    D: "Only if the patient develops a fever"
+  },
+  answer: "B"
+},
+{
+  question: "What does sterilization of equipment help prevent?",
+  options: {
+    A: "Pain",
+    B: "Infection",
+    C: "Burn depth",
+    D: "Wound healing"
+  },
+  answer: "B"
+},
+{
+  question: "What is an essential step before and after patient contact in a burn care setting?",
+  options: {
+    A: "Changing patient dressings",
+    B: "Performing hand hygiene",
+    C: "Administering medications",
+    D: "Monitoring vital signs"
+  },
+  answer: "B"
+},
+{
+  question: "During wound cleaning, why is it important to inspect all skin for redness or breakdown?",
+  options: {
+    A: "To identify areas requiring additional cleaning",
+    B: "To check for signs of infection or complications",
+    C: "To apply more dressing",
+    D: "To determine if surgery is needed"
+  },
+  answer: "B"
+},
+{
+  question: "What action should be taken if a blister ruptures or breaks during wound care?",
+  options: {
+    A: "The blister should be left as is",
+    B: "The blister should be debrided",
+    C: "The blister should be immediately covered with a bandage",
+    D: "The blister should be cleaned with alcohol"
+  },
+  answer: "B"
+},
+{
+  question: "Why is it important for patients to be as active as possible during the bath?",
+  options: {
+    A: "To speed up healing",
+    B: "To avoid causing skin damage",
+    C: "To promote better hygiene",
+    D: "To reduce the risk of chills"
+  },
+  answer: "D"
+},
+{
+  question: "Why is topical antibacterial therapy particularly important for deep dermal and full-thickness burns?",
+  options: {
+    A: "Because they are less likely to become infected",
+    B: "Because they are more prone to infection",
+    C: "Because they heal faster",
+    D: "Because they require less care"
+  },
+  answer: "B"
+},
+{
+  question: "Which substance is known for its broad-spectrum effectiveness against Staphylococcus aureus and Pseudomonas aeruginosa?",
+  options: {
+    A: "Silver",
+    B: "Gold",
+    C: "Zinc",
+    D: "Iodine"
+  },
+  answer: "A"
+},
+{
+  question: "How should circumferential dressings be applied?",
+  options: {
+    A: "Proximally to distally",
+    B: "Randomly",
+    C: "Distally to proximally",
+    D: "In a circular pattern"
+  },
+  answer: "C"
+},
+{
+  question: "What is the purpose of using light dressings over joint areas?",
+  options: {
+    A: "To protect the wound from infection",
+    B: "To allow for joint motion",
+    C: "To provide extra padding",
+    D: "To increase wound healing time"
+  },
+  answer: "B"
+},
+{
+  question: "Why might occlusive dressings be used over areas with new skin grafts?",
+  options: {
+    A: "To protect the graft and promote optimal adherence",
+    B: "To speed up graft rejection",
+    C: "To prevent skin grafts from drying out",
+    D: "To allow for faster removal of the graft"
+  },
+  answer: "A"
+},
+{
+  question: "Which of the following statements is true about topical antibacterial therapy?",
+  options: {
+    A: "It is only used for superficial burns.",
+    B: "It is important for both deep dermal and full-thickness injuries.",
+    C: "It is less effective than systemic antibiotics.",
+    D: "It should be avoided in burn care."
+  },
+  answer: "B"
+},
+{
+  question: "What is a result of upper airway thermal injury from inhalation of heated air?",
+  options: {
+    A: "Decreased secretions and reduced inflammation",
+    B: "Ulceration, sloughing of the airway, increased secretions, and airway obstruction",
+    C: "Improved airway patency and reduced tissue hypoxia",
+    D: "Enhanced lung capacity and function"
+  },
+  answer: "B"
+},
+{
+  question: "Which of the following is NOT a consequence of smoke inhalation damage?",
+  options: {
+    A: "Inactivation of surfactant",
+    B: "Alveolar collapse",
+    C: "Increased airway patency",
+    D: "Complete airway obstruction"
+  },
+  answer: "C"
+},
+{
+  question: "What can result from the sloughing of the airway tissue due to upper airway thermal injury?",
+  options: {
+    A: "Reduced airway obstruction",
+    B: "Increased tissue oxygenation",
+    C: "Increased secretions and inflammation",
+    D: "Decreased airway sensitivity"
+  },
+  answer: "C"
+},
+{
+  question: "Carbon monoxide poisoning in burn patients can lead to which severe outcome?",
+  options: {
+    A: "Fever and hyperventilation",
+    B: "Confusion and blurred vision",
+    C: "Coma and death",
+    D: "Muscular spasms and tremors"
+  },
+  answer: "C"
+},
+{
+  question: "What can occur as a result of decreased surfactant activity in the alveoli due to smoke inhalation?",
+  options: {
+    A: "Increased lung capacity",
+    B: "Decreased risk of airway obstruction",
+    C: "Alveolar collapse and complete airway obstruction",
+    D: "Improved gas exchange efficiency"
+  },
+  answer: "C"
+},
+{
+        "question": "Why should chemical debridement agents be used with topical antibacterial therapy?",
+        "options": [
+            "A) To prevent the spread of infection",
+            "B) To enhance the rate of tissue removal",
+            "C) To improve wound healing time",
+            "D) To provide pain relief"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is the purpose of escharotomy in burn care?",
+        "options": [
+            "A) To apply a skin graft",
+            "B) To remove dead tissue chemically",
+            "C) To make a sterile surgical incision to prevent constriction and impaired circulation",
+            "D) To clean the wound with hydrotherapy"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which method provides permanent skin coverage of a burn wound?",
+        "options": [
+            "A) Chemical debridement",
+            "B) Hydrotherapy",
+            "C) Autografting",
+            "D) Mechanical debridement"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "In autografting, where is the graft skin typically taken from?",
+        "options": [
+            "A) The burn wound site",
+            "B) The donor site on healthy tissue of the patient",
+            "C) A synthetic skin substitute",
+            "D) A cadaver"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is the role of graft area immobilization after autografting?",
+        "options": [
+            "A) To reduce pain",
+            "B) To prevent infection",
+            "C) To allow proper adherence and healing of the graft",
+            "D) To enhance the cosmetic appearance"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What type of incision is made during an escharotomy?",
+        "options": [
+            "A) Transverse incision",
+            "B) Longitudinal incision",
+            "C) Circular incision",
+            "D) Diagonal incision"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which debridement method involves the use of enzymes to remove dead tissue?",
+        "options": [
+            "A) Natural debridement",
+            "B) Mechanical debridement",
+            "C) Chemical debridement",
+            "D) Surgical debridement"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Why might a physician perform an escharotomy?",
+        "options": [
+            "A) To enhance the appearance of the burn wound",
+            "B) To prevent constriction and impaired circulation",
+            "C) To apply a temporary dressing",
+            "D) To relieve pain"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is the main advantage of early burn wound excision and skin grafting?",
+        "options": [
+            "A) Increased risk of infection",
+            "B) Longer hospital stay",
+            "C) Decreased hospital stay and enhanced rehabilitation",
+            "D) Reduced need for pain management"
+        ],
+        "answer": "C"
+    },
+{
+        "question": "Which class of drugs is used to treat anxiety in burn patients?",
+        "options": [
+            "A) Opioids",
+            "B) Benzodiazepines",
+            "C) NSAIDs",
+            "D) Antihistamines"
+        ],
+        "answer": "B) Benzodiazepines"
+    },
+    {
+        "question": "What is a key component of nonpharmacologic pain control in burn care?",
+        "options": [
+            "A) Surgical debridement",
+            "B) Hydrotherapy",
+            "C) Distraction",
+            "D) Skin grafting"
+        ],
+        "answer": "C) Distraction"
+    },
+    {
+        "question": "Which of the following interventions is appropriate for managing acute pain in a burn patient?",
+        "options": [
+            "A) Administering opioid analgesics as prescribed",
+            "B) Encouraging the patient to avoid discussing pain",
+            "C) Reducing fluid intake to manage pain",
+            "D) Limiting the use of relaxation techniques"
+        ],
+        "answer": "A) Administering opioid analgesics as prescribed"
+    },
+    {
+        "question": "What is the primary goal in managing impaired skin integrity in burn patients?",
+        "options": [
+            "A) To perform daily hydrotherapy",
+            "B) To apply occlusive dressings only",
+            "C) To prevent infection and promote wound healing",
+            "D) To completely remove all blisters immediately"
+        ],
+        "answer": "C) To prevent infection and promote wound healing"
+    },
+{
+        "question": "Why should chemical debridement agents be used in conjunction with topical antibacterial therapy?",
+        "options": [
+            "A) To prevent the spread of infection",
+            "B) To enhance the rate of tissue removal",
+            "C) To improve wound healing time",
+            "D) To provide pain relief"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is the purpose of escharotomy in burn care?",
+        "options": [
+            "A) To apply a skin graft",
+            "B) To remove dead tissue chemically",
+            "C) To make a sterile surgical incision to prevent constriction and impaired circulation",
+            "D) To clean the wound with hydrotherapy"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which method is used to provide permanent skin coverage of a burn wound?",
+        "options": [
+            "A) Chemical debridement",
+            "B) Hydrotherapy",
+            "C) Autografting",
+            "D) Mechanical debridement"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "In autografting, where is the skin for the graft typically taken from?",
+        "options": [
+            "A) The burn wound site",
+            "B) The donor site on healthy tissue of the patient",
+            "C) A synthetic skin substitute",
+            "D) A cadaver"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is the role of a graft area immobilization after autografting?",
+        "options": [
+            "A) To reduce pain",
+            "B) To prevent infection",
+            "C) To allow proper adherence and healing of the graft",
+            "D) To enhance the cosmetic appearance"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What type of incision is made during an escharotomy?",
+        "options": [
+            "A) Transverse incision",
+            "B) Longitudinal incision",
+            "C) Circular incision",
+            "D) Diagonal incision"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which debridement method involves the use of enzymes to remove dead tissue?",
+        "options": [
+            "A) Natural debridement",
+            "B) Mechanical debridement",
+            "C) Chemical debridement",
+            "D) Surgical debridement"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Why might a physician perform an escharotomy?",
+        "options": [
+            "A) To enhance the appearance of the burn wound",
+            "B) To prevent constriction and impaired circulation",
+            "C) To apply a temporary dressing",
+            "D) To relieve pain"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is the main advantage of early burn wound excision and skin grafting?",
+        "options": [
+            "A) Increased risk of infection",
+            "B) Longer hospital stay",
+            "C) Decreased hospital stay and enhanced rehabilitation",
+            "D) Reduced need for pain management"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is the primary purpose of Cultured Epithelial Autografting?",
+        "options": [
+            "A) To clean the burn wound",
+            "B) To grow skin cells for coverage of burn wounds",
+            "C) To provide temporary pain relief",
+            "D) To prevent infection"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "How long does it typically take to grow enough skin cells using Cultured Epithelial Autografting to cover an entire body?",
+        "options": [
+            "A) 1-2 weeks",
+            "B) 2-3 weeks",
+            "C) 3-4 weeks",
+            "D) 4-6 weeks"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "From where are the skin cells obtained for Cultured Epithelial Autografting?",
+        "options": [
+            "A) Burned areas of the patient’s body",
+            "B) Donor skin from another person",
+            "C) Unburned sites on the client’s body",
+            "D) Synthetic skin substitutes"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is used as a backing for the skin cells in Cultured Epithelial Autografting?",
+        "options": [
+            "A) Sterile gauze",
+            "B) Plastic wrap",
+            "C) Petroleum jelly gauze",
+            "D) Synthetic mesh"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "How are the cultured skin cells applied to the burn wound site in Cultured Epithelial Autografting?",
+        "options": [
+            "A) Directly on the wound without backing",
+            "B) Attached to petroleum jelly gauze",
+            "C) Sprayed onto the wound",
+            "D) Injected into the wound"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is the primary goal of withholding food and fluids before surgery?",
+        "options": ["A) Reduce pain", "B) Prevent aspiration", "C) Minimize bleeding", "D) Speed up recovery"],
+        "answer": "B"
+    },
+    {
+        "question": "Who is responsible for gowning and gloving the surgeon?",
+        "options": ["A) Circulating nurse", "B) Anesthetist", "C) Scrub nurse", "D) PACU nurse"],
+        "answer": "C"
+    },
+    {
+        "question": "When does the intraoperative phase begin?",
+        "options": ["A) At hospital admission", "B) When the patient enters the OR table", "C) After anesthesia induction", "D) During preoperative assessment"],
+        "answer": "B"
+    },
+    {
+        "question": "What visual aid helps patients perform deep breathing effectively?",
+        "options": ["A) Blood pressure cuff", "B) Incentive spirometer", "C) ECG monitor", "D) Compression stockings"],
+        "answer": "B"
+    },
+    {
+        "question": "Which nursing role manages sponge and instrument counts?",
+        "options": ["A) PACU nurse", "B) Scrub nurse", "C) Anesthetist", "D) Circulating nurse"],
+        "answer": "B"
+    },
+    {
+        "question": "A key sign of hypovolemic shock is:",
+        "options": ["A) Hypertension", "B) Warm, dry skin", "C) Rapid, thready pulse", "D) Increased urine output"],
+        "answer": "C"
+    },
+    {
+        "question": "Preoperative hair removal is required if:",
+        "options": ["A) The patient requests it", "B) Hair interferes with the incision site", "C) General anesthesia is used", "D) Surgery lasts >2 hours"],
+        "answer": "B"
+    },
+    {
+        "question": "Urinary catheterization is typically performed:",
+        "options": ["A) At home before surgery", "B) In the preoperative holding area", "C) In the operating room", "D) In the PACU"],
+        "answer": "C"
+    },
+    {
+        "question": "Early ambulation primarily reduces the risk of:",
+        "options": ["A) Wound dehiscence", "B) Atelectasis", "C) Urinary retention", "D) Hypertension"],
+        "answer": "B"
+    },
+    {
+        "question": "The WHO Surgical Safety Checklist is completed:",
+        "options": ["A) Post-discharge", "B) Before induction, before incision, and before leaving OR", "C) Only by the surgeon", "D) After specimen collection"],
+        "answer": "B"
+    },
+    {
+        "question": "Which task is the circulating nurse responsible for?",
+        "options": ["A) Passing instruments to the surgeon", "B) Performing surgical hand scrub", "C) Positioning the patient", "D) Suturing the incision"],
+        "answer": "C"
+    },
+    {
+        "question": "PACU discharge criteria include urine output of at least:",
+        "options": ["A) 10 mL/hour", "B) 20 mL/hour", "C) 30 mL/hour", "D) 50 mL/hour"],
+        "answer": "C"
+    },
+    {
+        "question": "Informed consent must include information about:",
+        "options": ["A) The surgeon’s qualifications", "B) Hospital billing procedures", "C) Risks, benefits, and alternatives", "D) Insurance coverage details"],
+        "answer": "C"
+    },
+    {
+        "question": "Nasogastric tubes are removed when:",
+        "options": ["A) The patient requests it", "B) Peristalsis resumes fully", "C) Surgery begins", "D) IV fluids are started"],
+        "answer": "B"
+    },
+    {
+        "question": "Preanesthetic medications may cause:",
+        "options": ["A) Hypertension", "B) Drowsiness or lightheadedness", "C) Increased urine output", "D) Hyperactivity"],
+        "answer": "B"
+    }  
+],
+
+    
+ "TF":  [
+    { "question": "Ascites in cirrhosis is mainly due to portal hypertension and low albumin.", "answer": "True" },
+    { "question": "Lactulose helps reduce serum ammonia in hepatic encephalopathy.", "answer": "True" },
+    { "question": "Protein-rich diets are encouraged in hepatic encephalopathy.", "answer": "False" },
+    { "question": "Cirrhosis may lead to kidney failure.", "answer": "True" },
+    { "question": "ALT is always elevated in late-stage cirrhosis.", "answer": "False" },
+    { "question": "Sodium level monitoring is unnecessary in cirrhotic patients.", "answer": "False" },
+    { "question": "Esophageal varices are a serious complication of cirrhosis.", "answer": "True" },
+    { "question": "Lactulose increases ammonia production in the liver.", "answer": "False" },
+    { "question": "The liver is responsible for clotting factor production.", "answer": "True" },
+    { "question": "Low albumin level is a good indicator of liver recovery.", "answer": "False" },
+    { "question": "Diuretics can be given without monitoring weight in cirrhotic patients.", "answer": "False" },
+    { "question": "Prothrombin time (PT) is always normal in early cirrhosis.", "answer": "False" },
+    { "question": "Jaundice in cirrhosis results from bilirubin accumulation.", "answer": "True" },
+    { "question": "NSAIDs are safe to use in liver cirrhosis.", "answer": "False" },
+    { "question": "Spontaneous bacterial peritonitis (SBP) can occur in ascitic fluid.", "answer": "True" },
+    { "question": "Liver function tests are not needed once symptoms appear.", "answer": "False" },
+    { "question": "Cirrhosis never causes hepatic coma.", "answer": "False" },
+    { "question": "Leg edema can occur due to hypoalbuminemia.", "answer": "True" },
+    { "question": "Bed rest is essential for patients with severe ascites.", "answer": "True" },
+    { "question": "Cirrhotic patients are at higher risk for infections.", "answer": "True" },
+    {
+        "question": "The musculoskeletal system helps regulate body temperature by generating heat through muscle contractions.",
+        "answer": "True"
+    },
+    {
+        "question": "Ligaments connect muscles to bones, facilitating movement.",
+        "answer": "False"
+    },
+    {
+        "question": "Cartilage is a type of connective tissue that provides cushioning in joints.",
+        "answer": "True"
+    },
+    {
+        "question": "The musculoskeletal system does not play a role in the protection of internal organs.",
+        "answer": "False"
+    },
+    {
+        "question": "Storage of minerals like calcium and phosphorus is one of the functions of the musculoskeletal system.",
+        "answer": "True"
+    },
+    {
+        "question": "The musculoskeletal system helps regulate body temperature by generating heat through muscle contractions.",
+        "answer": "True"
+    },
+    {
+        "question": "Ligaments connect muscles to bones, facilitating movement.",
+        "answer": "False"
+    },
+    {
+        "question": "Cartilage is a type of connective tissue that provides cushioning in joints.",
+        "answer": "True"
+    },
+    {
+        "question": "The musculoskeletal system does not play a role in the protection of internal organs.",
+        "answer": "False"
+    },
+    {
+        "question": "Storage of minerals like calcium and phosphorus is one of the functions of the musculoskeletal system.",
+        "answer": "True"
+    },
+    {
+        "question": "A greenstick fracture is an example of a complete fracture.",
+        "answer": "False"
+    },
+    {
+        "question": "A compound fracture is also known as an open fracture.",
+        "answer": "True"
+    },
+    {
+        "question": "Pain from a fracture is continuous and increases in severity until the bone fragments are immobilized.",
+        "answer": "True"
+    },
+    {
+        "question": "After a fracture, the affected extremity retains its normal function.",
+        "answer": "False"
+    },
+    {
+        "question": "Crepitus is a sign of a fracture and is described as a crumbling sensation felt when the extremity is palpated.",
+        "answer": "True"
+    },
+    {
+        "question": "Localized edema and ecchymosis around a fracture site occur due to trauma and bleeding into the tissues.",
+        "answer": "True"
+    },
+    {
+        "question": "Shortening of the extremity is a common sign in fractures of long bones due to muscle elongation.",
+        "answer": "False"
+    },
+    { "question": "Deep partial-thickness burns can result in some scarring and depigmentation.", "answer": "True" },
+    { "question": "Deep partial-thickness burns only involve the epidermis.", "answer": "False" },
+    { "question": "Pain from deep partial-thickness burns may be intensified by exposure to cold air.", "answer": "True" },
+    { "question": "If a deep partial-thickness burn becomes infected, it may convert to a full-thickness burn.", "answer": "True" },
+    { "question": "Deep partial-thickness burns generally heal without any risk of contractures.", "answer": "False" },
+    { "question": "Full-thickness burns typically involve all layers of the skin, including the subcutaneous tissue, and may extend to muscle and bone.", "answer": "True" },
+    { "question": "Full-thickness burns are usually very painful due to extensive nerve damage.", "answer": "False" },
+    { "question": "Eschar formation and sloughing are common in full-thickness burns.", "answer": "True" },
+    { "question": "Full-thickness burns may require skin grafting for proper healing.", "answer": "True" },
+    { "question": "Full-thickness burns rarely result in any functional loss or contractures.", "answer": "False" },
+    {
+        "question": "Full-thickness burns are usually very painful due to extensive nerve damage.",
+        "answer": "False",
+    },
+    {
+        "question": "Eschar formation and sloughing are common in full-thickness burns.",
+        "answer": "True"
+    },
+    {
+        "question": "Full-thickness burns may require skin grafting for proper healing.",
+        "answer": "True"
+    },
+    {
+        "question": "Full-thickness burns rarely result in any functional loss or contractures.",
+        "answer": "False",
+    },
+    {
+    "question": "True or False: The immunologic defenses of the body remain unaffected by a burn injury.",
+    "answer": "False"
+    },
+    {
+    "question": "True or False: Burn injuries are associated with impaired neutrophil function and a reduction in lymphocytes.",
+    "answer": "True"
+    },
+    {
+    "question": "True or False: Burn patients are at a lower risk for infection and sepsis due to enhanced immune function.",
+    "answer": "False"
+    },
+    {
+    "question": "True or False: The release of abnormal inflammatory factors and alterations in serum complement levels contribute to loss of skin integrity in burn injuries.",
+    "answer": "True"
+    },
+    {
+    "question": "True or False: Levels of immunoglobulins in burn patients are typically increased due to the burn injury.",
+    "answer": "False"
+    },
+    {
+    "question": "Loss of skin integrity in burn injuries can lead to difficulties in regulating body temperature.",
+    "answer": "True"
+    },
+    {
+    "question": "Patients with burns will have normal body temperatures shortly after the injury.",
+    "answer": "False",
+    },
+    {
+    "question": "Carbon monoxide poisoning can cause symptoms ranging from mild headaches to coma and death.",
+    "answer": "True"
+    },
+    {
+    "question": "Interstitial pulmonary edema is caused by fluid moving from the pulmonary blood vessels into the alveoli.",
+    "answer": "False",
+    },
+    {
+    "question": "Smoke inhalation can damage alveoli by inactivating surfactant, leading to alveolar collapse.",
+    "answer": "True"
+    },
+    {
+    "question": "Upper airway thermal injury from inhaled heated air can lead to increased airway obstruction and tissue hypoxia.",
+    "answer": "True"
+    },
+    {
+    "question": "Inactivation of surfactant due to smoke inhalation results in improved alveolar function.",
+    "answer": "False",
+    },
+    {
+    "question": "Ulceration and sloughing of the airway are common outcomes of upper airway thermal injury.",
+    "answer": "True"
+    },
+    {
+    "question": "Inhalation of heated air generally leads to decreased airway secretions and reduced inflammation.",
+    "answer": "False",
+    },
+    {
+    "question": "Smoke inhalation can cause complete airway obstruction and tissue hypoxia.",
+    "answer": "True"
+    },
+    {
+    "question": "Curling's ulcer refers to a type of peptic ulcer that can develop in burn patients.",
+    "answer": "True"
+    },
+    {
+    "question": "Abdominal pain and acidic gastric pH levels are not typically associated with Curling's ulcer.",
+    "answer": "False",
+    },
+    {
+    "question": "The presence of occult blood in the stool in burn patients may indicate gastric ulcer formation.",
+    "answer": "True"
+    },
+    {
+    "question": "Paralytic ileus is a gastrointestinal condition characterized by increased bowel motility.",
+    "answer": "False",    
+    },
+    {
+    "question": "Nausea and vomiting are common gastrointestinal symptoms experienced by burn patients.",
+    "answer": "True"
+    },
+    {
+    "question": "Massive fluid loss in burn patients usually leads to increased urine output and normal hydration levels.",
+    "answer": "False",
+    },
+    {
+    "question": "Dark brown concentrated urine in burn patients can be an indicator of hemoglobinuria.",
+    "answer": "True"
+    },
+    {
+    "question": "Hemoglobinuria in burn patients is associated with the presence of hemoglobin in the urine.",
+    "answer": "True"
+    },
+    {
+    "question": "Increased appetite and normal bowel function are common gastrointestinal symptoms following severe burns.",
+    "answer": "False",
+    },
+    {
+    "question": "Hemoglobinuria and paralytic ileus are both potential complications that can affect burn patients.",
+    "answer": "True"
+    },
+    {
+    "question": "A chemistry panel is used to evaluate electrolytes, blood urea nitrogen, and creatinine levels in burn patients.",
+    "answer": "True"
+    },
+    {
+    "question": "Hematology panels include tests such as hematocrit and coagulation studies.",
+    "answer": "True"
+    },
+    {
+    "question": "Arterial blood gases are used to assess renal function and nutritional status.",
+    "answer": "False",
+    },
+    {
+    "question": "Urine analysis can help evaluate renal perfusion and nutritional status in burn patients.",
+    "answer": "True"
+    },
+    {
+    "question": "Cultures of sputum, blood, urine, and wound tissue are performed to determine blood group compatibility.",
+    "answer": "False",
+    },
+    {
+    "question": "Blood group and crossmatch tests are crucial for ensuring compatibility in blood transfusions.",
+    "answer": "True"
+    },
+    {
+    "question": "Total protein and albumin levels are measured to monitor nutritional status during the rehabilitative phase of burn recovery.",
+    "answer": "True"
+    },
+    {
+    "question": "Drug toxicology tests are used to evaluate kidney function and electrolyte levels.",
+    "answer": "False",
+    },
+    {
+    "question": "The chemistry panel is not involved in assessing the levels of electrolytes and blood urea nitrogen.",
+    "answer": "False",
+    },
+    {
+    "question": "Cultures of wound tissue can help determine the presence of infection in burn patients.",
+    "answer": "True"
+    },
+    {
+    "question": "Chest X-rays should be performed within the first 24 to 48 hours to check for conditions like atelectasis and pulmonary edema.",
+    "answer": "True"
+    },
+    {
+    "question": "A bronchoscope is used primarily to evaluate cardiac function in burn patients.",
+    "answer": "False"
+    },
+    {
+    "question": "An electrocardiogram (ECG) is used to monitor cardiac function and detect arrhythmias in burn patients.",
+    "answer": "True"
+    },
+    {
+    "question": "Pulmonary edema detected on a chest X-ray indicates normal lung function.",
+    "answer": "False"
+    },
+    {
+    "question": "A bronchoscope is useful for detecting atelectasis and pulmonary edema.",
+    "answer": "False"
+    },
+    {
+    "question": "An ECG is typically used to assess gastrointestinal health in burn patients.",
+    "answer": "False"
+    },
+    {
+    "question": "Chest X-rays can reveal respiratory complications such as atelectasis within the first 48 hours of a burn injury.",
+    "answer": "True"
+    },
+    {
+    "question": "The primary purpose of an ECG in burn patients is to evaluate renal function.",
+    "answer": "False"
+    },
+    {
+    "question": "A bronchoscope is not necessary for patients with suspected upper airway damage.",
+    "answer": "False"
+    },
+    {
+    "question": "Monitoring for upper airway damage is not relevant in the context of burn injuries.",
+    "answer": "False"
+    },
+    {
+    "question": "The emergent or resuscitative phase of burn care includes both fluid resuscitation and stabilization of the patient.",
+    "answer": "True"
+    },
+    {
+    "question": "During the primary survey, assessing for fractures and open wounds is not a priority.",
+    "answer": "False"
+    },
+    {
+    "question": "Central venous pressure is monitored using a central venous catheter during the emergent phase.",
+    "answer": "True"
+    },
+    {
+    "question": "Tetanus prophylaxis is administered only if there are visible signs of tetanus infection.",
+    "answer": "False"
+    },
+    {
+    "question": "Fluid resuscitation for children with burns uses a formula of 2 - 4 ml Ringer’s lactate × body weight in kg × %TBSA burn.",
+    "answer": "False"
+    },
+    {
+    "question": "The secondary survey during the emergent phase includes checking the stability of the pelvis.",
+    "answer": "True"
+    },
+    {
+    "question": "Endotracheal intubation is performed if there are no signs of airway obstruction.",
+    "answer": "False"
+    },
+    {
+    "question": "Monitoring for dysrhythmias is part of the resuscitation phase in burn management.",
+    "answer": "False"
+    },
+    {
+    "question": "A urinary catheter is inserted during the emergent phase to monitor urinary output.",
+    "answer": "True"
+    },
+    {
+    "question": "The primary survey involves assessing the airway, breathing, and circulation, but not the patient's blood pressure.",
+    "answer": "False"
+    },
+    {
+    "question": "The Baxter (Parkland) Formula is used to calculate the amount of fluid required for burn resuscitation.",
+    "answer": "True"
+    },
+    {
+    "question": "Infection control is a priority in the acute phase of burn care management.",
+    "answer": "True"
+    },
+    {
+    "question": "The American Burn Association Consensus Formula and the Modified Brooke Formula are essentially the same formula.",
+    "answer": "False"
+    },
+    {
+    "question": "The Brooke Formula and the Modified Brooke Formula use similar calculations for fluid resuscitation.",
+    "answer": "True"
+    },
+    {
+    "question": "The Dextran (Demling) Formula incorporates dextran for fluid resuscitation.",
+    "answer": "True"
+    },
+    {
+    "question": "Pain management is not a major concern during the acute phase of burn care.",
+    "answer": "False"
+    },
+    {
+    "question": "Long-term rehabilitation is primarily addressed during the acute phase of burn care.",
+    "answer": "False"
+    },
+    {
+    "question": "The Evans Formula is one of the older formulas used for burn resuscitation.",
+    "answer": "True"
+    },
+    {
+    "question": "Nutritional support is a secondary concern compared to fluid resuscitation during the acute phase.",
+    "answer": "False"
+    },
+    {
+    "question": "The American Burn Association Consensus Formula is a newer formula compared to the Brooke and Modified Brooke formulas.",
+    "answer": "False"
+    },
+    {
+    "question": "All caregivers and visitors in a burn care setting must wear gowns and gloves.",
+    "answer": "True"
+    },
+    {
+    "question": "Hand hygiene is only necessary before entering the patient's room.",
+    "answer": "False"
+    },
+    {
+    "question": "Aseptic technique is used to enhance wound healing rather than to prevent infection.",
+    "answer": "False"
+    },
+    {
+    "question": "Monitoring for purulent drainage is not necessary if the wound appears to be healing well.",
+    "answer": "False"
+    },
+    {
+    "question": "Tissue specimens for infection monitoring can be obtained using either a swab or tissue biopsy.",
+    "answer": "True"
+    },
+    {
+    "question": "Wearing a mask is optional when caring for burn patients.",
+    "answer": "False"
+    },
+    {
+    "question": "Sterilization of equipment is important to prevent the spread of infection.",
+    "answer": "True"
+    },
+    {
+    "question": "It is acceptable to use the same gloves for multiple patients if they are visibly clean.",
+    "answer": "False"
+    },
+    {
+    "question": "Infection control practices include monitoring changes in the wound, such as increasing depth and presence of purulent drainage.",
+    "answer": "True"
+    },
+    {
+    "question": "Hand hygiene is less important than the use of personal protective equipment in preventing infection.",
+    "answer": "False"
+    },
+    {
+    "question": "Loss of skin integrity in burn injuries can lead to difficulties in regulating body temperature.",
+    "answer": "True"
+    },
+    {
+    "question": "Patients with burns will have normal body temperatures shortly after the injury.",
+    "answer": "False"
+    },
+    {
+    "question": "Carbon monoxide poisoning can cause symptoms ranging from mild headaches to coma and death.",
+    "answer": "True"
+    },
+    {
+    "question": "Interstitial pulmonary edema is caused by fluid moving from the pulmonary blood vessels into the alveoli.",
+    "answer": "False"
+    },
+    {
+    "question": "Smoke inhalation can damage alveoli by inactivating surfactant, leading to alveolar collapse.",
+    "answer": "True"
+    },
+    {
+    "question": "Upper airway thermal injury from inhaled heated air can lead to increased airway obstruction and tissue hypoxia.",
+    "answer": "True"
+    },
+    {
+    "question": "Inactivation of surfactant due to smoke inhalation results in improved alveolar function.",
+    "answer": "False"
+    },
+    {
+    "question": "Ulceration and sloughing of the airway are common outcomes of upper airway thermal injury.",
+    "answer": "True"
+    },
+    {
+    "question": "Inhalation of heated air generally leads to decreased airway secretions and reduced inflammation.",
+    "answer": "False"
+    },
+    {
+    "question": "Smoke inhalation can cause complete airway obstruction and tissue hypoxia.",
+    "answer": "True"
+    },
+    {
+    "question": "Chest X-rays should be performed within the first 24 to 48 hours to check for conditions like atelectasis and pulmonary edema.",
+    "answer": "True"
+    },
+    {
+    "question": "A bronchoscope is used primarily to evaluate cardiac function in burn patients.",
+    "answer": "False"
+    },
+    {
+    "question": "An electrocardiogram (ECG) is used to monitor cardiac function and detect arrhythmias in burn patients.",
+    "answer": "True"
+    },
+    {
+    "question": "Pulmonary edema detected on a chest X-ray indicates normal lung function.",
+    "answer": "False"
+    },
+    {
+    "question": "A bronchoscope is useful for detecting atelectasis and pulmonary edema.",
+    "answer": "False"
+    },
+    {
+    "question": "An ECG is typically used to assess gastrointestinal health in burn patients.",
+    "answer": "False"
+    },
+    {
+    "question": "Chest X-rays can reveal respiratory complications such as atelectasis within the first 48 hours of a burn injury.",
+    "answer": "True"
+    },
+    {
+    "question": "The primary purpose of an ECG in burn patients is to evaluate renal function.",
+    "answer": "False"
+    },
+    {
+    "question": "A bronchoscope is not necessary for patients with suspected upper airway damage.",
+    "answer": "False"
+    },
+    {
+    "question": "Monitoring for upper airway damage is not relevant in the context of burn injuries.",
+    "answer": "False"
+    },
+    {
+    "question": "Circumferential dressings should be applied proximally to distally.",
+    "answer": "False"
+    },
+    {
+    "question": "Light dressings are used over joint areas to restrict movement and prevent injury.",
+    "answer": "False"
+    },
+    {
+    "question": "Occlusive dressings are applied to protect new skin grafts and promote optimal conditions for adherence.",
+    "answer": "True"
+    },
+    {
+    "question": "The use of silver in burn care is primarily for its aesthetic appeal.",
+    "answer": "False"
+    },
+    {
+    "question": "After wound cleaning, it is sufficient to apply only a single layer of dressing to a burn wound.",
+    "answer": "False"
+    },
+    {
+    "question": "Topical antibacterial therapy is not necessary for full-thickness burns.",
+    "answer": "False"
+    },
+    {
+    "question": "It is important to inspect the burn wound for signs of infection or deterioration before applying dressings.",
+    "answer": "True"
+    },
+    {
+    "question": "Hair in and around the burn area should be clipped short or shaved to aid in wound care.",
+    "answer": "True"
+    },
+    {
+    "question": "Natural debridement involves the use of surgical instruments to remove eschar.",
+    "answer": "False"
+    },
+    {
+    "question": "Mechanical debridement uses bacterial action to liquefy collagen fibrils.",
+    "answer": "False"
+    },
+    {
+    "question": "During mechanical debridement, bleeding from small vessels can be controlled with hemostatic agents or pressure.",
+    "answer": "True"
+    },
+    {
+    "question": "Natural debridement usually begins within the first 24 hours after a burn injury.",
+    "answer": "False"
+    },
+    {
+    "question": "Mechanical debridement requires the use of surgical scissors, scalpels, and forceps.",
+    "answer": "True"
+    },
+    {
+    "question": "Dressings alone are sufficient to remove dead tissue during wound care.",
+    "answer": "False"
+    },
+    {
+    "question": "Bacteria at the burn wound interface contribute to the process of natural debridement.",
+    "answer": "True"
+    },
+    {
+    "question": "Mechanical debridement involves the application of topical treatments to dissolve dead tissue.",
+    "answer": "False"
+    },
+    {
+    "question": "Eschar in natural debridement is held in place by collagen fibrils, which are liquefied by bacterial action.",
+    "answer": "True"
+    },
+    {
+    "question": "In mechanical debridement, pressure can be used to manage bleeding from small vessels.",
+    "answer": "True"
+    },
+    {
+        "question": "Chemical debridement agents have antimicrobial properties and do not need to be used with other therapies.",
+        "answer": False,
+    },
+    {
+        "question": "Escharotomy involves making a longitudinal incision to prevent complications such as constriction and impaired circulation.",
+        "answer": True
+    },
+    {
+        "question": "Autografting involves removing skin from a healthy donor site and applying it to the burn wound for permanent coverage.",
+        "answer": True
+    },
+    {
+        "question": "Chemical debridement is used to apply a skin graft to the burn wound.",
+        "answer": False,
+    },
+    {
+        "question": "After an autograft is applied, the graft area should be immobilized to promote proper healing.",
+        "answer": True
+    },
+    {
+        "question": "Chemical debridement agents can be used alone without additional antibacterial therapy.",
+        "answer": False,
+    },
+    {
+        "question": "Surgical debridement includes methods like escharotomy and autografting.",
+        "answer": True
+    },
+    {
+        "question": "The main role of chemical debridement is to enhance wound healing time.",
+        "answer": False,
+    },
+    {
+        "question": "Escharotomy is performed using chemical agents to remove dead tissue.",
+        "answer": False,
+    },
+    {
+        "question": "Autografting helps in permanent coverage of burn wounds and reduces hospital stay.",
+        "answer": True
+    },
+    {
+        "question": "Chemical debridement agents have antimicrobial properties and do not need to be used with other therapies.",
+        "answer": False
+    },
+    {
+        "question": "Escharotomy involves making a longitudinal incision to prevent complications such as constriction and impaired circulation.",
+        "answer": True
+    },
+    {
+        "question": "Autografting involves removing skin from a healthy donor site and applying it to the burn wound for permanent coverage.",
+        "answer": True
+    },
+    {
+        "question": "Chemical debridement is used to apply a skin graft to the burn wound.",
+        "answer": False
+    },
+    {
+        "question": "After an autograft is applied, the graft area should be immobilized to promote proper healing.",
+        "answer": True
+    },
+    {
+        "question": "Chemical debridement agents can be used alone without additional antibacterial therapy.",
+        "answer": False
+    },
+    {
+        "question": "Surgical debridement includes methods like escharotomy and autografting.",
+        "answer": True
+    },
+    {
+        "question": "The main role of chemical debridement is to enhance wound healing time.",
+        "answer": False
+    },
+    {
+        "question": "Escharotomy is performed using chemical agents to remove dead tissue.",
+        "answer": False
+    },
+    {
+        "question": "Autografting helps in permanent coverage of burn wounds and reduces hospital stay.",
+        "answer": True
+    },
+    {"question": "Chemical debridement agents have antimicrobial properties and do not need to be used with other therapies.", "answer": False},
+    {"question": "Escharotomy involves making a longitudinal incision to prevent complications such as constriction and impaired circulation.", "answer": True},
+    {"question": "Autografting involves removing skin from a healthy donor site and applying it to the burn wound for permanent coverage.", "answer": True},
+    {"question": "Chemical debridement is used to apply a skin graft to the burn wound.", "answer": False},
+    {"question": "After an autograft is applied, the graft area should be immobilized to promote proper healing.", "answer": True},
+    {"question": "Chemical debridement agents can be used alone without additional antibacterial therapy.", "answer": False},
+    {"question": "Surgical debridement includes methods like escharotomy and autografting.", "answer": True},
+    {"question": "The main role of chemical debridement is to enhance wound healing time.", "answer": False},
+    {"question": "Escharotomy is performed using chemical agents to remove dead tissue.", "answer": False},
+    {"question": "Autografting helps in permanent coverage of burn wounds and reduces hospital stay.", "answer": True},
+    {"question": "Cultured Epithelial Autografting involves removing skin cells from burned areas of the patient’s body.", "answer": False},
+    {"question": "The cultured skin cells in Cultured Epithelial Autografting are grown in a culture medium for about 3 to 4 weeks.", "answer": True},
+    {"question": "Cultured Epithelial Autografting can be used to cover an entire human body if enough skin cells are grown.", "answer": True},
+    {"question": "Petroleum jelly gauze is used to back the skin cells in Cultured Epithelial Autografting.", "answer": True},
+    {"question": "The cultured epithelial cells are applied directly to the burn wound without any backing material.", "answer": False},
+    {"question": "Preoperative enemas are routine for all surgeries.", "answer": False},
+    {"question": "The scrub nurse retrieves used sponges during surgery.", "answer": False},
+    {"question": "IV opioids are used for pain relief in the PACU.", "answer": True},
+    {"question": "Patients must fast 12 hours before all surgeries.", "answer": False},
+    {"question": "Leg exercises prevent postoperative blood clots.", "answer": True},
+    {"question": "Dentures are removed before surgery.", "answer": True},
+    {"question": "Hypothermia signs are ignored in the PACU.", "answer": False},
+    {"question": "Splinting incisions aids coughing postoperatively.", "answer": True},
+    {"question": "The circulating nurse performs surgical hand scrubs.", "answer": False},
+    {"question": "Patients should void before going to the OR.", "answer": True},
+    {"question": "All OR walls are cleaned after every surgery.", "answer": False},
+    {"question": "Solid foods are the first diet post-surgery.", "answer": False},
+    {"question": "Consent forms are signed after anesthesia.", "answer": False},
+    {"question": "The WHO checklist includes confirming patient identity.", "answer": True},
+    {"question": "Abdominal distention is managed by bed rest.", "answer": False}
+
+     
+        ]
  }   
 }
