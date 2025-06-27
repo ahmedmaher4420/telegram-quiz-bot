@@ -1231,8 +1231,7 @@ quizzes = {
                 "D. Bicarbonate"
             ],
             "answer": "D"
-        }
-    ],
+        },
            {
             "question": "What is the consequence of significant imbalances in fluid and electrolytes in the body?",
             "options": [
