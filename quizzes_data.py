@@ -2763,1507 +2763,1266 @@ quizzes = {
     ],
     "answer": "C"
   },
-
-
-
-
-
-
-
-
-
-    
-    {
-        "question": "What is the primary purpose of nitroglycerin in treating angina?",
-        "options": [
-            "To increase heart rate",
-            "To reduce myocardial oxygen consumption",
-            "To increase blood pressure",
-            "To thin the blood"
-        ],
-        "answer": "To reduce myocardial oxygen consumption"
-    },
-    {
-        "question": "How do beta-adrenergic blocking agents help in managing angina?",
-        "options": [
-            "By increasing heart rate",
-            "By dilating blood vessels",
-            "By reducing myocardial oxygen consumption",
-            "By increasing blood pressure"
-        ],
-        "answer": "By reducing myocardial oxygen consumption"
-    },
-    {
-        "question": "What is the main effect of calcium channel blocking agents in angina treatment?",
-        "options": [
-            "They increase heart rate",
-            "They decrease heart rate",
-            "They increase blood pressure",
-            "They increase oxygen demand"
-        ],
-        "answer": "They decrease heart rate"
-    },
-    {
-        "question": "Why are antiplatelet and anticoagulant medications used in angina management?",
-        "options": [
-            "To increase heart rate",
-            "To decrease pain",
-            "To prevent platelet aggregation and thrombosis",
-            "To increase oxygen supply to the heart"
-        ],
-        "answer": "To prevent platelet aggregation and thrombosis"
-    },
-    {
-        "question": "What is the primary reason for administering oxygen during an angina attack?",
-        "options": [
-            "To decrease heart rate",
-            "To increase oxygen delivery to the myocardium",
-            "To reduce blood pressure",
-            "To thin the blood"
-        ],
-        "answer": "To increase oxygen delivery to the myocardium"
-    },
-    {
-        "question": "Which of the following is NOT a responsibility of the nurse when administering oxygen to an angina patient?",
-        "options": [
-            "Observing respiratory rate",
-            "Monitoring blood oxygen saturation",
-            "Adjusting room temperature",
-            "Observing respiratory rhythm"
-        ],
-        "answer": "Adjusting room temperature"
-    },
-    {
-        "question": "What does 'unstable angina' indicate?",
-        "options": [
-            "Symptoms are decreasing in frequency",
-            "Symptoms are consistent and predictable",
-            "Symptoms are increasing in frequency and severity",
-            "Symptoms only occur during rest"
-        ],
-        "answer": "Symptoms are increasing in frequency and severity"
-    },
-    {
-        "question": "Which type of angina is described as severe and incapacitating chest pain?",
-        "options": ["Stable angina", "Variant angina", "Intractable angina", "Silent ischemia"],
-        "answer": "Intractable angina"
-    },
-    {
-        "question": "How does exposure to cold potentially trigger angina?",
-        "options": [
-            "By causing vasodilation",
-            "By lowering blood pressure",
-            "By causing vasoconstriction and elevating blood pressure",
-            "By decreasing oxygen demand"
-        ],
-        "answer": "By causing vasoconstriction and elevating blood pressure"
-    },
-    {
-        "question": "What effect do catecholamines have during emotional stress that can trigger angina?",
-        "options": [
-            "They decrease heart rate",
-            "They lower blood pressure",
-            "They decrease myocardial workload",
-            "They increase heart rate and blood pressure"
-        ],
-        "answer": "They increase heart rate and blood pressure"
-    },
-    {
-        "question": "Which of the following is a common description of angina pain?",
-        "options": [
-            "Sharp and localized",
-            "Dull and widespread",
-            "Burning and itchy",
-            "Throbbing and pulsating"
-        ],
-        "answer": "Dull and widespread"
-    },
-    {
-        "question": "What is the primary difference between stable and unstable angina?",
-        "options": [
-            "Stable angina only occurs at night",
-            "Unstable angina is relieved by rest",
-            "Stable angina is predictable and consistent",
-            "Unstable angina decreases in severity over time"
-        ],
-        "answer": "Stable angina is predictable and consistent"
-    },
-    {
-        "question": "What is the primary characteristic of Acute Coronary Syndrome (ACS)?",
-        "options": [
-            "a. Chronic chest pain",
-            "b. Sudden onset of myocardial ischemia",
-            "c. Slow heart rate",
-            "d. Improved blood flow to the heart"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "Which of the following is NOT a common clinical manifestation of ACS?",
-        "options": [
-            "a. Chest pain",
-            "b. Shortness of breath",
-            "c. Nausea",
-            "d. Fever"
-        ],
-        "answer": "d"
-    },
-    {
-        "question": "What is another term used for Acute Coronary Syndrome?",
-        "options": [
-            "a. Bronchitis",
-            "b. Pneumonia",
-            "c. Heart attack",
-            "d. Stroke"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "How does the skin typically appear during an ACS event?",
-        "options": [
-            "a. Hot, red, and dry",
-            "b. Cool, pale, and moist",
-            "c. Flushed and warm",
-            "d. Yellow and itchy"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "What is one of the primary methods used to diagnose a Myocardial Infarction (MI)?",
-        "options": [
-            "a. Blood pressure check",
-            "b. X-ray",
-            "c. 12-lead ECG",
-            "d. Ultrasound"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "What medication is typically administered first in the early management of ACS?",
-        "options": [
-            "a. Ibuprofen",
-            "b. Aspirin",
-            "c. Acetaminophen",
-            "d. Penicillin"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "How is nitroglycerin usually administered in the initial stages of treatment?",
-        "options": [
-            "a. Orally",
-            "b. Intravenously",
-            "c. Sublingually",
-            "d. Intramuscularly"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "What is the recommended initial dose of aspirin for ACS?",
-        "options": [
-            "a. 81 mg",
-            "b. 160 to 325 mg",
-            "c. 500 mg",
-            "d. 1000 mg"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "How long is the minimum recommended bed rest period for ACS patients?",
-        "options": [
-            "a. 6 to 12 hours",
-            "b. 12 to 24 hours",
-            "c. 2 to 3 days",
-            "d. 1 week"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "Which of the following is NOT a typical nursing diagnosis for a patient with ACS?",
-        "options": [
-            "a. Ineffective cardiac tissue perfusion",
-            "b. Risk for imbalanced fluid volume",
-            "c. Improved oxygenation",
-            "d. Anxiety related to cardiac event"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "What type of medication is typically administered within the initial hours of an evolving infarction?",
-        "options": [
-            "a. Antibiotic",
-            "b. Beta blocker",
-            "c. Steroid",
-            "d. Antidepressant"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "How long is IV nitroglycerin usually continued in intensive care management?",
-        "options": [
-            "a. 6 to 12 hours",
-            "b. 12 to 24 hours",
-            "c. 24 to 48 hours",
-            "d. 3 to 5 days"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "Which of the following is a risk factor associated with ACS?",
-        "options": [
-            "a. Regular exercise",
-            "b. Balanced diet",
-            "c. Smoking",
-            "d. Low stress levels"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "What does ACS stand for?",
-        "options": [
-            "a. Acute Cardiac Syndrome",
-            "b. Advanced Coronary System",
-            "c. Acute Coronary Syndrome",
-            "d. Automated Cardiac Support"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "Which of the following is NOT typically included in the systematic assessment of an ACS patient?",
-        "options": [
-            "a. Chest pain or discomfort",
-            "b. Dyspnea",
-            "c. Unusual fatigue",
-            "d. Bone density"
-        ],
-        "answer": "d"
-    },
-    {
-        "question": "Which of the following is NOT considered one of the four major modifiable risk factors for Coronary Artery Disease (CAD)?",
-        "options": [
-            "a. Cholesterol abnormalities",
-            "b. Tobacco use",
-            "c. Obesity",
-            "d. Diabetes mellitus"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "What is the recommended triglyceride level to reduce the risk of CAD?",
-        "options": [
-            "a. Less than 100 mg/dL",
-            "b. Less than 150 mg/dL",
-            "c. Less than 200 mg/dL",
-            "d. Less than 250 mg/dL"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "The Therapeutic Lifestyle Changes (TLC) diet is characterized by:",
-        "options": [
-            "a. High in saturated fat and low in fiber",
-            "b. Low in saturated fat and high in soluble fiber",
-            "c. High in protein and low in carbohydrates",
-            "d. Low in fat and high in simple sugars"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "Which of the following is NOT a recommendation for physical activity in patients at risk for CAD?",
-        "options": [
-            "a. Start with short durations of activity",
-            "b. Monitor pulse rate during exercise",
-            "c. Continue activity even if chest pain occurs",
-            "d. Alternate activity with rest periods"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "Lipid-lowering medications are typically prescribed when:",
-        "options": [
-            "a. Diet alone can normalize serum cholesterol levels",
-            "b. The patient has no other risk factors for CAD",
-            "c. Diet alone cannot normalize serum cholesterol levels",
-            "d. The patient is already physically active"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "What percentage of patients with diabetes have cardiovascular disease identified as the cause of death?",
-        "options": [
-            "a. 25% to 35%",
-            "b. 45% to 55%",
-            "c. 65% to 75%",
-            "d. 85% to 95%"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "Which of the following is a complication of acute myocardial infarction?",
-        "options": [
-            "a. Hyperthyroidism",
-            "b. Cardiogenic shock",
-            "c. Kidney stones",
-            "d. Osteoporosis"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "What is the primary goal of controlling hypertension in relation to CAD?",
-        "options": [
-            "a. To increase vessel wall stiffness",
-            "b. To promote inflammatory response",
-            "c. To prevent vessel injury and inflammation",
-            "d. To increase blood pressure variability"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "How does hyperglycemia contribute to the development of heart disease in diabetic patients?",
-        "options": [
-            "a. By decreasing platelet aggregation",
-            "b. By improving red blood cell function",
-            "c. By reducing thrombus formation",
-            "d. By fostering increased platelet aggregation"
-        ],
-        "answer": "d"
-    },
-    {
-        "question": "Which of the following is NOT a component of pericardial effusion management?",
-        "options": [
-            "a. Monitoring for cardiac tamponade",
-            "b. Encouraging tobacco use",
-            "c. Administering prescribed medications",
-            "d. Regular cardiac function assessments"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "What is the primary benefit of adopting a strict vegetarian diet in relation to CAD risk?",
-        "options": [
-            "a. Increased blood lipids",
-            "b. Elevated blood glucose",
-            "c. Reduced blood pressure and lipids",
-            "d. Higher body mass index"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "Which of the following is a sign that a patient should stop physical activity immediately?",
-        "options": [
-            "a. Mild muscle soreness",
-            "b. Increased heart rate",
-            "c. Unusual shortness of breath",
-            "d. Slight perspiration"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "How does long-standing elevated blood pressure contribute to CAD?",
-        "options": [
-            "a. By decreasing vessel wall stiffness",
-            "b. By increasing vessel wall stiffness",
-            "c. By reducing inflammatory response",
-            "d. By improving endothelial function"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "What is the primary purpose of using metformin in diabetic patients at risk for CAD?",
-        "options": [
-            "a. To increase plasma glucose levels",
-            "b. To worsen endothelial function",
-            "c. To lower plasma glucose levels",
-            "d. To promote platelet aggregation"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "Which of the following is NOT a recommended approach for promoting cessation of tobacco use?",
-        "options": [
-            "a. Educational programs",
-            "b. Consistent motivation",
-            "c. Encouraging occasional use",
-            "d. Support groups"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "What is the recommended timing for physical exercise in relation to meals for CAD prevention?",
-        "options": [
-            "a. Immediately before meals",
-            "b. Immediately after meals",
-            "c. At least 2 hours after meals",
-            "d. Only during fasting periods"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "Which of the following is a potential complication of acute myocardial infarction?",
-        "options": [
-            "a. Improved cardiac output",
-            "b. Reduced risk of dysrhythmias",
-            "c. Acute pulmonary edema",
-            "d. Enhanced coronary blood flow"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "How does regular, moderate physical activity benefit patients at risk for CAD?",
-        "options": [
-            "a. By increasing triglyceride levels",
-            "b. By reducing the incidence of coronary events",
-            "c. By elevating blood pressure",
-            "d. By promoting insulin resistance"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "Which medication is commonly used to lower plasma glucose levels in diabetic patients at risk for CAD?",
-        "options": [
-            "a. Aspirin",
-            "b. Warfarin",
-            "c. Insulin",
-            "d. Nitroglycerin"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "What is the primary goal of the TLC diet in CAD prevention?",
-        "options": [
-            "a. To increase saturated fat intake",
-            "b. To reduce soluble fiber consumption",
-            "c. To promote weight gain",
-            "d. To reduce saturated fat intake and increase fiber consumption"
-        ],
-        "answer": "d"
-    },
-    {
-        "question": "What is the primary function of the kidneys in terms of waste removal?",
-        "options": [
-            "a. Regulation of blood pressure",
-            "b. Excretion of metabolic waste",
-            "c. Regulation of body temperature",
-            "d. Production of hormones"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "Which of the following substances is NOT typically excreted by the kidneys?",
-        "options": [
-            "a. Urea",
-            "b. Creatinine",
-            "c. Glucose",
-            "d. Electrolytes"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "What hormone produced by the kidneys regulates red blood cell production?",
-        "options": [
-            "a. Renin",
-            "b. Erythropoietin",
-            "c. Insulin",
-            "d. Aldosterone"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "What condition is characterized by an abrupt decline in renal function?",
-        "options": [
-            "a. Chronic renal failure",
-            "b. Acute renal failure (ARF)",
-            "c. End-stage renal disease",
-            "d. Nephrotoxicity"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "Which type of renal failure implies that kidney function will not return?",
-        "options": [
-            "a. Reversible renal failure",
-            "b. Acute renal failure",
-            "c. Irreversible renal failure",
-            "d. Chronic renal failure"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "What is a common cause of prerenal acute renal failure?",
-        "options": [
-            "a. Urinary tract obstruction",
-            "b. Nephrotoxic agents",
-            "c. Volume depletion",
-            "d. Infections"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "Which of the following is a characteristic of the oliguric phase?",
-        "options": [
-            "a. Increased urine output",
-            "b. Urinary output of less than 400 ml/day",
-            "c. Complete recovery of kidney function",
-            "d. No symptoms present"
-        ],
-        "answer": "b"
-    },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    {
-        "question": "What phase follows the oliguric phase in acute renal failure?",
-        "options": [
-            "a. Initiation phase",
-            "b. Recovery phase",
-            "c. Diuretic phase",
-            "d. Terminal phase"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "Which of the following is a subjective symptom of renal failure?",
-        "options": [
-            "a. Edema",
-            "b. Nausea",
-            "c. Hypertension",
-            "d. Decreased urine output"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "What is a key sign of the oliguric phase?",
-        "options": [
-            "a. Decreased potassium levels",
-            "b. Increased sodium levels",
-            "c. Vomiting",
-            "d. Increased urine output"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "What is the role of renin secreted by the kidneys?",
-        "options": [
-            "a. Regulates calcium uptake",
-            "b. Regulates blood pressure",
-            "c. Promotes red blood cell production",
-            "d. Eliminates waste"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "What condition can be caused by urinary tract obstruction?",
-        "options": [
-            "a. Prerenal failure",
-            "b. Intrarenal failure",
-            "c. Post-renal failure",
-            "d. Chronic kidney disease"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "Which of the following factors increases the risk of acute renal failure?",
-        "options": [
-            "a. Low protein diet",
-            "b. Age 65 years or over",
-            "c. Regular exercise",
-            "d. High fluid intake"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "What is the primary purpose of monitoring fluid and electrolyte balance in renal failure?",
-        "options": [
-            "a. To prevent kidney stones",
-            "b. To ensure proper hydration",
-            "c. To manage blood pressure",
-            "d. To prevent renal damage"
-        ],
-        "answer": "d"
-    },
-    {
-        "question": "Which diagnostic study is commonly used to assess kidney function?",
-        "options": [
-            "a. MRI",
-            "b. Renal ultrasound",
-            "c. CT scan",
-            "d. X-ray"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "What dietary restriction is recommended for patients with renal failure?",
-        "options": [
-            "a. Increased protein intake",
-            "b. Restricted fluid intake",
-            "c. High-carbohydrate meals",
-            "d. Increased potassium intake"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "What is a potential complication of using nephrotoxic drugs?",
-        "options": [
-            "a. Improved kidney function",
-            "b. Acute renal failure",
-            "c. Enhanced metabolism",
-            "d. Decreased heart rate"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "What should be done to prevent infections in patients with indwelling catheters?",
-        "options": [
-            "a. Change catheters weekly",
-            "b. Use aseptic technique",
-            "c. Avoid catheter use",
-            "d. Limit fluid intake"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "What is the significance of anuria in a patient with renal failure?",
-        "options": [
-            "a. It indicates recovery",
-            "b. It is a normal finding",
-            "c. It requires renal replacement therapy",
-            "d. It shows improved kidney function"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "Which of the following symptoms indicates a possible worsening of renal function?",
-        "options": [
-            "a. Increased appetite",
-            "b. Improved urine output",
-            "c. Hypertension",
-            "d. Weight loss"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "What is the recommended action for a patient experiencing hypotension?",
-        "options": [
-            "a. Increase sodium intake",
-            "b. Treat promptly",
-            "c. Limit fluid consumption",
-            "d. Restrict movement"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "What is the primary role of activated vitamin D in renal function?",
-        "options": [
-            "a. Promotes red blood cell production",
-            "b. Regulates calcium uptake",
-            "c. Eliminates waste",
-            "d. Maintains blood pressure"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "Which phase of acute renal failure is characterized by a gradual increase in urine output?",
-        "options": [
-            "a. Initiation phase",
-            "b. Oliguric phase",
-            "c. Diuretic phase",
-            "d. Recovery phase"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "What type of renal failure is caused by nephrotoxic agents?",
-        "options": [
-            "a. Prerenal",
-            "b. Intrarenal",
-            "c. Post-renal",
-            "d. Chronic"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "Which of the following is a common risk factor for chronic kidney disease?",
-        "options": [
-            "a. High physical activity",
-            "b. Age under 30",
-            "c. History of diabetes",
-            "d. Low sodium intake"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "What is the primary reason for providing adequate hydration to at-risk patients?",
-        "options": [
-            "a. To prevent kidney stones",
-            "b. To promote appetite",
-            "c. To prevent dehydration",
-            "d. To reduce weight"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "What does the presence of uremic breath indicate?",
-        "options": [
-            "a. Improved renal function",
-            "b. Accumulation of waste products",
-            "c. Dehydration",
-            "d. Infection"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "During the recovery phase of acute renal failure, what happens to urine output?",
-        "options": [
-            "a. It decreases significantly",
-            "b. It remains unchanged",
-            "c. It begins to normalize",
-            "d. It becomes anuric"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "What is a common sign of fluid overload in renal failure patients?",
-        "options": [
-            "a. Weight loss",
-            "b. Edema",
-            "c. Increased appetite",
-            "d. Hypotension"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "What should be done when administering blood to a patient to prevent transfusion reactions?",
-        "options": [
-            "a. Administer quickly",
-            "b. Ensure correct patient identification",
-            "c. Use outdated blood",
-            "d. Limit monitoring"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "Which electrolyte imbalance is common in the oliguric phase?",
-        "options": [
-            "a. Hypernatremia",
-            "b. Hyperkalemia",
-            "c. Hypokalemia",
-            "d. Hyponatremia"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "What is the main function of the kidneys in regulating acid-base balance?",
-        "options": [
-            "a. Filtering blood",
-            "b. Excreting hydrogen ions",
-            "c. Producing erythropoietin",
-            "d. Regulating calcium"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "Which of the following can lead to chronic kidney disease?",
-        "options": [
-            "a. One-time use of nephrotoxic drugs",
-            "b. Long-term diabetes management",
-            "c. Continued exposure to nephrotoxic agents",
-            "d. Regular hydration"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "What is the significance of a gradual decline in BUN and creatinine levels?",
-        "options": [
-            "a. It indicates worsening kidney function",
-            "b. It shows kidney recovery",
-            "c. It is an irrelevant finding",
-            "d. It requires immediate intervention"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "What should be monitored to assess the effectiveness of renal therapy?",
-        "options": [
-            "a. Weight only",
-            "b. Urinalysis only",
-            "c. Blood pressure only",
-            "d. Vital signs and laboratory values"
-        ],
-        "answer": "d"
-    },
-    {
-        "question": "What is an important nursing intervention for a patient with acute renal failure?",
-        "options": [
-            "a. Encourage high protein intake",
-            "b. Maintain strict I&O records",
-            "c. Limit fluid intake",
-            "d. Increase physical activity"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "What is the effect of acute glomerulonephritis on kidney function?",
-        "options": [
-            "a. It increases urine output",
-            "b. It causes nephrotoxicity",
-            "c. It leads to inflammation",
-            "d. It improves filtration"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "Which of the following is a non-invasive diagnostic test for kidney function?",
-        "options": [
-            "a. Renal biopsy",
-            "b. Chest X-ray",
-            "c. Renal ultrasound",
-            "d. CT scan"
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "What is the expected outcome of nutritional therapy for renal failure?",
-        "options": [
-            "a. Increased potassium intake",
-            "b. Reduced metabolic waste",
-            "c. Improved fluid retention",
-            "d. Decreased protein intake"
-        ],
-        "answer": "d"
-    },
-    {
-        "question": "What is a common cause of post-renal acute renal failure?",
-        "options": [
-            "a. Dehydration",
-            "b. Urinary tract obstruction",
-            "c. Nephrotoxic drugs",
-            "d. Chronic disease"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "Which symptom is associated with hypokalemia in renal failure?",
-        "options": [
-            "a. Muscle cramps",
-            "b. Edema",
-            "c. Hypertension",
-            "d. Increased appetite"
-        ],
-        "answer": "a"
-    },
-    {
-        "question": "What is the purpose of monitoring daily weights in renal failure patients?",
-        "options": [
-            "a. To assess protein intake",
-            "b. To evaluate fluid status",
-            "c. To measure kidney size",
-            "d. To determine electrolyte balance"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "What is the role of bed rest during the management of acute renal failure?",
-        "options": [
-            "a. To increase appetite",
-            "b. To reduce metabolic rate",
-            "c. To encourage activity",
-            "d. To improve kidney filtration"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "What is a common finding in patients experiencing uremia?",
-        "options": [
-            "a. Clear urine",
-            "b. Decreased appetite",
-            "c. Weight gain",
-            "d. Improved energy levels"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "Which condition may require renal replacement therapy?",
-        "options": [
-            "a. Reversible renal failure",
-            "b. Chronic renal failure",
-            "c. Diuretic phase",
-            "d. Recovery phase"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "How can infections be prevented in patients with renal failure?",
-        "options": [
-            "a. Using aseptic technique",
-            "b. Avoiding medications",
-            "c. Increasing fluid intake",
-            "d. Limiting physical activity"
-        ],
-        "answer": "a"
-    },
-    {
-        "question": "What is the primary concern when using iodinated contrast agents in renal failure patients?",
-        "options": [
-            "a. Improved imaging",
-            "b. Risk of nephrotoxicity",
-            "c. Enhanced blood flow",
-            "d. Increased hydration"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "What should be done if a patient with renal failure shows signs of acidosis?",
-        "options": [
-            "a. Increase protein intake",
-            "b. Administer bicarbonate",
-            "c. Limit hydration",
-            "d. Encourage exercise"
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "Which of the following is a long-term consequence of untreated acute renal failure?",
-        "options": [
-            "a. Complete recovery",
-            "b. Chronic kidney disease",
-            "c. Improved kidney function",
-            "d. No symptoms"
-        ],
-        "answer": "b"
-    },
+  {
+    "question": "What is the primary purpose of nitroglycerin in treating angina?",
+    "options": [
+      "A. To increase heart rate",
+      "B. To reduce myocardial oxygen consumption",
+      "C. To increase blood pressure",
+      "D. To thin the blood"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "How do beta-adrenergic blocking agents help in managing angina?",
+    "options": [
+      "A. By increasing heart rate",
+      "B. By dilating blood vessels",
+      "C. By reducing myocardial oxygen consumption",
+      "D. By increasing blood pressure"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the main effect of calcium channel blocking agents in angina treatment?",
+    "options": [
+      "A. They increase heart rate",
+      "B. They decrease heart rate",
+      "C. They increase blood pressure",
+      "D. They increase oxygen demand"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Why are antiplatelet and anticoagulant medications used in angina management?",
+    "options": [
+      "A. To increase heart rate",
+      "B. To decrease pain",
+      "C. To prevent platelet aggregation and thrombosis",
+      "D. To increase oxygen supply to the heart"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the primary reason for administering oxygen during an angina attack?",
+    "options": [
+      "A. To decrease heart rate",
+      "B. To increase oxygen delivery to the myocardium",
+      "C. To reduce blood pressure",
+      "D. To thin the blood"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is NOT a responsibility of the nurse when administering oxygen to an angina patient?",
+    "options": [
+      "A. Observing respiratory rate",
+      "B. Monitoring blood oxygen saturation",
+      "C. Adjusting room temperature",
+      "D. Observing respiratory rhythm"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What does 'unstable angina' indicate?",
+    "options": [
+      "A. Symptoms are decreasing in frequency",
+      "B. Symptoms are consistent and predictable",
+      "C. Symptoms are increasing in frequency and severity",
+      "D. Symptoms only occur during rest"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which type of angina is described as severe and incapacitating chest pain?",
+    "options": [
+      "A. Stable angina",
+      "B. Variant angina",
+      "C. Intractable angina",
+      "D. Silent ischemia"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "How does exposure to cold potentially trigger angina?",
+    "options": [
+      "A. By causing vasodilation",
+      "B. By lowering blood pressure",
+      "C. By causing vasoconstriction and elevating blood pressure",
+      "D. By decreasing oxygen demand"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What effect do catecholamines have during emotional stress that can trigger angina?",
+    "options": [
+      "A. They decrease heart rate",
+      "B. They lower blood pressure",
+      "C. They decrease myocardial workload",
+      "D. They increase heart rate and blood pressure"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is a common description of angina pain?",
+    "options": [
+      "A. Sharp and localized",
+      "B. Dull and widespread",
+      "C. Burning and itchy",
+      "D. Throbbing and pulsating"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary difference between stable and unstable angina?",
+    "options": [
+      "A. Stable angina only occurs at night",
+      "B. Unstable angina is relieved by rest",
+      "C. Stable angina is predictable and consistent",
+      "D. Unstable angina decreases in severity over time"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the primary characteristic of Acute Coronary Syndrome (ACS)?",
+    "options": [
+      "A. Chronic chest pain",
+      "B. Sudden onset of myocardial ischemia",
+      "C. Slow heart rate",
+      "D. Improved blood flow to the heart"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is NOT a common clinical manifestation of ACS?",
+    "options": [
+      "A. Chest pain",
+      "B. Shortness of breath",
+      "C. Nausea",
+      "D. Fever"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What is another term used for Acute Coronary Syndrome?",
+    "options": [
+      "A. Bronchitis",
+      "B. Pneumonia",
+      "C. Heart attack",
+      "D. Stroke"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "How does the skin typically appear during an ACS event?",
+    "options": [
+      "A. Hot, red, and dry",
+      "B. Cool, pale, and moist",
+      "C. Flushed and warm",
+      "D. Yellow and itchy"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is one of the primary methods used to diagnose a Myocardial Infarction (MI)?",
+    "options": [
+      "A. Blood pressure check",
+      "B. X-ray",
+      "C. 12-lead ECG",
+      "D. Ultrasound"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What medication is typically administered first in the early management of ACS?",
+    "options": [
+      "A. Ibuprofen",
+      "B. Aspirin",
+      "C. Acetaminophen",
+      "D. Penicillin"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "How is nitroglycerin usually administered in the initial stages of treatment?",
+    "options": [
+      "A. Orally",
+      "B. Intravenously",
+      "C. Sublingually",
+      "D. Intramuscularly"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the recommended initial dose of aspirin for ACS?",
+    "options": [
+      "A. 81 mg",
+      "B. 160 to 325 mg",
+      "C. 500 mg",
+      "D. 1000 mg"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "How long is the minimum recommended bed rest period for ACS patients?",
+    "options": [
+      "A. 6 to 12 hours",
+      "B. 12 to 24 hours",
+      "C. 2 to 3 days",
+      "D. 1 week"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is NOT a typical nursing diagnosis for a patient with ACS?",
+    "options": [
+      "A. Ineffective cardiac tissue perfusion",
+      "B. Risk for imbalanced fluid volume",
+      "C. Improved oxygenation",
+      "D. Anxiety related to cardiac event"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What type of medication is typically administered within the initial hours of an evolving infarction?",
+    "options": [
+      "A. Antibiotic",
+      "B. Beta blocker",
+      "C. Steroid",
+      "D. Antidepressant"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "How long is IV nitroglycerin usually continued in intensive care management?",
+    "options": [
+      "A. 6 to 12 hours",
+      "B. 12 to 24 hours",
+      "C. 24 to 48 hours",
+      "D. 3 to 5 days"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a risk factor associated with ACS?",
+    "options": [
+      "A. Regular exercise",
+      "B. Balanced diet",
+      "C. Smoking",
+      "D. Low stress levels"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What does ACS stand for?",
+    "options": [
+      "A. Acute Cardiac Syndrome",
+      "B. Advanced Coronary System",
+      "C. Acute Coronary Syndrome",
+      "D. Automated Cardiac Support"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is NOT typically included in the systematic assessment of an ACS patient?",
+    "options": [
+      "A. Chest pain or discomfort",
+      "B. Dyspnea",
+      "C. Unusual fatigue",
+      "D. Bone density"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is NOT considered one of the four major modifiable risk factors for Coronary Artery Disease (CAD)?",
+    "options": [
+      "A. Cholesterol abnormalities",
+      "B. Tobacco use",
+      "C. Obesity",
+      "D. Diabetes mellitus"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the recommended triglyceride level to reduce the risk of CAD?",
+    "options": [
+      "A. Less than 100 mg/dL",
+      "B. Less than 150 mg/dL",
+      "C. Less than 200 mg/dL",
+      "D. Less than 250 mg/dL"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The Therapeutic Lifestyle Changes (TLC) diet is characterized by:",
+    "options": [
+      "A. High in saturated fat and low in fiber",
+      "B. Low in saturated fat and high in soluble fiber",
+      "C. High in protein and low in carbohydrates",
+      "D. Low in fat and high in simple sugars"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is NOT a recommendation for physical activity in patients at risk for CAD?",
+    "options": [
+      "A. Start with short durations of activity",
+      "B. Monitor pulse rate during exercise",
+      "C. Continue activity even if chest pain occurs",
+      "D. Alternate activity with rest periods"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Lipid-lowering medications are typically prescribed when:",
+    "options": [
+      "A. Diet alone can normalize serum cholesterol levels",
+      "B. The patient has no other risk factors for CAD",
+      "C. Diet alone cannot normalize serum cholesterol levels",
+      "D. The patient is already physically active"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What percentage of patients with diabetes have cardiovascular disease identified as the cause of death?",
+    "options": [
+      "A. 25% to 35%",
+      "B. 45% to 55%",
+      "C. 65% to 75%",
+      "D. 85% to 95%"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a complication of acute myocardial infarction?",
+    "options": [
+      "A. Hyperthyroidism",
+      "B. Cardiogenic shock",
+      "C. Kidney stones",
+      "D. Osteoporosis"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary goal of controlling hypertension in relation to CAD?",
+    "options": [
+      "A. To increase vessel wall stiffness",
+      "B. To promote inflammatory response",
+      "C. To prevent vessel injury and inflammation",
+      "D. To increase blood pressure variability"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "How does hyperglycemia contribute to the development of heart disease in diabetic patients?",
+    "options": [
+      "A. By decreasing platelet aggregation",
+      "B. By improving red blood cell function",
+      "C. By reducing thrombus formation",
+      "D. By fostering increased platelet aggregation"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is NOT a component of pericardial effusion management?",
+    "options": [
+      "A. Monitoring for cardiac tamponade",
+      "B. Encouraging tobacco use",
+      "C. Administering prescribed medications",
+      "D. Regular cardiac function assessments"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary benefit of adopting a strict vegetarian diet in relation to CAD risk?",
+    "options": [
+      "A. Increased blood lipids",
+      "B. Elevated blood glucose",
+      "C. Reduced blood pressure and lipids",
+      "D. Higher body mass index"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a sign that a patient should stop physical activity immediately?",
+    "options": [
+      "A. Mild muscle soreness",
+      "B. Increased heart rate",
+      "C. Unusual shortness of breath",
+      "D. Slight perspiration"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "How does long-standing elevated blood pressure contribute to CAD?",
+    "options": [
+      "A. By decreasing vessel wall stiffness",
+      "B. By increasing vessel wall stiffness",
+      "C. By reducing inflammatory response",
+      "D. By improving endothelial function"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary purpose of using metformin in diabetic patients at risk for CAD?",
+    "options": [
+      "A. To increase plasma glucose levels",
+      "B. To worsen endothelial function",
+      "C. To lower plasma glucose levels",
+      "D. To promote platelet aggregation"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is NOT a recommended approach for promoting cessation of tobacco use?",
+    "options": [
+      "A. Educational programs",
+      "B. Consistent motivation",
+      "C. Encouraging occasional use",
+      "D. Support groups"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the recommended timing for physical exercise in relation to meals for CAD prevention?",
+    "options": [
+      "A. Immediately before meals",
+      "B. Immediately after meals",
+      "C. At least 2 hours after meals",
+      "D. Only during fasting periods"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a potential complication of acute myocardial infarction?",
+    "options": [
+      "A. Improved cardiac output",
+      "B. Reduced risk of dysrhythmias",
+      "C. Acute pulmonary edema",
+      "D. Enhanced coronary blood flow"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "How does regular, moderate physical activity benefit patients at risk for CAD?",
+    "options": [
+      "A. By increasing triglyceride levels",
+      "B. By reducing the incidence of coronary events",
+      "C. By elevating blood pressure",
+      "D. By promoting insulin resistance"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which medication is commonly used to lower plasma glucose levels in diabetic patients at risk for CAD?",
+    "options": [
+      "A. Aspirin",
+      "B. Warfarin",
+      "C. Insulin",
+      "D. Nitroglycerin"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the primary goal of the TLC diet in CAD prevention?",
+    "options": [
+      "A. To increase saturated fat intake",
+      "B. To reduce soluble fiber consumption",
+      "C. To promote weight gain",
+      "D. To reduce saturated fat intake and increase fiber consumption"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What is the primary function of the kidneys in terms of waste removal?",
+    "options": [
+      "A. Regulation of blood pressure",
+      "B. Excretion of metabolic waste",
+      "C. Regulation of body temperature",
+      "D. Production of hormones"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following substances is NOT typically excreted by the kidneys?",
+    "options": [
+      "A. Urea",
+      "B. Creatinine",
+      "C. Glucose",
+      "D. Electrolytes"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What hormone produced by the kidneys regulates red blood cell production?",
+    "options": [
+      "A. Renin",
+      "B. Erythropoietin",
+      "C. Insulin",
+      "D. Aldosterone"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What condition is characterized by an abrupt decline in renal function?",
+    "options": [
+      "A. Chronic renal failure",
+      "B. Acute renal failure (ARF)",
+      "C. End-stage renal disease",
+      "D. Nephrotoxicity"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which type of renal failure implies that kidney function will not return?",
+    "options": [
+      "A. Reversible renal failure",
+      "B. Acute renal failure",
+      "C. Irreversible renal failure",
+      "D. Chronic renal failure"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is a common cause of prerenal acute renal failure?",
+    "options": [
+      "A. Urinary tract obstruction",
+      "B. Nephrotoxic agents",
+      "C. Volume depletion",
+      "D. Infections"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a characteristic of the oliguric phase?",
+    "options": [
+      "A. Increased urine output",
+      "B. Urinary output of less than 400 ml/day",
+      "C. Complete recovery of kidney function",
+      "D. No symptoms present"
+    ],
+    "answer": "B"
+    },
+  {
+    "question": "What phase follows the oliguric phase in acute renal failure?",
+    "options": ["A. Initiation phase", "B. Recovery phase", "C. Diuretic phase", "D. Terminal phase"],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a subjective symptom of renal failure?",
+    "options": ["A. Edema", "B. Nausea", "C. Hypertension", "D. Decreased urine output"],
+    "answer": "B"
+  },
+  {
+    "question": "What is a key sign of the oliguric phase?",
+    "options": ["A. Decreased potassium levels", "B. Increased sodium levels", "C. Vomiting", "D. Increased urine output"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the role of renin secreted by the kidneys?",
+    "options": ["A. Regulates calcium uptake", "B. Regulates blood pressure", "C. Promotes red blood cell production", "D. Eliminates waste"],
+    "answer": "B"
+  },
+  {
+    "question": "What condition can be caused by urinary tract obstruction?",
+    "options": ["A. Prerenal failure", "B. Intrarenal failure", "C. Post-renal failure", "D. Chronic kidney disease"],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following factors increases the risk of acute renal failure?",
+    "options": ["A. Low protein diet", "B. Age 65 years or over", "C. Regular exercise", "D. High fluid intake"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary purpose of monitoring fluid and electrolyte balance in renal failure?",
+    "options": ["A. To prevent kidney stones", "B. To ensure proper hydration", "C. To manage blood pressure", "D. To prevent renal damage"],
+    "answer": "D"
+  },
+  {
+    "question": "Which diagnostic study is commonly used to assess kidney function?",
+    "options": ["A. MRI", "B. Renal ultrasound", "C. CT scan", "D. X-ray"],
+    "answer": "B"
+  },
+  {
+    "question": "What dietary restriction is recommended for patients with renal failure?",
+    "options": ["A. Increased protein intake", "B. Restricted fluid intake", "C. High-carbohydrate meals", "D. Increased potassium intake"],
+    "answer": "C"
+  },
+  {
+    "question": "What is a potential complication of using nephrotoxic drugs?",
+    "options": ["A. Improved kidney function", "B. Acute renal failure", "C. Enhanced metabolism", "D. Decreased heart rate"],
+    "answer": "B"
+  },
+  {
+    "question": "What should be done to prevent infections in patients with indwelling catheters?",
+    "options": ["A. Change catheters weekly", "B. Use aseptic technique", "C. Avoid catheter use", "D. Limit fluid intake"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the significance of anuria in a patient with renal failure?",
+    "options": ["A. It indicates recovery", "B. It is a normal finding", "C. It requires renal replacement therapy", "D. It shows improved kidney function"],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following symptoms indicates a possible worsening of renal function?",
+    "options": ["A. Increased appetite", "B. Improved urine output", "C. Hypertension", "D. Weight loss"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the recommended action for a patient experiencing hypotension?",
+    "options": ["A. Increase sodium intake", "B. Treat promptly", "C. Limit fluid consumption", "D. Restrict movement"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary role of activated vitamin D in renal function?",
+    "options": ["A. Promotes red blood cell production", "B. Regulates calcium uptake", "C. Eliminates waste", "D. Maintains blood pressure"],
+    "answer": "B"
+  },
+  {
+    "question": "Which phase of acute renal failure is characterized by a gradual increase in urine output?",
+    "options": ["A. Initiation phase", "B. Oliguric phase", "C. Diuretic phase", "D. Recovery phase"],
+    "answer": "C"
+  },
+  {
+    "question": "What type of renal failure is caused by nephrotoxic agents?",
+    "options": ["A. Prerenal", "B. Intrarenal", "C. Post-renal", "D. Chronic"],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a common risk factor for chronic kidney disease?",
+    "options": ["A. High physical activity", "B. Age under 30", "C. History of diabetes", "D. Low sodium intake"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the primary reason for providing adequate hydration to at-risk patients?",
+    "options": ["A. To prevent kidney stones", "B. To promote appetite", "C. To prevent dehydration", "D. To reduce weight"],
+    "answer": "C"
+  },
+  {
+    "question": "What does the presence of uremic breath indicate?",
+    "options": ["A. Improved renal function", "B. Accumulation of waste products", "C. Dehydration", "D. Infection"],
+    "answer": "B"
+  },
+  {
+    "question": "During the recovery phase of acute renal failure, what happens to urine output?",
+    "options": ["A. It decreases significantly", "B. It remains unchanged", "C. It begins to normalize", "D. It becomes anuric"],
+    "answer": "C"
+  },
+  {
+    "question": "What is a common sign of fluid overload in renal failure patients?",
+    "options": ["A. Weight loss", "B. Edema", "C. Increased appetite", "D. Hypotension"],
+    "answer": "B"
+  },
+  {
+    "question": "What should be done when administering blood to a patient to prevent transfusion reactions?",
+    "options": ["A. Administer quickly", "B. Ensure correct patient identification", "C. Use outdated blood", "D. Limit monitoring"],
+    "answer": "B"
+  },
+  {
+    "question": "Which electrolyte imbalance is common in the oliguric phase?",
+    "options": ["A. Hypernatremia", "B. Hyperkalemia", "C. Hypokalemia", "D. Hyponatremia"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the main function of the kidneys in regulating acid-base balance?",
+    "options": ["A. Filtering blood", "B. Excreting hydrogen ions", "C. Producing erythropoietin", "D. Regulating calcium"],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following can lead to chronic kidney disease?",
+    "options": ["A. One-time use of nephrotoxic drugs", "B. Long-term diabetes management", "C. Continued exposure to nephrotoxic agents", "D. Regular hydration"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the significance of a gradual decline in BUN and creatinine levels?",
+    "options": ["A. It indicates worsening kidney function", "B. It shows kidney recovery", "C. It is an irrelevant finding", "D. It requires immediate intervention"],
+    "answer": "B"
+  },
+  {
+    "question": "What should be monitored to assess the effectiveness of renal therapy?",
+    "options": ["A. Weight only", "B. Urinalysis only", "C. Blood pressure only", "D. Vital signs and laboratory values"],
+    "answer": "D"
+  },
+  {
+    "question": "What is an important nursing intervention for a patient with acute renal failure?",
+    "options": ["A. Encourage high protein intake", "B. Maintain strict I&O records", "C. Limit fluid intake", "D. Increase physical activity"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the effect of acute glomerulonephritis on kidney function?",
+    "options": ["A. It increases urine output", "B. It causes nephrotoxicity", "C. It leads to inflammation", "D. It improves filtration"],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a non-invasive diagnostic test for kidney function?",
+    "options": ["A. Renal biopsy", "B. Chest X-ray", "C. Renal ultrasound", "D. CT scan"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the expected outcome of nutritional therapy for renal failure?",
+    "options": ["A. Increased potassium intake", "B. Reduced metabolic waste", "C. Improved fluid retention", "D. Decreased protein intake"],
+    "answer": "D"
+  },
+  {
+    "question": "What is a common cause of post-renal acute renal failure?",
+    "options": ["A. Dehydration", "B. Urinary tract obstruction", "C. Nephrotoxic drugs", "D. Chronic disease"],
+    "answer": "B"
+  },
+  {
+    "question": "Which symptom is associated with hypokalemia in renal failure?",
+    "options": ["A. Muscle cramps", "B. Edema", "C. Hypertension", "D. Increased appetite"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the purpose of monitoring daily weights in renal failure patients?",
+    "options": ["A. To assess protein intake", "B. To evaluate fluid status", "C. To measure kidney size", "D. To determine electrolyte balance"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the role of bed rest during the management of acute renal failure?",
+    "options": ["A. To increase appetite", "B. To reduce metabolic rate", "C. To encourage activity", "D. To improve kidney filtration"],
+    "answer": "B"
+  },
+  {
+    "question": "What is a common finding in patients experiencing uremia?",
+    "options": ["A. Clear urine", "B. Decreased appetite", "C. Weight gain", "D. Improved energy levels"],
+    "answer": "B"
+  },
+  {
+    "question": "Which condition may require renal replacement therapy?",
+    "options": ["A. Reversible renal failure", "B. Chronic renal failure", "C. Diuretic phase", "D. Recovery phase"],
+    "answer": "B"
+  },
+  {
+    "question": "How can infections be prevented in patients with renal failure?",
+    "options": ["A. Using aseptic technique", "B. Avoiding medications", "C. Increasing fluid intake", "D. Limiting physical activity"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the primary concern when using iodinated contrast agents in renal failure patients?",
+    "options": ["A. Improved imaging", "B. Risk of nephrotoxicity", "C. Enhanced blood flow", "D. Increased hydration"],
+    "answer": "B"
+  },
+  {
+    "question": "What should be done if a patient with renal failure shows signs of acidosis?",
+    "options": ["A. Increase protein intake", "B. Administer bicarbonate", "C. Limit hydration", "D. Encourage exercise"],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a long-term consequence of untreated acute renal failure?",
+    "options": ["A. Complete recovery", "B. Chronic kidney disease", "C. Improved kidney function", "D. No symptoms"],
+    "answer": "B"
+  },
     {
         "question": "What is the main goal of treatment in patients with acute renal failure?",
         "options": [
-            "a. To increase protein intake",
-            "b. To prevent further kidney damage",
-            "c. To enhance exercise capacity",
-            "d. To improve skin integrity"
+            "A. To increase protein intake",
+            "B. To prevent further kidney damage",
+            "C. To enhance exercise capacity",
+            "D. To improve skin integrity"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "What is the primary characteristic of chronic renal failure?",
         "options": [
-            "a. Reversible deterioration of renal function",
-            "b. Progressive, irreversible deterioration of renal function",
-            "c. Sudden onset of kidney failure",
-            "d. Normal renal function"
+            "A. Reversible deterioration of renal function",
+            "B. Progressive, irreversible deterioration of renal function",
+            "C. Sudden onset of kidney failure",
+            "D. Normal renal function"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "Which systemic disease is a common cause of chronic renal failure?",
         "options": [
-            "a. Asthma",
-            "b. Diabetes mellitus",
-            "c. Osteoporosis",
-            "d. Hypothyroidism"
+            "A. Asthma",
+            "B. Diabetes mellitus",
+            "C. Osteoporosis",
+            "D. Hypothyroidism"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "What laboratory value is a better indicator of kidney function?",
         "options": [
-            "a. BUN",
-            "b. Serum creatinine",
-            "c. Blood glucose",
-            "d. Hemoglobin"
+            "A. BUN",
+            "B. Serum creatinine",
+            "C. Blood glucose",
+            "D. Hemoglobin"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "What is uremia?",
         "options": [
-            "a. A condition of normal kidney function",
-            "b. Retention of urea and other nitrogenous wastes in the blood",
-            "c. A type of kidney infection",
-            "d. A dietary deficiency"
+            "A. A condition of normal kidney function",
+            "B. Retention of urea and other nitrogenous wastes in the blood",
+            "C. A type of kidney infection",
+            "D. A dietary deficiency"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "Which of the following symptoms is associated with the neurologic effects of chronic renal failure?",
         "options": [
-            "a. Shortness of breath",
-            "b. Confusion and disorientation",
-            "c. Chest pain",
-            "d. Jaundice"
+            "A. Shortness of breath",
+            "B. Confusion and disorientation",
+            "C. Chest pain",
+            "D. Jaundice"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "What is a common integumentary manifestation of chronic renal failure?",
         "options": [
-            "a. Red, inflamed skin",
-            "b. Gray-bronze skin color",
-            "c. Excessive sweating",
-            "d. Skin rashes"
+            "A. Red, inflamed skin",
+            "B. Gray-bronze skin color",
+            "C. Excessive sweating",
+            "D. Skin rashes"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "Which cardiovascular symptom is commonly observed in chronic renal failure?",
         "options": [
-            "a. Hypotension",
-            "b. Hypertension",
-            "c. Bradycardia",
-            "d. Peripheral artery disease"
+            "A. Hypotension",
+            "B. Hypertension",
+            "C. Bradycardia",
+            "D. Peripheral artery disease"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "What is the term for the ammonia odor to breath associated with chronic renal failure?",
         "options": [
-            "a. Halitosis",
-            "b. Uremic fetor",
-            "c. Diabetic breath",
-            "d. Metallic breath"
+            "A. Halitosis",
+            "B. Uremic fetor",
+            "C. Diabetic breath",
+            "D. Metallic breath"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "What dietary restriction is important for patients with chronic renal failure?",
         "options": [
-            "a. Increased protein intake",
-            "b. Increased sodium intake",
-            "c. Restriction of potassium",
-            "d. Decreased fluid intake only"
+            "A. Increased protein intake",
+            "B. Increased sodium intake",
+            "C. Restriction of potassium",
+            "D. Decreased fluid intake only"
         ],
-        "answer": "c"
+        "answer": "C"
     },
     {
         "question": "What can cause hyperkalemia in patients with chronic renal failure?",
         "options": [
-            "a. Increased potassium intake",
-            "b. Decreased excretion of potassium",
-            "c. Excessive sweating",
-            "d. Increased physical activity"
+            "A. Increased potassium intake",
+            "B. Decreased excretion of potassium",
+            "C. Excessive sweating",
+            "D. Increased physical activity"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "Which of the following is a common hematologic finding in chronic renal failure?",
         "options": [
-            "a. Leukocytosis",
-            "b. Anemia",
-            "c. Thrombocytosis",
-            "d. Polycythemia"
+            "A. Leukocytosis",
+            "B. Anemia",
+            "C. Thrombocytosis",
+            "D. Polycythemia"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "What is a sign of fluid imbalance in chronic renal failure patients?",
         "options": [
-            "a. Increased urine output",
-            "b. Pitting edema",
-            "c. Decreased heart rate",
-            "d. Normal blood pressure"
+            "A. Increased urine output",
+            "B. Pitting edema",
+            "C. Decreased heart rate",
+            "D. Normal blood pressure"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "Which medication is commonly administered to manage hypertension in chronic renal failure?",
         "options": [
-            "a. Antipyretics",
-            "b. Antihypertensives",
-            "c. Antibiotics",
-            "d. Antidepressants"
+            "A. Antipyretics",
+            "B. Antihypertensives",
+            "C. Antibiotics",
+            "D. Antidepressants"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "What is the recommended action when administering phosphorus-binding antacids?",
         "options": [
-            "a. Take on an empty stomach",
-            "b. Take with food",
-            "c. Avoid taking with fluids",
-            "d. Take before bed"
+            "A. Take on an empty stomach",
+            "B. Take with food",
+            "C. Avoid taking with fluids",
+            "D. Take before bed"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "Which lab value indicates a need for dialysis when it reaches 70 mg/dL?",
         "options": [
-            "a. Serum creatinine",
-            "b. BUN",
-            "c. Potassium",
-            "d. Calcium"
+            "A. Serum creatinine",
+            "B. BUN",
+            "C. Potassium",
+            "D. Calcium"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "What is a common gastrointestinal symptom of chronic renal failure?",
         "options": [
-            "a. Diarrhea",
-            "b. Metallic taste",
-            "c. Constipation only",
-            "d. Increased appetite"
+            "A. Diarrhea",
+            "B. Metallic taste",
+            "C. Constipation only",
+            "D. Increased appetite"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "What is a potential complication of chronic renal failure related to bone health?",
         "options": [
-            "a. Osteoporosis",
-            "b. Bone fractures",
-            "c. Osteoarthritis",
-            "d. Osteomyelitis"
+            "A. Osteoporosis",
+            "B. Bone fractures",
+            "C. Osteoarthritis",
+            "D. Osteomyelitis"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "Which vitamin supplementation is often recommended for patients with chronic renal failure?",
         "options": [
-            "a. Vitamin A",
-            "b. Vitamin C",
-            "c. Vitamin D",
-            "d. Vitamin K"
+            "A. Vitamin A",
+            "B. Vitamin C",
+            "C. Vitamin D",
+            "D. Vitamin K"
         ],
-        "answer": "c"
+        "answer": "C"
     },
     {
         "question": "What is the role of erythropoietin in chronic renal failure patients?",
         "options": [
-            "a. Increase blood pressure",
-            "b. Stimulate red blood cell production",
-            "c. Decrease potassium levels",
-            "d. Regulate blood sugar"
+            "A. Increase blood pressure",
+            "B. Stimulate red blood cell production",
+            "C. Decrease potassium levels",
+            "D. Regulate blood sugar"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "Which dietary protein is recommended for patients with chronic renal failure?",
         "options": [
-            "a. High-biologic-value proteins",
-            "b. Processed meats",
-            "c. High-fat dairy",
-            "d. Non-complete proteins"
+            "A. High-biologic-value proteins",
+            "B. Processed meats",
+            "C. High-fat dairy",
+            "D. Non-complete proteins"
         ],
-        "answer": "a"
+        "answer": "A"
     },
     {
         "question": "How does chronic renal failure affect the respiratory system?",
         "options": [
-            "a. Increased lung capacity",
-            "b. Depressed cough reflex and shortness of breath",
-            "c. Decreased respiratory rate",
-            "d. Normal respiratory function"
+            "A. Increased lung capacity",
+            "B. Depressed cough reflex and shortness of breath",
+            "C. Decreased respiratory rate",
+            "D. Normal respiratory function"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "What is the fluid allowance for chronic renal failure patients?",
         "options": [
-            "a. Equal to the previous day's output",
-            "b. 500-600 mL more than the previous day’s output",
-            "c. 1 liter more than the previous day’s output",
-            "d. No fluid intake"
+            "A. Equal to the previous day's output",
+            "B. 500-600 mL more than the previous day’s output",
+            "C. 1 liter more than the previous day’s output",
+            "D. No fluid intake"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "What is an expected renal function test result in chronic renal failure?",
         "options": [
-            "a. Elevated RBC count",
-            "b. Normal serum electrolytes",
-            "c. Elevated BUN and creatinine levels",
-            "d. Decreased liver enzymes"
+            "A. Elevated RBC count",
+            "B. Normal serum electrolytes",
+            "C. Elevated BUN and creatinine levels",
+            "D. Decreased liver enzymes"
         ],
-        "answer": "c"
+        "answer": "C"
     },
     {
         "question": "What is a common musculoskeletal symptom in chronic renal failure?",
         "options": [
-            "a. Increased muscle strength",
-            "b. Muscle cramps and bone pain",
-            "c. Normal muscle function",
-            "d. Increased joint flexibility"
+            "A. Increased muscle strength",
+            "B. Muscle cramps and bone pain",
+            "C. Normal muscle function",
+            "D. Increased joint flexibility"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "What contributes to the development of pericarditis in chronic renal failure patients?",
         "options": [
-            "a. High blood sugar levels",
-            "b. Retention of uremic waste products",
-            "c. Decreased blood pressure",
-            "d. Normal fluid balance"
+            "A. High blood sugar levels",
+            "B. Retention of uremic waste products",
+            "C. Decreased blood pressure",
+            "D. Normal fluid balance"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "What is a common skin manifestation in chronic renal failure?",
         "options": [
-            "a. Yellow discoloration",
-            "b. Ecchymosis",
-            "c. Thick, oily skin",
-            "d. Excessive hair growth"
+            "A. Yellow discoloration",
+            "B. Ecchymosis",
+            "C. Thick, oily skin",
+            "D. Excessive hair growth"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "Which electrolyte imbalance is commonly associated with chronic renal failure?",
         "options": [
-            "a. Hypernatremia",
-            "b. Hypocalcemia",
-            "c. Hyperkalemia",
-            "d. Hypokalemia"
+            "A. Hypernatremia",
+            "B. Hypocalcemia",
+            "C. Hyperkalemia",
+            "D. Hypokalemia"
         ],
-        "answer": "c"
+        "answer": "C"
     },
     {
         "question": "Which of the following indicates a need for monitoring in chronic renal failure?",
         "options": [
-            "a. Decreased hydration and output",
-            "b. Increased cardiovascular status",
-            "c. Stable respiratory status",
-            "d. Normal mental status"
+            "A. Decreased hydration and output",
+            "B. Increased cardiovascular status",
+            "C. Stable respiratory status",
+            "D. Normal mental status"
         ],
-        "answer": "a"
+        "answer": "A"
     },
     {
         "question": "What is a common psychological effect of chronic renal failure?",
         "options": [
-            "a. Increased motivation",
-            "b. Emotional well-being",
-            "c. Anxiety and confusion",
-            "d. Enhanced cognitive function"
+            "A. Increased motivation",
+            "B. Emotional well-being",
+            "C. Anxiety and confusion",
+            "D. Enhanced cognitive function"
         ],
-        "answer": "c"
+        "answer": "C"
     },
     {
         "question": "Which of the following is NOT a symptom of chronic renal failure?",
         "options": [
-            "a. Burning of soles of feet",
-            "b. Elevated energy levels",
-            "c. Weakness and fatigue",
-            "d. Seizures"
+            "A. Burning of soles of feet",
+            "B. Elevated energy levels",
+            "C. Weakness and fatigue",
+            "D. Seizures"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "What intervention is important for managing anemia in chronic renal failure?",
         "options": [
-            "a. Increased fluid intake",
-            "b. Iron supplementation",
-            "c. Decreased red meat consumption",
-            "d. Increased calcium intake"
+            "A. Increased fluid intake",
+            "B. Iron supplementation",
+            "C. Decreased red meat consumption",
+            "D. Increased calcium intake"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "What does the term 'azotemia' refer to?",
         "options": [
-            "a. Normal nitrogen levels",
-            "b. Decreased waste retention",
-            "c. Increased nitrogenous wastes in the blood",
-            "d. Complete renal failure"
+            "A. Normal nitrogen levels",
+            "B. Decreased waste retention",
+            "C. Increased nitrogenous wastes in the blood",
+            "D. Complete renal failure"
         ],
-        "answer": "c"
+        "answer": "C"
     },
     {
         "question": "Which of the following can lead to confusion in chronic renal failure patients?",
         "options": [
-            "a. High blood pressure",
-            "b. Nutritional deficiencies",
-            "c. Retention of urea and toxins",
-            "d. Increased hydration"
+            "A. High blood pressure",
+            "B. Nutritional deficiencies",
+            "C. Retention of urea and toxins",
+            "D. Increased hydration"
         ],
-        "answer": "c"
+        "answer": "C"
     },
     {
         "question": "What is a key nursing responsibility for patients undergoing dialysis?",
         "options": [
-            "a. Increase dietary protein",
-            "b. Monitor for bleeding problems",
-            "c. Encourage fluid retention",
-            "d. Limit patient education"
+            "A. Increase dietary protein",
+            "B. Monitor for bleeding problems",
+            "C. Encourage fluid retention",
+            "D. Limit patient education"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "What is a common complication of fluid overload in patients with chronic renal failure?",
         "options": [
-            "a. Hypotension",
-            "b. Pulmonary edema",
-            "c. Dehydration",
-            "d. Hyperglycemia"
+            "A. Hypotension",
+            "B. Pulmonary edema",
+            "C. Dehydration",
+            "D. Hyperglycemia"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "What dietary change may help to manage hypertension in chronic renal failure patients?",
         "options": [
-            "a. Increase sodium intake",
-            "b. Decrease fluid intake",
-            "c. Increase potassium intake",
-            "d. Decrease sodium intake"
+            "A. Increase sodium intake",
+            "B. Decrease fluid intake",
+            "C. Increase potassium intake",
+            "D. Decrease sodium intake"
         ],
-        "answer": "d"
+        "answer": "D"
     },
     {
         "question": "Which symptom indicates a potential cardiovascular issue in chronic renal failure?",
         "options": [
-            "a. Increased urine output",
-            "b. Pitting edema",
-            "c. Improved exercise tolerance",
-            "d. Decreased weight"
+            "A. Increased urine output",
+            "B. Pitting edema",
+            "C. Improved exercise tolerance",
+            "D. Decreased weight"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "How often should the nutritional state of a chronic renal failure patient be monitored?",
         "options": [
-            "a. Monthly",
-            "b. Weekly",
-            "c. Daily",
-            "d. Every few months"
+            "A. Monthly",
+            "B. Weekly",
+            "C. Daily",
+            "D. Every few months"
         ],
-        "answer": "c"
+        "answer": "C"
     },
     {
         "question": "What effect does chronic renal failure have on the erythropoietin production?",
         "options": [
-            "a. Increased production",
-            "b. Decreased production",
-            "c. No effect",
-            "d. Variable production"
+            "A. Increased production",
+            "B. Decreased production",
+            "C. No effect",
+            "D. Variable production"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "What should be avoided to prevent magnesium toxicity in chronic renal failure patients?",
         "options": [
-            "a. Calcium-based antacids",
-            "b. Phosphorus-binding antacids",
-            "c. Magnesium-based antacids",
-            "d. Iron supplements"
+            "A. Calcium-based antacids",
+            "B. Phosphorus-binding antacids",
+            "C. Magnesium-based antacids",
+            "D. Iron supplements"
         ],
-        "answer": "c"
+        "answer": "C"
     },
     {
         "question": "What laboratory test is affected by the breakdown of protein in chronic renal failure?",
         "options": [
-            "a. BUN",
-            "b. Serum electrolytes",
-            "c. Complete blood count",
-            "d. Liver function tests"
+            "A. BUN",
+            "B. Serum electrolytes",
+            "C. Complete blood count",
+            "D. Liver function tests"
         ],
-        "answer": "a"
+        "answer": "A"
     },
     {
         "question": "What is a potential complication of anemia in chronic renal failure?",
         "options": [
-            "a. Increased energy levels",
-            "b. Decreased exercise tolerance",
-            "c. Enhanced immune response",
-            "d. Improved oxygenation"
+            "A. Increased energy levels",
+            "B. Decreased exercise tolerance",
+            "C. Enhanced immune response",
+            "D. Improved oxygenation"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "Which dietary component is restricted due to its breakdown products accumulating in chronic renal failure?",
         "options": [
-            "a. Carbohydrates",
-            "b. Fats",
-            "c. Proteins",
-            "d. Vitamins"
+            "A. Carbohydrates",
+            "B. Fats",
+            "C. Proteins",
+            "D. Vitamins"
         ],
-        "answer": "c"
+        "answer": "C"
     },
     {
         "question": "How does chronic renal failure affect the gastrointestinal system?",
         "options": [
-            "a. Increased hunger",
-            "b. Normal digestive function",
-            "c. Nausea and vomiting",
-            "d. Decreased appetite only"
+            "A. Increased hunger",
+            "B. Normal digestive function",
+            "C. Nausea and vomiting",
+            "D. Decreased appetite only"
         ],
-        "answer": "c"
+        "answer": "C"
     },
     {
         "question": "Which symptom is indicative of pericardial effusion in chronic renal failure?",
         "options": [
-            "a. Pitting edema",
-            "b. Distended neck veins",
-            "c. Elevated blood pressure",
-            "d. Decreased heart rate"
+            "A. Pitting edema",
+            "B. Distended neck veins",
+            "C. Elevated blood pressure",
+            "D. Decreased heart rate"
         ],
-        "answer": "b"
+        "answer": "B"
     },
     {
         "question": "What is the main reason for bone disease in chronic renal failure patients?",
         "options": [
-            "a. Increased calcium levels",
-            "b. Retention of phosphorus",
-            "c. Decreased vitamin D metabolism",
-            "d. Both b and c"
+            "A. Increased calcium levels",
+            "B. Retention of phosphorus",
+            "C. Decreased vitamin D metabolism",
+            "D. Both B and C"
         ],
-        "answer": "d"
+        "answer": "D"
     },
     {
         "question": "What is the role of dietary protein in chronic renal failure management?",
         "options": [
-            "a. It should be increased",
-            "b. It should be eliminated",
-            "c. It should be restricted",
-            "d. It should be consumed freely"
+            "A. It should be increased",
+            "B. It should be eliminated",
+            "C. It should be restricted",
+            "D. It should be consumed freely"
         ],
-        "answer": "c"
+        "answer": "C"
     },
     {
         "question": "What is a common allergic reaction in chronic renal failure patients?",
         "options": [
-            "a. Skin rash",
-            "b. Increased urination",
-            "c. Weight loss",
-            "d. Hair loss"
+            "A. Skin rash",
+            "B. Increased urination",
+            "C. Weight loss",
+            "D. Hair loss"
         ],
-        "answer": "a"
+        "answer": "A"
     },
     {
         "question": "What is a complication of decreased erythropoietin production in chronic renal failure?",
         "options": [
-            "a. Hypertension",
-            "b. Hyperkalemia",
-            "c. Anemia",
-            "d. Edema"
+            "A. Hypertension",
+            "B. Hyperkalemia",
+            "C. Anemia",
+            "D. Edema"
         ],
-        "answer": "c"
+        "answer": "C"
     },
     {
         "question": "Which of the following is important for chronic renal failure patients to monitor?",
         "options": [
-            "a. Weight",
-            "b. Urine color",
-            "c. Blood glucose",
-            "d. All of the above"
+            "A. Weight",
+            "B. Urine color",
+            "C. Blood glucose",
+            "D. All of the above"
         ],
-        "answer": "d"
+        "answer": "D"
     }
-]
-    }
-
-
-
-
 
 
     
