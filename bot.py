@@ -126,10 +126,11 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         question_data = mcqs[0]
         keyboard = [[opt] for opt in question_data["options"]] + [["⛔️ إنهاء الكويز"], ["🏠 القائمة الرئيسية"]]
         await update.message.reply_text(
-            f"🧪 السؤال 1:\n{question_data['question']}",
-            reply_markup=ReplyKeyboardMarkup(keyboard, one_time_keyboard=True, resize_keyboard=True)
-        )
-                return  # ✅ أضف هذا السطر للفصل بين البلوكات
+    f"🧪 السؤال 1:\n{question_data['question']}",
+    reply_markup=ReplyKeyboardMarkup(keyboard, one_time_keyboard=True, resize_keyboard=True)
+)
+return  # ✅ أضف هذا السطر
+
 
         elif "subject" in state and text == "📋 أسئلة امتحانات سابقة":
         if "final" not in quizzes:
