@@ -126,13 +126,12 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         question_data = mcqs[0]
         keyboard = [[opt] for opt in question_data["options"]] + [["⛔️ إنهاء الكويز"], ["🏠 القائمة الرئيسية"]]
         await update.message.reply_text(
-    f"🧪 السؤال 1:\n{question_data['question']}",
-    reply_markup=ReplyKeyboardMarkup(keyboard, one_time_keyboard=True, resize_keyboard=True)
-)
-return  # ✅ أضف هذا السطر
+            f"🧪 السؤال 1:\n{question_data['question']}",
+            reply_markup=ReplyKeyboardMarkup(keyboard, one_time_keyboard=True, resize_keyboard=True)
+        )
+        return
 
-
-        if "subject" in state and text == "📋 أسئلة امتحانات سابقة":
+    elif "subject" in state and text == "📋 أسئلة امتحانات سابقة":
         if "final" not in quizzes:
             await update.message.reply_text("❗ لا يوجد أسئلة امتحانات سابقة مضافة حتى الآن.")
             return
@@ -156,7 +155,6 @@ return  # ✅ أضف هذا السطر
             f"📋 السؤال 1:\n{question_data['question']}",
             reply_markup=ReplyKeyboardMarkup(keyboard, one_time_keyboard=True, resize_keyboard=True)
         )
-
 
     elif "subject" in state and text in get_types(state["subject"]):
         user_state[uid]["type"] = text
