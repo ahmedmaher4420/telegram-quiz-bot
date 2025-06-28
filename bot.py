@@ -132,9 +132,9 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         return
 
     elif "subject" in state and text == "📋 أسئلة امتحانات سابقة":
-    if "final" not in quizzes:
-        await update.message.reply_text("❗ لا يوجد أسئلة امتحانات سابقة مضافة حتى الآن.")
-        return
+        if "final" not in quizzes:
+            await update.message.reply_text("❗ لا يوجد أسئلة امتحانات سابقة مضافة حتى الآن.")
+            return
 
     mcqs = quizzes["final"].get("MCQs", [])
     tfs = quizzes["final"].get("TF", [])
