@@ -270,8 +270,9 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     else:
         await update.message.reply_text("❗ من فضلك اختر من القوائم.", reply_markup=ReplyKeyboardMarkup([["🏠 القائمة الرئيسية"]], resize_keyboard=True))
 
-# ✅ تشغيل البوت
-async def run_bot():
+# ✅ تشغيل البوتimport asyncio  # لازم تتأكد إن دي مضافة فوق
+
+async def main():
     app = ApplicationBuilder().token("7774771769:AAHXK9PVehCzEh5d9NOksBlD4UyfqbZ5ObM").build()
     app.add_handler(CommandHandler("start", start))
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
@@ -279,4 +280,5 @@ async def run_bot():
     await app.run_polling()
 
 if __name__ == "__main__":
-    asyncio.run(run_bot())
+    asyncio.run(main())
+
