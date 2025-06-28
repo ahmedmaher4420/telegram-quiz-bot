@@ -74,7 +74,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         return
 
         if text in get_subjects():
-        user_state[uid] = {"subject": text}
+            user_state[uid] = {"subject": text}
         if text == "Adults":
             keyboard = [
                 ["🧪 امتحان شامل", "📚  المحاضرات النظري وكويزات خفيفة"],
