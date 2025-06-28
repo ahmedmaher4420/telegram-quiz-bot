@@ -74,13 +74,13 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         return
 
         if text == "Adults":
-        keyboard = [
-            ["🧪 امتحان شامل", "🏦 بنك الأسئلة"],
-            ["📚  المحاضرات النظري وكويزات خفيفة"],
-            ["🏠 القائمة الرئيسية"]
-        ]
-
+            keyboard = [
+                ["🧪 امتحان شامل", "📚  المحاضرات النظري وكويزات خفيفة"],
+                ["📋 أسئلة امتحانات سابقة"],
+                ["🏠 القائمة الرئيسية"]
+            ]
             await update.message.reply_text("📘 اختر نوع المحتوى:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
+
         else:
             types = get_types(text)
             if types != [""]:
