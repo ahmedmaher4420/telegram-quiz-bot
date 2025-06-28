@@ -132,29 +132,42 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         return
 
     elif "subject" in state and text == "📋 أسئلة امتحانات سابقة":
-        if "final" not in quizzes:
-            await update.message.reply_text("❗ لا يوجد أسئلة امتحانات سابقة مضافة حتى الآن.")
-            return
+    if "final" not in quizzes:
+        await update.message.reply_text("❗ لا يوجد أسئلة امتحانات سابقة مضافة حتى الآن.")
+        return
 
-        mcqs = quizzes["final"].get("MCQs", [])
-        tfs = quizzes["final"].get("TF", [])
-        random.shuffle(mcqs)
-        random.shuffle(tfs)
+    mcqs = quizzes["final"].get("MCQs", [])
+    tfs = quizzes["final"].get("TF", [])
+    random.shuffle(mcqs)
+    random.shuffle(tfs)
 
-        user_state[uid]["quiz"] = {
-            "lecture": "final",
-            "current": 0,
-            "score": 0,
-            "mcqs": mcqs,
-            "tfs": tfs
-        }
+    if not mcqs and not tfs:
+        await update.message.reply_text("❗ لا يوجد أي أسئلة في هذا الامتحان.")
+        return
 
+    user_state[uid]["quiz"] = {
+        "lecture": "final",
+        "current": 0,
+        "score": 0,
+        "mcqs": mcqs,
+        "tfs": tfs
+    }
+
+    if mcqs:
         question_data = mcqs[0]
         keyboard = [[opt] for opt in question_data["options"]] + [["⛔️ إنهاء الكويز"], ["🏠 القائمة الرئيسية"]]
         await update.message.reply_text(
             f"📋 السؤال 1:\n{question_data['question']}",
             reply_markup=ReplyKeyboardMarkup(keyboard, one_time_keyboard=True, resize_keyboard=True)
         )
+    else:
+        next_q = tfs[0]
+        keyboard = [["✅ True"], ["❌ False"], ["⛔️ إنهاء الكويز"], ["🏠 القائمة الرئيسية"]]
+        await update.message.reply_text(
+            f"📋 السؤال 1:\n{next_q['question']}",
+            reply_markup=ReplyKeyboardMarkup(keyboard, one_time_keyboard=True, resize_keyboard=True)
+        )
+
 
     elif "subject" in state and text in get_types(state["subject"]):
         user_state[uid]["type"] = text
