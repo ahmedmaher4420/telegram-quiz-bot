@@ -135,7 +135,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 await update.message.reply_text("❗ لا يوجد أسئلة امتحانات سابقة مضافة حتى الآن.")
                 return
 
-        mcqs = quizzes["final"].get("MCQs", [])
+        mcqs = quizzes["final"].get("MCQ", [])
         tfs = quizzes["final"].get("TF", [])
         random.shuffle(mcqs)
         random.shuffle(tfs)
