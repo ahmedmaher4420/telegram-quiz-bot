@@ -5279,31 +5279,6 @@ quizzes = {
     "answer": "C) Scalds"
   },
   {
-    "question": "True or False: A burn is defined as an injury caused exclusively by flames.",
-    "options": ["True", "False"],
-    "answer": "False"
-  },
-  {
-    "question": "True or False: Burns can only occur in children.",
-    "options": ["True", "False"],
-    "answer": "False"
-  },
-  {
-    "question": "True or False: Effective communication by nurses is crucial in burn care.",
-    "options": ["True", "False"],
-    "answer": "True"
-  },
-  {
-    "question": "True or False: Friction cannot cause burn injuries.",
-    "options": ["True", "False"],
-    "answer": "False"
-  },
-  {
-    "question": "True or False: The care of burn patients only focuses on physical treatment.",
-    "options": ["True", "False"],
-    "answer": "False"
-  },
-  {
     "question": "What percentage of annual burn center admissions are due to electrical injuries?",
     "options": ["A) 10%", "B) 5%", "C) 3%", "D) 15%"],
     "answer": "C) 3%"
@@ -5329,31 +5304,6 @@ quizzes = {
     "answer": "C) 1000"
   },
   {
-    "question": "True or False: Electrical injuries account for 10% of the annual burn center admissions.",
-    "options": ["True", "False"],
-    "answer": "False"
-  },
-  {
-    "question": "True or False: Type of current and voltage affect the severity of electrical burns.",
-    "options": ["True", "False"],
-    "answer": "True"
-  },
-  {
-    "question": "True or False: Chemical burns are only caused by exposure to acids.",
-    "options": ["True", "False"],
-    "answer": "False"
-  },
-  {
-    "question": "True or False: Skin properties do not impact severity of chemical burns.",
-    "options": ["True", "False"],
-    "answer": "False"
-  },
-  {
-    "question": "True or False: Path of current does not affect severity of electrical burn.",
-    "options": ["True", "False"],
-    "answer": "False"
-  },
-  {
     "question": "Thermal burns are caused by exposure to which of the following?",
     "options": ["A) Chemicals", "B) Moist heat (hot liquid) and dry heat (flame)", "C) Friction", "D) Electricity"],
     "answer": "B) Moist heat (hot liquid) and dry heat (flame)"
@@ -5377,31 +5327,6 @@ quizzes = {
     "question": "Moist heat exposure, such as hot liquid, typically causes which type of burn?",
     "options": ["A) Electrical burn", "B) Radiation burn", "C) Thermal burn", "D) Chemical burn"],
     "answer": "C) Thermal burn"
-  },
-  {
-    "question": "True or False: Thermal burns result from exposure to radiation.",
-    "options": ["True", "False"],
-    "answer": "False"
-  },
-  {
-    "question": "True or False: Radiation burns are always deep and affect multiple layers of skin.",
-    "options": ["True", "False"],
-    "answer": "False"
-  },
-  {
-    "question": "True or False: Sunburn is a type of radiation burn.",
-    "options": ["True", "False"],
-    "answer": "True"
-  },
-  {
-    "question": "True or False: Thermal burns can result from both hot liquids and open flames.",
-    "options": ["True", "False"],
-    "answer": "True"
-  },
-  {
-    "question": "True or False: Radiation burns are never related to medical treatments.",
-    "options": ["True", "False"],
-    "answer": "False"
   },
   {
     "question": "Which layer(s) of the skin are affected in superficial partial-thickness burns?",
@@ -5448,11 +5373,6 @@ quizzes = {
     },
     "answer": "B"
   },
-  { "question": "Superficial partial-thickness burns are similar to first-degree burns.", "answer": "True" },
-  { "question": "Superficial partial-thickness burns typically result in extensive scarring.", "answer": "False" },
-  { "question": "Pain from superficial partial-thickness burns is often soothed by cooling.", "answer": "True" },
-  { "question": "The wound appearance of a superficial partial-thickness burn is typically black and leathery.", "answer": "False" },
-  { "question": "Superficial partial-thickness burns involve the epidermis and possibly a portion of the dermis.", "answer": "True" },
   {
     "question": "Deep partial-thickness burns typically involve which layers of the skin?",
     "options": {
@@ -5605,7 +5525,7 @@ quizzes = {
   },
 {
     "question": "Partial-thickness burns covering 15–25% of total body surface area in patients aged 10–50 years are considered moderate.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "For patients aged 10–50 years, what percentage of partial-thickness burns is considered minor?",
@@ -5709,7 +5629,7 @@ quizzes = {
 },
 {
   "question": "True or False: In burn patients, fluid shifts from intracellular space to interstitial tissue often lead to edema.",
-  "answer": "True"
+  "answer":  True
 },
 {
   "question": "How is the body's immunologic defense affected by a burn injury?",
@@ -6881,571 +6801,638 @@ quizzes = {
     
  "TF":  
 [
-    { "question": "Ascites in cirrhosis is mainly due to portal hypertension and low albumin.", "answer": "True" },
-    { "question": "Lactulose helps reduce serum ammonia in hepatic encephalopathy.", "answer": "True" },
-    { "question": "Protein-rich diets are encouraged in hepatic encephalopathy.", "answer": "False" },
-    { "question": "Cirrhosis may lead to kidney failure.", "answer": "True" },
-    { "question": "ALT is always elevated in late-stage cirrhosis.", "answer": "False" },
-    { "question": "Sodium level monitoring is unnecessary in cirrhotic patients.", "answer": "False" },
-    { "question": "Esophageal varices are a serious complication of cirrhosis.", "answer": "True" },
-    { "question": "Lactulose increases ammonia production in the liver.", "answer": "False" },
-    { "question": "The liver is responsible for clotting factor production.", "answer": "True" },
-    { "question": "Low albumin level is a good indicator of liver recovery.", "answer": "False" },
-    { "question": "Diuretics can be given without monitoring weight in cirrhotic patients.", "answer": "False" },
-    { "question": "Prothrombin time (PT) is always normal in early cirrhosis.", "answer": "False" },
-    { "question": "Jaundice in cirrhosis results from bilirubin accumulation.", "answer": "True" },
-    { "question": "NSAIDs are safe to use in liver cirrhosis.", "answer": "False" },
-    { "question": "Spontaneous bacterial peritonitis (SBP) can occur in ascitic fluid.", "answer": "True" },
-    { "question": "Liver function tests are not needed once symptoms appear.", "answer": "False" },
-    { "question": "Cirrhosis never causes hepatic coma.", "answer": "False" },
-    { "question": "Leg edema can occur due to hypoalbuminemia.", "answer": "True" },
-    { "question": "Bed rest is essential for patients with severe ascites.", "answer": "True" },
-    { "question": "Cirrhotic patients are at higher risk for infections.", "answer": "True" },
+      {
+      "question": "True or False: A burn is defined as an injury caused exclusively by flames.",
+      "answer":  False
+    },
+    {
+      "question": "True or False: Burns can only occur in children.",
+      "answer":  False
+    },
+    {
+      "question": "True or False: Effective communication by nurses is crucial in burn care.",
+      "answer":  True
+    },
+    {
+      "question": "True or False: Friction cannot cause burn injuries.",
+      "answer":  False
+    },
+    {
+      "question": "True or False: The care of burn patients only focuses on physical treatment.",
+      "answer":  False
+    },
+
+    {
+      "question": "True or False: Electrical injuries account for 10% of the annual burn center admissions.",
+      "answer":  False
+    },
+    {
+      "question": "True or False: Type of current and voltage affect the severity of electrical burns.",
+      "answer":  True
+    },
+    {
+      "question": "True or False: Chemical burns are only caused by exposure to acids.",
+      "answer":  False
+    },
+    {
+      "question": "True or False: Skin properties do not impact severity of chemical burns.",
+      "answer":  False
+    },
+    {
+      "question": "True or False: Path of current does not affect severity of electrical burn.",
+      "answer":  False
+    },
+
+    {
+      "question": "True or False: Thermal burns result from exposure to radiation.",
+      "answer":  False
+    },
+    {
+      "question": "True or False: Radiation burns are always deep and affect multiple layers of skin.",
+      "answer":  False
+    },
+    {
+      "question": "True or False: Sunburn is a type of radiation burn.",
+      "answer":  True
+    },
+    {
+      "question": "True or False: Thermal burns can result from both hot liquids and open flames.",
+      "answer":  True
+    },
+    {
+      "question": "True or False: Radiation burns are never related to medical treatments.",
+      "answer":  False
+    },
+    { "question": "Superficial partial-thickness burns are similar to first-degree burns.", "answer": True},
+    { "question": "Superficial partial-thickness burns typically result in extensive scarring.", "answer": False},
+    { "question": "Pain from superficial partial-thickness burns is often soothed by cooling.", "answer": True},
+    { "question": "The wound appearance of a superficial partial-thickness burn is typically black and leathery.", "answer": False},
+    { "question": "Superficial partial-thickness burns involve the epidermis and possibly a portion of the dermis.", "answer": True},
+    { "question": "Ascites in cirrhosis is mainly due to portal hypertension and low albumin.", "answer": True},
+    { "question": "Lactulose helps reduce serum ammonia in hepatic encephalopathy.", "answer": True},
+    { "question": "Protein-rich diets are encouraged in hepatic encephalopathy.", "answer": False},
+    { "question": "Cirrhosis may lead to kidney failure.", "answer": True},
+    { "question": "ALT is always elevated in late-stage cirrhosis.", "answer": False},
+    { "question": "Sodium level monitoring is unnecessary in cirrhotic patients.", "answer": False},
+    { "question": "Esophageal varices are a serious complication of cirrhosis.", "answer": True},
+    { "question": "Lactulose increases ammonia production in the liver.", "answer": False},
+    { "question": "The liver is responsible for clotting factor production.", "answer": True},
+    { "question": "Low albumin level is a good indicator of liver recovery.", "answer": False},
+    { "question": "Diuretics can be given without monitoring weight in cirrhotic patients.", "answer": False},
+    { "question": "Prothrombin time (PT) is always normal in early cirrhosis.", "answer": False},
+    { "question": "Jaundice in cirrhosis results from bilirubin accumulation.", "answer": True},
+    { "question": "NSAIDs are safe to use in liver cirrhosis.", "answer": False},
+    { "question": "Spontaneous bacterial peritonitis (SBP) can occur in ascitic fluid.", "answer": True},
+    { "question": "Liver function tests are not needed once symptoms appear.", "answer": False},
+    { "question": "Cirrhosis never causes hepatic coma.", "answer": False},
+    { "question": "Leg edema can occur due to hypoalbuminemia.", "answer": True},
+    { "question": "Bed rest is essential for patients with severe ascites.", "answer": True},
+    { "question": "Cirrhotic patients are at higher risk for infections.", "answer": True},
     {
         "question": "The musculoskeletal system helps regulate body temperature by generating heat through muscle contractions.",
-        "answer": "True"
+        "answer":  True
     },
     {
         "question": "Ligaments connect muscles to bones, facilitating movement.",
-        "answer": "False"
+        "answer":  False
     },
     {
         "question": "Cartilage is a type of connective tissue that provides cushioning in joints.",
-        "answer": "True"
+        "answer":  True
     },
     {
         "question": "The musculoskeletal system does not play a role in the protection of internal organs.",
-        "answer": "False"
+        "answer":  False
     },
     {
         "question": "Storage of minerals like calcium and phosphorus is one of the functions of the musculoskeletal system.",
-        "answer": "True"
+        "answer":  True
     },
     {
         "question": "The musculoskeletal system helps regulate body temperature by generating heat through muscle contractions.",
-        "answer": "True"
+        "answer":  True
     },
     {
         "question": "Ligaments connect muscles to bones, facilitating movement.",
-        "answer": "False"
+        "answer":  False
     },
     {
         "question": "Cartilage is a type of connective tissue that provides cushioning in joints.",
-        "answer": "True"
+        "answer":  True
     },
     {
         "question": "The musculoskeletal system does not play a role in the protection of internal organs.",
-        "answer": "False"
+        "answer":  False
     },
     {
         "question": "Storage of minerals like calcium and phosphorus is one of the functions of the musculoskeletal system.",
-        "answer": "True"
+        "answer":  True
     },
     {
         "question": "A greenstick fracture is an example of a complete fracture.",
-        "answer": "False"
+        "answer":  False
     },
     {
         "question": "A compound fracture is also known as an open fracture.",
-        "answer": "True"
+        "answer":  True
     },
     {
         "question": "Pain from a fracture is continuous and increases in severity until the bone fragments are immobilized.",
-        "answer": "True"
+        "answer":  True
     },
     {
         "question": "After a fracture, the affected extremity retains its normal function.",
-        "answer": "False"
+        "answer":  False
     },
     {
         "question": "Crepitus is a sign of a fracture and is described as a crumbling sensation felt when the extremity is palpated.",
-        "answer": "True"
+        "answer":  True
     },
     {
         "question": "Localized edema and ecchymosis around a fracture site occur due to trauma and bleeding into the tissues.",
-        "answer": "True"
+        "answer":  True
     },
     {
         "question": "Shortening of the extremity is a common sign in fractures of long bones due to muscle elongation.",
-        "answer": "False"
+        "answer":  False
     },
-    { "question": "Deep partial-thickness burns can result in some scarring and depigmentation.", "answer": "True" },
-    { "question": "Deep partial-thickness burns only involve the epidermis.", "answer": "False" },
-    { "question": "Pain from deep partial-thickness burns may be intensified by exposure to cold air.", "answer": "True" },
-    { "question": "If a deep partial-thickness burn becomes infected, it may convert to a full-thickness burn.", "answer": "True" },
-    { "question": "Deep partial-thickness burns generally heal without any risk of contractures.", "answer": "False" },
-    { "question": "Full-thickness burns typically involve all layers of the skin, including the subcutaneous tissue, and may extend to muscle and bone.", "answer": "True" },
-    { "question": "Full-thickness burns are usually very painful due to extensive nerve damage.", "answer": "False" },
-    { "question": "Eschar formation and sloughing are common in full-thickness burns.", "answer": "True" },
-    { "question": "Full-thickness burns may require skin grafting for proper healing.", "answer": "True" },
-    { "question": "Full-thickness burns rarely result in any functional loss or contractures.", "answer": "False" },
+    { "question": "Deep partial-thickness burns can result in some scarring and depigmentation.", "answer": True},
+    { "question": "Deep partial-thickness burns only involve the epidermis.", "answer": False},
+    { "question": "Pain from deep partial-thickness burns may be intensified by exposure to cold air.", "answer": True},
+    { "question": "If a deep partial-thickness burn becomes infected, it may convert to a full-thickness burn.", "answer": True},
+    { "question": "Deep partial-thickness burns generally heal without any risk of contractures.", "answer": False},
+    { "question": "Full-thickness burns typically involve all layers of the skin, including the subcutaneous tissue, and may extend to muscle and bone.", "answer": True},
+    { "question": "Full-thickness burns are usually very painful due to extensive nerve damage.", "answer": False},
+    { "question": "Eschar formation and sloughing are common in full-thickness burns.", "answer": True},
+    { "question": "Full-thickness burns may require skin grafting for proper healing.", "answer": True},
+    { "question": "Full-thickness burns rarely result in any functional loss or contractures.", "answer": False},
     {
         "question": "Full-thickness burns are usually very painful due to extensive nerve damage.",
-        "answer": "False",
+        "answer":  False,
     },
     {
         "question": "Eschar formation and sloughing are common in full-thickness burns.",
-        "answer": "True"
+        "answer":  True
     },
     {
         "question": "Full-thickness burns may require skin grafting for proper healing.",
-        "answer": "True"
+        "answer":  True
     },
     {
         "question": "Full-thickness burns rarely result in any functional loss or contractures.",
-        "answer": "False",
+        "answer":  False,
     },
     {
     "question": "True or False: The immunologic defenses of the body remain unaffected by a burn injury.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "True or False: Burn injuries are associated with impaired neutrophil function and a reduction in lymphocytes.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "True or False: Burn patients are at a lower risk for infection and sepsis due to enhanced immune function.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "True or False: The release of abnormal inflammatory factors and alterations in serum complement levels contribute to loss of skin integrity in burn injuries.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "True or False: Levels of immunoglobulins in burn patients are typically increased due to the burn injury.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Loss of skin integrity in burn injuries can lead to difficulties in regulating body temperature.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Patients with burns will have normal body temperatures shortly after the injury.",
-    "answer": "False",
+    "answer":  False,
     },
     {
     "question": "Carbon monoxide poisoning can cause symptoms ranging from mild headaches to coma and death.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Interstitial pulmonary edema is caused by fluid moving from the pulmonary blood vessels into the alveoli.",
-    "answer": "False",
+    "answer":  False,
     },
     {
     "question": "Smoke inhalation can damage alveoli by inactivating surfactant, leading to alveolar collapse.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Upper airway thermal injury from inhaled heated air can lead to increased airway obstruction and tissue hypoxia.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Inactivation of surfactant due to smoke inhalation results in improved alveolar function.",
-    "answer": "False",
+    "answer":  False,
     },
     {
     "question": "Ulceration and sloughing of the airway are common outcomes of upper airway thermal injury.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Inhalation of heated air generally leads to decreased airway secretions and reduced inflammation.",
-    "answer": "False",
+    "answer":  False,
     },
     {
     "question": "Smoke inhalation can cause complete airway obstruction and tissue hypoxia.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Curling's ulcer refers to a type of peptic ulcer that can develop in burn patients.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Abdominal pain and acidic gastric pH levels are not typically associated with Curling's ulcer.",
-    "answer": "False",
+    "answer":  False,
     },
     {
     "question": "The presence of occult blood in the stool in burn patients may indicate gastric ulcer formation.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Paralytic ileus is a gastrointestinal condition characterized by increased bowel motility.",
-    "answer": "False",    
+    "answer":  False,    
     },
     {
     "question": "Nausea and vomiting are common gastrointestinal symptoms experienced by burn patients.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Massive fluid loss in burn patients usually leads to increased urine output and normal hydration levels.",
-    "answer": "False",
+    "answer":  False,
     },
     {
     "question": "Dark brown concentrated urine in burn patients can be an indicator of hemoglobinuria.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Hemoglobinuria in burn patients is associated with the presence of hemoglobin in the urine.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Increased appetite and normal bowel function are common gastrointestinal symptoms following severe burns.",
-    "answer": "False",
+    "answer":  False,
     },
     {
     "question": "Hemoglobinuria and paralytic ileus are both potential complications that can affect burn patients.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "A chemistry panel is used to evaluate electrolytes, blood urea nitrogen, and creatinine levels in burn patients.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Hematology panels include tests such as hematocrit and coagulation studies.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Arterial blood gases are used to assess renal function and nutritional status.",
-    "answer": "False",
+    "answer":  False,
     },
     {
     "question": "Urine analysis can help evaluate renal perfusion and nutritional status in burn patients.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Cultures of sputum, blood, urine, and wound tissue are performed to determine blood group compatibility.",
-    "answer": "False",
+    "answer":  False,
     },
     {
     "question": "Blood group and crossmatch tests are crucial for ensuring compatibility in blood transfusions.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Total protein and albumin levels are measured to monitor nutritional status during the rehabilitative phase of burn recovery.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Drug toxicology tests are used to evaluate kidney function and electrolyte levels.",
-    "answer": "False",
+    "answer":  False,
     },
     {
     "question": "The chemistry panel is not involved in assessing the levels of electrolytes and blood urea nitrogen.",
-    "answer": "False",
+    "answer":  False,
     },
     {
     "question": "Cultures of wound tissue can help determine the presence of infection in burn patients.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Chest X-rays should be performed within the first 24 to 48 hours to check for conditions like atelectasis and pulmonary edema.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "A bronchoscope is used primarily to evaluate cardiac function in burn patients.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "An electrocardiogram (ECG) is used to monitor cardiac function and detect arrhythmias in burn patients.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Pulmonary edema detected on a chest X-ray indicates normal lung function.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "A bronchoscope is useful for detecting atelectasis and pulmonary edema.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "An ECG is typically used to assess gastrointestinal health in burn patients.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Chest X-rays can reveal respiratory complications such as atelectasis within the first 48 hours of a burn injury.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "The primary purpose of an ECG in burn patients is to evaluate renal function.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "A bronchoscope is not necessary for patients with suspected upper airway damage.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Monitoring for upper airway damage is not relevant in the context of burn injuries.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "The emergent or resuscitative phase of burn care includes both fluid resuscitation and stabilization of the patient.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "During the primary survey, assessing for fractures and open wounds is not a priority.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Central venous pressure is monitored using a central venous catheter during the emergent phase.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Tetanus prophylaxis is administered only if there are visible signs of tetanus infection.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Fluid resuscitation for children with burns uses a formula of 2 - 4 ml Ringer’s lactate × body weight in kg × %TBSA burn.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "The secondary survey during the emergent phase includes checking the stability of the pelvis.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Endotracheal intubation is performed if there are no signs of airway obstruction.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Monitoring for dysrhythmias is part of the resuscitation phase in burn management.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "A urinary catheter is inserted during the emergent phase to monitor urinary output.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "The primary survey involves assessing the airway, breathing, and circulation, but not the patient's blood pressure.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "The Baxter (Parkland) Formula is used to calculate the amount of fluid required for burn resuscitation.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Infection control is a priority in the acute phase of burn care management.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "The American Burn Association Consensus Formula and the Modified Brooke Formula are essentially the same formula.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "The Brooke Formula and the Modified Brooke Formula use similar calculations for fluid resuscitation.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "The Dextran (Demling) Formula incorporates dextran for fluid resuscitation.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Pain management is not a major concern during the acute phase of burn care.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Long-term rehabilitation is primarily addressed during the acute phase of burn care.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "The Evans Formula is one of the older formulas used for burn resuscitation.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Nutritional support is a secondary concern compared to fluid resuscitation during the acute phase.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "The American Burn Association Consensus Formula is a newer formula compared to the Brooke and Modified Brooke formulas.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "All caregivers and visitors in a burn care setting must wear gowns and gloves.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Hand hygiene is only necessary before entering the patient's room.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Aseptic technique is used to enhance wound healing rather than to prevent infection.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Monitoring for purulent drainage is not necessary if the wound appears to be healing well.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Tissue specimens for infection monitoring can be obtained using either a swab or tissue biopsy.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Wearing a mask is optional when caring for burn patients.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Sterilization of equipment is important to prevent the spread of infection.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "It is acceptable to use the same gloves for multiple patients if they are visibly clean.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Infection control practices include monitoring changes in the wound, such as increasing depth and presence of purulent drainage.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Hand hygiene is less important than the use of personal protective equipment in preventing infection.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Loss of skin integrity in burn injuries can lead to difficulties in regulating body temperature.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Patients with burns will have normal body temperatures shortly after the injury.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Carbon monoxide poisoning can cause symptoms ranging from mild headaches to coma and death.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Interstitial pulmonary edema is caused by fluid moving from the pulmonary blood vessels into the alveoli.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Smoke inhalation can damage alveoli by inactivating surfactant, leading to alveolar collapse.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Upper airway thermal injury from inhaled heated air can lead to increased airway obstruction and tissue hypoxia.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Inactivation of surfactant due to smoke inhalation results in improved alveolar function.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Ulceration and sloughing of the airway are common outcomes of upper airway thermal injury.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Inhalation of heated air generally leads to decreased airway secretions and reduced inflammation.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Smoke inhalation can cause complete airway obstruction and tissue hypoxia.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Chest X-rays should be performed within the first 24 to 48 hours to check for conditions like atelectasis and pulmonary edema.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "A bronchoscope is used primarily to evaluate cardiac function in burn patients.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "An electrocardiogram (ECG) is used to monitor cardiac function and detect arrhythmias in burn patients.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Pulmonary edema detected on a chest X-ray indicates normal lung function.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "A bronchoscope is useful for detecting atelectasis and pulmonary edema.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "An ECG is typically used to assess gastrointestinal health in burn patients.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Chest X-rays can reveal respiratory complications such as atelectasis within the first 48 hours of a burn injury.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "The primary purpose of an ECG in burn patients is to evaluate renal function.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "A bronchoscope is not necessary for patients with suspected upper airway damage.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Monitoring for upper airway damage is not relevant in the context of burn injuries.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Circumferential dressings should be applied proximally to distally.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Light dressings are used over joint areas to restrict movement and prevent injury.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Occlusive dressings are applied to protect new skin grafts and promote optimal conditions for adherence.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "The use of silver in burn care is primarily for its aesthetic appeal.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "After wound cleaning, it is sufficient to apply only a single layer of dressing to a burn wound.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Topical antibacterial therapy is not necessary for full-thickness burns.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "It is important to inspect the burn wound for signs of infection or deterioration before applying dressings.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Hair in and around the burn area should be clipped short or shaved to aid in wound care.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Natural debridement involves the use of surgical instruments to remove eschar.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Mechanical debridement uses bacterial action to liquefy collagen fibrils.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "During mechanical debridement, bleeding from small vessels can be controlled with hemostatic agents or pressure.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Natural debridement usually begins within the first 24 hours after a burn injury.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Mechanical debridement requires the use of surgical scissors, scalpels, and forceps.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Dressings alone are sufficient to remove dead tissue during wound care.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Bacteria at the burn wound interface contribute to the process of natural debridement.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "Mechanical debridement involves the application of topical treatments to dissolve dead tissue.",
-    "answer": "False"
+    "answer":  False
     },
     {
     "question": "Eschar in natural debridement is held in place by collagen fibrils, which are liquefied by bacterial action.",
-    "answer": "True"
+    "answer":  True
     },
     {
     "question": "In mechanical debridement, pressure can be used to manage bleeding from small vessels.",
-    "answer": "True"
+    "answer":  True
     },
     {
         "question": "Chemical debridement agents have antimicrobial properties and do not need to be used with other therapies.",
@@ -8359,63 +8346,63 @@ quizzes = {
     "TF": [
         {
     "question": "Skeletal traction is applied by the hands, when a doctor reduces a fracture.",
-    "answer": "False"
+    "answer":  False
   },
   {
     "question": "Closed (simple) fracture is associated with injury to the surrounding structures.",
-    "answer": "False"
+    "answer":  False
   },
   {
     "question": "Principles of fracture management involve reduction, immobilization of the fracture, and rehabilitation of the soft tissues and joints.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "Stem cells transplantation involves the intravenous infusion of stem cells collected from any source to reestablish hematopoietic function.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "Autologous transplantation involves the removal and storage of the patient’s own stem cells.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "Lying positions is considering a contributing factor for gastroesophageal reflux disease.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "Acidic food is recommended for patients with gastroesophageal reflux disease.",
-    "answer": "False"
+    "answer":  False
   },
   {
     "question": "One of the nursing instructions for a patient with dumping syndrome is to encourage fluid with meals.",
-    "answer": "False"
+    "answer":  False
   },
   {
     "question": "Esophageal stricture is a complication of gastroesophageal reflux disease which can progress to dysphagia.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "Hepatitis B can be transmitted through the fecal-oral route.",
-    "answer": "False"
+    "answer":  False
   },
   {
     "question": "The treatment options are determined by the type of hepatitis.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "Viral hepatitis means there is a specific virus that is causing liver inflammation.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "Staging is referring to the size of the tumor and extent of disease.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "Virus exposure is controllable risk factors for cancer.",
-    "answer": "False"
+    "answer":  False
   },
   {
     "question": "Grading evaluates the amount of differentiation of the cell and extent of disease.",
-    "answer": "False"
+    "answer":  False
   }
     ]
 },
@@ -8605,123 +8592,123 @@ quizzes = {
     "TF": [
         {
     "question": "Intra cerebral hemorrhage is the most common type of ischemic stroke.",
-    "answer": "False"
+    "answer":  False
   },
   {
     "question": "Occupational therapy helps stroke patients to improve their ability to carry out daily activities.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "F.A.S.T is a way to remember signs of stroke and help identify onset of stroke more quickly.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "Patient with COPD should stay indoors when the pollen count is high.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "Emphysema is a pathologic term that describes an abnormal distention of the air spaces with destruction of the walls of the alveoli.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "The heart is a hollow, muscular organ located in the center of thorax.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "Endocardium is made up of muscle fibers and is responsible for the pumping action of the heart.",
-    "answer": "False"
+    "answer":  False
   },
   {
     "question": "Stable angina is a predictable pain that occurs on exertion and is relieved by rest and/or nitroglycerin.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "Modifiable risk factors for coronary artery disease include increasing age.",
-    "answer": "False"
+    "answer":  False
   },
   {
     "question": "Acute respiratory distress syndrome (ARDS) may co-exist with right-sided heart failure.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "Acute inflammation affect lung’s gas exchange surface.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "Extracorporeal membrane oxygenation (ECMO) divert oxygenated blood from systemic circulation to extracorporeal membrane lung.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "In progressive stage of shock the compensatory mechanism failure to compensate deteriorates and may progress to coma.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "The compensated stages of shock occur when decrease blood volume significantly reduces the heart's cardiac output.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "Shock is a syndrome characterized by increased tissue perfusion and impaired cellular metabolism.",
-    "answer": "False"
+    "answer":  False
   },
   {
     "question": "Intra cerebral hemorrhage is the most common type of ischemic stroke.",
-    "answer": "False"
+    "answer":  False
   },
   {
     "question": "Occupational therapy helps stroke patients to improve their ability to carry out daily activities.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "F.A.S.T is a way to remember signs of stroke and help identify onset of stroke more quickly.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "Patient with COPD should stay indoors when the pollen count is high.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "Emphysema is a pathologic term that describes an abnormal distention of the air spaces with destruction of the walls of the alveoli.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "The heart is a hollow, muscular organ located in the center of thorax.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "Malignant tumor is the tumor that is doesn't cancerous.",
-    "answer": "False"
+    "answer":  False
   },
   {
     "question": "According to gate control theory, pain is an emotion and its intensity depends on meaning of the part involved.",
-    "answer": "False"
+    "answer":  False
   },
   {
     "question": "Pain is an unpleasant sensory and emotional experiences associated with actual and potential tissue damage.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "Acute respiratory distress syndrome (ARDS) may co-exist with right-sided heart failure.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "Acute inflammation affects lung’s gas exchange surface.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "Letter C in the warning signs of tumor means unusual bleeding or discharge.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "In progressive stage of shock the compensatory mechanism fails to compensate and may progress to coma.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "The compensated stages of shock occur when decreased blood volume significantly reduces the heart's cardiac output.",
-    "answer": "True"
+    "answer":  True
   },
   {
     "question": "Shock is a syndrome characterized by increased tissue perfusion and impaired cellular metabolism.",
-    "answer": "False"
+    "answer":  False
   }
     ]
 }
