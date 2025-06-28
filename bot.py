@@ -231,7 +231,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 quiz["score"] += 1
                 feedback = "✅ إجابة صحيحة!"
             else:
-                correct_option_text = [opt for opt in q["options"] if opt.startswith(correct_answer)][0]
+                correct_option_text = q["options"][correct_answer]
                 feedback = f"❌ إجابة خاطئة.\n✅ الإجابة الصحيحة: {correct_option_text}"
         elif current < total_all:
             tf_index = current - total_mcq
