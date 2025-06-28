@@ -263,7 +263,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             tf_index = current - total_mcq
             q = tfs[tf_index]
             correct_answer = q["answer"]
-            chosen_answer = text.startswith("✅") or text.lower() == "true"
+            chosen_answer = True if "true" in text.lower() else False
             if chosen_answer == correct_answer:
                 quiz["score"] += 1
                 feedback = "✅ إجابة صحيحة!"
