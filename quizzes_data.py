@@ -7571,596 +7571,596 @@ quizzes =   {
 
 "final": {
     "MCQ": [
-        {
+    {
         "question": "Which is an uncontrollable cancer risk factor?",
         "options": {
-            "A. Obesity, diet, and exercise",
-            "B. Ultraviolet (UV) radiation",
-            "C. Previous history of cancer",
-            "C. Pollution"
+            "A": "Obesity, diet, and exercise",
+            "B": "Ultraviolet (UV) radiation",
+            "C": "Previous history of cancer",
+            "D": "Pollution"
         },
         "answer": "C"
     },
     {
         "question": "Key to increasing cancer survival is:",
         "options": {
-            "A. Early bronchoscopy",
-            "B. Early detection",
-            "C. High-dose chemotherapy",
-            "C. Smoking cessation"
+            "A": "Early bronchoscopy",
+            "B": "Early detection",
+            "C": "High-dose chemotherapy",
+            "D": "Smoking cessation"
         },
         "answer": "B"
     },
     {
         "question": "Stage of acute hepatitis confirmed by ↑ bilirubin?",
         "options": {
-            "A. Fatigue",
-            "B. Loss of appetite",
-            "C. Unexplained weight loss",
-            "C. Jaundice"
+            "A": "Fatigue",
+            "B": "Loss of appetite",
+            "C": "Unexplained weight loss",
+            "D": "Jaundice"
         },
         "answer": "D"
     },
     {
         "question": "Minimally invasive diagnostic test for viral hepatitis?",
         "options": {
-            "A. Ultrasound",
-            "B. Liver function tests",
-            "C. Liver biopsy",
-            "C. Blood tests"
+            "A": "Ultrasound",
+            "B": "Liver function tests",
+            "C": "Liver biopsy",
+            "D": "Blood tests"
         },
         "answer": "B"
     },
     {
         "question": "Correct about chemo susceptibility:",
         "options": {
-            "A. Abnormal growth of cells… more susceptible",
-            "B. Non-dividing cells are more susceptible",
-            "C. Non-growing cells are less susceptible",
-            "C. Slower-growing cells are more susceptible"
+            "A": "Abnormal growth of cells… more susceptible",
+            "B": "Non-dividing cells are more susceptible",
+            "C": "Non-growing cells are less susceptible",
+            "D": "Slower-growing cells are more susceptible"
         },
-        "answer": "D"
+        "answer": "A"
     },
     {
         "question": "Malignant tumors are characterized by:",
         "options": {
-            "A. Usually encapsulated",
-            "B. Rare to metastasize",
-            "C. Mode of growth is expansive",
-            "C. Recurrence is frequent"
+            "A": "Usually encapsulated",
+            "B": "Rare to metastasize",
+            "C": "Mode of growth is expansive",
+            "D": "Recurrence is frequent"
         },
         "answer": "D"
     },
     {
         "question": "One type of non‑viral hepatitis:",
         "options": {
-            "A. Hepatitis B",
-            "B. Hepatitis D",
-            "C. Alcoholic hepatitis",
-            "C. Hepatitis E"
+            "A": "Hepatitis B",
+            "B": "Hepatitis D",
+            "C": "Alcoholic hepatitis",
+            "D": "Hepatitis E"
         },
         "answer": "C"
     },
     {
         "question": "Hep C prevented by:",
         "options": {
-            "A. Sharing needles",
-            "B. Sharing razors",
-            "C. Sharing toothbrush",
-            "C. Not touching spilled blood & body fluids"
+            "A": "Sharing needles",
+            "B": "Sharing razors",
+            "C": "Sharing toothbrush",
+            "D": "Not touching spilled blood & body fluids"
         },
         "answer": "D"
     },
     {
         "question": "Complications of liver failure except:",
         "options": {
-            "A. Hepatocellular carcinoma",
-            "B. Brain tumor",
-            "C. Kidney failure",
-            "C. Hepatic encephalopathy"
+            "A": "Hepatocellular carcinoma",
+            "B": "Brain tumor",
+            "C": "Kidney failure",
+            "D": "Hepatic encephalopathy"
         },
         "answer": "B"
     },
     {
         "question": "Not a warning sign for cancer:",
         "options": {
-            "A. Changes in bowel/bladder",
-            "B. A sore that doesn’t heal",
-            "C. Unusual bleeding or discharge",
-            "C. Intestinal obstruction"
+            "A": "Changes in bowel/bladder",
+            "B": "A sore that doesn’t heal",
+            "C": "Unusual bleeding or discharge",
+            "D": "Intestinal obstruction"
         },
         "answer": "D"
     },
     {
         "question": "Expected nursing diagnosis before cast application:",
         "options": {
-            "A. Risk of infection",
-            "B. Pain",
-            "C. Disturbed body image",
-            "C. Ineffective breathing pattern"
+            "A": "Risk of infection",
+            "B": "Pain",
+            "C": "Disturbed body image",
+            "D": "Ineffective breathing pattern"
         },
         "answer": "B"
     },
     {
         "question": "Rigid external immobilizer adjustable during tx:",
         "options": {
-            "A. Cast",
-            "B. Bandage",
-            "C. Soft splint",
-            "C. Foam wrap"
+            "A": "Cast",
+            "B": "Bandage",
+            "C": "Soft splint",
+            "D": "Foam wrap"
         },
         "answer": "A"
     },
     {
         "question": "After drying cast, expected nursing diagnosis:",
         "options": {
-            "A. Risk of disuse syndrome",
-            "B. Acute pain",
-            "C. Risk of infection",
-            "C. Impaired gas exchange"
+            "A": "Risk of disuse syndrome",
+            "B": "Acute pain",
+            "C": "Risk of infection",
+            "D": "Impaired gas exchange"
         },
         "answer": "A"
     },
     {
         "question": "Device applying pulling force + counter-traction:",
         "options": {
-            "A. Brace",
-            "B. Crutches",
-            "C. Traction",
-            "C. Elastic bandage"
+            "A": "Brace",
+            "B": "Crutches",
+            "C": "Traction",
+            "D": "Elastic bandage"
         },
         "answer": "C"
     },
     {
         "question": "Nursing intervention for skin integrity risk with traction:",
         "options": {
-            "A. Assess skin daily for dryness/allergy",
-            "B. Clean pin sites regularly",
-            "C. Check weights are off the floor",
-            "C. Encourage early ambulation"
+            "A": "Assess skin daily for dryness/allergy",
+            "B": "Clean pin sites regularly",
+            "C": "Check weights are off the floor",
+            "D": "Encourage early ambulation"
         },
         "answer": "A"
     },
     {
         "question": "Purpose of traction:",
         "options": {
-            "A. Reduce & immobilize fractures",
-            "B. Prevent infection",
-            "C. Protect privacy",
-            "C. Increase cooperation"
+            "A": "Reduce & immobilize fractures",
+            "B": "Prevent infection",
+            "C": "Protect privacy",
+            "D": "Increase cooperation"
         },
         "answer": "A"
     },
     {
         "question": "Early complication of fracture:",
         "options": {
-            "A. Fat embolism",
-            "B. Nonunion",
-            "C. DVT",
-            "C. PE"
+            "A": "Fat embolism",
+            "B": "Nonunion",
+            "C": "DVT",
+            "D": "PE"
         },
         "answer": "A"
     },
     {
         "question": "Sign & symptom for compartment syndrome:",
         "options": {
-            "A. Unrelieved pain",
-            "B. Redness",
-            "C. Swelling only",
-            "C. Fever"
+            "A": "Unrelieved pain",
+            "B": "Redness",
+            "C": "Swelling only",
+            "D": "Fever"
         },
         "answer": "A"
     },
     {
         "question": "Delayed complication of fracture:",
         "options": {
-            "A. Nonunion",
-            "B. Fat embolism",
-            "C. Compartment syndrome",
-            "C. Bleeding"
+            "A": "Nonunion",
+            "B": "Fat embolism",
+            "C": "Compartment syndrome",
+            "D": "Bleeding"
         },
         "answer": "A"
     },
     {
         "question": "After drying cast, report which symptom?",
         "options": {
-            "A. Mild itching",
-            "B. Fingers become blue",
-            "C. Warm cast surface",
-            "C. Slight discomfort"
+            "A": "Mild itching",
+            "B": "Fingers become blue",
+            "C": "Warm cast surface",
+            "D": "Slight discomfort"
         },
         "answer": "B"
     },
     {
-        "question": "After drying cast: nursing intervention for allergic reaction:",
-        "options": {
-            "A. Observe for itching, rashes, blistering",
-            "B. Keep elevated",
-            "C. Apply ice",
-            "C. Encourage movement"
-        },
-        "answer": "A"
+    "question": "After drying cast: nursing intervention for allergic reaction:",
+    "options": {
+        "A": "Observe for itching, rashes, blistering",
+        "B": "Keep elevated",
+        "C": "Apply ice",
+        "D": "Encourage movement"
     },
-    {
-        "question": "Stem cell collection from circulating blood?",
-        "options": {
-            "A. Peripheral blood",
-            "B. Bone marrow",
-            "C. Umbilical cord",
-            "C. Lymph node"
-        },
-        "answer": "A"
+    "answer": "A"
+},
+{
+    "question": "Stem cell collection from circulating blood?",
+    "options": {
+        "A": "Peripheral blood",
+        "B": "Bone marrow",
+        "C": "Umbilical cord",
+        "D": "Lymph node"
     },
-    {
-        "question": "Stem cell collection from bone marrow?",
-        "options": {
-            "A. Peripheral collection",
-            "B. Bone marrow harvest",
-            "C. Cord blood",
-            "C. Skin biopsy"
-        },
-        "answer": "B"
+    "answer": "A"
+},
+{
+    "question": "Stem cell collection from bone marrow?",
+    "options": {
+        "A": "Peripheral collection",
+        "B": "Bone marrow harvest",
+        "C": "Cord blood",
+        "D": "Skin biopsy"
     },
-    {
-        "question": "Stem cells from patient (self):",
-        "options": {
-            "A. Autologous",
-            "B. Allogenic",
-            "C. Syngeneic",
-            "C. Heterologous"
-        },
-        "answer": "A"
+    "answer": "B"
+},
+{
+    "question": "Stem cells from patient (self):",
+    "options": {
+        "A": "Autologous",
+        "B": "Allogenic",
+        "C": "Syngeneic",
+        "D": "Heterologous"
     },
-    {
-        "question": "Immediate post-transplant recipient care:",
-        "options": {
-            "A. Transfusions of platelets to prevent bleeding",
-            "B. Ambulate immediately",
-            "C. High protein diet",
-            "C. No medications"
-        },
-        "answer": "A"
+    "answer": "A"
+},
+{
+    "question": "Immediate post-transplant recipient care:",
+    "options": {
+        "A": "Transfusions of platelets to prevent bleeding",
+        "B": "Ambulate immediately",
+        "C": "High protein diet",
+        "D": "No medications"
     },
-    {
-        "question": "Care for donor after stem cell donation:",
-        "options": {
-            "A. Check collection sites daily for bleeding",
-            "B. Limit fluids",
-            "C. Avoid movement",
-            "C. High-dose chemo"
-        },
-        "answer": "A"
+    "answer": "A"
+},
+{
+    "question": "Care for donor after stem cell donation:",
+    "options": {
+        "A": "Check collection sites daily for bleeding",
+        "B": "Limit fluids",
+        "C": "Avoid movement",
+        "D": "High-dose chemo"
     },
-    {
-        "question": "Early complication post-transplant recipient:",
-        "options": {
-            "A. Hair loss",
-            "B. Nausea",
-            "C. Sore throat",
-            "C. Hemorrhagic cystitis"
-        },
-        "answer": "D"
+    "answer": "A"
+},
+{
+    "question": "Early complication post-transplant recipient:",
+    "options": {
+        "A": "Hair loss",
+        "B": "Nausea",
+        "C": "Sore throat",
+        "D": "Hemorrhagic cystitis"
     },
-    {
-        "question": "Definition of gastroesophageal reflux:",
-        "options": {
-            "A. Backward flow of gastric contents into the esophagus",
-            "B. Forward movement of bile",
-            "C. Ulcer formation in stomach",
-            "C. Delayed gastric emptying"
-        },
-        "answer": "A"
+    "answer": "D"
+},
+{
+    "question": "Definition of gastroesophageal reflux:",
+    "options": {
+        "A": "Backward flow of gastric contents into the esophagus",
+        "B": "Forward movement of bile",
+        "C": "Ulcer formation in stomach",
+        "D": "Delayed gastric emptying"
     },
-    {
-        "question": "Contributing factor to GERD:",
-        "options": {
-            "A. Increased gastric pressure",
-            "B. Decreased acid",
-            "C. Low BMI",
-            "C. Fasting"
-        },
-        "answer": "A"
+    "answer": "A"
+},
+{
+    "question": "Contributing factor to GERD:",
+    "options": {
+        "A": "Increased gastric pressure",
+        "B": "Decreased acid",
+        "C": "Low BMI",
+        "D": "Fasting"
     },
-    {
-        "question": "Duodenal ulcer characterized by:",
-        "options": {
-            "A. Lack of acid",
-            "B. Bacterial overgrowth",
-            "C. Results from excessive acid",
-            "C. Hormonal imbalance"
-        },
-        "answer": "C"
+    "answer": "A"
+},
+{
+    "question": "Duodenal ulcer characterized by:",
+    "options": {
+        "A": "Lack of acid",
+        "B": "Bacterial overgrowth",
+        "C": "Results from excessive acid",
+        "D": "Hormonal imbalance"
     },
-    {
-        "question": "Typical symptom of GERD:",
-        "options": {
-            "A. Cough",
-            "B. Fever",
-            "C. Skin rash",
-            "C. Palpitations"
-        },
-        "answer": "A"
+    "answer": "C"
+},
+{
+    "question": "Typical symptom of GERD:",
+    "options": {
+        "A": "Cough",
+        "B": "Fever",
+        "C": "Skin rash",
+        "D": "Palpitations"
     },
-    {
-        "question": "Heartburn relief:",
-        "options": {
-            "A. Often relieved with milk or water",
-            "B. Increased with rest",
-            "C. Improves with spicy food",
-            "C. Worsens with cold drinks"
-        },
-        "answer": "A"
+    "answer": "A"
+},
+{
+    "question": "Heartburn relief:",
+    "options": {
+        "A": "Often relieved with milk or water",
+        "B": "Increased with rest",
+        "C": "Improves with spicy food",
+        "D": "Worsens with cold drinks"
     },
-    {
-        "question": "Gold standard diagnosis GERD:",
-        "options": {
-            "A. CT scan",
-            "B. Endoscope",
-            "C. X-ray",
-            "C. MRI"
-        },
-        "answer": "B"
+    "answer": "A"
+},
+{
+    "question": "Gold standard diagnosis GERD:",
+    "options": {
+        "A": "CT scan",
+        "B": "Endoscope",
+        "C": "X-ray",
+        "D": "MRI"
     },
-    {
-        "question": "Lifestyle correction for GERD except:",
-        "options": {
-            "A. Avoid fatty foods",
-            "B. Elevate head of bed",
-            "C. Encourage eating 2 hours before bed",
-            "C. Avoid large meals"
-        },
-        "answer": "C"
+    "answer": "B"
+},
+{
+    "question": "Lifestyle correction for GERD except:",
+    "options": {
+        "A": "Avoid fatty foods",
+        "B": "Elevate head of bed",
+        "C": "Encourage eating 2 hours before bed",
+        "D": "Avoid large meals"
     },
-    {
-        "question": "Gastric ulcer characteristic:",
-        "options": {
-            "A. No acid involved",
-            "B. Mucus and bicarbonate protect mucosa",
-            "C. Caused by low acid",
-            "C. Always caused by stress"
-        },
-        "answer": "B"
+    "answer": "C"
+},
+{
+    "question": "Gastric ulcer characteristic:",
+    "options": {
+        "A": "No acid involved",
+        "B": "Mucus and bicarbonate protect mucosa",
+        "C": "Caused by low acid",
+        "D": "Always caused by stress"
     },
-    {
-        "question": "Barrett’s esophagus means:",
-        "options": {
-            "A. Bleeding in stomach",
-            "B. Ulcer in duodenum",
-            "C. Changes in cells lining the esophagus",
-            "C. Stomach wall rupture"
-        },
-        "answer": "C"
+    "answer": "B"
+},
+{
+    "question": "Barrett’s esophagus means:",
+    "options": {
+        "A": "Bleeding in stomach",
+        "B": "Ulcer in duodenum",
+        "C": "Changes in cells lining the esophagus",
+        "D": "Stomach wall rupture"
     },
-    {
-        "question": "Complication of PUD with sudden epigastric pain:",
-        "options": {
-            "A. Bleeding",
-            "B. Perforation",
-            "C. Obstruction",
-            "C. Inflammation"
-        },
-        "answer": "B"
+    "answer": "C"
+},
+{
+    "question": "Complication of PUD with sudden epigastric pain:",
+    "options": {
+        "A": "Bleeding",
+        "B": "Perforation",
+        "C": "Obstruction",
+        "D": "Inflammation"
     },
-    {
-        "question": "Cause of duodenal ulcer:",
-        "options": {
-            "A. Excess sugar",
-            "B. Spicy food",
-            "C. Low protein diet",
-            "C. H. pylori infection"
-        },
-        "answer": "D"
+    "answer": "B"
+},
+{
+    "question": "Cause of duodenal ulcer:",
+    "options": {
+        "A": "Excess sugar",
+        "B": "Spicy food",
+        "C": "Low protein diet",
+        "D": "H. pylori infection"
     },
-    {
-        "question": "Thyroid hormones:",
-        "options": {
-            "A. Thyroxine (T4), triiodothyronine (T3), calcitonin",
-            "B. Insulin and glucagon",
-            "C. Estrogen and testosterone",
-            "C. FSH and LH"
-        },
-        "answer": "A"
+    "answer": "D"
+},
+{
+    "question": "Thyroid hormones:",
+    "options": {
+        "A": "Thyroxine (T4), triiodothyronine (T3), calcitonin",
+        "B": "Insulin and glucagon",
+        "C": "Estrogen and testosterone",
+        "D": "FSH and LH"
     },
-    {
-        "question": "Iodine source for thyroid hormones:",
-        "options": {
-            "A. Air",
-            "B. Food",
-            "C. Water",
-            "C. Sunlight"
-        },
-        "answer": "B"
+    "answer": "A"
+},
+{
+    "question": "Iodine source for thyroid hormones:",
+    "options": {
+        "A": "Air",
+        "B": "Food",
+        "C": "Water",
+        "D": "Sunlight"
     },
+    "answer": "B"
+},
     {
-        "question": "Palpation of thyroid assesses:",
-        "options": {
-            "A. Hormone levels",
-            "B. Temperature",
-            "C. Size, shape, presence of tenderness",
-            "C. Skin dryness"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Hypothyroidism definition:",
-        "options": {
-            "A. Suboptimal thyroid hormone level",
-            "B. Excessive thyroid hormone level",
-            "C. High blood sugar",
-            "C. Increased calcium level"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Insufficient iodine predisposes to:",
-        "options": {
-            "A. Hyperthyroidism",
-            "B. Hypoglycemia",
-            "C. Hypothyroidism",
-            "C. Diabetes"
-        },
-        "answer": "C"
-    },
-    {
-        "question": ">95% of hypothyroidism due to:",
-        "options": {
-            "A. Thyroidal hypothyroidism",
-            "B. Secondary hypothyroidism",
-            "C. Autoimmune disorders",
-            "C. Medications"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Secondary hypothyroidism refers to due to:",
-        "options": {
-            "A. Thyroid gland itself",
-            "B. Kidneys",
-            "C. Liver",
-            "C. Pituitary disorder"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Myxedema defined as:",
-        "options": {
-            "A. Severe hyperthyroidism",
-            "B. Swelling of lymph nodes",
-            "C. Advanced hypothyroidism with mucopolysaccharide buildup",
-            "C. Fluid retention in lungs"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Bowel elimination alteration in hypothyroidism:",
-        "options": {
-            "A. Diarrhea",
-            "B. Constipation",
-            "C. Flatulence",
-            "C. Incontinence"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Health concerns in hypothyroidism:",
-        "options": {
-            "A. Weight loss despite high intake",
-            "B. Hair gain",
-            "C. Weight gain even without increased intake",
-            "C. Increased height"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Incorrect cause of hyperthyroidism:",
-        "options": {
-            "A. Graves' disease",
-            "B. Little ingestion of iodine",
-            "C. Thyroiditis",
-            "C. Nodular goiter"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Nutritional instruction hyperthyroidism:",
-        "options": {
-            "A. Low-protein diet",
-            "B. High-calorie, high-protein foods",
-            "C. High-iodine diet",
-            "C. Sugar-free diet"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Hormone secreted in response to ↑ calcium:",
-        "options": {
-            "A. PTH",
-            "B. TSH",
-            "C. Glucagon",
-            "C. Calcitonin"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Molecule reacting with tyrosine to form thyroid hormones:",
-        "options": {
-            "A. Iodine",
-            "B. Sodium",
-            "C. Calcium",
-            "C. Magnesium"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Auscultating thyroid rationale:",
-        "options": {
-            "A. Check blood pressure",
-            "B. Identify cancer",
-            "C. Identify localized audible vibration of a bruit",
-            "C. Measure size"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Thyroid tests except:",
-        "options": {
-            "A. T3 and T4",
-            "B. TSH",
-            "C. Mammogram",
-            "C. Thyroid scan"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Nursing instruction for hypothyroid hypothermia:",
-        "options": {
-            "A. Use cold compress",
-            "B. Extra clothing and blankets",
-            "C. Give cold fluids",
-            "C. Encourage walking"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Definition Graves' disease:",
-        "options": {
-            "A. Autoimmune adrenal failure",
-            "B. Excess insulin",
-            "C. Calcium deficiency",
-            "C. Excessive output of thyroid hormones"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Prevalence hyperthyroidism:",
-        "options": {
-            "A. Women 8x more than men",
-            "B. Men 10x more than women",
-            "C. Equal in both",
-            "C. More in children"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Skin condition hyperthyroidism:",
-        "options": {
-            "A. Dry & flaky",
-            "B. Itchy with lesions",
-            "C. Red & scaly",
-            "C. Moist, flushed, and diffuse pruritus"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Main health concerns hyperthyroidism:",
-        "options": {
-            "A. Weight gain & cold intolerance",
-            "B. Increased appetite and weight loss",
-            "C. Muscle wasting and weight gain",
-            "C. Hair loss and constipation"
-        },
-        "answer": "B"
-    }
+                "question": "Palpation of thyroid assesses:",
+                "options": {
+                    "A": "Hormone levels",
+                    "B": "Temperature",
+                    "C": "Size, shape, presence of tenderness",
+                    "D": "Skin dryness"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Hypothyroidism definition:",
+                "options": {
+                    "A": "Suboptimal thyroid hormone level",
+                    "B": "Excessive thyroid hormone level",
+                    "C": "High blood sugar",
+                    "D": "Increased calcium level"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Insufficient iodine predisposes to:",
+                "options": {
+                    "A": "Hyperthyroidism",
+                    "B": "Hypoglycemia",
+                    "C": "Hypothyroidism",
+                    "D": "Diabetes"
+                },
+                "answer": "C"
+            },
+            {
+                "question": ">95% of hypothyroidism due to:",
+                "options": {
+                    "A": "Thyroidal hypothyroidism",
+                    "B": "Secondary hypothyroidism",
+                    "C": "Autoimmune disorders",
+                    "D": "Medications"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Secondary hypothyroidism refers to due to:",
+                "options": {
+                    "A": "Thyroid gland itself",
+                    "B": "Kidneys",
+                    "C": "Liver",
+                    "D": "Pituitary disorder"
+                },
+                "answer": "D"
+            },
+            {
+                "question": "Myxedema defined as:",
+                "options": {
+                    "A": "Severe hyperthyroidism",
+                    "B": "Swelling of lymph nodes",
+                    "C": "Advanced hypothyroidism with mucopolysaccharide buildup",
+                    "D": "Fluid retention in lungs"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Bowel elimination alteration in hypothyroidism:",
+                "options": {
+                    "A": "Diarrhea",
+                    "B": "Constipation",
+                    "C": "Flatulence",
+                    "D": "Incontinence"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Health concerns in hypothyroidism:",
+                "options": {
+                    "A": "Weight loss despite high intake",
+                    "B": "Hair gain",
+                    "C": "Weight gain even without increased intake",
+                    "D": "Increased height"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Incorrect cause of hyperthyroidism:",
+                "options": {
+                    "A": "Graves' disease",
+                    "B": "Little ingestion of iodine",
+                    "C": "Thyroiditis",
+                    "D": "Nodular goiter"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Nutritional instruction hyperthyroidism:",
+                "options": {
+                    "A": "Low-protein diet",
+                    "B": "High-calorie, high-protein foods",
+                    "C": "High-iodine diet",
+                    "D": "Sugar-free diet"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Hormone secreted in response to ↑ calcium:",
+                "options": {
+                    "A": "PTH",
+                    "B": "TSH",
+                    "C": "Glucagon",
+                    "D": "Calcitonin"
+                },
+                "answer": "D"
+            },
+            {
+                "question": "Molecule reacting with tyrosine to form thyroid hormones:",
+                "options": {
+                    "A": "Iodine",
+                    "B": "Sodium",
+                    "C": "Calcium",
+                    "D": "Magnesium"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Auscultating thyroid rationale:",
+                "options": {
+                    "A": "Check blood pressure",
+                    "B": "Identify cancer",
+                    "C": "Identify localized audible vibration of a bruit",
+                    "D": "Measure size"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Thyroid tests except:",
+                "options": {
+                    "A": "T3 and T4",
+                    "B": "TSH",
+                    "C": "Mammogram",
+                    "D": "Thyroid scan"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Nursing instruction for hypothyroid hypothermia:",
+                "options": {
+                    "A": "Use cold compress",
+                    "B": "Extra clothing and blankets",
+                    "C": "Give cold fluids",
+                    "D": "Encourage walking"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Definition Graves' disease:",
+                "options": {
+                    "A": "Autoimmune adrenal failure",
+                    "B": "Excess insulin",
+                    "C": "Calcium deficiency",
+                    "D": "Excessive output of thyroid hormones"
+                },
+                "answer": "D"
+            },
+            {
+                "question": "Prevalence hyperthyroidism:",
+                "options": {
+                    "A": "Women 8x more than men",
+                    "B": "Men 10x more than women",
+                    "C": "Equal in both",
+                    "D": "More in children"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Skin condition hyperthyroidism:",
+                "options": {
+                    "A": "Dry & flaky",
+                    "B": "Itchy with lesions",
+                    "C": "Red & scaly",
+                    "D": "Moist, flushed, and diffuse pruritus"
+                },
+                "answer": "D"
+            },
+            {
+                "question": "Main health concerns hyperthyroidism:",
+                "options": {
+                    "A": "Weight gain & cold intolerance",
+                    "B": "Increased appetite and weight loss",
+                    "C": "Muscle wasting and weight gain",
+                    "D": "Hair loss and constipation"
+                },
+                "answer": "B"
+            }
     ],
 
 
