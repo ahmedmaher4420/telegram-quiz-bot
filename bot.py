@@ -76,7 +76,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         if text == "Adults":
             keyboard = [
                 ["🧪 امتحان شامل", "📚  المحاضرات النظري وكويزات خفيفة"],
-                ["📋 أسئلة امتحانات سابقة"],
+                ["📋 أسئلة امتحانات سابقة", "🏦 بنك الأسئلة" ],
                 ["🏠 القائمة الرئيسية"]
             ]
             await update.message.reply_text("📘 اختر نوع المحتوى:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
@@ -155,12 +155,12 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         )
 
     elif "subject" in state and text == "🏦 بنك الأسئلة":
-        mcqs = quizzes.get("MCQs", [])
-        tfs = quizzes.get("TF", [])
-        if not mcqs and not tfs:
+        if "Question_Bank" not in quizzes:
             await update.message.reply_text("❗ لا توجد أسئلة في بنك الأسئلة حتى الآن.")
             return
-    
+            
+        mcqs = quizzes["Question_Bank"].get("MCQs", [])
+        tfs = quizzes["Question_Bank"].get("TF", [])
         random.shuffle(mcqs)
         random.shuffle(tfs)
     
