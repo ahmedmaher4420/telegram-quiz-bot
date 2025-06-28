@@ -2,7 +2,7 @@ import os
 import random
 from datetime import datetime
 from telegram import Update, ReplyKeyboardMarkup
-from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters # type: ignore
+from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters  # type: ignore
 from quizzes_data import quizzes
 from openpyxl import Workbook, load_workbook
 
@@ -55,32 +55,33 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     text = update.message.text
     state = user_state.get(uid, {})
 
-if text == "🏠 القائمة الرئيسية":
+    if text == "🏠 القائمة الرئيسية":
         return await start(update, context)
 
-if text == "🔙 الرجوع للخلف":
-    if "lecture" in state:
-        del user_state[uid]["lecture"]
-        lectures = get_lectures(state["subject"], state["type"])
-        keyboard = [[l] for l in lectures] + [["🏠 القائمة الرئيسية"]]
-        await update.message.reply_text("📖 اختر المحاضرة:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
-    elif "type" in state:
-        del user_state[uid]["type"]
-        types = get_types(state["subject"])
-        keyboard = [[t] for t in types] + [["🏠 القائمة الرئيسية"]]
-        await update.message.reply_text("📘 اختر النوع :", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
-    elif "subject" in state:
-        return await start(update, context)
-    return
+    if text == "🔙 الرجوع للخلف":
+        if "lecture" in state:
+            del user_state[uid]["lecture"]
+            lectures = get_lectures(state["subject"], state["type"])
+            keyboard = [[l] for l in lectures] + [["🏠 القائمة الرئيسية"]]
+            await update.message.reply_text("📖 اختر المحاضرة:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
+        elif "type" in state:
+            del user_state[uid]["type"]
+            types = get_types(state["subject"])
+            keyboard = [[t] for t in types] + [["🏠 القائمة الرئيسية"]]
+            await update.message.reply_text("📘 اختر النوع :", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
+        elif "subject" in state:
+            return await start(update, context)
+        return
 
     if text in get_subjects():
-            user_state[uid] = {"subject": text}
-     if text == "Adults":
+        user_state[uid] = {"subject": text}
+        if text == "Adults":
             keyboard = [
                 ["🧪 امتحان شامل", "📚  المحاضرات النظري وكويزات خفيفة"],
                 ["📋 أسئلة امتحانات سابقة", "بنك الأسئلة"],
                 ["🏠 القائمة الرئيسية"]
             ]
+            await update.message.reply_text("📘 اختر نوع المحتوى:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
         else:
             types = get_types(text)
             if types != [""]:
