@@ -129,7 +129,8 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             f"🧪 السؤال 1:\n{question_data['question']}",
             reply_markup=ReplyKeyboardMarkup(keyboard, one_time_keyboard=True, resize_keyboard=True)
         )
-        
+                return  # ✅ أضف هذا السطر للفصل بين البلوكات
+
         elif "subject" in state and text == "📋 أسئلة امتحانات سابقة":
         if "final" not in quizzes:
             await update.message.reply_text("❗ لا يوجد أسئلة امتحانات سابقة مضافة حتى الآن.")
