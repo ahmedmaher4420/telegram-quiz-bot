@@ -132,7 +132,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 return  # ✅ أضف هذا السطر
 
 
-        elif "subject" in state and text == "📋 أسئلة امتحانات سابقة":
+        if "subject" in state and text == "📋 أسئلة امتحانات سابقة":
         if "final" not in quizzes:
             await update.message.reply_text("❗ لا يوجد أسئلة امتحانات سابقة مضافة حتى الآن.")
             return
