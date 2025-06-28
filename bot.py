@@ -73,14 +73,13 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             return await start(update, context)
         return
 
-    if text in get_subjects():
-        user_state[uid] = {"subject": text}
         if text == "Adults":
-            keyboard = [
-                ["🧪 امتحان شامل", "📚  المحاضرات النظري وكويزات خفيفة"],
-                ["📋 أسئلة امتحانات سابقة"],
-                ["🏠 القائمة الرئيسية"]
-            ]
+        keyboard = [
+            ["🧪 امتحان شامل", "🏦 بنك الأسئلة"],
+            ["📚  المحاضرات النظري وكويزات خفيفة"],
+            ["🏠 القائمة الرئيسية"]
+        ]
+
             await update.message.reply_text("📘 اختر نوع المحتوى:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
         else:
             types = get_types(text)
@@ -152,6 +151,31 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         keyboard = [[opt] for opt in question_data["options"]] + [["⛔️ إنهاء الكويز"], ["🏠 القائمة الرئيسية"]]
         await update.message.reply_text(
             f"📋 السؤال 1:\n{question_data['question']}",
+            reply_markup=ReplyKeyboardMarkup(keyboard, one_time_keyboard=True, resize_keyboard=True)
+        )
+
+    elif "subject" in state and text == "🏦 بنك الأسئلة":
+        mcqs = quizzes.get("MCQs", [])
+        tfs = quizzes.get("TF", [])
+        if not mcqs and not tfs:
+            await update.message.reply_text("❗ لا توجد أسئلة في بنك الأسئلة حتى الآن.")
+            return
+    
+        random.shuffle(mcqs)
+        random.shuffle(tfs)
+    
+        user_state[uid]["quiz"] = {
+            "lecture": "Question_Bank",
+            "current": 0,
+            "score": 0,
+            "mcqs": mcqs,
+            "tfs": tfs
+        }
+    
+        question_data = mcqs[0]
+        keyboard = [[opt] for opt in question_data["options"]] + [["⛔️ إنهاء الكويز"], ["🏠 القائمة الرئيسية"]]
+        await update.message.reply_text(
+            f"🏦 السؤال 1:\n{question_data['question']}",
             reply_markup=ReplyKeyboardMarkup(keyboard, one_time_keyboard=True, resize_keyboard=True)
         )
 
