@@ -76,7 +76,11 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if text in get_subjects():
         user_state[uid] = {"subject": text}
         if text == "Adults":
-            keyboard = [["🧪 امتحان شامل", "📚  المحاضرات النظري وكويزات خفيفة"], ["🏠 القائمة الرئيسية"]]
+            keyboard = [
+                ["🧪 امتحان شامل", "📚  المحاضرات النظري وكويزات خفيفة"],
+                ["📋 أسئلة امتحانات سابقة"],
+                ["🏠 القائمة الرئيسية"]
+            ]
             await update.message.reply_text("📘 اختر نوع المحتوى:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
         else:
             types = get_types(text)
@@ -123,6 +127,31 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         keyboard = [[opt] for opt in question_data["options"]] + [["⛔️ إنهاء الكويز"], ["🏠 القائمة الرئيسية"]]
         await update.message.reply_text(
             f"🧪 السؤال 1:\n{question_data['question']}",
+            reply_markup=ReplyKeyboardMarkup(keyboard, one_time_keyboard=True, resize_keyboard=True)
+        )
+
+    elif "subject" in state and text == "📋 أسئلة امتحانات سابقة":
+        if "final" not in quizzes:
+            await update.message.reply_text("❗ لا يوجد أسئلة امتحانات سابقة مضافة حتى الآن.")
+            return
+
+        mcqs = quizzes["final"].get("MCQs", [])
+        tfs = quizzes["final"].get("TF", [])
+        random.shuffle(mcqs)
+        random.shuffle(tfs)
+
+        user_state[uid]["quiz"] = {
+            "lecture": "final",
+            "current": 0,
+            "score": 0,
+            "mcqs": mcqs,
+            "tfs": tfs
+        }
+
+        question_data = mcqs[0]
+        keyboard = [[opt] for opt in question_data["options"]] + [["⛔️ إنهاء الكويز"], ["🏠 القائمة الرئيسية"]]
+        await update.message.reply_text(
+            f"📋 السؤال 1:\n{question_data['question']}",
             reply_markup=ReplyKeyboardMarkup(keyboard, one_time_keyboard=True, resize_keyboard=True)
         )
 
@@ -241,7 +270,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await update.message.reply_text("❗ من فضلك اختر من القوائم.", reply_markup=ReplyKeyboardMarkup([["🏠 القائمة الرئيسية"]], resize_keyboard=True))
 
 # ✅ تشغيل البوت
-app = ApplicationBuilder().token("7774771769:AAHXK9PVehCzEh5d9NOksBlD4UyfqbZ5ObM").build()
+app = ApplicationBuilder().token("توكن_البوت_هنا").build()
 app.add_handler(CommandHandler("start", start))
 app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
 
