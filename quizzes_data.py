@@ -1,4 +1,4 @@
-quizzes =   {
+quizzes = {
     "L1 COPD": {
         "MCQs": [
             {
@@ -7561,14 +7561,6 @@ quizzes =   {
 ]
 
  },   
-
-
-
-
-
-
-
-
 "final": {
     "MCQ": [
             {
@@ -8426,7 +8418,314 @@ quizzes =   {
     "answer": "False"
   }
     ]
-} 
+},
+"Question_Bank": {
+    "MCQs": [
+        {
+    "question": "Conditions that cause ruptures of the brain arteries include:",
+    "options": ["A. Hypertension", "B. Trauma", "C. Blood-thickening medications", "D. Strong blood vessel walls"],
+    "answer": "B"
+  },
+  {
+    "question": "Rehabilitative activities of stroke include:",
+    "options": ["A. Physical therapy", "B. Vision therapy", "C. Social therapy", "D. Recreational therapy"],
+    "answer": "A"
+  },
+  {
+    "question": "COPD is characterized by three primary symptoms:",
+    "options": [
+      "A. Chronic cough, sputum production and dyspnea on exertion",
+      "B. Chronic cough, sputum production and weight loss",
+      "C. Chronic cough, weight loss and barrel chest",
+      "D. Chronic cough, sputum production and chest infection"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Persistent cough that lasts for at least 3 months in each of two consecutive years is a symptom of:",
+    "options": ["A. Chronic Bronchitis", "B. Emphysema", "C. Pneumonia", "D. Asthma"],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following would be a possible treatment for COPD?",
+    "options": ["A. Oxygen Therapy", "B. Nebulizer", "C. CPAP Device", "D. Oximetry"],
+    "answer": "A"
+  },
+  {
+    "question": "Coronary arteries and their branches supply arterial blood to:",
+    "options": ["A. The colon", "B. The heart", "C. The lungs", "D. The liver"],
+    "answer": "B"
+  },
+  {
+    "question": "……………… is the most common cause of cardiovascular disease.",
+    "options": ["A. Coronary artery stenosis", "B. Coronary Atherosclerosis", "C. Hypertension", "D. Smoking"],
+    "answer": "B"
+  },
+  {
+    "question": "Factors associated with anginal pain include:",
+    "options": ["A. Physical bed rest", "B. Exposure to hot", "C. Eating small frequent meals", "D. Stress or any emotional situation"],
+    "answer": "D"
+  },
+  {
+    "question": "Pharmacologic therapy of angina pectoris includes:",
+    "options": ["A. Alpha-adrenergic blocking agents", "B. Nitroglycerin", "C. Antihemorrhagic Medications", "D. Antacids"],
+    "answer": "B"
+  },
+  {
+    "question": "The first phase of acute respiratory distress syndrome is:",
+    "options": ["A. Latent period", "B. Acute injury", "C. Acute respiratory failure", "D. Severe distress"],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is the cornerstone of ARDS therapy?",
+    "options": ["A. Prone positioning", "B. Lung-protective mechanical ventilation", "C. Oxygen therapy", "D. Corticosteroids therapy"],
+    "answer": "B"
+  },
+  {
+    "question": "The most important nursing management for ARDS:",
+    "options": ["A. Treating the underlying cause or injury", "B. Suction oral cavity", "C. Manage nutrition", "D. Stress ulcer prophylaxis"],
+    "answer": "A"
+  },
+  {
+    "question": "Proper positioning of the patient who shows signs of shock:",
+    "options": [
+      "A. The lower extremities are elevated (modified trendelenburg)",
+      "B. The head is highly elevated",
+      "C. Place patient on Supine position",
+      "D. Place patient on Prone position"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Stage of shock represents organ damage in which the patient does not respond to treatment and cannot survive despite treatment:",
+    "options": ["A. Compensatory", "B. Progressive", "C. Irreversible", "D. Reversible"],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is the main cause of Shock?",
+    "options": ["A. Increased blood volume", "B. Bleeding", "C. Hydration", "D. Increased cardiac output"],
+    "answer": "B"
+  },
+  {
+    "question": "Conditions that cause ruptures of the brain arteries include:",
+    "options": ["A. Hypertension", "B. Tumor", "C. Blood-thickening medications", "D. Strong blood vessel walls"],
+    "answer": "A"
+  },
+  {
+    "question": "Rehabilitative activities of stroke include:",
+    "options": ["A. Physical therapy", "B. Vision therapy", "C. Social therapy", "D. All the above"],
+    "answer": "D"
+  },
+  {
+    "question": "COPD is characterized by three primary symptoms:",
+    "options": [
+      "A. Chronic cough, sputum production and dyspnea on exertion",
+      "B. Chronic cough, sputum production and weight loss",
+      "C. Chronic cough, weight loss and barrel chest",
+      "D. Chronic cough, sputum production and chest infection"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Persistent cough that lasts for at least 3 months in each of two consecutive years is a symptom of:",
+    "options": ["A. Chronic Bronchitis", "B. Emphysema", "C. Pneumonia", "D. Asthma"],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following would be a possible treatment for COPD?",
+    "options": ["A. Oxygen Therapy", "B. Nebulizer", "C. CPAP Device", "D. Oximetry"],
+    "answer": "A"
+  },
+  {
+    "question": "Normal value of potassium is:",
+    "options": ["A. 8.5 mEq/L", "B. 5.5 mEq/L", "C. 3.5 mEq/L", "D. 7.5 mEq/L"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the most common cause of hypovolemia?",
+    "options": ["A. Decrease in fluid intake", "B. Coronary Atherosclerosis", "C. Hypertension", "D. Smoking"],
+    "answer": "A"
+  },
+  {
+    "question": "Factors associated with renal failure include:",
+    "options": ["A. Physical bed rest", "B. Hypertension", "C. Eating small frequent meals", "D. Stress or any emotional situation"],
+    "answer": "B"
+  },
+  {
+    "question": "Which is a mechanism to keep composition and volume of body fluid within normal limits?",
+    "options": ["A. Filtration", "B. Diffusion", "C. Hemostasis", "D. Osmosis"],
+    "answer": "D"
+  },
+  {
+    "question": "The first phase of acute respiratory distress syndrome is:",
+    "options": ["A. Latent period", "B. Acute injury", "C. Acute respiratory failure", "D. Severe distress"],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is the cornerstone of ARDS therapy?",
+    "options": [
+      "A. Prone positioning",
+      "B. Lung-protective mechanical ventilation",
+      "C. Oxygen therapy",
+      "D. Corticosteroids therapy"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The most important nursing management for ARDS is:",
+    "options": [
+      "A. Treating the underlying cause or injury",
+      "B. Suction oral cavity",
+      "C. Manage nutrition",
+      "D. Stress ulcer prophylaxis"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Proper positioning of the patient who shows signs of shock:",
+    "options": [
+      "A. The lower extremities are elevated (modified trendelenburg)",
+      "B. The head is highly elevated",
+      "C. Place patient on Supine position",
+      "D. Place patient on Prone position"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Stage of shock represents organ damage in which the patient does not respond to treatment and cannot survive despite treatment:",
+    "options": ["A. Compensatory", "B. Progressive", "C. Irreversible", "D. Reversible"],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is the main cause of Shock?",
+    "options": ["A. Increased blood volume", "B. Bleeding", "C. Hydration", "D. Increased cardiac output"],
+    "answer": "B"
+  }
+    ],
+    "TF": [
+        {
+    "question": "Intra cerebral hemorrhage is the most common type of ischemic stroke.",
+    "answer": "False"
+  },
+  {
+    "question": "Occupational therapy helps stroke patients to improve their ability to carry out daily activities.",
+    "answer": "True"
+  },
+  {
+    "question": "F.A.S.T is a way to remember signs of stroke and help identify onset of stroke more quickly.",
+    "answer": "True"
+  },
+  {
+    "question": "Patient with COPD should stay indoors when the pollen count is high.",
+    "answer": "True"
+  },
+  {
+    "question": "Emphysema is a pathologic term that describes an abnormal distention of the air spaces with destruction of the walls of the alveoli.",
+    "answer": "True"
+  },
+  {
+    "question": "The heart is a hollow, muscular organ located in the center of thorax.",
+    "answer": "True"
+  },
+  {
+    "question": "Endocardium is made up of muscle fibers and is responsible for the pumping action of the heart.",
+    "answer": "False"
+  },
+  {
+    "question": "Stable angina is a predictable pain that occurs on exertion and is relieved by rest and/or nitroglycerin.",
+    "answer": "True"
+  },
+  {
+    "question": "Modifiable risk factors for coronary artery disease include increasing age.",
+    "answer": "False"
+  },
+  {
+    "question": "Acute respiratory distress syndrome (ARDS) may co-exist with right-sided heart failure.",
+    "answer": "True"
+  },
+  {
+    "question": "Acute inflammation affect lung’s gas exchange surface.",
+    "answer": "True"
+  },
+  {
+    "question": "Extracorporeal membrane oxygenation (ECMO) divert oxygenated blood from systemic circulation to extracorporeal membrane lung.",
+    "answer": "True"
+  },
+  {
+    "question": "In progressive stage of shock the compensatory mechanism failure to compensate deteriorates and may progress to coma.",
+    "answer": "True"
+  },
+  {
+    "question": "The compensated stages of shock occur when decrease blood volume significantly reduces the heart's cardiac output.",
+    "answer": "True"
+  },
+  {
+    "question": "Shock is a syndrome characterized by increased tissue perfusion and impaired cellular metabolism.",
+    "answer": "False"
+  },
+  {
+    "question": "Intra cerebral hemorrhage is the most common type of ischemic stroke.",
+    "answer": "False"
+  },
+  {
+    "question": "Occupational therapy helps stroke patients to improve their ability to carry out daily activities.",
+    "answer": "True"
+  },
+  {
+    "question": "F.A.S.T is a way to remember signs of stroke and help identify onset of stroke more quickly.",
+    "answer": "True"
+  },
+  {
+    "question": "Patient with COPD should stay indoors when the pollen count is high.",
+    "answer": "True"
+  },
+  {
+    "question": "Emphysema is a pathologic term that describes an abnormal distention of the air spaces with destruction of the walls of the alveoli.",
+    "answer": "True"
+  },
+  {
+    "question": "The heart is a hollow, muscular organ located in the center of thorax.",
+    "answer": "True"
+  },
+  {
+    "question": "Malignant tumor is the tumor that is doesn't cancerous.",
+    "answer": "False"
+  },
+  {
+    "question": "According to gate control theory, pain is an emotion and its intensity depends on meaning of the part involved.",
+    "answer": "False"
+  },
+  {
+    "question": "Pain is an unpleasant sensory and emotional experiences associated with actual and potential tissue damage.",
+    "answer": "True"
+  },
+  {
+    "question": "Acute respiratory distress syndrome (ARDS) may co-exist with right-sided heart failure.",
+    "answer": "True"
+  },
+  {
+    "question": "Acute inflammation affects lung’s gas exchange surface.",
+    "answer": "True"
+  },
+  {
+    "question": "Letter C in the warning signs of tumor means unusual bleeding or discharge.",
+    "answer": "True"
+  },
+  {
+    "question": "In progressive stage of shock the compensatory mechanism fails to compensate and may progress to coma.",
+    "answer": "True"
+  },
+  {
+    "question": "The compensated stages of shock occur when decreased blood volume significantly reduces the heart's cardiac output.",
+    "answer": "True"
+  },
+  {
+    "question": "Shock is a syndrome characterized by increased tissue perfusion and impaired cellular metabolism.",
+    "answer": "False"
+  }
+    ]
+}
 
 
-            }
+
+}
