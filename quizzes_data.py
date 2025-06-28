@@ -7571,597 +7571,797 @@ quizzes =   {
 
 "final": {
     "MCQ": [
-    {
-        "question": "Which is an uncontrollable cancer risk factor?",
-        "options": {
-            "A. Obesity, diet, and exercise",
-            "B. Ultraviolet (UV) radiation",
-            "C. Previous history of cancer",
-            "D. Pollution"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Key to increasing cancer survival is:",
-        "options": {
-            "A. Early bronchoscopy",
-            "B. Early detection",
-            "C. High-dose chemotherapy",
-            "D. Smoking cessation"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Stage of acute hepatitis confirmed by ↑ bilirubin?",
-        "options": {
-            "A. Fatigue",
-            "B. Loss of appetite",
-            "C. Unexplained weight loss",
-            "D. Jaundice"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Minimally invasive diagnostic test for viral hepatitis?",
-        "options": {
-            "A. Ultrasound",
-            "B. Liver function tests",
-            "C. Liver biopsy",
-            "D. Blood tests"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Correct about chemo susceptibility:",
-        "options": {
-            "A. Abnormal growth of cells… more susceptible",
-            "B. Non-dividing cells are more susceptible",
-            "C. Non-growing cells are less susceptible",
-            "D. Slower-growing cells are more susceptible"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Malignant tumors are characterized by:",
-        "options": {
-            "A. Usually encapsulated",
-            "B. Rare to metastasize",
-            "C. Mode of growth is expansive",
-            "D. Recurrence is frequent"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "One type of non‑viral hepatitis:",
-        "options": {
-            "A. Hepatitis B",
-            "B. Hepatitis D",
-            "C. Alcoholic hepatitis",
-            "D. Hepatitis E"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Hep C prevented by:",
-        "options": {
-            "A. Sharing needles",
-            "B. Sharing razors",
-            "C. Sharing toothbrush",
-            "D. Not touching spilled blood & body fluids"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Complications of liver failure except:",
-        "options": {
-            "A. Hepatocellular carcinoma",
-            "B. Brain tumor",
-            "C. Kidney failure",
-            "D. Hepatic encephalopathy"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Not a warning sign for cancer:",
-        "options": {
-            "A. Changes in bowel/bladder",
-            "B. A sore that doesn’t heal",
-            "C. Unusual bleeding or discharge",
-            "D. Intestinal obstruction"
-        },
-        "answer": "D"
-    },
-    {
-        "question": "Expected nursing diagnosis before cast application:",
-        "options": {
-            "A. Risk of infection",
-            "B. Pain",
-            "C. Disturbed body image",
-            "D. Ineffective breathing pattern"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Rigid external immobilizer adjustable during tx:",
-        "options": {
-            "A. Cast",
-            "B. Bandage",
-            "C. Soft splint",
-            "D. Foam wrap"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "After drying cast, expected nursing diagnosis:",
-        "options": {
-            "A. Risk of disuse syndrome",
-            "B. Acute pain",
-            "C. Risk of infection",
-            "D. Impaired gas exchange"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Device applying pulling force + counter-traction:",
-        "options": {
-            "A. Brace",
-            "B. Crutches",
-            "C. Traction",
-            "D. Elastic bandage"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Nursing intervention for skin integrity risk with traction:",
-        "options": {
-            "A. Assess skin daily for dryness/allergy",
-            "B. Clean pin sites regularly",
-            "C. Check weights are off the floor",
-            "D. Encourage early ambulation"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Purpose of traction:",
-        "options": {
-            "A. Reduce & immobilize fractures",
-            "B. Prevent infection",
-            "C. Protect privacy",
-            "D. Increase cooperation"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Early complication of fracture:",
-        "options": {
-            "A. Fat embolism",
-            "B. Nonunion",
-            "C. DVT",
-            "D. PE"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Sign & symptom for compartment syndrome:",
-        "options": {
-            "A. Unrelieved pain",
-            "B. Redness",
-            "C. Swelling only",
-            "D. Fever"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Delayed complication of fracture:",
-        "options": {
-            "A. Nonunion",
-            "B. Fat embolism",
-            "C. Compartment syndrome",
-            "D. Bleeding"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "After drying cast, report which symptom?",
-        "options": {
-            "A. Mild itching",
-            "B. Fingers become blue",
-            "C. Warm cast surface",
-            "D. Slight discomfort"
-        },
-        "answer": "B"
-    },
-    {
-    "question": "After drying cast: nursing intervention for allergic reaction:",
-    "options": {
-        "A. Observe for itching, rashes, blistering",
-        "B. Keep elevated",
-        "C. Apply ice",
-        "D. Encourage movement"
-    },
-    "answer": "A"
-},
-{
-    "question": "Stem cell collection from circulating blood?",
-    "options": {
-        "A. Peripheral blood",
-        "B. Bone marrow",
-        "C. Umbilical cord",
-        "D. Lymph node"
-    },
-    "answer": "A"
-},
-{
-    "question": "Stem cell collection from bone marrow?",
-    "options": {
-        "A. Peripheral collection",
-        "B. Bone marrow harvest",
-        "C. Cord blood",
-        "D. Skin biopsy"
-    },
-    "answer": "B"
-},
-{
-    "question": "Stem cells from patient (self):",
-    "options": {
-        "A. Autologous",
-        "B. Allogenic",
-        "C. Syngeneic",
-        "D. Heterologous"
-    },
-    "answer": "A"
-},
-{
-    "question": "Immediate post-transplant recipient care:",
-    "options": {
-        "A. Transfusions of platelets to prevent bleeding",
-        "B. Ambulate immediately",
-        "C. High protein diet",
-        "D. No medications"
-    },
-    "answer": "A"
-},
-{
-    "question": "Care for donor after stem cell donation:",
-    "options": {
-        "A. Check collection sites daily for bleeding",
-        "B. Limit fluids",
-        "C. Avoid movement",
-        "D. High-dose chemo"
-    },
-    "answer": "A"
-},
-{
-    "question": "Early complication post-transplant recipient:",
-    "options": {
-        "A. Hair loss",
-        "B. Nausea",
-        "C. Sore throat",
-        "D. Hemorrhagic cystitis"
-    },
-    "answer": "D"
-},
-{
-    "question": "Definition of gastroesophageal reflux:",
-    "options": {
-        "A. Backward flow of gastric contents into the esophagus",
-        "B. Forward movement of bile",
-        "C. Ulcer formation in stomach",
-        "D. Delayed gastric emptying"
-    },
-    "answer": "A"
-},
-{
-    "question": "Contributing factor to GERD:",
-    "options": {
-        "A. Increased gastric pressure",
-        "B. Decreased acid",
-        "C. Low BMI",
-        "D. Fasting"
-    },
-    "answer": "A"
-},
-{
-    "question": "Duodenal ulcer characterized by:",
-    "options": {
-        "A. Lack of acid",
-        "B. Bacterial overgrowth",
-        "C. Results from excessive acid",
-        "D. Hormonal imbalance"
-    },
-    "answer": "C"
-},
-{
-    "question": "Typical symptom of GERD:",
-    "options": {
-        "A. Cough",
-        "B. Fever",
-        "C. Skin rash",
-        "D. Palpitations"
-    },
-    "answer": "A"
-},
-{
-    "question": "Heartburn relief:",
-    "options": {
-        "A. Often relieved with milk or water",
-        "B. Increased with rest",
-        "C. Improves with spicy food",
-        "D. Worsens with cold drinks"
-    },
-    "answer": "A"
-},
-{
-    "question": "Gold standard diagnosis GERD:",
-    "options": {
-        "A. CT scan",
-        "B. Endoscope",
-        "C. X-ray",
-        "D. MRI"
-    },
-    "answer": "B"
-},
-{
-    "question": "Lifestyle correction for GERD except:",
-    "options": {
-        "A. Avoid fatty foods",
-        "B. Elevate head of bed",
-        "C. Encourage eating 2 hours before bed",
-        "D. Avoid large meals"
-    },
-    "answer": "C"
-},
-{
-    "question": "Gastric ulcer characteristic:",
-    "options": {
-        "A. No acid involved",
-        "B. Mucus and bicarbonate protect mucosa",
-        "C. Caused by low acid",
-        "D. Always caused by stress"
-    },
-    "answer": "B"
-},
-{
-    "question": "Barrett’s esophagus means:",
-    "options": {
-        "A. Bleeding in stomach",
-        "B. Ulcer in duodenum",
-        "C. Changes in cells lining the esophagus",
-        "D. Stomach wall rupture"
-    },
-    "answer": "C"
-},
-{
-    "question": "Complication of PUD with sudden epigastric pain:",
-    "options": {
-        "A. Bleeding",
-        "B. Perforation",
-        "C. Obstruction",
-        "D. Inflammation"
-    },
-    "answer": "B"
-},
-{
-    "question": "Cause of duodenal ulcer:",
-    "options": {
-        "A. Excess sugar",
-        "B. Spicy food",
-        "C. Low protein diet",
-        "D. H. pylori infection"
-    },
-    "answer": "D"
-},
-{
-    "question": "Thyroid hormones:",
-    "options": {
-        "A. Thyroxine (T4), triiodothyronine (T3), calcitonin",
-        "B. Insulin and glucagon",
-        "C. Estrogen and testosterone",
-        "D. FSH and LH"
-    },
-    "answer": "A"
-},
-{
-    "question": "Iodine source for thyroid hormones:",
-    "options": {
-        "A. Air",
-        "B. Food",
-        "C. Water",
-        "D. Sunlight"
-    },
-    "answer": "B"
-},
-    {
+            {
+                "question": "Which is an uncontrollable cancer risk factor?",
+                "options": {
+                    "A": "Obesity, diet, and exercise",
+                    "B": "Ultraviolet (UV) radiation",
+                    "C": "Previous history of cancer",
+                    "D": "Pollution"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Key to increasing cancer survival is:",
+                "options": {
+                    "A": "Early bronchoscopy",
+                    "B": "Early detection",
+                    "C": "High-dose chemotherapy",
+                    "D": "Smoking cessation"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Stage of acute hepatitis confirmed by ↑ bilirubin?",
+                "options": {
+                    "A": "Fatigue",
+                    "B": "Loss of appetite",
+                    "C": "Unexplained weight loss",
+                    "D": "Jaundice"
+                },
+                "answer": "D"
+            },
+            {
+                "question": "Minimally invasive diagnostic test for viral hepatitis?",
+                "options": {
+                    "A": "Ultrasound",
+                    "B": "Liver function tests",
+                    "C": "Liver biopsy",
+                    "D": "Blood tests"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Correct about chemo susceptibility:",
+                "options": {
+                    "A": "Abnormal growth of cells… more susceptible",
+                    "B": "Non-dividing cells are more susceptible",
+                    "C": "Non-growing cells are less susceptible",
+                    "D": "Slower-growing cells are more susceptible"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Malignant tumors are characterized by:",
+                "options": {
+                    "A": "Usually encapsulated",
+                    "B": "Rare to metastasize",
+                    "C": "Mode of growth is expansive",
+                    "D": "Recurrence is frequent"
+                },
+                "answer": "D"
+            },
+            {
+                "question": "One type of non‑viral hepatitis:",
+                "options": {
+                    "A": "Hepatitis B",
+                    "B": "Hepatitis D",
+                    "C": "Alcoholic hepatitis",
+                    "D": "Hepatitis E"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Hep C prevented by:",
+                "options": {
+                    "A": "Sharing needles",
+                    "B": "Sharing razors",
+                    "C": "Sharing toothbrush",
+                    "D": "Not touching spilled blood & body fluids"
+                },
+                "answer": "D"
+            },
+            {
+                "question": "Complications of liver failure except:",
+                "options": {
+                    "A": "Hepatocellular carcinoma",
+                    "B": "Brain tumor",
+                    "C": "Kidney failure",
+                    "D": "Hepatic encephalopathy"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Not a warning sign for cancer:",
+                "options": {
+                    "A": "Changes in bowel/bladder",
+                    "B": "A sore that doesn’t heal",
+                    "C": "Unusual bleeding or discharge",
+                    "D": "Intestinal obstruction"
+                },
+                "answer": "D"
+            },
+            {
+                "question": "Expected nursing diagnosis before cast application:",
+                "options": {
+                    "A": "Risk of infection",
+                    "B": "Pain",
+                    "C": "Disturbed body image",
+                    "D": "Ineffective breathing pattern"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Rigid external immobilizer adjustable during tx:",
+                "options": {
+                    "A": "Cast",
+                    "B": "Bandage",
+                    "C": "Soft splint",
+                    "D": "Foam wrap"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "After drying cast, expected nursing diagnosis:",
+                "options": {
+                    "A": "Risk of disuse syndrome",
+                    "B": "Acute pain",
+                    "C": "Risk of infection",
+                    "D": "Impaired gas exchange"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Device applying pulling force + counter-traction:",
+                "options": {
+                    "A": "Brace",
+                    "B": "Crutches",
+                    "C": "Traction",
+                    "D": "Elastic bandage"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Nursing intervention for skin integrity risk with traction:",
+                "options": {
+                    "A": "Assess skin daily for dryness/allergy",
+                    "B": "Clean pin sites regularly",
+                    "C": "Check weights are off the floor",
+                    "D": "Encourage early ambulation"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Purpose of traction:",
+                "options": {
+                    "A": "Reduce & immobilize fractures",
+                    "B": "Prevent infection",
+                    "C": "Protect privacy",
+                    "D": "Increase cooperation"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Early complication of fracture:",
+                "options": {
+                    "A": "Fat embolism",
+                    "B": "Nonunion",
+                    "C": "DVT",
+                    "D": "PE"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Sign & symptom for compartment syndrome:",
+                "options": {
+                    "A": "Unrelieved pain",
+                    "B": "Redness",
+                    "C": "Swelling only",
+                    "D": "Fever"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Delayed complication of fracture:",
+                "options": {
+                    "A": "Nonunion",
+                    "B": "Fat embolism",
+                    "C": "Compartment syndrome",
+                    "D": "Bleeding"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "After drying cast, report which symptom?",
+                "options": {
+                    "A": "Mild itching",
+                    "B": "Fingers become blue",
+                    "C": "Warm cast surface",
+                    "D": "Slight discomfort"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "After drying cast: nursing intervention for allergic reaction:",
+                "options": {
+                    "A": "Observe for itching, rashes, blistering",
+                    "B": "Keep elevated",
+                    "C": "Apply ice",
+                    "D": "Encourage movement"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Stem cell collection from circulating blood?",
+                "options": {
+                    "A": "Peripheral blood",
+                    "B": "Bone marrow",
+                    "C": "Umbilical cord",
+                    "D": "Lymph node"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Stem cell collection from bone marrow?",
+                "options": {
+                    "A": "Peripheral collection",
+                    "B": "Bone marrow harvest",
+                    "C": "Cord blood",
+                    "D": "Skin biopsy"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Stem cells from patient (self):",
+                "options": {
+                    "A": "Autologous",
+                    "B": "Allogenic",
+                    "C": "Syngeneic",
+                    "D": "Heterologous"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Immediate post-transplant recipient care:",
+                "options": {
+                    "A": "Transfusions of platelets to prevent bleeding",
+                    "B": "Ambulate immediately",
+                    "C": "High protein diet",
+                    "D": "No medications"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Care for donor after stem cell donation:",
+                "options": {
+                    "A": "Check collection sites daily for bleeding",
+                    "B": "Limit fluids",
+                    "C": "Avoid movement",
+                    "D": "High-dose chemo"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Early complication post-transplant recipient:",
+                "options": {
+                    "A": "Hair loss",
+                    "B": "Nausea",
+                    "C": "Sore throat",
+                    "D": "Hemorrhagic cystitis"
+                },
+                "answer": "D"
+            },
+            {
+                "question": "Definition of gastroesophageal reflux:",
+                "options": {
+                    "A": "Backward flow of gastric contents into the esophagus",
+                    "B": "Forward movement of bile",
+                    "C": "Ulcer formation in stomach",
+                    "D": "Delayed gastric emptying"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Contributing factor to GERD:",
+                "options": {
+                    "A": "Increased gastric pressure",
+                    "B": "Decreased acid",
+                    "C": "Low BMI",
+                    "D": "Fasting"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Duodenal ulcer characterized by:",
+                "options": {
+                    "A": "Lack of acid",
+                    "B": "Bacterial overgrowth",
+                    "C": "Results from excessive acid",
+                    "D": "Hormonal imbalance"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Typical symptom of GERD:",
+                "options": {
+                    "A": "Cough",
+                    "B": "Fever",
+                    "C": "Skin rash",
+                    "D": "Palpitations"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Heartburn relief:",
+                "options": {
+                    "A": "Often relieved with milk or water",
+                    "B": "Increased with rest",
+                    "C": "Improves with spicy food",
+                    "D": "Worsens with cold drinks"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Gold standard diagnosis GERD:",
+                "options": {
+                    "A": "CT scan",
+                    "B": "Endoscope",
+                    "C": "X-ray",
+                    "D": "MRI"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Lifestyle correction for GERD except:",
+                "options": {
+                    "A": "Avoid fatty foods",
+                    "B": "Elevate head of bed",
+                    "C": "Encourage eating 2 hours before bed",
+                    "D": "Avoid large meals"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Gastric ulcer characteristic:",
+                "options": {
+                    "A": "No acid involved",
+                    "B": "Mucus and bicarbonate protect mucosa",
+                    "C": "Caused by low acid",
+                    "D": "Always caused by stress"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Barrett’s esophagus means:",
+                "options": {
+                    "A": "Bleeding in stomach",
+                    "B": "Ulcer in duodenum",
+                    "C": "Changes in cells lining the esophagus",
+                    "D": "Stomach wall rupture"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Complication of PUD with sudden epigastric pain:",
+                "options": {
+                    "A": "Bleeding",
+                    "B": "Perforation",
+                    "C": "Obstruction",
+                    "D": "Inflammation"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Cause of duodenal ulcer:",
+                "options": {
+                    "A": "Excess sugar",
+                    "B": "Spicy food",
+                    "C": "Low protein diet",
+                    "D": "H. pylori infection"
+                },
+                "answer": "D"
+            },
+            {
+                "question": "Thyroid hormones:",
+                "options": {
+                    "A": "Thyroxine (T4), triiodothyronine (T3), calcitonin",
+                    "B": "Insulin and glucagon",
+                    "C": "Estrogen and testosterone",
+                    "D": "FSH and LH"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Iodine source for thyroid hormones:",
+                "options": {
+                    "A": "Air",
+                    "B": "Food",
+                    "C": "Water",
+                    "D": "Sunlight"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "After drying cast: nursing intervention for allergic reaction:",
+                "options": {
+                    "A": "Observe for itching, rashes, blistering",
+                    "B": "Keep elevated",
+                    "C": "Apply ice",
+                    "D": "Encourage movement"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Stem cell collection from circulating blood?",
+                "options": {
+                    "A": "Peripheral blood",
+                    "B": "Bone marrow",
+                    "C": "Umbilical cord",
+                    "D": "Lymph node"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Stem cell collection from bone marrow?",
+                "options": {
+                    "A": "Peripheral collection",
+                    "B": "Bone marrow harvest",
+                    "C": "Cord blood",
+                    "D": "Skin biopsy"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Stem cells from patient (self):",
+                "options": {
+                    "A": "Autologous",
+                    "B": "Allogenic",
+                    "C": "Syngeneic",
+                    "D": "Heterologous"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Immediate post-transplant recipient care:",
+                "options": {
+                    "A": "Transfusions of platelets to prevent bleeding",
+                    "B": "Ambulate immediately",
+                    "C": "High protein diet",
+                    "D": "No medications"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Care for donor after stem cell donation:",
+                "options": {
+                    "A": "Check collection sites daily for bleeding",
+                    "B": "Limit fluids",
+                    "C": "Avoid movement",
+                    "D": "High-dose chemo"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Early complication post-transplant recipient:",
+                "options": {
+                    "A": "Hair loss",
+                    "B": "Nausea",
+                    "C": "Sore throat",
+                    "D": "Hemorrhagic cystitis"
+                },
+                "answer": "D"
+            },
+            {
+                "question": "Definition of gastroesophageal reflux:",
+                "options": {
+                    "A": "Backward flow of gastric contents into the esophagus",
+                    "B": "Forward movement of bile",
+                    "C": "Ulcer formation in stomach",
+                    "D": "Delayed gastric emptying"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Contributing factor to GERD:",
+                "options": {
+                    "A": "Increased gastric pressure",
+                    "B": "Decreased acid",
+                    "C": "Low BMI",
+                    "D": "Fasting"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Duodenal ulcer characterized by:",
+                "options": {
+                    "A": "Lack of acid",
+                    "B": "Bacterial overgrowth",
+                    "C": "Results from excessive acid",
+                    "D": "Hormonal imbalance"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Typical symptom of GERD:",
+                "options": {
+                    "A": "Cough",
+                    "B": "Fever",
+                    "C": "Skin rash",
+                    "D": "Palpitations"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Heartburn relief:",
+                "options": {
+                    "A": "Often relieved with milk or water",
+                    "B": "Increased with rest",
+                    "C": "Improves with spicy food",
+                    "D": "Worsens with cold drinks"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Gold standard diagnosis GERD:",
+                "options": {
+                    "A": "CT scan",
+                    "B": "Endoscope",
+                    "C": "X-ray",
+                    "D": "MRI"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Lifestyle correction for GERD except:",
+                "options": {
+                    "A": "Avoid fatty foods",
+                    "B": "Elevate head of bed",
+                    "C": "Encourage eating 2 hours before bed",
+                    "D": "Avoid large meals"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Gastric ulcer characteristic:",
+                "options": {
+                    "A": "No acid involved",
+                    "B": "Mucus and bicarbonate protect mucosa",
+                    "C": "Caused by low acid",
+                    "D": "Always caused by stress"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Barrett’s esophagus means:",
+                "options": {
+                    "A": "Bleeding in stomach",
+                    "B": "Ulcer in duodenum",
+                    "C": "Changes in cells lining the esophagus",
+                    "D": "Stomach wall rupture"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Complication of PUD with sudden epigastric pain:",
+                "options": {
+                    "A": "Bleeding",
+                    "B": "Perforation",
+                    "C": "Obstruction",
+                    "D": "Inflammation"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Cause of duodenal ulcer:",
+                "options": {
+                    "A": "Excess sugar",
+                    "B": "Spicy food",
+                    "C": "Low protein diet",
+                    "D": "H. pylori infection"
+                },
+                "answer": "D"
+            },
+            {
+                "question": "Thyroid hormones:",
+                "options": {
+                    "A": "Thyroxine (T4), triiodothyronine (T3), calcitonin",
+                    "B": "Insulin and glucagon",
+                    "C": "Estrogen and testosterone",
+                    "D": "FSH and LH"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Iodine source for thyroid hormones:",
+                "options": {
+                    "A": "Air",
+                    "B": "Food",
+                    "C": "Water",
+                    "D": "Sunlight"
+                },
+                "answer": "B"
+            },
+            {
                 "question": "Palpation of thyroid assesses:",
                 "options": {
-                    "A. Hormone levels",
-                    "B. Temperature",
-                    "C. Size, shape, presence of tenderness",
-                    "D. Skin dryness"
+                    "A": "Hormone levels",
+                    "B": "Temperature",
+                    "C": "Size, shape, presence of tenderness",
+                    "D": "Skin dryness"
                 },
                 "answer": "C"
             },
             {
                 "question": "Hypothyroidism definition:",
                 "options": {
-                    "A. Suboptimal thyroid hormone level",
-                    "B. Excessive thyroid hormone level",
-                    "C. High blood sugar",
-                    "D. Increased calcium level"
+                    "A": "Suboptimal thyroid hormone level",
+                    "B": "Excessive thyroid hormone level",
+                    "C": "High blood sugar",
+                    "D": "Increased calcium level"
                 },
                 "answer": "A"
             },
             {
                 "question": "Insufficient iodine predisposes to:",
                 "options": {
-                    "A. Hyperthyroidism",
-                    "B. Hypoglycemia",
-                    "C. Hypothyroidism",
-                    "D. Diabetes"
+                    "A": "Hyperthyroidism",
+                    "B": "Hypoglycemia",
+                    "C": "Hypothyroidism",
+                    "D": "Diabetes"
                 },
                 "answer": "C"
             },
             {
                 "question": ">95% of hypothyroidism due to:",
                 "options": {
-                    "A. Thyroidal hypothyroidism",
-                    "B. Secondary hypothyroidism",
-                    "C. Autoimmune disorders",
-                    "D. Medications"
+                    "A": "Thyroidal hypothyroidism",
+                    "B": "Secondary hypothyroidism",
+                    "C": "Autoimmune disorders",
+                    "D": "Medications"
                 },
                 "answer": "A"
             },
             {
                 "question": "Secondary hypothyroidism refers to due to:",
                 "options": {
-                    "A. Thyroid gland itself",
-                    "B. Kidneys",
-                    "C. Liver",
-                    "D. Pituitary disorder"
+                    "A": "Thyroid gland itself",
+                    "B": "Kidneys",
+                    "C": "Liver",
+                    "D": "Pituitary disorder"
                 },
                 "answer": "D"
             },
             {
                 "question": "Myxedema defined as:",
                 "options": {
-                    "A. Severe hyperthyroidism",
-                    "B. Swelling of lymph nodes",
-                    "C. Advanced hypothyroidism with mucopolysaccharide buildup",
-                    "D. Fluid retention in lungs"
+                    "A": "Severe hyperthyroidism",
+                    "B": "Swelling of lymph nodes",
+                    "C": "Advanced hypothyroidism with mucopolysaccharide buildup",
+                    "D": "Fluid retention in lungs"
                 },
                 "answer": "C"
             },
             {
                 "question": "Bowel elimination alteration in hypothyroidism:",
                 "options": {
-                    "A. Diarrhea",
-                    "B. Constipation",
-                    "C. Flatulence",
-                    "D. Incontinence"
+                    "A": "Diarrhea",
+                    "B": "Constipation",
+                    "C": "Flatulence",
+                    "D": "Incontinence"
                 },
                 "answer": "B"
             },
             {
                 "question": "Health concerns in hypothyroidism:",
                 "options": {
-                    "A. Weight loss despite high intake",
-                    "B. Hair gain",
-                    "C. Weight gain even without increased intake",
-                    "D. Increased height"
+                    "A": "Weight loss despite high intake",
+                    "B": "Hair gain",
+                    "C": "Weight gain even without increased intake",
+                    "D": "Increased height"
                 },
                 "answer": "C"
             },
             {
                 "question": "Incorrect cause of hyperthyroidism:",
                 "options": {
-                    "A. Graves' disease",
-                    "B. Little ingestion of iodine",
-                    "C. Thyroiditis",
-                    "D. Nodular goiter"
+                    "A": "Graves' disease",
+                    "B": "Little ingestion of iodine",
+                    "C": "Thyroiditis",
+                    "D": "Nodular goiter"
                 },
                 "answer": "B"
             },
             {
                 "question": "Nutritional instruction hyperthyroidism:",
                 "options": {
-                    "A. Low-protein diet",
-                    "B. High-calorie, high-protein foods",
-                    "C. High-iodine diet",
-                    "D. Sugar-free diet"
+                    "A": "Low-protein diet",
+                    "B": "High-calorie, high-protein foods",
+                    "C": "High-iodine diet",
+                    "D": "Sugar-free diet"
                 },
                 "answer": "B"
             },
             {
                 "question": "Hormone secreted in response to ↑ calcium:",
                 "options": {
-                    "A. PTH",
-                    "B. TSH",
-                    "C. Glucagon",
-                    "D. Calcitonin"
+                    "A": "PTH",
+                    "B": "TSH",
+                    "C": "Glucagon",
+                    "D": "Calcitonin"
                 },
                 "answer": "D"
             },
             {
                 "question": "Molecule reacting with tyrosine to form thyroid hormones:",
                 "options": {
-                    "A. Iodine",
-                    "B. Sodium",
-                    "C. Calcium",
-                    "D. Magnesium"
+                    "A": "Iodine",
+                    "B": "Sodium",
+                    "C": "Calcium",
+                    "D": "Magnesium"
                 },
                 "answer": "A"
             },
             {
                 "question": "Auscultating thyroid rationale:",
                 "options": {
-                    "A. Check blood pressure",
-                    "B. Identify cancer",
-                    "C. Identify localized audible vibration of a bruit",
-                    "D. Measure size"
+                    "A": "Check blood pressure",
+                    "B": "Identify cancer",
+                    "C": "Identify localized audible vibration of a bruit",
+                    "D": "Measure size"
                 },
                 "answer": "C"
             },
             {
                 "question": "Thyroid tests except:",
                 "options": {
-                    "A. T3 and T4",
-                    "B. TSH",
-                    "C. Mammogram",
-                    "D. Thyroid scan"
+                    "A": "T3 and T4",
+                    "B": "TSH",
+                    "C": "Mammogram",
+                    "D": "Thyroid scan"
                 },
                 "answer": "C"
             },
             {
                 "question": "Nursing instruction for hypothyroid hypothermia:",
                 "options": {
-                    "A. Use cold compress",
-                    "B. Extra clothing and blankets",
-                    "C. Give cold fluids",
-                    "D. Encourage walking"
+                    "A": "Use cold compress",
+                    "B": "Extra clothing and blankets",
+                    "C": "Give cold fluids",
+                    "D": "Encourage walking"
                 },
                 "answer": "B"
             },
             {
                 "question": "Definition Graves' disease:",
                 "options": {
-                    "A. Autoimmune adrenal failure",
-                    "B. Excess insulin",
-                    "C. Calcium deficiency",
-                    "D. Excessive output of thyroid hormones"
+                    "A": "Autoimmune adrenal failure",
+                    "B": "Excess insulin",
+                    "C": "Calcium deficiency",
+                    "D": "Excessive output of thyroid hormones"
                 },
                 "answer": "D"
             },
             {
                 "question": "Prevalence hyperthyroidism:",
                 "options": {
-                    "A. Women 8x more than men",
-                    "B. Men 10x more than women",
-                    "C. Equal in both",
-                    "D. More in children"
+                    "A": "Women 8x more than men",
+                    "B": "Men 10x more than women",
+                    "C": "Equal in both",
+                    "D": "More in children"
                 },
                 "answer": "A"
             },
             {
                 "question": "Skin condition hyperthyroidism:",
                 "options": {
-                    "A. Dry & flaky",
-                    "B. Itchy with lesions",
-                    "C. Red & scaly",
-                    "D. Moist, flushed, and diffuse pruritus"
+                    "A": "Dry & flaky",
+                    "B": "Itchy with lesions",
+                    "C": "Red & scaly",
+                    "D": "Moist, flushed, and diffuse pruritus"
                 },
                 "answer": "D"
             },
             {
                 "question": "Main health concerns hyperthyroidism:",
                 "options": {
-                    "A. Weight gain & cold intolerance",
-                    "B. Increased appetite and weight loss",
-                    "C. Muscle wasting and weight gain",
-                    "D. Hair loss and constipation"
+                    "A": "Weight gain & cold intolerance",
+                    "B": "Increased appetite and weight loss",
+                    "C": "Muscle wasting and weight gain",
+                    "D": "Hair loss and constipation"
                 },
                 "answer": "B"
             }
-    ],
+        ],
 
 
     "TF": [
