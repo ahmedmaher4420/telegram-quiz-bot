@@ -5,6 +5,21 @@ from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 from quizzes_data import quizzes
 from openpyxl import Workbook, load_workbook
+import asyncio
+from telegram.error import NetworkError
+
+async def run_bot():
+    while True:
+        try:
+            print("🤖 Bot is running... Send /start to begin.")
+            await app.run_polling()
+        except NetworkError as e:
+            print(f"📡 Network error: {e}. إعادة المحاولة خلال 10 ثوانٍ...")
+            await asyncio.sleep(10)
+
+if __name__ == "__main__":
+    import asyncio
+    asyncio.run(run_bot())
 
 user_state = {}
 
