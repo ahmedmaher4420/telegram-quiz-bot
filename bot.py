@@ -248,22 +248,37 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         total_all = total_mcq + total_tf
         current = quiz["current"]
 
-        if current < total_mcq:
-            q = mcqs[current]
-            correct_answer = q["answer"]
-            chosen_answer = text[0].upper()
-            if chosen_answer == correct_answer:
-                quiz["score"] += 1
-                feedback = "✅ إجابة صحيحة!"
-            else:
-                # التعديل هنا: نبحث عن نص الإجابة الصحيحة في الخيارات
-                try:
-                    correct_option_text = next(
-                    (opt for opt in q["options"] if opt.strip().upper().startswith(correct_answer.upper())),
+   if current < total_mcq:
+        q = mcqs[current]
+        correct_answer = q["answer"].strip().upper()
+        user_input = text.strip()
+    
+        # محاولة استخراج الحرف الأول إن وجد
+        user_choice_letter = user_input[0].upper() if user_input and user_input[0].isalpha() else ""
+    
+        is_correct = False
+    
+        # تحقق إذا الإجابة صحيحة بأي شكل ممكن:
+        if user_choice_letter == correct_answer:
+            is_correct = True
+        elif user_input.upper() == correct_answer:
+            is_correct = True
+        elif any(user_input.strip().lower() == opt.strip().lower() for opt in q["options"] if opt.strip().upper().startswith(correct_answer)):
+            is_correct = True
+    
+        if is_correct:
+            quiz["score"] += 1
+            feedback = "✅ إجابة صحيحة!"
+        else:
+            try:
+                correct_option_text = next(
+                    (opt for opt in q["options"] if opt.strip().upper().startswith(correct_answer)),
                     f"{correct_answer} (لم يتم العثور على الإجابة بالنص)"
-                    )
-                except Exception as e:
-                    correct_option_text = f"{correct_answer} (خطأ أثناء تحديد الإجابة: {e})"
+                )
+            except Exception as e:
+                correct_option_text = f"{correct_answer} (خطأ أثناء تحديد الإجابة: {e})"
+            feedback = f"❌ إجابة خاطئة.\n✅ الإجابة الصحيحة: {correct_option_text}"
+
 
         elif current < total_all:
             tf_index = current - total_mcq
