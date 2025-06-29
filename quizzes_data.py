@@ -4911,85 +4911,85 @@ quizzes = {
   },
   {
     "question": "What is the primary cause of burn injuries?",
-    "options": ["B. Psychological trauma", "B. Thermal or other acute trauma", "C. Poor nutrition", "D. Genetic factors"],
-    "answer": "B. Thermal or other acute trauma"
+    "options": ["A. Psychological trauma", "B. Thermal or other acute trauma", "C. Poor nutrition", "D. Genetic factors"],
+    "answer": "B"
   },
   {
     "question": "Which of the following is NOT considered a cause of burns?",
-    "options": ["B. Radiation", "B. Electricity", "C. Inadequate hydration", "D. Chemicals"],
-    "answer": "C. Inadequate hydration"
+    "options": ["A. Radiation", "B. Electricity", "C. Inadequate hydration", "D. Chemicals"],
+    "answer": "C"
   },
   {
     "question": "Why is it essential for nurses to have effective communication skills when caring for burn patients?",
-    "options": ["B. To reduce the workload", "B. To ensure quality care and improved patient outcomes", "C. To increase patient anxiety", "D. To only focus on physical treatment"],
-    "answer": "B. To ensure quality care and improved patient outcomes"
+    "options": ["A. To reduce the workload", "B. To ensure quality care and improved patient outcomes", "C. To increase patient anxiety", "D. To only focus on physical treatment"],
+    "answer": "B"
   },
   {
     "question": "Which age and socioeconomic group can be affected by burn injuries?",
-    "options": ["B. Only children from low socioeconomic backgrounds", "B. Only adults from high socioeconomic backgrounds", "C. All age groups and all socioeconomic groups", "D. Only elderly people"],
-    "answer": "C. All age groups and all socioeconomic groups"
+    "options": ["A. Only children from low socioeconomic backgrounds", "B. Only adults from high socioeconomic backgrounds", "C. All age groups and all socioeconomic groups", "D. Only elderly people"],
+    "answer": "C"
   },
   {
     "question": "What type of burn is caused by hot liquids?",
-    "options": ["B. Electrical burns", "B. Chemical burns", "C. Scalds", "D. Friction burns"],
-    "answer": "C. Scalds"
+    "options": ["A. Electrical burns", "B. Chemical burns", "C. Scalds", "D. Friction burns"],
+    "answer": "C"
   },
   {
     "question": "What percentage of annual burn center admissions are due to electrical injuries?",
-    "options": ["B. 10%", "B. 5%", "C. 3%", "D. 15%"],
-    "answer": "C. 3%"
+    "options": ["A. 10%", "B. 5%", "C. 3%", "D. 15%"],
+    "answer": "C"
   },
   {
     "question": "Which factor does NOT affect the severity of electrical burns?",
-    "options": ["B. Voltage", "B. Type of current", "C. Skin color", "D. Path of the current"],
-    "answer": "C. Skin color"
+    "options": ["A. Voltage", "B. Type of current", "C. Skin color", "D. Path of the current"],
+    "answer": "C"
   },
   {
     "question": "Chemical burns can occur due to prolonged exposure to which of the following?",
-    "options": ["B. Water", "B. Acids, alkalis, or organic compounds", "C. Sunlight", "D. Oxygen"],
-    "answer": "B. Acids, alkalis, or organic compounds"
+    "options": ["A. Water", "B. Acids, alkalis, or organic compounds", "C. Sunlight", "D. Oxygen"],
+    "answer": "B"
   },
   {
     "question": "Which of the following is NOT associated with the severity of chemical burns?",
-    "options": ["B. The concentration of the chemical", "B. The speed of action", "C. The body’s resistance", "D. The penetrability of the chemical"],
-    "answer": "C. The body’s resistance"
+    "options": ["A. The concentration of the chemical", "B. The speed of action", "C. The body’s resistance", "D. The penetrability of the chemical"],
+    "answer": "C"
   },
   {
     "question": "Approximately how many deaths per year result from electrical burns?",
-    "options": ["B. 500", "B. 2000", "C. 1000", "D. 1500"],
-    "answer": "C. 1000"
+    "options": ["A. 500", "B. 2000", "C. 1000", "D. 1500"],
+    "answer": "C"
   },
   {
     "question": "Thermal burns are caused by exposure to which of the following?",
-    "options": ["B. Chemicals", "B. Moist heat (hot liquid) and dry heat (flame)", "C. Friction", "D. Electricity"],
-    "answer": "B. Moist heat (hot liquid) and dry heat (flame)"
+    "options": ["A. Chemicals", "B. Moist heat (hot liquid) and dry heat (flame)", "C. Friction", "D. Electricity"],
+    "answer": "B"
   },
   {
     "question": "Which type of burn is most commonly associated with sunburn?",
-    "options": ["B. Electrical burn", "B. Chemical burn", "C. Thermal burn", "D. Radiation burn"],
-    "answer": "D. Radiation burn"
+    "options": ["A. Electrical burn", "B. Chemical burn", "C. Thermal burn", "D. Radiation burn"],
+    "answer": "D"
   },
   {
     "question": "Radiation burns are typically characterized by:",
-    "options": ["B. Deep tissue damage", "B. Superficial involvement of only the outermost layers of the epidermis", "C. Involvement of bones and muscles", "D. Extensive damage to internal organs"],
-    "answer": "B. Superficial involvement of only the outermost layers of the epidermis"
+    "options": ["A. Deep tissue damage", "B. Superficial involvement of only the outermost layers of the epidermis", "C. Involvement of bones and muscles", "D. Extensive damage to internal organs"],
+    "answer": "B"
   },
   {
     "question": "Which of the following burns results from cancer treatment?",
-    "options": ["B. Thermal burns", "B. Electrical burns", "C. Radiation burns", "D. Chemical burns"],
-    "answer": "C. Radiation burns"
+    "options": ["A. Thermal burns", "B. Electrical burns", "C. Radiation burns", "D. Chemical burns"],
+    "answer": "C"
   },
   {
     "question": "Moist heat exposure, such as hot liquid, typically causes which type of burn?",
-    "options": ["B. Electrical burn", "B. Radiation burn", "C. Thermal burn", "D. Chemical burn"],
-    "answer": "C. Thermal burn"
+    "options": ["A. Electrical burn", "B. Radiation burn", "C. Thermal burn", "D. Chemical burn"],
+    "answer": "C"
   },
   {
     "question": "Which layer(s) of the skin are affected in superficial partial-thickness burns?",
-    "options": ["B. Epidermis only", "B. Epidermis and possibly a portion of the dermis", "C. Dermis and subcutaneous tissue", "D. Subcutaneous tissue and muscle"],
-    "answer": "B. Epidermis and possibly a portion of the dermis"
+    "options": ["A. Epidermis only", "B. Epidermis and possibly a portion of the dermis", "C. Dermis and subcutaneous tissue", "D. Subcutaneous tissue and muscle"],
+    "answer": "B"
   },
-    {
+  {
     "question": "What is a common cause of superficial partial-thickness burns?",
     "options": {
       "A. Radiation therapy",
@@ -5178,10 +5178,6 @@ quizzes = {
       "D. Sunburns"
     },
     "answer": "C"
-  },
-{
-    "question": "Partial-thickness burns covering 15–25% of total body surface area in patients aged 10–50 years are considered moderate.",
-    "answer":  True
   },
   {
     "question": "For patients aged 10–50 years, what percentage of partial-thickness burns is considered minor?",
@@ -6104,350 +6100,295 @@ quizzes = {
   "answer": "C"
 },
 {
-        "question": "Why should chemical debridement agents be used with topical antibacterial therapy?",
-        "options": [
-            "B. To prevent the spread of infection",
-            "B. To enhance the rate of tissue removal",
-            "C. To improve wound healing time",
-            "D. To provide pain relief"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "What is the purpose of escharotomy in burn care?",
-        "options": [
-            "B. To apply a skin graft",
-            "B. To remove dead tissue chemically",
-            "C. To make a sterile surgical incision to prevent constriction and impaired circulation",
-            "D. To clean the wound with hydrotherapy"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "Which method provides permanent skin coverage of a burn wound?",
-        "options": [
-            "B. Chemical debridement",
-            "B. Hydrotherapy",
-            "C. Autografting",
-            "D. Mechanical debridement"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "In autografting, where is the graft skin typically taken from?",
-        "options": [
-            "B. The burn wound site",
-            "B. The donor site on healthy tissue of the patient",
-            "C. A synthetic skin substitute",
-            "D. A cadaver"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the role of graft area immobilization after autografting?",
-        "options": [
-            "B. To reduce pain",
-            "B. To prevent infection",
-            "C. To allow proper adherence and healing of the graft",
-            "D. To enhance the cosmetic appearance"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "What type of incision is made during an escharotomy?",
-        "options": [
-            "B. Transverse incision",
-            "B. Longitudinal incision",
-            "C. Circular incision",
-            "D. Diagonal incision"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "Which debridement method involves the use of enzymes to remove dead tissue?",
-        "options": [
-            "B. Natural debridement",
-            "B. Mechanical debridement",
-            "C. Chemical debridement",
-            "D. Surgical debridement"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "Why might a physician perform an escharotomy?",
-        "options": [
-            "B. To enhance the appearance of the burn wound",
-            "B. To prevent constriction and impaired circulation",
-            "C. To apply a temporary dressing",
-            "D. To relieve pain"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the main advantage of early burn wound excision and skin grafting?",
-        "options": [
-            "B. Increased risk of infection",
-            "B. Longer hospital stay",
-            "C. Decreased hospital stay and enhanced rehabilitation",
-            "D. Reduced need for pain management"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "Which class of drugs is used to treat anxiety in burn patients?",
-        "options": [
-            "B. Opioids",
-            "B. Benzodiazepines",
-            "C. NSAIDs",
-            "D. Antihistamines"
-        ],
-        "answer": "B. Benzodiazepines"
-    },
-    {
-        "question": "What is a key component of nonpharmacologic pain control in burn care?",
-        "options": [
-            "B. Surgical debridement",
-            "B. Hydrotherapy",
-            "C. Distraction",
-            "D. Skin grafting"
-        ],
-        "answer": "C. Distraction"
-    },
-    {
-        "question": "Which of the following interventions is appropriate for managing acute pain in a burn patient?",
-        "options": [
-            "B. Administering opioid analgesics as prescribed",
-            "B. Encouraging the patient to avoid discussing pain",
-            "C. Reducing fluid intake to manage pain",
-            "D. Limiting the use of relaxation techniques"
-        ],
-        "answer": "B. Administering opioid analgesics as prescribed"
-    },
-    {
-        "question": "What is the primary goal in managing impaired skin integrity in burn patients?",
-        "options": [
-            "B. To perform daily hydrotherapy",
-            "B. To apply occlusive dressings only",
-            "C. To prevent infection and promote wound healing",
-            "D. To completely remove all blisters immediately"
-        ],
-        "answer": "C. To prevent infection and promote wound healing"
-    },
-    {
-        "question": "Why should chemical debridement agents be used in conjunction with topical antibacterial therapy?",
-        "options": [
-            "B. To prevent the spread of infection",
-            "B. To enhance the rate of tissue removal",
-            "C. To improve wound healing time",
-            "D. To provide pain relief"
-        ],
-        "answer": "A"
-    },
-    {
-        "question": "What is the purpose of escharotomy in burn care?",
-        "options": [
-            "B. To apply a skin graft",
-            "B. To remove dead tissue chemically",
-            "C. To make a sterile surgical incision to prevent constriction and impaired circulation",
-            "D. To clean the wound with hydrotherapy"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "Which method is used to provide permanent skin coverage of a burn wound?",
-        "options": [
-            "B. Chemical debridement",
-            "B. Hydrotherapy",
-            "C. Autografting",
-            "D. Mechanical debridement"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "In autografting, where is the skin for the graft typically taken from?",
-        "options": [
-            "B. The burn wound site",
-            "B. The donor site on healthy tissue of the patient",
-            "C. A synthetic skin substitute",
-            "D. A cadaver"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the role of a graft area immobilization after autografting?",
-        "options": [
-            "B. To reduce pain",
-            "B. To prevent infection",
-            "C. To allow proper adherence and healing of the graft",
-            "D. To enhance the cosmetic appearance"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "What type of incision is made during an escharotomy?",
-        "options": [
-            "B. Transverse incision",
-            "B. Longitudinal incision",
-            "C. Circular incision",
-            "D. Diagonal incision"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "Which debridement method involves the use of enzymes to remove dead tissue?",
-        "options": [
-            "B. Natural debridement",
-            "B. Mechanical debridement",
-            "C. Chemical debridement",
-            "D. Surgical debridement"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "Why might a physician perform an escharotomy?",
-        "options": [
-            "B. To enhance the appearance of the burn wound",
-            "B. To prevent constriction and impaired circulation",
-            "C. To apply a temporary dressing",
-            "D. To relieve pain"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the main advantage of early burn wound excision and skin grafting?",
-        "options": [
-            "B. Increased risk of infection",
-            "B. Longer hospital stay",
-            "C. Decreased hospital stay and enhanced rehabilitation",
-            "D. Reduced need for pain management"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "What is the primary purpose of Cultured Epithelial Autografting?",
-        "options": [
-            "B. To clean the burn wound",
-            "B. To grow skin cells for coverage of burn wounds",
-            "C. To provide temporary pain relief",
-            "D. To prevent infection"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "How long does it typically take to grow enough skin cells using Cultured Epithelial Autografting to cover an entire body?",
-        "options": [
-            "B. 1-2 weeks",
-            "B. 2-3 weeks",
-            "C. 3-4 weeks",
-            "D. 4-6 weeks"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "From where are the skin cells obtained for Cultured Epithelial Autografting?",
-        "options": [
-            "B. Burned areas of the patient’s body",
-            "B. Donor skin from another person",
-            "C. Unburned sites on the client’s body",
-            "D. Synthetic skin substitutes"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "What is used as a backing for the skin cells in Cultured Epithelial Autografting?",
-        "options": [
-            "B. Sterile gauze",
-            "B. Plastic wrap",
-            "C. Petroleum jelly gauze",
-            "D. Synthetic mesh"
-        ],
-        "answer": "C"
-    },
-    {
-        "question": "How are the cultured skin cells applied to the burn wound site in Cultured Epithelial Autografting?",
-        "options": [
-            "B. Directly on the wound without backing",
-            "B. Attached to petroleum jelly gauze",
-            "C. Sprayed onto the wound",
-            "D. Injected into the wound"
-        ],
-        "answer": "B"
-    },
-    {
-        "question": "What is the primary goal of withholding food and fluids before surgery?",
-        "options": ["B. Reduce pain", "B. Prevent aspiration", "C. Minimize bleeding", "D. Speed up recovery"],
-        "answer": "B"
-    },
-    {
-        "question": "Who is responsible for gowning and gloving the surgeon?",
-        "options": ["B. Circulating nurse", "B. Anesthetist", "C. Scrub nurse", "D. PACU nurse"],
-        "answer": "C"
-    },
-    {
-        "question": "When does the intraoperative phase begin?",
-        "options": ["B. At hospital admission", "B. When the patient enters the OR table", "C. After anesthesia induction", "D. During preoperative assessment"],
-        "answer": "B"
-    },
-    {
-        "question": "What visual aid helps patients perform deep breathing effectively?",
-        "options": ["B. Blood pressure cuff", "B. Incentive spirometer", "C. ECG monitor", "D. Compression stockings"],
-        "answer": "B"
-    },
-    {
-        "question": "Which nursing role manages sponge and instrument counts?",
-        "options": ["B. PACU nurse", "B. Scrub nurse", "C. Anesthetist", "D. Circulating nurse"],
-        "answer": "B"
-    },
-    {
-        "question": "A key sign of hypovolemic shock is:",
-        "options": ["B. Hypertension", "B. Warm, dry skin", "C. Rapid, thready pulse", "D. Increased urine output"],
-        "answer": "C"
-    },
-    {
-        "question": "Preoperative hair removal is required if:",
-        "options": ["B. The patient requests it", "B. Hair interferes with the incision site", "C. General anesthesia is used", "D. Surgery lasts >2 hours"],
-        "answer": "B"
-    },
-    {
-        "question": "Urinary catheterization is typically performed:",
-        "options": ["B. At home before surgery", "B. In the preoperative holding area", "C. In the operating room", "D. In the PACU"],
-        "answer": "C"
-    },
-    {
-        "question": "Early ambulation primarily reduces the risk of:",
-        "options": ["B. Wound dehiscence", "B. Atelectasis", "C. Urinary retention", "D. Hypertension"],
-        "answer": "B"
-    },
-    {
-        "question": "The WHO Surgical Safety Checklist is completed:",
-        "options": ["B. Post-discharge", "B. Before induction, before incision, and before leaving OR", "C. Only by the surgeon", "D. After specimen collection"],
-        "answer": "B"
-    },
-    {
-        "question": "Which task is the circulating nurse responsible for?",
-        "options": ["B. Passing instruments to the surgeon", "B. Performing surgical hand scrub", "C. Positioning the patient", "D. Suturing the incision"],
-        "answer": "C"
-    },
-    {
-        "question": "PACU discharge criteria include urine output of at least:",
-        "options": ["B. 10 mL/hour", "B. 20 mL/hour", "C. 30 mL/hour", "D. 50 mL/hour"],
-        "answer": "C"
-    },
-    {
-        "question": "Informed consent must include information about:",
-        "options": ["B. The surgeon’s qualifications", "B. Hospital billing procedures", "C. Risks, benefits, and alternatives", "D. Insurance coverage details"],
-        "answer": "C"
-    },
-    {
-        "question": "Nasogastric tubes are removed when:",
-        "options": ["B. The patient requests it", "B. Peristalsis resumes fully", "C. Surgery begins", "D. IV fluids are started"],
-        "answer": "B"
-    },
-    {
-        "question": "Preanesthetic medications may cause:",
-        "options": ["B. Hypertension", "B. Drowsiness or lightheadedness", "C. Increased urine output", "D. Hyperactivity"],
-        "answer": "B"
-    }  
+  "question": "Why should chemical debridement agents be used with topical antibacterial therapy?",
+  "options": [
+    "A. To prevent the spread of infection",
+    "B. To enhance the rate of tissue removal",
+    "C. To improve wound healing time",
+    "D. To provide pain relief"
+  ],
+  "answer": "A"
+},
+{
+  "question": "What is the purpose of escharotomy in burn care?",
+  "options": [
+    "A. To apply a skin graft",
+    "B. To remove dead tissue chemically",
+    "C. To make a sterile surgical incision to prevent constriction and impaired circulation",
+    "D. To clean the wound with hydrotherapy"
+  ],
+  "answer": "C"
+},
+{
+  "question": "Which method provides permanent skin coverage of a burn wound?",
+  "options": [
+    "A. Chemical debridement",
+    "B. Hydrotherapy",
+    "C. Autografting",
+    "D. Mechanical debridement"
+  ],
+  "answer": "C"
+},
+{
+  "question": "In autografting, where is the graft skin typically taken from?",
+  "options": [
+    "A. The burn wound site",
+    "B. The donor site on healthy tissue of the patient",
+    "C. A synthetic skin substitute",
+    "D. A cadaver"
+  ],
+  "answer": "B"
+},
+{
+  "question": "What is the role of graft area immobilization after autografting?",
+  "options": [
+    "A. To reduce pain",
+    "B. To prevent infection",
+    "C. To allow proper adherence and healing of the graft",
+    "D. To enhance the cosmetic appearance"
+  ],
+  "answer": "C"
+},
+{
+  "question": "What type of incision is made during an escharotomy?",
+  "options": [
+    "A. Transverse incision",
+    "B. Longitudinal incision",
+    "C. Circular incision",
+    "D. Diagonal incision"
+  ],
+  "answer": "B"
+},
+{
+  "question": "Which debridement method involves the use of enzymes to remove dead tissue?",
+  "options": [
+    "A. Natural debridement",
+    "B. Mechanical debridement",
+    "C. Chemical debridement",
+    "D. Surgical debridement"
+  ],
+  "answer": "C"
+},
+{
+  "question": "Why might a physician perform an escharotomy?",
+  "options": [
+    "A. To enhance the appearance of the burn wound",
+    "B. To prevent constriction and impaired circulation",
+    "C. To apply a temporary dressing",
+    "D. To relieve pain"
+  ],
+  "answer": "B"
+},
+{
+  "question": "What is the main advantage of early burn wound excision and skin grafting?",
+  "options": [
+    "A. Increased risk of infection",
+    "B. Longer hospital stay",
+    "C. Decreased hospital stay and enhanced rehabilitation",
+    "D. Reduced need for pain management"
+  ],
+  "answer": "C"
+},
+{
+  "question": "What is the primary purpose of Cultured Epithelial Autografting?",
+  "options": [
+    "A. To clean the burn wound",
+    "B. To grow skin cells for coverage of burn wounds",
+    "C. To provide temporary pain relief",
+    "D. To prevent infection"
+  ],
+  "answer": "B"
+},
+{
+  "question": "How long does it typically take to grow enough skin cells using Cultured Epithelial Autografting to cover an entire body?",
+  "options": [
+    "A. 1–2 weeks",
+    "B. 2–3 weeks",
+    "C. 3–4 weeks",
+    "D. 4–6 weeks"
+  ],
+  "answer": "C"
+},
+{
+  "question": "From where are the skin cells obtained for Cultured Epithelial Autografting?",
+  "options": [
+    "A. Burned areas of the patient’s body",
+    "B. Donor skin from another person",
+    "C. Unburned sites on the client’s body",
+    "D. Synthetic skin substitutes"
+  ],
+  "answer": "C"
+},
+{
+  "question": "What is used as a backing for the skin cells in Cultured Epithelial Autografting?",
+  "options": [
+    "A. Sterile gauze",
+    "B. Plastic wrap",
+    "C. Petroleum jelly gauze",
+    "D. Synthetic mesh"
+  ],
+  "answer": "C"
+},
+{
+  "question": "How are the cultured skin cells applied to the burn wound site in Cultured Epithelial Autografting?",
+  "options": [
+    "A. Directly on the wound without backing",
+    "B. Attached to petroleum jelly gauze",
+    "C. Sprayed onto the wound",
+    "D. Injected into the wound"
+  ],
+  "answer": "B"
+},
+{
+  "question": "What is the primary goal of withholding food and fluids before surgery?",
+  "options": [
+    "A. Reduce pain",
+    "B. Prevent aspiration",
+    "C. Minimize bleeding",
+    "D. Speed up recovery"
+  ],
+  "answer": "B"
+},
+{
+  "question": "Who is responsible for gowning and gloving the surgeon?",
+  "options": [
+    "A. Circulating nurse",
+    "B. Anesthetist",
+    "C. Scrub nurse",
+    "D. PACU nurse"
+  ],
+  "answer": "C"
+},
+{
+  "question": "When does the intraoperative phase begin?",
+  "options": [
+    "A. At hospital admission",
+    "B. When the patient enters the OR table",
+    "C. After anesthesia induction",
+    "D. During preoperative assessment"
+  ],
+  "answer": "B"
+},
+{
+  "question": "What visual aid helps patients perform deep breathing effectively?",
+  "options": [
+    "A. Blood pressure cuff",
+    "B. Incentive spirometer",
+    "C. ECG monitor",
+    "D. Compression stockings"
+  ],
+  "answer": "B"
+},
+{
+  "question": "Which nursing role manages sponge and instrument counts?",
+  "options": [
+    "A. PACU nurse",
+    "B. Scrub nurse",
+    "C. Anesthetist",
+    "D. Circulating nurse"
+  ],
+  "answer": "B"
+},
+{
+  "question": "A key sign of hypovolemic shock is:",
+  "options": [
+    "A. Hypertension",
+    "B. Warm, dry skin",
+    "C. Rapid, thready pulse",
+    "D. Increased urine output"
+  ],
+  "answer": "C"
+},
+{
+  "question": "Preoperative hair removal is required if:",
+  "options": [
+    "A. The patient requests it",
+    "B. Hair interferes with the incision site",
+    "C. General anesthesia is used",
+    "D. Surgery lasts >2 hours"
+  ],
+  "answer": "B"
+},
+{
+  "question": "Urinary catheterization is typically performed:",
+  "options": [
+    "A. At home before surgery",
+    "B. In the preoperative holding area",
+    "C. In the operating room",
+    "D. In the PACU"
+  ],
+  "answer": "C"
+},
+{
+  "question": "Early ambulation primarily reduces the risk of:",
+  "options": [
+    "A. Wound dehiscence",
+    "B. Atelectasis",
+    "C. Urinary retention",
+    "D. Hypertension"
+  ],
+  "answer": "B"
+},
+{
+  "question": "The WHO Surgical Safety Checklist is completed:",
+  "options": [
+    "A. Post-discharge",
+    "B. Before induction, before incision, and before leaving OR",
+    "C. Only by the surgeon",
+    "D. After specimen collection"
+  ],
+  "answer": "B"
+},
+{
+  "question": "Which task is the circulating nurse responsible for?",
+  "options": [
+    "A. Passing instruments to the surgeon",
+    "B. Performing surgical hand scrub",
+    "C. Positioning the patient",
+    "D. Suturing the incision"
+  ],
+  "answer": "C"
+},
+{
+  "question": "PACU discharge criteria include urine output of at least:",
+  "options": [
+    "A. 10 mL/hour",
+    "B. 20 mL/hour",
+    "C. 30 mL/hour",
+    "D. 50 mL/hour"
+  ],
+  "answer": "C"
+},
+{
+  "question": "Informed consent must include information about:",
+  "options": [
+    "A. The surgeon’s qualifications",
+    "B. Hospital billing procedures",
+    "C. Risks, benefits, and alternatives",
+    "D. Insurance coverage details"
+  ],
+  "answer": "C"
+},
+{
+  "question": "Nasogastric tubes are removed when:",
+  "options": [
+    "A. The patient requests it",
+    "B. Peristalsis resumes fully",
+    "C. Surgery begins",
+    "D. IV fluids are started"
+  ],
+  "answer": "B"
+},
+{
+  "question": "Preanesthetic medications may cause:",
+  "options": [
+    "A. Hypertension",
+    "B. Drowsiness or lightheadedness",
+    "C. Increased urine output",
+    "D. Hyperactivity"
+  ],
+  "answer": "B"
+}
 ],
 
     
@@ -7359,6 +7300,10 @@ quizzes = {
     {
     "question":  "Hypovolemic shock following a fracture is primarily due to the direct injury to the nerve endings.",
     "answer":  False
+    },
+    {
+    "question": "Partial-thickness burns covering 15–25% of total body surface area in patients aged 10–50 years are considered moderate.",
+    "answer":  True
     },
     {
     "question":  "Fat embolism can occur when fat globules from the bone marrow enter the bloodstream during a fracture.",
