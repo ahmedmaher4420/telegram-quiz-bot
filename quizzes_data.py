@@ -7346,7 +7346,7 @@ quizzes = {
 
  },   
 "final": {
-    "MCQ": [
+    "MCQs": [
             {
                 "question": "Which is an uncontrollable cancer risk factor?",
                 "options": [
