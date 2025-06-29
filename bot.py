@@ -205,13 +205,13 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
         if current < total_mcq:
             q = mcqs[current]
-            correct_answer = q["answer"].upper()
+            correct_letter = q["answer"].split(".")[0].strip().upper()
             chosen = text[0].upper()
-            if chosen == correct_answer:
+            if chosen == correct_letter:
                 quiz["score"] += 1
                 feedback = "✅ إجابة صحيحة!"
             else:
-                correct_text = next((opt for opt in q["options"] if opt.strip().upper().startswith(correct_answer)), correct_answer)
+                correct_text = next((opt for opt in q["options"] if opt.strip().upper().startswith(correct_letter)), q["answer"])
                 feedback = f"❌ إجابة خاطئة.\n✅ الإجابة الصحيحة: {correct_text}"
 
         elif current < total_all:
