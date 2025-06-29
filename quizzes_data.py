@@ -8384,6 +8384,656 @@ quizzes = {
     "question": "Which of the following is the main cause of Shock?",
     "options": ["A. Increased blood volume", "B. Bleeding", "C. Hydration", "D. Increased cardiac output"],
     "answer": "B"
+  },
+  {
+    "question": "What is the primary cause of airflow limitation in COPD?",
+    "options": ["A. Bronchial asthma", "B. Reversible bronchospasm", "C. Airway inflammation and mucus production", "D. Lung cancer"],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is NOT a common symptom of COPD?",
+    "options": ["A. Chronic cough", "B. Sputum production", "C. Dyspnea", "D. Chest pain"],
+    "answer": "D"
+  },
+  {
+    "question": "What test is commonly used to diagnose COPD?",
+    "options": ["A. ECG", "B. Spirometry", "C. Colonoscopy", "D. MRI"],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a major risk factor for developing COPD?",
+    "options": ["A. High carbohydrate diet", "B. Sedentary lifestyle", "C. Smoking", "D. Alcohol consumption"],
+    "answer": "C"
+  },
+  {
+    "question": "What is 'barrel chest' associated with in COPD patients?",
+    "options": ["A. Chronic bronchitis", "B. Emphysema", "C. Pneumonia", "D. Tuberculosis"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the major cation in the intracellular fluid?",
+    "options": ["A. Sodium", "B. Calcium", "C. Potassium", "D. Chloride"],
+    "answer": "C"
+  },
+  {
+    "question": "What hormone controls water retention in the kidneys?",
+    "options": ["A. Aldosterone", "B. Insulin", "C. ADH", "D. Cortisol"],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a cause of hypernatremia?",
+    "options": ["A. Diarrhea", "B. Excessive water intake", "C. Adrenal insufficiency", "D. Inadequate water intake"],
+    "answer": "D"
+  },
+  {
+    "question": "What is a clinical sign of fluid volume deficit (FVD)?",
+    "options": ["A. Edema", "B. Crackles", "C. Increased CVP", "D. Orthostatic hypotension"],
+    "answer": "D"
+  },
+  {
+    "question": "What is the normal daily urine output in adults?",
+    "options": ["A. 0.5–1 L", "B. 1–2 L", "C. 2–3 L", "D. 3–4 L"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the first step in the primary survey during the emergent phase of burn management?",
+    "options": ["A. Assess circulation", "B. Administer pain medication", "C. Elevate the client’s head", "D. Start IV fluid"],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a sign of full-thickness burn?",
+    "options": ["A. Blistered skin", "B. Redness", "C. White or charred, dry, leathery skin", "D. Painful and moist surface"],
+    "answer": "C"
+  },
+  {
+    "question": "Which formula is used for adult burn fluid resuscitation?",
+    "options": ["A. Evans formula", "B. Modified Brooke formula", "C. Parkland formula", "D. All of the above"],
+    "answer": "D"
+  },
+  {
+    "question": "What is the primary cause of hypovolemic shock in burn patients?",
+    "options": ["A. Decreased RBC count", "B. Pain response", "C. Fluid shift into interstitial space", "D. Electrolyte imbalance"],
+    "answer": "C"
+  },
+  {
+    "question": "Which burn injury type is most associated with electrical equipment?",
+    "options": ["A. Thermal burn", "B. Chemical burn", "C. Radiation burn", "D. Electrical burn"],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is a complication of the gastrointestinal system in burn injury?",
+    "options": ["A. Pulmonary edema", "B. Curling’s ulcer", "C. Hematuria", "D. Bradycardia"],
+    "answer": "B"
+  },
+  {
+    "question": "Which dressing type should be used over new skin grafts?",
+    "options": ["A. Dry gauze", "B. Occlusive dressing", "C. Transparent dressing", "D. Loose cotton dressing"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the purpose of an escharotomy?",
+    "options": ["A. Reduce scar tissue", "B. Prevent airway obstruction", "C. Improve circulation"],
+    "answer": "C"
+  },
+  {
+    "question": "Which bacteria is silver-based topical therapy most effective against?",
+    "options": ["A. E. coli", "B. Staphylococcus aureus", "C. Salmonella", "D. Streptococcus"],
+    "answer": "B"
+  },
+  {
+    "question": "Which symptom indicates respiratory involvement in burn patients?",
+    "options": ["A. Pale skin", "B. Blood in stool", "C. Carbon monoxide poisoning", "D. Bradycardia"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the definition of a fracture?",
+    "options": ["A. A tear in muscle fibers", "B. A break in the continuity of a bone", "C. A dislocation of a joint", "D. A sprain of ligaments"],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a sign of a fracture?",
+    "options": ["A. Itching", "B. Loss of appetite", "C. Deformity", "D. Fever"],
+    "answer": "C"
+  },
+  {
+    "question": "A compound fracture is best described as:",
+    "options": ["A. Incomplete fracture", "B. Open fracture with skin break", "C. Fracture with no displacement", "D. Closed and healed fracture"],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a complication of fractures?",
+    "options": ["A. Fever", "B. Hypertension", "C. Fat embolism", "D. Obesity"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the purpose of immobilization after a fracture?",
+    "options": ["A. To prevent infection", "B. To promote bleeding", "C. To maintain alignment until union occurs", "D. To increase swelling"],
+    "answer": "C"
+  },
+  {
+    "question": "Which fracture type involves only part of the cross-section of the bone?",
+    "options": ["A. Simple fracture", "B. Complete fracture", "C. Greenstick fracture", "D. Compound fracture"],
+    "answer": "C"
+  },
+  {
+    "question": "What is Buck’s extension traction used for?",
+    "options": ["A. Immobilizing fractures of the arm", "B. Reducing wrist deformities", "C. Immobilizing fractures of the proximal femur", "D. Treating spinal injuries"],
+    "answer": "C"
+  },
+  {
+    "question": "Which is a type of internal fixation?",
+    "options": ["A. Bandages", "B. Casts", "C. ORIF", "D. Skin traction"],
+    "answer": "C"
+  },
+  {
+    "question": "What should be assessed routinely in fracture care?",
+    "options": ["A. Lung sounds", "B. Neurovascular status", "C. Bowel function", "D. Skin pigmentation"],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a late complication of fractures?",
+    "options": ["A. Hypovolemic shock", "B. Fat embolism", "C. Malunion", "D. Compartment syndrome"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the major cation in the intracellular fluid?",
+    "options": ["A. Sodium", "B. Calcium", "C. Potassium", "D. Chloride"],
+    "answer": "C"
+  },
+  {
+    "question": "What hormone controls water retention in the kidneys?",
+    "options": ["A. Aldosterone", "B. Insulin", "C. ADH", "D. Cortisol"],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a cause of hypernatremia?",
+    "options": ["A. Diarrhea", "B. Excessive water intake", "C. Adrenal insufficiency", "D. Inadequate water intake"],
+    "answer": "D"
+  },
+  {
+    "question": "What is a sign of fluid volume deficit (FVD)?",
+    "options": ["A. Edema", "B. Increased CVP", "C. Crackles", "D. Orthostatic hypotension"],
+    "answer": "D"
+  },
+  {
+    "question": "What is the normal daily urine output in adults?",
+    "options": ["A. 0.5–1 L", "B. 1–2 L", "C. 2–3 L", "D. 3–4 L"],
+    "answer": "B"
+  },
+  {
+    "question": "Which electrolyte imbalance is most associated with cardiac arrest?",
+    "options": ["A. Hyponatremia", "B. Hypokalemia", "C. Hyperkalemia", "D. Hypernatremia"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the normal range for serum sodium?",
+    "options": ["A. 3.5–5.0 mEq/L", "B. 135–145 mEq/L", "C. 97–107 mEq/L", "D. 8.5–10.5 mEq/L"],
+    "answer": "B"
+  },
+  {
+    "question": "What condition results from excess isotonic fluid in the extracellular space?",
+    "options": ["A. Hypovolemia", "B. Hypervolemia", "C. Dehydration", "D. Ascites"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the role of aldosterone?",
+    "options": ["A. Retain potassium", "B. Excrete potassium", "C. Retain sodium and water", "D. Promote ADH"],
+    "answer": "C"
+  },
+  {
+    "question": "What electrolyte imbalance is indicated by muscle weakness and dysrhythmias?",
+    "options": ["A. Hypercalcemia", "B. Hypocalcemia", "C. Hypermagnesemia", "D. Hyponatremia"],
+    "answer": "B"
+  },
+  {
+    "question": "What defines a complete fracture?",
+    "options": [
+      "A. Bone is cracked but remains in one piece",
+      "B. Bone is shattered into multiple fragments",
+      "C. Bone breaks all the way through and separates into two pieces",
+      "D. Bone is dislocated from the joint"
+    ],
+    "answer": "C. Bone breaks all the way through and separates into two pieces"
+  },
+  {
+    "question": "Which of the following is a common symptom of a fracture?",
+    "options": [
+      "A. Fever",
+      "B. Bruising and swelling",
+      "C. Cough",
+      "D. Itching"
+    ],
+    "answer": "B. Bruising and swelling"
+  },
+  {
+    "question": "What is the main goal of fracture reduction?",
+    "options": [
+      "A. To reduce pain only",
+      "B. To prevent infection",
+      "C. To restore proper alignment of the bone",
+      "D. To increase bone density"
+    ],
+    "answer": "C. To restore proper alignment of the bone"
+  },
+  {
+    "question": "Why is fluid resuscitation important in burn patients?",
+    "options": [
+      "A. To cool the burn area",
+      "B. To improve blood glucose",
+      "C. To prevent hypovolemic shock and maintain perfusion",
+      "D. To decrease scarring"
+    ],
+    "answer": "C. To prevent hypovolemic shock and maintain perfusion"
+  },
+  {
+    "question": "Which of the following is one of the phases of burn management?",
+    "options": [
+      "A. Cardiopulmonary phase",
+      "B. Emergent (resuscitative) phase",
+      "C. Diuretic phase",
+      "D. Decompensation phase"
+    ],
+    "answer": "B. Emergent (resuscitative) phase"
+  },
+  {
+    "question": "Which of the following is a clinical sign of inhalation injury in burn patients?",
+    "options": [
+      "A. Red rash",
+      "B. Hoarseness and singed nasal hairs",
+      "C. Cool skin",
+      "D. High urine output"
+    ],
+    "answer": "B. Hoarseness and singed nasal hairs"
+  },
+  {
+    "question": "What is the main purpose of an escharotomy?",
+    "options": [
+      "A. To remove dead tissue",
+      "B. To relieve pressure and restore circulation",
+      "C. To reduce scarring",
+      "D. To prevent blisters"
+    ],
+    "answer": "B. To relieve pressure and restore circulation"
+  },
+  {
+    "question": "What is Curling’s ulcer associated with and how is it managed?",
+    "options": [
+      "A. It is a lung condition treated with bronchodilators",
+      "B. It is a stress ulcer in burn patients managed with antacids or PPIs",
+      "C. It is a kidney infection treated with fluids",
+      "D. It is a skin rash managed with corticosteroids"
+    ],
+    "answer": "B. It is a stress ulcer in burn patients managed with antacids or PPIs"
+  },
+  {
+    "question": "Which of the following is part of lifestyle management instructions for a patient with COPD?",
+    "options": [
+      "A. Smoking regularly to relax airways",
+      "B. Avoiding all forms of physical activity",
+      "C. Engaging in regular, moderate exercise and quitting smoking",
+      "D. Drinking alcohol daily to manage stress"
+    ],
+    "answer": "C. Engaging in regular, moderate exercise and quitting smoking"
+  },
+  {
+    "question": "Which instruction helps prevent respiratory infections in COPD patients?",
+    "options": [
+      "A. Avoid getting vaccinated against influenza",
+      "B. Wash hands frequently and avoid crowded places",
+      "C. Share personal items to build immunity",
+      "D. Ignore early signs of infection"
+    ],
+    "answer": "B. Wash hands frequently and avoid crowded places"
+  },
+  {
+    "question": "Which of the following is an early sign of hypoxia?",
+    "options": ["A. Cyanosis", "B. Restlessness", "C. Bradycardia", "D. Confusion"],
+    "answer": "B. Restlessness"
+  },
+  {
+    "question": "Which of the following is the best indicator of fluid volume deficit?",
+    "options": ["A. Edema", "B. Crackles", "C. Blood pressure", "D. Weight"],
+    "answer": "D. Weight"
+  },
+  {
+    "question": "A client with a potassium level of 2.5 mEq/L is at risk for:",
+    "options": ["A. Gastrointestinal hyperactivity", "B. Cardiac dysrhythmias", "C. Increased muscle strength", "D. Cardiac arrest"],
+    "answer": "B. Cardiac dysrhythmias"
+  },
+  {
+    "question": "The hormone responsible for water reabsorption in the kidneys is:",
+    "options": ["A. ACTH", "B. ADH", "C. TSH", "D. GH"],
+    "answer": "B. ADH"
+  },
+  {
+    "question": "The mechanism that moves water across a semipermeable membrane from low solute concentration to high solute concentration is:",
+    "options": ["A. Filtration", "B. Diffusion", "C. Osmosis", "D. Active transport"],
+    "answer": "C. Osmosis"
+  },
+  {
+    "question": "Which of the following findings is a clinical manifestation of fluid volume deficit (FVD)?",
+    "options": ["A. Hypertension", "B. Tachycardia", "C. Distended neck veins", "D. Crackles"],
+    "answer": "B. Tachycardia"
+  },
+  {
+    "question": "A nurse is assessing a client with fluid overload. Which finding should the nurse expect?",
+    "options": ["A. Edema", "B. Dry mucous membranes", "C. Weak pulse", "D. Hypotension"],
+    "answer": "A. Edema"
+  },
+  {
+    "question": "Which electrolyte imbalance is associated with muscle weakness and decreased reflexes?",
+    "options": ["A. Hyperkalemia", "B. Hypokalemia", "C. Hypernatremia", "D. Hyponatremia"],
+    "answer": "B. Hypokalemia"
+  },
+  {
+    "question": "The client with COPD is likely to have which acid-base imbalance?",
+    "options": ["A. Metabolic alkalosis", "B. Metabolic acidosis", "C. Respiratory acidosis", "D. Respiratory alkalosis"],
+    "answer": "C. Respiratory acidosis"
+  },
+  {
+    "question": "Which of the following is a nursing intervention for a client experiencing dyspnea?",
+    "options": ["A. Encourage fluid intake", "B. Place in high Fowler's position", "C. Limit oxygen use", "D. Provide large meals"],
+    "answer": "B. Place in high Fowler's position"
+  },
+  {
+    "question": "Primary extracellular electrolyte:",
+    "options": ["A. Sodium", "B. Potassium", "C. Calcium", "D. Chloride"],
+    "answer": "A. Sodium"
+  },
+  {
+    "question": "Electrolyte regulating cardiac muscle:",
+    "options": ["A. Sodium", "B. Potassium", "C. Glucose", "D. Magnesium"],
+    "answer": "B. Potassium"
+  },
+  {
+    "question": "Sign of hypocalcemia:",
+    "options": ["A. Constipation", "B. Fatigue", "C. Headache", "D. Muscle twitching"],
+    "answer": "D. Muscle twitching"
+  },
+  {
+    "question": "Common cause of metabolic acidosis:",
+    "options": ["A. Diarrhea", "B. Vomiting", "C. Diuretics", "D. Hyperventilation"],
+    "answer": "A. Diarrhea"
+  },
+  {
+    "question": "Lab test to monitor kidney function in F&E balance:",
+    "options": ["A. CBC", "B. Platelets", "C. BUN", "D. Hematocrit"],
+    "answer": "C. BUN"
+  },
+  {
+    "question": "First assessment for IV fluid therapy:",
+    "options": ["A. Urine output", "B. Lung sounds", "C. Temperature", "D. Skin turgor"],
+    "answer": "A. Urine output"
+  },
+  {
+    "question": "Food high in potassium:",
+    "options": ["A. Rice", "B. Apples", "C. Bananas", "D. Bread"],
+    "answer": "C. Bananas"
+  },
+  {
+    "question": "Function of sodium in the body:",
+    "options": ["A. Maintain fluid balance", "B. Provide energy", "C. Build muscle", "D. Carry oxygen"],
+    "answer": "A. Maintain fluid balance"
+  },
+  {
+    "question": "Symptom of fluid volume excess:",
+    "options": ["A. Sunken eyes", "B. Rapid pulse", "C. Bounding pulse", "D. Flat neck veins"],
+    "answer": "C. Bounding pulse"
+  },
+  {
+    "question": "Nursing diagnosis for dehydration:",
+    "options": ["A. Fluid volume excess", "B. Risk for infection", "C. Risk for falls", "D. Deficient fluid volume"],
+    "answer": "D. Deficient fluid volume"
+  },
+  {
+    "question": "Potassium level that indicates hypokalemia.",
+    "options": ["A. 2.0 mEq/L", "B. 5.0 mEq/L", "C. 6.5 mEq/L", "D. 4.0 mEq/L"],
+    "answer": "A. 2.0 mEq/L"
+  },
+  {
+    "question": "Which is a sign of hypernatremia?",
+    "options": ["A. Seizures", "B. Bradycardia", "C. Muscle cramps", "D. Confusion"],
+    "answer": "D. Confusion"
+  },
+  {
+    "question": "Expected urine specific gravity in dehydration.",
+    "options": ["A. 1.001", "B. 1.030", "C. 1.010", "D. 1.005"],
+    "answer": "B. 1.030"
+  },
+  {
+    "question": "Which electrolyte imbalance causes Trousseau’s sign?",
+    "options": ["A. Hyperkalemia", "B. Hypocalcemia", "C. Hypernatremia", "D. Hypermagnesemia"],
+    "answer": "B. Hypocalcemia"
+  },
+  {
+    "question": "Main buffer system in the blood.",
+    "options": ["A. Bicarbonate", "B. Protein", "C. Hemoglobin", "D. Phosphate"],
+    "answer": "A. Bicarbonate"
+  },
+  {
+    "question": "The organ that regulates bicarbonate in the body.",
+    "options": ["A. Liver", "B. Heart", "C. Kidneys", "D. Lungs"],
+    "answer": "C. Kidneys"
+  },
+  {
+    "question": "Normal pH range of blood.",
+    "options": ["A. 7.0–7.1", "B. 7.2–7.3", "C. 7.35–7.45", "D. 7.5–7.6"],
+    "answer": "C. 7.35–7.45"
+  },
+  {
+    "question": "Which fluid is isotonic?",
+    "options": ["A. 0.45% NaCl", "B. 5% Dextrose", "C. 0.9% NaCl", "D. 3% NaCl"],
+    "answer": "C. 0.9% NaCl"
+  },
+  {
+    "question": "Nursing action for fluid overload.",
+    "options": ["A. Increase fluids", "B. Elevate legs", "C. Restrict fluids", "D. Administer salt tablets"],
+    "answer": "C. Restrict fluids"
+  },
+  {
+    "question": "Which condition requires fluid restriction?",
+    "options": ["A. Dehydration", "B. Heart failure", "C. Shock", "D. Hypovolemia"],
+    "answer": "B. Heart failure"
+  },
+  {
+    "question": "Which IV fluid is commonly used for fluid resuscitation?",
+    "options": ["A. D5W", "B. 0.9% NaCl", "C. 3% NaCl", "D. Lactated Ringer’s"],
+    "answer": "D. Lactated Ringer’s"
+  },
+  {
+    "question": "A symptom of hypocalcemia is:",
+    "options": ["A. Bradycardia", "B. Muscle cramps", "C. Constipation", "D. Hypertension"],
+    "answer": "B. Muscle cramps"
+  },
+  {
+    "question": "Which hormone helps regulate sodium and potassium balance?",
+    "options": ["A. ADH", "B. Cortisol", "C. Aldosterone", "D. Insulin"],
+    "answer": "C. Aldosterone"
+  },
+  {
+    "question": "The best indicator of fluid status is:",
+    "options": ["A. Blood pressure", "B. Heart rate", "C. Daily weight", "D. Urine color"],
+    "answer": "C. Daily weight"
+  },
+  {
+    "question": "Which electrolyte imbalance can lead to tetany?",
+    "options": ["A. Hypernatremia", "B. Hypercalcemia", "C. Hypocalcemia", "D. Hyperkalemia"],
+    "answer": "C. Hypocalcemia"
+  },
+  {
+    "question": "An early sign of hypoxia is:",
+    "options": ["A. Cyanosis", "B. Restlessness", "C. Bradycardia", "D. Decreased respirations"],
+    "answer": "B. Restlessness"
+  },
+  {
+    "question": "Which of the following causes respiratory alkalosis?",
+    "options": ["A. Hypoventilation", "B. Vomiting", "C. Hyperventilation", "D. Diarrhea"],
+    "answer": "C. Hyperventilation"
+  },
+  {
+    "question": "ABG value indicating respiratory acidosis.",
+    "options": ["A. pH 7.48, PaCO2 30", "B. pH 7.30, PaCO2 50", "C. pH 7.38, PaCO2 40", "D. pH 7.25, PaCO2 32"],
+    "answer": "B. pH 7.30, PaCO2 50"
+  },
+  {
+    "question": "Which of the following is a symptom of metabolic alkalosis?",
+    "options": ["A. Kussmaul respirations", "B. Confusion", "C. Hyperkalemia", "D. Muscle twitching"],
+    "answer": "B. Confusion"
+  },
+  {
+    "question": "Respiratory acidosis may be caused by:",
+    "options": ["A. Anxiety", "B. Pulmonary edema", "C. Fever", "D. High altitude"],
+    "answer": "B. Pulmonary edema"
+  },
+  {
+    "question": "What is the main component of extracellular fluid?",
+    "options": ["A. Potassium", "B. Calcium", "C. Sodium", "D. Magnesium"],
+    "answer": "C. Sodium"
+  },
+  {
+    "question": "A patient with prolonged vomiting is at risk for:",
+    "options": ["A. Metabolic acidosis", "B. Metabolic alkalosis", "C. Respiratory acidosis", "D. Respiratory alkalosis"],
+    "answer": "B. Metabolic alkalosis"
+  },
+  {
+    "question": "The normal serum potassium range is:",
+    "options": ["A. 3.5–5.0 mEq/L", "B. 2.5–3.5 mEq/L", "C. 4.5–6.0 mEq/L", "D. 2.0–4.0 mEq/L"],
+    "answer": "A. 3.5–5.0 mEq/L"
+  },
+  {
+    "question": "Which condition is associated with hyponatremia?",
+    "options": ["A. Water deprivation", "B. Excessive sweating", "C. SIADH", "D. Cushing’s syndrome"],
+    "answer": "C. SIADH"
+  },
+  {
+    "question": "The normal serum calcium range is:",
+    "options": ["A. 6–8 mg/dL", "B. 8.5–10.5 mg/dL", "C. 10–12 mg/dL", "D. 12–14 mg/dL"],
+    "answer": "B. 8.5–10.5 mg/dL"
+  },
+  {
+    "question": "A common symptom of hypermagnesemia:",
+    "options": ["A. Seizures", "B. Muscle weakness", "C. Tremors", "D. Tachycardia"],
+    "answer": "B. Muscle weakness"
+  },
+  {
+    "question": "What acid-base imbalance is likely with severe diarrhea?",
+    "options": ["A. Metabolic acidosis", "B. Metabolic alkalosis", "C. Respiratory acidosis", "D. Respiratory alkalosis"],
+    "answer": "A. Metabolic acidosis"
+  },
+  {
+    "question": "The best method to assess fluid balance in a patient with heart failure:",
+    "options": ["A. Measuring intake", "B. Checking blood pressure", "C. Monitoring daily weight", "D. Skin turgor"],
+    "answer": "C. Monitoring daily weight"
+  },
+  {
+    "question": "Which is a hypertonic IV solution?",
+    "options": ["A. 0.45% NaCl", "B. D5W", "C. 10% dextrose in water", "D. Lactated Ringer’s"],
+    "answer": "C. 10% dextrose in water"
+  },
+  {
+    "question": "In metabolic alkalosis, the pH is:",
+    "options": ["A. <7.35", "B. 7.35–7.45", "C. >7.45", "D. None of the above"],
+    "answer": "C. >7.45"
+  },
+  {
+    "question": "The effect of acidosis on potassium levels:",
+    "options": ["A. Decrease", "B. Increase", "C. No change", "D. Fluctuation"],
+    "answer": "B. Increase"
+  },
+  {
+    "question": "Which of the following can cause hypomagnesemia?",
+    "options": ["A. Chronic alcoholism", "B. Renal failure", "C. Excess antacid use", "D. Low calcium diet"],
+    "answer": "A. Chronic alcoholism"
+  },
+  {
+    "question": "Signs of fluid overload include:",
+    "options": ["A. Weight loss", "B. Decreased urine output", "C. Crackles in lungs", "D. Sunken eyes"],
+    "answer": "C. Crackles in lungs"
+  },
+  {
+    "question": "Which patient is at greatest risk for fluid volume deficit?",
+    "options": ["A. A client with SIADH", "B. A client with burns", "C. A client with CHF", "D. A client with renal failure"],
+    "answer": "B. A client with burns"
+  },
+  {
+    "question": "Which organ is primarily responsible for regulating fluid and electrolyte balance?",
+    "options": ["A. Liver", "B. Lungs", "C. Kidneys", "D. Pancreas"],
+    "answer": "C. Kidneys"
+  },
+  {
+    "question": "Which of the following is NOT a component of the cardiovascular system?",
+    "options": ["A. Heart", "B. Blood", "C. Kidneys", "D. Blood vessels"],
+    "answer": "C. Kidneys"
+  },
+  {
+    "question": "What is the function of the respiratory system?",
+    "options": ["A. To digest food", "B. To remove waste", "C. To provide oxygen and remove carbon dioxide", "D. To produce hormones"],
+    "answer": "C. To provide oxygen and remove carbon dioxide"
+  },
+  {
+    "question": "Which chamber of the heart receives oxygenated blood from the lungs?",
+    "options": ["A. Right atrium", "B. Right ventricle", "C. Left atrium", "D. Left ventricle"],
+    "answer": "C. Left atrium"
+  },
+  {
+    "question": "The main function of red blood cells is to:",
+    "options": ["A. Fight infections", "B. Transport oxygen", "C. Clot blood", "D. Produce antibodies"],
+    "answer": "B. Transport oxygen"
+  },
+  {
+    "question": "Which of the following is a symptom of left-sided heart failure?",
+    "options": ["A. Peripheral edema", "B. Jugular vein distention", "C. Pulmonary congestion", "D. Hepatomegaly"],
+    "answer": "C. Pulmonary congestion"
+  },
+  {
+    "question": "What is the primary function of platelets?",
+    "options": ["A. Oxygen transport", "B. Blood clotting", "C. Fighting infection", "D. Hormone transport"],
+    "answer": "B. Blood clotting"
+  },
+  {
+    "question": "Which of the following is a sign of infection?",
+    "options": ["A. Bradycardia", "B. Hypothermia", "C. Fever", "D. Decreased WBC count"],
+    "answer": "C. Fever"
+  },
+  {
+    "question": "The normal adult respiratory rate is:",
+    "options": ["A. 8–12 breaths/min", "B. 12–20 breaths/min", "C. 20–28 breaths/min", "D. 30–40 breaths/min"],
+    "answer": "B. 12–20 breaths/min"
+  },
+  {
+    "question": "What is the first line of defense against infection?",
+    "options": ["A. White blood cells", "B. Skin and mucous membranes", "C. Antibiotics", "D. Antibodies"],
+    "answer": "B. Skin and mucous membranes"
+  },
+  {
+    "question": "Which of the following is an electrolyte?",
+    "options": ["A. Glucose", "B. Albumin", "C. Sodium", "D. Urea"],
+    "answer": "C. Sodium"
+  },
+  {
+    "question": "Which condition is caused by excess fluid in the lungs?",
+    "options": ["A. Pneumonia", "B. Pleural effusion", "C. Pulmonary edema", "D. Bronchitis"],
+    "answer": "C. Pulmonary edema"
+  },
+  {
+    "question": "A low hemoglobin level may indicate:",
+    "options": ["A. Dehydration", "B. Infection", "C. Anemia", "D. Hypokalemia"],
+    "answer": "C. Anemia"
+  },
+  {
+    "question": "The primary function of insulin is to:",
+    "options": ["A. Raise blood glucose", "B. Store fat", "C. Lower blood glucose", "D. Stimulate protein breakdown"],
+    "answer": "C. Lower blood glucose"
+  },
+  {
+    "question": "Which vitamin is essential for calcium absorption?",
+    "options": ["A. Vitamin A", "B. Vitamin B12", "C. Vitamin C", "D. Vitamin D"],
+    "answer": "D. Vitamin D"
+  },
+  {
+    "question": "The organ responsible for filtering blood and producing urine is:",
+    "options": ["A. Liver", "B. Lungs", "C. Kidney", "D. Pancreas"],
+    "answer": "C. Kidney"
   }
     ],
     "TF": [
@@ -8506,6 +9156,86 @@ quizzes = {
   {
     "question": "Shock is a syndrome characterized by increased tissue perfusion and impaired cellular metabolism.",
     "answer":  False
+  },
+  {
+    "question": "Hypovolemia refers to a decrease in blood volume.",
+    "answer": True
+  },
+  {
+    "question": "Edema is a sign of fluid volume deficit.",
+    "answer": False
+  },
+  {
+    "question": "Sodium is the primary intracellular electrolyte.",
+    "answer": False
+  },
+  {
+    "question": "ADH is responsible for sodium reabsorption in the kidneys.",
+    "answer": False
+  },
+  {
+    "question": "Normal saline is a hypotonic solution.",
+    "answer": False
+  },
+  {
+    "question": "Insensible fluid loss can occur through perspiration.",
+    "answer": True
+  },
+  {
+    "question": "Hypokalemia can cause muscle weakness and cardiac arrhythmias.",
+    "answer": True
+  },
+  {
+    "question": "Fluid volume excess may result in hypertension.",
+    "answer": True
+  },
+  {
+    "question": "Water intoxication may lead to hypernatremia.",
+    "answer": False
+  },
+  {
+    "question": "Osmosis is the movement of solutes across a membrane.",
+    "answer": False
+  },
+  {
+    "question": "Potassium is a major extracellular electrolyte.",
+    "answer": False
+  },
+  {
+    "question": "Diffusion is an active process requiring energy.",
+    "answer": False
+  },
+  {
+    "question": "Hyponatremia may cause seizures.",
+    "answer": True
+  },
+  {
+    "question": "Daily weight is an accurate indicator of fluid balance.",
+    "answer": True
+  },
+  {
+    "question": "Aldosterone promotes sodium and water retention.",
+    "answer": True
+  },
+  {
+    "question": "Hypokalemia may result from prolonged vomiting or diarrhea.",
+    "answer": True
+  },
+  {
+    "question": "Hyperkalemia may cause bradycardia and cardiac arrest.",
+    "answer": True
+  },
+  {
+    "question": "The thirst mechanism is regulated by the hypothalamus.",
+    "answer": True
+  },
+  {
+    "question": "The lungs and kidneys play a major role in acid-base balance.",
+    "answer": True
+  },
+  {
+    "question": "The normal range of serum sodium is 135–145 mEq/L.",
+    "answer": True
   }
     ]
 }
