@@ -248,7 +248,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         total_all = total_mcq + total_tf
         current = quiz["current"]
 
-   if current < total_mcq:
+    if current < total_mcq:
         q = mcqs[current]
         correct_answer = q["answer"].strip().upper()
         user_input = text.strip()
