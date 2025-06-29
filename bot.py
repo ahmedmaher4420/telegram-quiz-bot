@@ -105,18 +105,24 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             user_state[uid]["type"] = ""
             await update.message.reply_text("📖 اختر المحاضرة:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
 
-    elif "subject" in state and text == "🧪 امتحان شامل":
-        if "exam" not in quizzes:
-            await update.message.reply_text("❗ لا يوجد امتحان شامل مضاف حتى الآن.")
+    elif "subject" in state and text in ["🧪 امتحان شامل", "📋 أسئلة امتحانات سابقة", "أسئلة الدكتورة"]:
+        lecture_key = {
+            "🧪 امتحان شامل": "exam",
+            "📋 أسئلة امتحانات سابقة": "final",
+            "أسئلة الدكتورة": "Question_Bank"
+        }[text]
+
+        if lecture_key not in quizzes:
+            await update.message.reply_text("❗ لا توجد أسئلة متاحة لهذا القسم حالياً.")
             return
 
-        mcqs = quizzes["exam"].get("MCQs", [])
-        tfs = quizzes["exam"].get("TF", [])
+        mcqs = quizzes[lecture_key].get("MCQs", [])
+        tfs = quizzes[lecture_key].get("TF", [])
         random.shuffle(mcqs)
         random.shuffle(tfs)
 
         user_state[uid]["quiz"] = {
-            "lecture": "exam",
+            "lecture": lecture_key,
             "current": 0,
             "score": 0,
             "mcqs": mcqs,
@@ -129,57 +135,6 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             f"🧪 السؤال 1:\n{question_data['question']}",
             reply_markup=ReplyKeyboardMarkup(keyboard, one_time_keyboard=True, resize_keyboard=True)
         )
-        
-    elif "subject" in state and text == "📋 أسئلة امتحانات سابقة":
-        if "final" not in quizzes:
-                await update.message.reply_text("❗ لا يوجد أسئلة امتحانات سابقة مضافة حتى الآن.")
-                return
-
-        mcqs = quizzes["final"].get("MCQ", [])
-        tfs = quizzes["final"].get("TF", [])
-        random.shuffle(mcqs)
-        random.shuffle(tfs)
-
-        user_state[uid]["quiz"] = {
-            "lecture": "final",
-            "current": 0,
-            "score": 0,
-            "mcqs": mcqs,
-            "tfs": tfs
-        }
-
-        question_data = mcqs[0]
-        keyboard = [[opt] for opt in question_data["options"]] + [["⛔️ إنهاء الكويز"], ["🏠 القائمة الرئيسية"]]
-        await update.message.reply_text(
-            f"📋 السؤال 1:\n{question_data['question']}",
-            reply_markup=ReplyKeyboardMarkup(keyboard, one_time_keyboard=True, resize_keyboard=True)
-        )
-
-    elif "subject" in state and text == "أسئلة الدكتورة":
-        if "Question_Bank" not in quizzes:
-            await update.message.reply_text("❗ لا توجد أسئلة في أسئلة الدكتورة حتى الآن.")
-            return
-            
-        mcqs = quizzes["Question_Bank"].get("MCQs", [])
-        tfs = quizzes["Question_Bank"].get("TF", [])
-        random.shuffle(mcqs)
-        random.shuffle(tfs)
-    
-        user_state[uid]["quiz"] = {
-            "lecture": "Question_Bank",
-            "current": 0,
-            "score": 0,
-            "mcqs": mcqs,
-            "tfs": tfs
-        }
-    
-        question_data = mcqs[0]
-        keyboard = [[opt] for opt in question_data["options"]] + [["⛔️ إنهاء الكويز"], ["🏠 القائمة الرئيسية"]]
-        await update.message.reply_text(
-            f"🏦 السؤال 1:\n{question_data['question']}",
-            reply_markup=ReplyKeyboardMarkup(keyboard, one_time_keyboard=True, resize_keyboard=True)
-        )
-
 
     elif "subject" in state and text in get_types(state["subject"]):
         user_state[uid]["type"] = text
@@ -248,37 +203,16 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         total_all = total_mcq + total_tf
         current = quiz["current"]
 
-    if current < total_mcq:
-        q = mcqs[current]
-        correct_answer = q["answer"].strip().upper()
-        user_input = text.strip()
-    
-        # محاولة استخراج الحرف الأول إن وجد
-        user_choice_letter = user_input[0].upper() if user_input and user_input[0].isalpha() else ""
-    
-        is_correct = False
-    
-        # تحقق إذا الإجابة صحيحة بأي شكل ممكن:
-        if user_choice_letter == correct_answer:
-            is_correct = True
-        elif user_input.upper() == correct_answer:
-            is_correct = True
-        elif any(user_input.strip().lower() == opt.strip().lower() for opt in q["options"] if opt.strip().upper().startswith(correct_answer)):
-            is_correct = True
-    
-        if is_correct:
-            quiz["score"] += 1
-            feedback = "✅ إجابة صحيحة!"
-        else:
-            try:
-                correct_option_text = next(
-                    (opt for opt in q["options"] if opt.strip().upper().startswith(correct_answer)),
-                    f"{correct_answer} (لم يتم العثور على الإجابة بالنص)"
-                )
-            except Exception as e:
-                correct_option_text = f"{correct_answer} (خطأ أثناء تحديد الإجابة: {e})"
-            feedback = f"❌ إجابة خاطئة.\n✅ الإجابة الصحيحة: {correct_option_text}"
-
+        if current < total_mcq:
+            q = mcqs[current]
+            correct_answer = q["answer"].upper()
+            chosen = text[0].upper()
+            if chosen == correct_answer:
+                quiz["score"] += 1
+                feedback = "✅ إجابة صحيحة!"
+            else:
+                correct_text = next((opt for opt in q["options"] if opt.strip().upper().startswith(correct_answer)), correct_answer)
+                feedback = f"❌ إجابة خاطئة.\n✅ الإجابة الصحيحة: {correct_text}"
 
         elif current < total_all:
             tf_index = current - total_mcq
@@ -289,8 +223,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 quiz["score"] += 1
                 feedback = "✅ إجابة صحيحة!"
             else:
-                correct_text = "True" if correct_answer else "False"
-                feedback = f"❌ إجابة خاطئة.\n✅ الإجابة الصحيحة: {correct_text}"
+                feedback = f"❌ إجابة خاطئة.\n✅ الإجابة الصحيحة: {'True' if correct_answer else 'False'}"
 
         quiz["current"] += 1
         current += 1
@@ -298,14 +231,13 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         if current < total_all:
             await update.message.reply_text(feedback)
             if current < total_mcq:
-                next_q = mcqs[current]
-                keyboard = [[opt] for opt in next_q["options"]] + [["⛔️ إنهاء الكويز"], ["🏠 القائمة الرئيسية"]]
+                q = mcqs[current]
+                keyboard = [[opt] for opt in q["options"]] + [["⛔️ إنهاء الكويز"], ["🏠 القائمة الرئيسية"]]
             else:
-                tf_index = current - total_mcq
-                next_q = tfs[tf_index]
+                q = tfs[current - total_mcq]
                 keyboard = [["✅ True"], ["❌ False"], ["⛔️ إنهاء الكويز"], ["🏠 القائمة الرئيسية"]]
             await update.message.reply_text(
-                f"🧪 {next_q['question']}",
+                f"🧪 {q['question']}",
                 reply_markup=ReplyKeyboardMarkup(keyboard, one_time_keyboard=True, resize_keyboard=True)
             )
         else:
