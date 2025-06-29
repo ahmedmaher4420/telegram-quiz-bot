@@ -78,7 +78,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         if text == "Adults":
             keyboard = [
                 ["🧪 امتحان شامل", "📚  المحاضرات النظري وكويزات خفيفة"],
-                ["📋 أسئلة امتحانات سابقة", "بنك الأسئلة"],
+                ["📋 أسئلة امتحانات سابقة", "أسئلة الدكتورة"],
                 ["🏠 القائمة الرئيسية"]
             ]
             await update.message.reply_text("📘 اختر نوع المحتوى:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
@@ -155,9 +155,9 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             reply_markup=ReplyKeyboardMarkup(keyboard, one_time_keyboard=True, resize_keyboard=True)
         )
 
-    elif "subject" in state and text == "بنك الأسئلة":
+    elif "subject" in state and text == "أسئلة الدكتورة":
         if "Question_Bank" not in quizzes:
-            await update.message.reply_text("❗ لا توجد أسئلة في بنك الأسئلة حتى الآن.")
+            await update.message.reply_text("❗ لا توجد أسئلة في أسئلة الدكتورة حتى الآن.")
             return
             
         mcqs = quizzes["Question_Bank"].get("MCQs", [])
