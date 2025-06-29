@@ -257,8 +257,14 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 feedback = "✅ إجابة صحيحة!"
             else:
                 # التعديل هنا: نبحث عن نص الإجابة الصحيحة في الخيارات
-                correct_option_text = next(opt for opt in q["options"] if opt.startswith(correct_answer + "."))
-                feedback = f"❌ إجابة خاطئة.\n✅ الإجابة الصحيحة: {correct_option_text}"
+                try:
+                    correct_option_text = next(
+                    (opt for opt in q["options"] if opt.strip().upper().startswith(correct_answer.upper())),
+                    f"{correct_answer} (لم يتم العثور على الإجابة بالنص)"
+                    )
+                except Exception as e:
+                    correct_option_text = f"{correct_answer} (خطأ أثناء تحديد الإجابة: {e})"
+
         elif current < total_all:
             tf_index = current - total_mcq
             q = tfs[tf_index]
