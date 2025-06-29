@@ -4594,22 +4594,6 @@ quizzes = {
     "answer": "C"
   },
   {
-    "question": "True or False: A greenstick fracture is an example of a complete fracture.",
-    "options": [
-      "A. True",
-      "B. False"
-    ],
-    "answer": "B"
-  },
-  {
-    "question": "True or False: A compound fracture is also known as an open fracture.",
-    "options": [
-      "A. True",
-      "B. False"
-    ],
-    "answer": "A"
-  },
-  {
     "question": "Which of the following is a common symptom of a fracture?",
     "options": [
       "A. Continuous and increasing pain",
@@ -4656,46 +4640,6 @@ quizzes = {
       "B. Compression of the fractured bone",
       "C. Increased blood flow",
       "D. Decreased muscle strength"
-    ],
-    "answer": "B"
-  },
-  {
-    "question": "True or False: Pain from a fracture is continuous and increases in severity until the bone fragments are immobilized.",
-    "options": [
-      "A. True",
-      "B. False"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "True or False: After a fracture, the affected extremity retains its normal function.",
-    "options": [
-      "A. True",
-      "B. False"
-    ],
-    "answer": "B"
-  },
-  {
-    "question": "True or False: Crepitus is a sign of a fracture and is described as a crumbling sensation felt when the extremity is palpated.",
-    "options": [
-      "A. True",
-      "B. False"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "True or False: Localized edema and ecchymosis around a fracture site occur due to trauma and bleeding into the tissues.",
-    "options": [
-      "A. True",
-      "B. False"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "True or False: Shortening of the extremity is a common sign in fractures of long bones due to muscle elongation.",
-    "options": [
-      "A. True",
-      "B. False"
     ],
     "answer": "B"
   },
@@ -4748,46 +4692,6 @@ quizzes = {
       "D. Improved circulation"
     ],
     "answer": "B"
-  },
-  {
-    "question": "True or False: Hypovolemic shock following a fracture is primarily due to the direct injury to the nerve endings.",
-    "options": [
-      "A. True",
-      "B. False"
-    ],
-    "answer": "B"
-  },
-  {
-    "question": "True or False: Fat embolism can occur when fat globules from the bone marrow enter the bloodstream during a fracture.",
-    "options": [
-      "A. True",
-      "B. False"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "True or False: Compartment syndrome occurs due to an increase in blood flow to an injured area.",
-    "options": [
-      "A. True",
-      "B. False"
-    ],
-    "answer": "B"
-  },
-  {
-    "question": "True or False: Fat embolism can lead to complications in the lungs, brain, kidneys, and other organs.",
-    "options": [
-      "A. True",
-      "B. False"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "True or False: Compartment syndrome, if left untreated, may result in tissue ischemia and necrosis.",
-    "options": [
-      "A. True",
-      "B. False"
-    ],
-    "answer": "A"
   },
   {
     "question": "What is delayed union in the context of fractures?",
@@ -4880,80 +4784,6 @@ quizzes = {
     "answer": "C"
   },
   {
-    "question": "True or False: Delayed union occurs when a fracture heals faster than normal for its location and type.",
-    "options": [
-      "A. True",
-      "B. False"
-    ],
-    "answer": "B"
-  },
-  {
-    "question": "True or False: Nonunion results when the ends of a fractured bone fail to unite in normal alignment.",
-    "options": [
-      "A. True",
-      "B. False"
-    ],
-    "answer": "B"
-  },
-  {
-    "question": "True or False: Avascular necrosis (AVN) can be caused by disruption of blood supply following a fracture.",
-    "options": [
-      "A. True",
-      "B. False"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "True or False: Prolonged high-dose corticosteroid therapy can be a risk factor for avascular necrosis.",
-    "options": [
-      "A. True",
-      "B. False"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "True or False: Malunion results in the bone ends failing to unite entirely.",
-    "options": [
-      "A. True",
-      "B. False"
-    ],
-    "answer": "B"
-  },
-  {
-    "question": "True or False: In an upper extremity injury, the arm may be bandaged to the chest for immobilization.",
-    "options": [
-      "A. True",
-      "B. False"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "True or False: Joints proximal and distal to the fracture should not be immobilized.",
-    "options": [
-      "A. True",
-      "B. False"
-    ],
-    "answer": "B"
-  },
-  {
-    "question": "True or False: In the case of an open fracture, covering the wound with a sterile dressing is necessary to prevent contamination.",
-    "options": [
-      "A. True",
-      "B. False"
-    ],
-    "answer": "A"
-  },
-        {
-    "question": "True or False: Open reduction involves aligning bone fragments surgically and may use internal fixation devices to hold the bone in position.",
-    "options": ["A. True", "B. False"],
-    "answer": "A"
-  },
-  {
-    "question": "True or False: Closed reduction always requires the use of anesthesia and surgical tools.",
-    "options": ["A. True", "B. False"],
-    "answer": "B"
-  },
-  {
     "question": "What is the primary goal of immobilization after a fracture has been reduced?",
     "options": [
       "A. To improve muscle strength",
@@ -5003,31 +4833,7 @@ quizzes = {
     ],
     "answer": "B"
   },
-  {
-    "question": "True or False: After a fracture is reduced, immobilization can be achieved by internal or external fixation methods.",
-    "options": ["A. True", "B. False"],
-    "answer": "A"
-  },
-  {
-    "question": "True or False: Applying heat is an effective method to control edema in an injured extremity.",
-    "options": ["A. True", "B. False"],
-    "answer": "B"
-  },
-  {
-    "question": "True or False: Monitoring neurovascular status includes checking circulation, motion, and sensation.",
-    "options": ["A. True", "B. False"],
-    "answer": "A"
-  },
-  {
-    "question": "True or False: Anxiety and discomfort in patients with fractures should be managed only with medication.",
-    "options": ["A. True", "B. False"],
-    "answer": "B"
-  },
-  {
-    "question": "True or False: Isometric and muscle-setting exercises should be avoided after a fracture to prevent further injury.",
-    "options": ["A. True", "B. False"],
-    "answer": "B"
-  },
+
   {
     "question": "What is the primary purpose of a cast in the management of fractures?",
     "options": [
@@ -5079,131 +4885,6 @@ quizzes = {
     "answer": "B"
   },
   {
-    "question": "True or False: A cast can be used to both immobilize a fracture and correct a deformity.",
-    "options": ["A. True", "B. False"],
-    "answer": "A"
-  },
-  {
-    "question": "True or False: Elevating the immobilized limb is not necessary if there is no swelling.",
-    "options": ["A. True", "B. False"],
-    "answer": "B"
-  },
-  {
-    "question": "True or False: To assess circulation in a casted limb, the nurse should check the skin’s color, temperature, and capillary refill.",
-    "options": ["A. True", "B. False"],
-    "answer": "A"
-  },
-       {
-    "question": "The ability to move the fingers or toes is not relevant in assessing nerve function in a casted limb.",
-    "options": ["A. TRUE", "B. FALSE"],
-    "answer": "B. FALSE"
-  },
-  {
-    "question": "The nurse and physical therapist are responsible for teaching the patient how to use assistive devices like crutches or walkers.",
-    "options": ["A. TRUE", "B. FALSE"],
-    "answer": "A. TRUE"
-  },
-  {
-    "question": "Traction is applied to reduce muscle spasms and align fractures.",
-    "options": ["A. TRUE", "B. FALSE"],
-    "answer": "A. TRUE"
-  },
-  {
-    "question": "Skin traction involves inserting pins into the bone for stability.",
-    "options": ["A. TRUE", "B. FALSE"],
-    "answer": "B. FALSE"
-  },
-  {
-    "question": "Skin traction is typically used to control muscle spasms and to immobilize an area before surgery.",
-    "options": ["A. TRUE", "B. FALSE"],
-    "answer": "A. TRUE"
-  },
-  {
-    "question": "Traction can also be used to increase the space between opposing surfaces.",
-    "options": ["A. TRUE", "B. FALSE"],
-    "answer": "A. TRUE"
-  },
-  {
-    "question": "The application of skin traction can lead to increased skin elasticity.",
-    "options": ["A. TRUE", "B. FALSE"],
-    "answer": "B. FALSE"
-  },
-  {
-    "question": "Buck's extension traction is used for immobilizing fractures of the proximal femur.",
-    "options": ["A. TRUE", "B. FALSE"],
-    "answer": "A. TRUE"
-  },
-  {
-    "question": "Skeletal traction is applied externally and does not touch the bone.",
-    "options": ["A. TRUE", "B. FALSE"],
-    "answer": "B. FALSE"
-  },
-  {
-    "question": "External fixators are useful for managing open fractures with soft tissue damage and allow for treatment of damaged tissues.",
-    "options": ["A. TRUE", "B. FALSE"],
-    "answer": "A. TRUE"
-  },
-  {
-    "question": "Buck's extension traction can be applied to both legs simultaneously.",
-    "options": ["A. TRUE", "B. FALSE"],
-    "answer": "A. TRUE"
-  },
-       {
-        "question": "External fixators are typically used for minor fractures with minimal soft tissue involvement.",
-        "options": ["A. TRUE", "B. FALSE"],
-        "answer": "B. FALSE"
-    },
-    {
-        "question": "Pin care should be performed with cotton-tipped applicators soaked in chlorhexidine solution to prevent infection.",
-        "options": ["A. TRUE", "B. FALSE"],
-        "answer": "A. TRUE"
-    },
-    {
-        "question": "Psychological preparation of the patient is unnecessary if the fracture is treated with external fixation.",
-        "options": ["A. TRUE", "B. FALSE"],
-        "answer": "B. FALSE"
-    },
-    {
-        "question": "Internal fixation involves using mechanical devices like rods and screws to stabilize and join fractured bones.",
-        "options": ["A. TRUE", "B. FALSE"],
-        "answer": "A. TRUE"
-    },
-    {
-        "question": "Elevating the extremity is not needed if the patient is on pain medication.",
-        "options": ["A. TRUE", "B. FALSE"],
-        "answer": "B. FALSE"
-    },
-    {
-        "question": "ORIF is typically used for minor fractures and does not require surgical intervention.",
-        "options": ["A. TRUE", "B. FALSE"],
-        "answer": "B. FALSE"
-    },
-    {
-        "question": "CRIF involves internal fixation without the need for open surgery.",
-        "options": ["A. TRUE", "B. FALSE"],
-        "answer": "A. TRUE"
-    },
-    {
-        "question": "If fracture displacement exceeds 2mm after CRIF, ORIF is generally not recommended.",
-        "options": ["A. TRUE", "B. FALSE"],
-        "answer": "B. FALSE"
-    },
-    {
-        "question": "CRIF is typically used for stable fractures and does not require any internal fixation.",
-        "options": ["A. TRUE", "B. FALSE"],
-        "answer": "B. FALSE"
-    },
-    {
-        "question": "CRIF is a less invasive alternative to ORIF and is used when displacement is minimal after reduction.",
-        "options": ["A. TRUE", "B. FALSE"],
-        "answer": "A. TRUE"
-    },
-    {
-        "question": "Open reduction and internal fixation (ORIF) is preferred over CRIF if displacement exceeds 2mm after reduction.",
-        "options": ["A. TRUE", "B. FALSE"],
-        "answer": "A. TRUE"
-    },
-        {
     "question": "Which of the following is a potential complication of pin fixation in fracture management?",
     "options": ["A. Osteomyelitis", "B. Improved bone healing", "C. Increased range of motion", "D. Reduced swelling"],
     "answer": "A. Osteomyelitis"
@@ -5229,31 +4910,6 @@ quizzes = {
     "answer": "A. Provide wound dressing under complete aseptic technique"
   },
   {
-    "question": "Pin tract infection is a complication associated with the use of external fixators.",
-    "options": ["A. TRUE", "B. FALSE"],
-    "answer": "A. TRUE"
-  },
-  {
-    "question": "Osteomyelitis is a complication that can occur as a result of infection spreading from a pin tract.",
-    "options": ["A. TRUE", "B. FALSE"],
-    "answer": "A. TRUE"
-  },
-  {
-    "question": "Assessing skin color and temperature in the extremity is not necessary if the patient is on pain medication.",
-    "options": ["A. TRUE", "B. FALSE"],
-    "answer": "B. FALSE"
-  },
-  {
-    "question": "Progressive ambulation should be carried out according to the patient's preference, regardless of the surgeon's recommendations.",
-    "options": ["A. TRUE", "B. FALSE"],
-    "answer": "B. FALSE"
-  },
-  {
-    "question": "Loss of fracture stabilization can result from inadequate fixation or complications, which may require surgical intervention.",
-    "options": ["A. TRUE", "B. FALSE"],
-    "answer": "A. TRUE"
-  },
-        {
     "question": "What is the primary cause of burn injuries?",
     "options": ["B. Psychological trauma", "B. Thermal or other acute trauma", "C. Poor nutrition", "D. Genetic factors"],
     "answer": "B. Thermal or other acute trauma"
@@ -5626,10 +5282,6 @@ quizzes = {
     "D. Reduced cardiac output"
   },
   "answer": "B"
-},
-{
-  "question": "True or False: In burn patients, fluid shifts from intracellular space to interstitial tissue often lead to edema.",
-  "answer":  True
 },
 {
   "question": "How is the body's immunologic defense affected by a burn injury?",
@@ -6802,65 +6454,65 @@ quizzes = {
  "TF":  
 [
       {
-      "question": "True or False: A burn is defined as an injury caused exclusively by flames.",
+      "question": "A burn is defined as an injury caused exclusively by flames.",
       "answer":  False
     },
     {
-      "question": "True or False: Burns can only occur in children.",
+      "question": "Burns can only occur in children.",
       "answer":  False
     },
     {
-      "question": "True or False: Effective communication by nurses is crucial in burn care.",
+      "question": "Effective communication by nurses is crucial in burn care.",
       "answer":  True
     },
     {
-      "question": "True or False: Friction cannot cause burn injuries.",
+      "question": "Friction cannot cause burn injuries.",
       "answer":  False
     },
     {
-      "question": "True or False: The care of burn patients only focuses on physical treatment.",
+      "question": "The care of burn patients only focuses on physical treatment.",
       "answer":  False
     },
 
     {
-      "question": "True or False: Electrical injuries account for 10% of the annual burn center admissions.",
+      "question": "Electrical injuries account for 10% of the annual burn center admissions.",
       "answer":  False
     },
     {
-      "question": "True or False: Type of current and voltage affect the severity of electrical burns.",
+      "question": "Type of current and voltage affect the severity of electrical burns.",
       "answer":  True
     },
     {
-      "question": "True or False: Chemical burns are only caused by exposure to acids.",
+      "question": "Chemical burns are only caused by exposure to acids.",
       "answer":  False
     },
     {
-      "question": "True or False: Skin properties do not impact severity of chemical burns.",
+      "question": "Skin properties do not impact severity of chemical burns.",
       "answer":  False
     },
     {
-      "question": "True or False: Path of current does not affect severity of electrical burn.",
+      "question": "Path of current does not affect severity of electrical burn.",
       "answer":  False
     },
 
     {
-      "question": "True or False: Thermal burns result from exposure to radiation.",
+      "question": "Thermal burns result from exposure to radiation.",
       "answer":  False
     },
     {
-      "question": "True or False: Radiation burns are always deep and affect multiple layers of skin.",
+      "question": "Radiation burns are always deep and affect multiple layers of skin.",
       "answer":  False
     },
     {
-      "question": "True or False: Sunburn is a type of radiation burn.",
+      "question": "Sunburn is a type of radiation burn.",
       "answer":  True
     },
     {
-      "question": "True or False: Thermal burns can result from both hot liquids and open flames.",
+      "question": "Thermal burns can result from both hot liquids and open flames.",
       "answer":  True
     },
     {
-      "question": "True or False: Radiation burns are never related to medical treatments.",
+      "question": "Radiation burns are never related to medical treatments.",
       "answer":  False
     },
     { "question": "Superficial partial-thickness burns are similar to first-degree burns.", "answer": True},
@@ -6983,23 +6635,23 @@ quizzes = {
         "answer":  False,
     },
     {
-    "question": "True or False: The immunologic defenses of the body remain unaffected by a burn injury.",
+    "question": "The immunologic defenses of the body remain unaffected by a burn injury.",
     "answer":  False
     },
     {
-    "question": "True or False: Burn injuries are associated with impaired neutrophil function and a reduction in lymphocytes.",
+    "question": "Burn injuries are associated with impaired neutrophil function and a reduction in lymphocytes.",
     "answer":  True
     },
     {
-    "question": "True or False: Burn patients are at a lower risk for infection and sepsis due to enhanced immune function.",
+    "question": "Burn patients are at a lower risk for infection and sepsis due to enhanced immune function.",
     "answer":  False
     },
     {
-    "question": "True or False: The release of abnormal inflammatory factors and alterations in serum complement levels contribute to loss of skin integrity in burn injuries.",
+    "question": "The release of abnormal inflammatory factors and alterations in serum complement levels contribute to loss of skin integrity in burn injuries.",
     "answer":  True
     },
     {
-    "question": "True or False: Levels of immunoglobulins in burn patients are typically increased due to the burn injury.",
+    "question": "Levels of immunoglobulins in burn patients are typically increased due to the burn injury.",
     "answer":  False
     },
     {
@@ -7543,7 +7195,207 @@ quizzes = {
     {"question": "Solid foods are the first diet post-surgery.", "answer": False},
     {"question": "Consent forms are signed after anesthesia.", "answer": False},
     {"question": "The WHO checklist includes confirming patient identity.", "answer": True},
-    {"question": "Abdominal distention is managed by bed rest.", "answer": False}
+    {"question": "Abdominal distention is managed by bed rest.", "answer": False},
+    {
+    "question":  "A cast can be used to both immobilize a fracture and correct a deformity.",
+    "answer":  True
+    },
+    {
+    "question":  "Elevating the immobilized limb is not necessary if there is no swelling.",
+    "answer":  False
+    },
+    {
+    "question":  "To assess circulation in a casted limb, the nurse should check the skin’s color, temperature, and capillary refill.",
+    "answer":  True
+    },
+    {
+    "question": "The ability to move the fingers or toes is not relevant in assessing nerve function in a casted limb.",
+    "answer":  False
+    },
+    {
+    "question": "The nurse and physical therapist are responsible for teaching the patient how to use assistive devices like crutches or walkers.",
+    "answer":  True
+    },
+    {
+    "question": "Traction is applied to reduce muscle spasms and align fractures.",
+    "answer":  True
+    },
+    {
+    "question": "Skin traction involves inserting pins into the bone for stability.",
+    "answer":  False
+    },
+    {
+    "question": "Skin traction is typically used to control muscle spasms and to immobilize an area before surgery.",
+    "answer":  True
+    },
+    {
+    "question": "Traction can also be used to increase the space between opposing surfaces.",
+    "answer":  True
+    },
+    {
+    "question": "The application of skin traction can lead to increased skin elasticity.",
+    "answer":  False
+    },
+    {
+    "question": "Buck's extension traction is used for immobilizing fractures of the proximal femur.",
+    "answer":  True
+    },
+    {
+    "question": "Skeletal traction is applied externally and does not touch the bone.",
+    "answer":  False
+    },
+    {
+    "question": "External fixators are useful for managing open fractures with soft tissue damage and allow for treatment of damaged tissues.",
+    "answer":  True
+    },
+    {
+    "question": "Buck's extension traction can be applied to both legs simultaneously.",
+    "answer":  True
+    },
+    {
+    "question": "External fixators are typically used for minor fractures with minimal soft tissue involvement.",
+    "answer":  False
+    },
+    {
+    "question": "Pin care should be performed with cotton-tipped applicators soaked in chlorhexidine solution to prevent infection.",
+    "answer":  True
+    },
+    {
+    "question": "Psychological preparation of the patient is unnecessary if the fracture is treated with external fixation.",
+    "answer":  False
+    },
+    {
+    "question": "Internal fixation involves using mechanical devices like rods and screws to stabilize and join fractured bones.",
+    "answer":  True
+    },
+    {
+    "question": "Elevating the extremity is not needed if the patient is on pain medication.",
+    "answer":  False
+    },
+    {
+    "question": "ORIF is typically used for minor fractures and does not require surgical intervention.",
+    "answer":  False
+    },
+    {
+    "question": "CRIF involves internal fixation without the need for open surgery.",
+    "answer":  True
+    },
+    {
+    "question": "If fracture displacement exceeds 2mm after CRIF, ORIF is generally not recommended.",
+    "answer":  False
+    },
+    {
+    "question": "CRIF is typically used for stable fractures and does not require any internal fixation.",
+    "answer":  False
+    },
+    {
+    "question": "CRIF is a less invasive alternative to ORIF and is used when displacement is minimal after reduction.",
+    "answer":  True
+    },
+    {
+    "question": "Open reduction and internal fixation (ORIF) is preferred over CRIF if displacement exceeds 2mm after reduction.",
+    "answer":  True
+    },
+    {
+    "question": "Pin tract infection is a complication associated with the use of external fixators.",
+    "answer":  True
+    },
+    {
+    "question": "Osteomyelitis is a complication that can occur as a result of infection spreading from a pin tract.",
+    "answer":  True
+    },
+    {
+    "question": "Assessing skin color and temperature in the extremity is not necessary if the patient is on pain medication.",
+    "answer":  False
+    },
+    {
+    "question": "Progressive ambulation should be carried out according to the patient's preference, regardless of the surgeon's recommendations.",
+    "answer":  False
+    },
+    {
+    "question": "Loss of fracture stabilization can result from inadequate fixation or complications, which may require surgical intervention.",
+    "answer":  True
+    },
+    {
+    "question":  "Delayed union occurs when a fracture heals faster than normal for its location and type.",
+    "answer":  False
+    },
+    {
+    "question":  "Nonunion results when the ends of a fractured bone fail to unite in normal alignment.",
+    "answer":  False
+    },
+    {
+    "question":  "Avascular necrosis (AVN) can be caused by disruption of blood supply following a fracture.",
+    "answer":  True
+    },
+    {
+    "question":  "Prolonged high-dose corticosteroid therapy can be a risk factor for avascular necrosis.",
+    "answer":  True
+    },
+    {
+    "question":  "Malunion results in the bone ends failing to unite entirely.",
+    "answer":  False
+    },
+    {
+    "question":  "In an upper extremity injury, the arm may be bandaged to the chest for immobilization.",
+    "answer":  True
+    },
+    {
+    "question":  "Joints proximal and distal to the fracture should not be immobilized.",
+    "answer":  False
+    },
+    {
+    "question":  "In the case of an open fracture, covering the wound with a sterile dressing is necessary to prevent contamination.",
+    "answer":  True
+    },
+    {
+    "question":  "Open reduction involves aligning bone fragments surgically and may use internal fixation devices to hold the bone in position.",
+    "answer":  True
+    },
+    {
+    "question":  "Closed reduction always requires the use of anesthesia and surgical tools.",
+    "answer":  False
+    },
+    {
+    "question":  "Hypovolemic shock following a fracture is primarily due to the direct injury to the nerve endings.",
+    "answer":  False
+    },
+    {
+    "question":  "Fat embolism can occur when fat globules from the bone marrow enter the bloodstream during a fracture.",
+    "answer":  True
+    },
+    {
+    "question":  "Compartment syndrome occurs due to an increase in blood flow to an injured area.",
+    "answer":  False
+    },
+    {
+    "question":  "Fat embolism can lead to complications in the lungs, brain, kidneys, and other organs.",
+    "answer":  True
+    },
+    {
+    "question":  "Compartment syndrome, if left untreated, may result in tissue ischemia and necrosis.",
+    "answer":  True
+    },
+    {
+    "question":  "Pain from a fracture is continuous and increases in severity until the bone fragments are immobilized.",
+    "answer":  True
+    },
+    {
+    "question":  "After a fracture, the affected extremity retains its normal function.",
+    "answer":  False
+    },
+    {
+    "question":  "Crepitus is a sign of a fracture and is described as a crumbling sensation felt when the extremity is palpated.",
+    "answer":  True
+    },
+    {
+    "question":  "Localized edema and ecchymosis around a fracture site occur due to trauma and bleeding into the tissues.",
+    "answer":  True
+    },
+    {
+    "question":  "Shortening of the extremity is a common sign in fractures of long bones due to muscle elongation.",
+    "answer":  False
+    }
 
 ]
 
