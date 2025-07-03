@@ -8723,1010 +8723,1010 @@ quizzes = {
   {
         "question": "Which of the following is a purpose of traction?",
         "options": {
-            "A": "Reduce and immobilize fractures",
-            "B": "Prevent cross infection",
-            "C": "Protect patient privacy",
-            "D": "Increase patient cooperation"
+            "A. Reduce and immobilize fractures",
+            "B. Prevent cross infection",
+            "C. Protect patient privacy",
+            "D. Increase patient cooperation"
         },
         "answer": "A"
     },
     {
         "question": "Which of the following is an early complication of fracture?",
         "options": {
-            "A": "Fat embolism",
-            "B": "Vascular necrosis of bone",
-            "C": "Heterotrophic ossification",
-            "D": "Reaction to internal fixation devices"
+            "A. Fat embolism",
+            "B. Vascular necrosis of bone",
+            "C. Heterotrophic ossification",
+            "D. Reaction to internal fixation devices"
         },
         "answer": "A"
     },
     {
         "question": "Which of the following is a sign & symptom of compartment syndrome?",
         "options": {
-            "A": "Unrelieved pain",
-            "B": "Blood tinged sputum",
-            "C": "Chest pain",
-            "D": "Tachycardia"
+            "A. Unrelieved pain",
+            "B. Blood tinged sputum",
+            "C. Chest pain",
+            "D. Tachycardia"
         },
         "answer": "A"
     },
     {
         "question": "Which of the following is a delayed complication of fracture?",
         "options": {
-            "A": "Nonunion for fracture",
-            "B": "Deep venous thrombosis",
-            "C": "Compartment syndrome",
-            "D": "Pulmonary embolism"
+            "A. Nonunion for fracture",
+            "B. Deep venous thrombosis",
+            "C. Compartment syndrome",
+            "D. Pulmonary embolism"
         },
         "answer": "A"
     },
     {
         "question": "After drying a cast, which of the following symptoms should the patient report back to the hospital?",
         "options": {
-            "A": "Cough",
-            "B": "Fingers become blue",
-            "C": "Insomnia",
-            "D": "Diarrhea"
+            "A. Cough",
+            "B. Fingers become blue",
+            "C. Insomnia",
+            "D. Diarrhea"
         },
         "answer": "B"
     },
     {
         "question": "After drying cast, which of the following is a nursing intervention for potential allergic reaction?",
         "options": {
-            "A": "Observe for itching, rashes and blistering of skin",
-            "B": "Patient education about importance of using adjacent joints",
-            "C": "Carry out the exercises the patient has been shown",
-            "D": "Do not let the limb hang down"
+            "A. Observe for itching, rashes and blistering of skin",
+            "B. Patient education about importance of using adjacent joints",
+            "C. Carry out the exercises the patient has been shown",
+            "D. Do not let the limb hang down"
         },
         "answer": "A"
     },
     {
         "question": "Which of the following characterizes gastric ulcer?",
         "options": {
-            "A": "Less common in the lesser curvature of stomach",
-            "B": "Mucus and bicarbonate protect mucosa from acid",
-            "C": "Rapid emptying of food from stomach",
-            "D": "Occurs after acute medical crisis, surgery, or trauma"
+            "A. Less common in the lesser curvature of stomach",
+            "B. Mucus and bicarbonate protect mucosa from acid",
+            "C. Rapid emptying of food from stomach",
+            "D. Occurs after acute medical crisis, surgery, or trauma"
         },
         "answer": "C"
     },
     {
         "question": "A complication of peptic ulcer can be manifested by sudden, sharp mid-epigastric pain that spreads quickly to all abdomen. It is:",
         "options": {
-            "A": "Obstruction",
-            "B": "Perforation",
-            "C": "Stenosis",
-            "D": "Cramps"
+            "A. Obstruction",
+            "B. Perforation",
+            "C. Stenosis",
+            "D. Cramps"
         },
         "answer": "B"
     },
     {
         "question": "Which of the following are hormones produced by the thyroid gland?",
         "options": {
-            "A": "Thyroxin, triiodothyronine, and calcitonin",
-            "B": "Thyroxin, triiodothyronine, and adrenalin",
-            "C": "Thyroxin, adrenalin, and calcitonin",
-            "D": "Triiodothyronine, adrenalin, and calcitonin"
+            "A. Thyroxin, triiodothyronine, and calcitonin",
+            "B. Thyroxin, triiodothyronine, and adrenalin",
+            "C. Thyroxin, adrenalin, and calcitonin",
+            "D. Triiodothyronine, adrenalin, and calcitonin"
         },
         "answer": "A"
     },
     {
         "question": "Iodine is essential to the synthesis of thyroid hormones. It can be obtained from:",
         "options": {
-            "A": "Air",
-            "B": "Food",
-            "C": "Body tissue",
-            "D": "None of the above"
+            "A. Air",
+            "B. Food",
+            "C. Body tissue",
+            "D. None of the above"
         },
         "answer": "B"
     },
     {
         "question": "Palpation is an important examination step to assess the thyroid gland for which of the following?",
         "options": {
-            "A": "Size, consistency, and color",
-            "B": "Shape, symmetry, and bruit sound",
-            "C": "Size, shape, and presence of tenderness",
-            "D": "Size, shape, thrill pulse, and bruit sound"
+            "A. Size, consistency, and color",
+            "B. Shape, symmetry, and bruit sound",
+            "C. Size, shape, and presence of tenderness",
+            "D. Size, shape, thrill pulse, and bruit sound"
         },
         "answer": "C"
     },
     {
         "question": "Hypothyroidism can affect all body functions, which is defined as:",
         "options": {
-            "A": "Suboptimal level of thyroid hormone",
-            "B": "High level of thyroid hormone",
-            "C": "Normal level of thyroid hormone",
-            "D": "None of the above"
+            "A. Suboptimal level of thyroid hormone",
+            "B. High level of thyroid hormone",
+            "C. Normal level of thyroid hormone",
+            "D. None of the above"
         },
         "answer": "A"
     },
     {
         "question": "A patient reports he does not eat enough iodine in his diet. What condition is he most susceptible to?",
         "options": {
-            "A": "Pheochromocytoma",
-            "B": "Hyperthyroidism",
-            "C": "Hypothyroidism",
-            "D": "Thyroid storm"
+            "A. Pheochromocytoma",
+            "B. Hyperthyroidism",
+            "C. Hypothyroidism",
+            "D. Thyroid storm"
         },
         "answer": "C"
     },
     {
         "question": "More than 95% of patients with hypothyroidism are due to:",
         "options": {
-            "A": "Thyroidal hypothyroidism",
-            "B": "Secondary hypothyroidism",
-            "C": "Central hypothyroidism",
-            "D": "None of the above"
+            "A. Thyroidal hypothyroidism",
+            "B. Secondary hypothyroidism",
+            "C. Central hypothyroidism",
+            "D. None of the above"
         },
         "answer": "A"
     },
     {
         "question": "Secondary hypothyroidism refers to:",
         "options": {
-            "A": "Thyroid dysfunction due to disorder from the gland itself",
-            "B": "Thyroid dysfunction due to failure of the parathyroid gland",
-            "C": "Thyroid dysfunction due to failure of the pituitary gland",
-            "D": "Thyroid dysfunction caused entirely by a pituitary disorder"
+            "A. Thyroid dysfunction due to disorder from the gland itself",
+            "B. Thyroid dysfunction due to failure of the parathyroid gland",
+            "C. Thyroid dysfunction due to failure of the pituitary gland",
+            "D. Thyroid dysfunction caused entirely by a pituitary disorder"
         },
         "answer": "C"
     },
     {
         "question": "Myxedema is defined as:",
         "options": {
-            "A": "Advanced case of hypothyroidism, refers to the accumulation of mucopolysaccharides in subcutaneous and other interstitial tissues",
-            "B": "Refers to mucopolysaccharides in bone tissue",
-            "C": "Early case of hypothyroidism",
-            "D": "Refers to fatty acids accumulation"
+            "A. Advanced case of hypothyroidism, refers to the accumulation of mucopolysaccharides in subcutaneous and other interstitial tissues",
+            "B. Refers to mucopolysaccharides in bone tissue",
+            "C. Early case of hypothyroidism",
+            "D. Refers to fatty acids accumulation"
         },
         "answer": "A"
     },
     {
         "question": "Which of the following is considered bowel elimination alteration for a patient with hypothyroidism?",
         "options": {
-            "A": "Diarrhea",
-            "B": "Constipation",
-            "C": "Incontinence",
-            "D": "Impaction"
+            "A. Diarrhea",
+            "B. Constipation",
+            "C. Incontinence",
+            "D. Impaction"
         },
         "answer": "B"
     },
     {
         "question": "Which of the following is the collection of stem cells from the circulating cells in the blood?",
         "options": {
-            "A": "Peripheral blood",
-            "B": "A bone marrow harvest",
-            "C": "Cord blood",
-            "D": "Paracentesis"
+            "A. Peripheral blood",
+            "B. A bone marrow harvest",
+            "C. Cord blood",
+            "D. Paracentesis"
         },
         "answer": "A"
     },
     {
         "question": "Which of the following is the collection of stem cells with a needle placed into the soft center of the bone marrow?",
         "options": {
-            "A": "Peripheral blood",
-            "B": "Bone marrow harvest",
-            "C": "Cord blood",
-            "D": "Paracentesis"
+            "A. Peripheral blood",
+            "B. Bone marrow harvest",
+            "C. Cord blood",
+            "D. Paracentesis"
         },
         "answer": "B"
     },
     {
         "question": "Based on the source of donor cells, which of the following term is referred to stem cells from patient (self-donation)?",
         "options": {
-            "A": "Autologous",
-            "B": "Allogeneic",
-            "C": "Syngeneic",
-            "D": "Harvest"
+            "A. Autologous",
+            "B. Allogeneic",
+            "C. Syngeneic",
+            "D. Harvest"
         },
         "answer": "A"
     },
     {
         "question": "Which of the following is immediate post-transplantation recipient care?",
         "options": {
-            "A": "Transfusions of platelets will be given to prevent bleeding",
-            "B": "The patient will first undergo several days of chemotherapy",
-            "C": "An extensive evaluation is completed by the transplant team",
-            "D": "The patient is allowed 1 to 2 days rest to clear the chemotherapy"
+            "A. Transfusions of platelets will be given to prevent bleeding",
+            "B. The patient will first undergo several days of chemotherapy",
+            "C. An extensive evaluation is completed by the transplant team",
+            "D. The patient is allowed 1 to 2 days rest to clear the chemotherapy"
         },
         "answer": "A"
     },
     {
         "question": "Which of the following is care of donor after stem cell transplantation?",
         "options": {
-            "A": "Check collection sites each day for bleeding",
-            "B": "Transfusions of platelets to prevent bleeding",
-            "C": "Hematopoietic growth factor (G-CSF) is given to patient",
-            "D": "Multiple antibiotics and blood transfusions will be administered"
+            "A. Check collection sites each day for bleeding",
+            "B. Transfusions of platelets to prevent bleeding",
+            "C. Hematopoietic growth factor (G-CSF) is given to patient",
+            "D. Multiple antibiotics and blood transfusions will be administered"
         },
         "answer": "A"
     },
     {
         "question": "Which of the following is an early complication for recipient after stem cell transplantation?",
         "options": {
-            "A": "Posterior subcapsular cataract",
-            "B": "Chronic obstructive lung disease",
-            "C": "Vascular necrosis",
-            "D": "Hemorrhagic cystitis"
+            "A. Posterior subcapsular cataract",
+            "B. Chronic obstructive lung disease",
+            "C. Vascular necrosis",
+            "D. Hemorrhagic cystitis"
         },
         "answer": "D"
     },
     {
         "question": "A nurse should expect a client with hypothyroidism to report which health concerns?",
         "options": {
-            "A": "Bradycardia and Hyperthermia",
-            "B": "Diarrhea",
-            "C": "Weight gain even without increased food intake",
-            "D": "Moist skin"
+            "A. Bradycardia and Hyperthermia",
+            "B. Diarrhea",
+            "C. Weight gain even without increased food intake",
+            "D. Moist skin"
         },
         "answer": "C"
     },
     {
         "question": "Which of the following is an INCORRECT cause of hyperthyroidism?",
         "options": {
-            "A": "Thyroiditis",
-            "B": "Infection",
-            "C": "Motion sickness",
-            "D": "Stress"
+            "A. Thyroiditis",
+            "B. Infection",
+            "C. Motion sickness",
+            "D. Stress"
         },
         "answer": "A"
     },
     {
         "question": "Which of the following is an appropriate nutritional instruction for a patient with hyperthyroidism?",
         "options": {
-            "A": "High-calorie, low-protein foods",
-            "B": "High-calorie, high-protein foods",
-            "C": "Low-calorie, low-protein foods",
-            "D": "Low-calorie, high-protein foods"
+            "A. High-calorie, low-protein foods",
+            "B. High-calorie, high-protein foods",
+            "C. Low-calorie, low-protein foods",
+            "D. Low-calorie, high-protein foods"
         },
         "answer": "B"
     },
     {
         "question": "An important hormone secreted by thyroid gland in response to high plasma level of calcium is called:",
         "options": {
-            "A": "Thyroxin",
-            "B": "Iodine",
-            "C": "Serotonin",
-            "D": "Calcitonin"
+            "A. Thyroxin",
+            "B. Iodine",
+            "C. Serotonin",
+            "D. Calcitonin"
         },
         "answer": "D"
     },
     {
         "question": "It is the molecule that reacts with tyrosine to form thyroid hormones, and its deficiency alters thyroid function, called:",
         "options": {
-            "A": "Iodine",
-            "B": "Oxygen",
-            "C": "Hydrogen",
-            "D": "Calcitonin"
+            "A. Iodine",
+            "B. Oxygen",
+            "C. Hydrogen",
+            "D. Calcitonin"
         },
         "answer": "A"
     },
     {
         "question": "Nurse is auscultating the enlarged thyroid gland. The rationale is to:",
         "options": {
-            "A": "Assess any tracheal obstruction",
-            "B": "Identify abnormal chest sounds",
-            "C": "Identify localized audible vibration of a bruit",
-            "D": "Assess heart sound"
+            "A. Assess any tracheal obstruction",
+            "B. Identify abnormal chest sounds",
+            "C. Identify localized audible vibration of a bruit",
+            "D. Assess heart sound"
         },
         "answer": "C"
     },
     {
         "question": "All of the following are correct thyroid function tests EXCEPT:",
         "options": {
-            "A": "TSH, T3, and T4",
-            "B": "Thyroid scan",
-            "C": "Mammogram",
-            "D": "Ultrasonography"
+            "A. TSH, T3, and T4",
+            "B. Thyroid scan",
+            "C. Mammogram",
+            "D. Ultrasonography"
         },
         "answer": "C"
     },
     {
         "question": "Which of the following findings is an expected nursing diagnosis for patient before cast application?",
         "options": {
-            "A": "Diarrhea",
-            "B": "Pain",
-            "C": "Vomiting",
-            "D": "Cough"
+            "A. Diarrhea",
+            "B. Pain",
+            "C. Vomiting",
+            "D. Cough"
         },
         "answer": "B"
     },
     {
         "question": "Which of the following can be defined as a rigid external immobilizing device which can adjust during treatment process?",
         "options": {
-            "A": "Cast",
-            "B": "Traction",
-            "C": "Bandaging",
-            "D": "Strapping"
+            "A. Cast",
+            "B. Traction",
+            "C. Bandaging",
+            "D. Strapping"
         },
         "answer": "A"
     },
     {
         "question": "Which of the following findings is an expected nursing diagnosis for patient after drying cast?",
         "options": {
-            "A": "Risk of disuse syndrome",
-            "B": "Vomiting",
-            "C": "Cough",
-            "D": "Fever"
+            "A. Risk of disuse syndrome",
+            "B. Vomiting",
+            "C. Cough",
+            "D. Fever"
         },
         "answer": "A"
     },
     {
         "question": "Which of the following devices can be described as a pulling force applied to a part of the body or an extremity while a counter-traction pulls in the opposite direction?",
         "options": {
-            "A": "Bandaging",
-            "B": "Cast",
-            "C": "Traction",
-            "D": "Strapping"
+            "A. Bandaging",
+            "B. Cast",
+            "C. Traction",
+            "D. Strapping"
         },
         "answer": "C"
     },
     {
         "question": "Which of the following is a nursing intervention for risk of impaired skin integrity for patient with traction?",
         "options": {
-            "A": "Assess skin daily for signs of dryness or allergic reaction",
-            "B": "Inspection for looseness of the pins or wires",
-            "C": "Covering pin-sites with gauze dressing",
-            "D": "Cleaning of pin-site entry sites by alcohol"
+            "A. Assess skin daily for signs of dryness or allergic reaction",
+            "B. Inspection for looseness of the pins or wires",
+            "C. Covering pin-sites with gauze dressing",
+            "D. Cleaning of pin-site entry sites by alcohol"
         },
         "answer": "C"
     },
     {
         "question": "Which of the following is INCORRECT statement about Myxedema Coma?",
         "options": {
-            "A": "Patient is hypothermic and unconscious",
-            "B": "Patient would develop respiratory complications",
-            "C": "Patient would develop cardiovascular collapse",
-            "D": "Mortality rate is low"
+            "A. Patient is hypothermic and unconscious",
+            "B. Patient would develop respiratory complications",
+            "C. Patient would develop cardiovascular collapse",
+            "D. Mortality rate is low"
         },
         "answer": "D"
     },
     {
         "question": "Which among the following is a correct nursing instruction to manage hypothermia of the patient with hypothyroidism?",
         "options": {
-            "A": "Use of heating pads and electric blankets",
-            "B": "Extra clothing and blankets are provided",
-            "C": "Encourage bed rest and avoid any activities",
-            "D": "Encourage small frequent diet"
+            "A. Use of heating pads and electric blankets",
+            "B. Extra clothing and blankets are provided",
+            "C. Encourage bed rest and avoid any activities",
+            "D. Encourage small frequent diet"
         },
         "answer": "B"
     },
     {
         "question": "Which of the following is a correct definition of Graves’ disease?",
         "options": {
-            "A": "Excessive production of insulin hormone",
-            "B": "Less production of glucagon hormone",
-            "C": "Less output of thyroid hormones",
-            "D": "Excessive output of thyroid hormones"
+            "A. Excessive production of insulin hormone",
+            "B. Less production of glucagon hormone",
+            "C. Less output of thyroid hormones",
+            "D. Excessive output of thyroid hormones"
         },
         "answer": "D"
     },
     {
         "question": "Which of the following prevalence statements correctly characterizes hyperthyroidism?",
         "options": {
-            "A": "Affects women eight times more frequently than men",
-            "B": "Affects men eight times more frequently than women",
-            "C": "Affects women three times more frequently than men",
-            "D": "Affects men two times more frequently than women"
+            "A. Affects women eight times more frequently than men",
+            "B. Affects men eight times more frequently than women",
+            "C. Affects women three times more frequently than men",
+            "D. Affects men two times more frequently than women"
         },
         "answer": "C"
     },
     {
         "question": "A nurse should expect a client with hyperthyroidism to report which skin condition?",
         "options": {
-            "A": "Dry and flushed skin",
-            "B": "Dry, diffuse pruritus, and flushed skin",
-            "C": "Moist and pale skin",
-            "D": "Moist, flushed, and diffuse pruritus"
+            "A. Dry and flushed skin",
+            "B. Dry, diffuse pruritus, and flushed skin",
+            "C. Moist and pale skin",
+            "D. Moist, flushed, and diffuse pruritus"
         },
         "answer": "D"
     },
     {
         "question": "A nurse should expect a client with hyperthyroidism to report which main health concerns?",
         "options": {
-            "A": "Dry and pale skin",
-            "B": "Increase appetite and weight loss",
-            "C": "Constipation",
-            "D": "Fatigue"
+            "A. Dry and pale skin",
+            "B. Increase appetite and weight loss",
+            "C. Constipation",
+            "D. Fatigue"
         },
         "answer": "B"
     },
     {
         "question": "Which of the following is an uncontrollable cancer risk factor?",
         "options": {
-            "A": "Obesity, Diet and Exercise",
-            "B": "Ultraviolet (UV) Radiation",
-            "C": "Previous history of cancer",
-            "D": "Pollution"
+            "A. Obesity, Diet and Exercise",
+            "B. Ultraviolet (UV) Radiation",
+            "C. Previous history of cancer",
+            "D. Pollution"
         },
         "answer": "C"
     },
     {
         "question": "Which of the following interventions is the key to increasing the survival rates of clients with cancer?",
         "options": {
-            "A": "Early bronchoscope",
-            "B": "Early detection",
-            "C": "High-dose chemotherapy",
-            "D": "Smoking cessation"
+            "A. Early bronchoscope",
+            "B. Early detection",
+            "C. High-dose chemotherapy",
+            "D. Smoking cessation"
         },
         "answer": "B"
     },
     {
         "question": "What is the sign of the following acute hepatitis that confirms increased level of bilirubin?",
         "options": {
-            "A": "Fatigue",
-            "B": "Loss of appetite",
-            "C": "Unexplained weight loss",
-            "D": "Jaundice"
+            "A. Fatigue",
+            "B. Loss of appetite",
+            "C. Unexplained weight loss",
+            "D. Jaundice"
         },
         "answer": "D"
     },
     {
         "question": "Which of the following diagnostic tests is minimally invasive for diagnosis of viral hepatitis?",
         "options": {
-            "A": "Ultrasound",
-            "B": "Liver Function Tests",
-            "C": "Liver Biopsy",
-            "D": "Blood Tests"
+            "A. Ultrasound",
+            "B. Liver Function Tests",
+            "C. Liver Biopsy",
+            "D. Blood Tests"
         },
         "answer": "B"
     },
     {
         "question": "Which of the following statements is correct about the definition of cancer?",
         "options": {
-            "A": "Abnormal growth of cells in human body and more susceptible to chemotherapy",
-            "B": "Non-dividing cells are more susceptible to chemotherapy",
-            "C": "Non-growing cells are less susceptible to chemotherapy",
-            "D": "Slower growing cells are more susceptible to chemotherapy"
+            "A. Abnormal growth of cells in human body and more susceptible to chemotherapy",
+            "B. Non-dividing cells are more susceptible to chemotherapy",
+            "C. Non-growing cells are less susceptible to chemotherapy",
+            "D. Slower growing cells are more susceptible to chemotherapy"
         },
         "answer": "A"
     },
     {
         "question": "Malignant tumors are characterized by:",
         "options": {
-            "A": "Usually encapsulated",
-            "B": "Rare to be metastasis",
-            "C": "Mode of growth is expansive",
-            "D": "Recurrence is frequent"
+            "A. Usually encapsulated",
+            "B. Rare to be metastasis",
+            "C. Mode of growth is expansive",
+            "D. Recurrence is frequent"
         },
         "answer": "D"
     },
     {
         "question": "Which of the following is one of non-viral hepatitis types?",
         "options": {
-            "A": "Hepatitis B",
-            "B": "Hepatitis D",
-            "C": "Alcoholic hepatitis",
-            "D": "Hepatitis E"
+            "A. Hepatitis B",
+            "B. Hepatitis D",
+            "C. Alcoholic hepatitis",
+            "D. Hepatitis E"
         },
         "answer": "C"
     },
     {
         "question": "Hepatitis C is contracted through contaminated blood and prevented by:",
         "options": {
-            "A": "Sharing needles in drug use",
-            "B": "Sharing razor or toothbrush",
-            "C": "Using someone else’s shaving tools",
-            "D": "Not touching spilled blood and body fluids"
+            "A. Sharing needles in drug use",
+            "B. Sharing razor or toothbrush",
+            "C. Using someone else’s shaving tools",
+            "D. Not touching spilled blood and body fluids"
         },
         "answer": "D"
     },
     {
         "question": "Complications of liver failure include all the following EXCEPT:",
         "options": {
-            "A": "Hepatocellular carcinoma",
-            "B": "Brain tumor",
-            "C": "Kidney failure",
-            "D": "Hepatic encephalopathy"
+            "A. Hepatocellular carcinoma",
+            "B. Brain tumor",
+            "C. Kidney failure",
+            "D. Hepatic encephalopathy"
         },
         "answer": "B"
     },
     {
         "question": "Which one of the following is NOT correct about warning signs for cancer?",
         "options": {
-            "A": "Changes in bowel or bladder habits",
-            "B": "A sore that does not heal",
-            "C": "Unusual bleeding or discharge",
-            "D": "Intestinal obstruction"
+            "A. Changes in bowel or bladder habits",
+            "B. A sore that does not heal",
+            "C. Unusual bleeding or discharge",
+            "D. Intestinal obstruction"
         },
         "answer": "D"
     },
     {
         "question": "is a hollow, muscular organ located in the center of thorax; it occupies the space between lungs.",
         "options": {
-            "A": "kidney",
-            "B": "liver",
-            "C": "lung",
-            "D": "heart"
+            "A. kidney",
+            "B. liver",
+            "C. lung",
+            "D. heart"
         },
         "answer": "D"
     },
     {
         "question": "involves repetitious inflammatory response to injury of artery wall and subsequent alteration in the structural and biochemical properties of the arterial walls.",
         "options": {
-            "A": "heart attack",
-            "B": "coronary arterial disease",
-            "C": "Atherosclerosis",
-            "D": "valve disease"
+            "A. heart attack",
+            "B. coronary arterial disease",
+            "C. Atherosclerosis",
+            "D. valve disease"
         },
         "answer": "C"
     },
     {
         "question": "The modifiable risk factor for heart disease is:",
         "options": {
-            "A": "hyperlipidemia",
-            "B": "age",
-            "C": "gender",
-            "D": "family history"
+            "A. hyperlipidemia",
+            "B. age",
+            "C. gender",
+            "D. family history"
         },
         "answer": "A"
     },
     {
         "question": "In ———, less air flows in and out of the airway.",
         "options": {
-            "A": "ACS",
-            "B": "DM",
-            "C": "MI",
-            "D": "COPD"
+            "A. ACS",
+            "B. DM",
+            "C. MI",
+            "D. COPD"
         },
         "answer": "D"
     },
     {
         "question": "is a pathologic term that describes an abnormal distention of the air spaces beyond the terminal bronchioles, with destruction of the walls of the alveoli.",
         "options": {
-            "A": "Emphysema",
-            "B": "asthma",
-            "C": "COPD",
-            "D": "bronchitis"
+            "A. Emphysema",
+            "B. asthma",
+            "C. COPD",
+            "D. bronchitis"
         },
         "answer": "A"
     },
     {
         "question": "is a surgical option for select patients with bullous emphysema.",
         "options": {
-            "A": "lung transplantation",
-            "B": "bullectomy",
-            "C": "lungectomy",
-            "D": "resection"
+            "A. lung transplantation",
+            "B. bullectomy",
+            "C. lungectomy",
+            "D. resection"
         },
         "answer": "B"
     },
     {
         "question": "is a glucose intolerance with first onset occurring during pregnancy.",
         "options": {
-            "A": "insulin-dependent diabetes",
-            "B": "diabetes insipidus",
-            "C": "diabetes mellitus",
-            "D": "gestational diabetes"
+            "A. insulin-dependent diabetes",
+            "B. diabetes insipidus",
+            "C. diabetes mellitus",
+            "D. gestational diabetes"
         },
         "answer": "D"
     },
     {
         "question": "lowers blood glucose levels by increasing the uptake of glucose by body muscles and improving insulin utilization.",
         "options": {
-            "A": "eating",
-            "B": "treatment",
-            "C": "hygiene",
-            "D": "exercise"
+            "A. eating",
+            "B. treatment",
+            "C. hygiene",
+            "D. exercise"
         },
         "answer": "D"
     },
     {
         "question": "is a passive movement of electrolytes or other particles down concentration gradient (from higher to lower concentration).",
         "options": {
-            "A": "filtration",
-            "B": "transportation",
-            "C": "diffusion",
-            "D": "osmosis"
+            "A. filtration",
+            "B. transportation",
+            "C. diffusion",
+            "D. osmosis"
         },
         "answer": "C"
     },
     {
         "question": "is a hormone secreted by the outer zone of adrenal cortex, and has a profound effect on fluid balance.",
         "options": {
-            "A": "aldosterone",
-            "B": "insulin",
-            "C": "adrenaline",
-            "D": "cortisone"
+            "A. aldosterone",
+            "B. insulin",
+            "C. adrenaline",
+            "D. cortisone"
         },
         "answer": "A"
     },
     {
         "question": "has a major role in controlling water distribution throughout the body because it does not easily cross the cell wall membrane.",
         "options": {
-            "A": "sodium",
-            "B": "calcium",
-            "C": "chloride",
-            "D": "potassium"
+            "A. sodium",
+            "B. calcium",
+            "C. chloride",
+            "D. potassium"
         },
         "answer": "A"
     },
     {
         "question": "is the primary intracellular electrolyte.",
         "options": {
-            "A": "sodium",
-            "B": "potassium",
-            "C": "calcium",
-            "D": "chloride"
+            "A. sodium",
+            "B. potassium",
+            "C. calcium",
+            "D. chloride"
         },
         "answer": "B"
     },
     {
         "question": "is the electrolyte that influences the function of skeletal and cardiac muscle.",
         "options": {
-            "A": "sodium",
-            "B": "potassium",
-            "C": "glucose",
-            "D": "magnesium"
+            "A. sodium",
+            "B. potassium",
+            "C. glucose",
+            "D. magnesium"
         },
         "answer": "B"
     },
     {
         "question": "A 55-year-old man has an irregular radial pulse. The nurse should assess the client for:",
         "options": {
-            "A": "hypotension",
-            "B": "respiratory depression",
-            "C": "cardiac dysrhythmias",
-            "D": "increased cardiac output"
+            "A. hypotension",
+            "B. respiratory depression",
+            "C. cardiac dysrhythmias",
+            "D. increased cardiac output"
         },
         "answer": "C"
     },
     {
         "question": "An early sign of shock is:",
         "options": {
-            "A": "decreased urine output",
-            "B": "increased heart rate",
-            "C": "decreased blood pressure",
-            "D": "decreased respiratory rate"
+            "A. decreased urine output",
+            "B. increased heart rate",
+            "C. decreased blood pressure",
+            "D. decreased respiratory rate"
         },
         "answer": "B"
     },
     {
         "question": "Which of the following would be a possible treatment for COPD?",
         "options": {
-            "A": "Oxygen Therapy",
-            "B": "Nebulizer",
-            "C": "CPAP Device",
-            "D": "Oximetry"
+            "A. Oxygen Therapy",
+            "B. Nebulizer",
+            "C. CPAP Device",
+            "D. Oximetry"
         },
         "answer": "A"
     },
     {
         "question": "Causes of fluid volume excess includes:",
         "options": {
-            "A": "Consumption of fewer amounts of sodium salts",
-            "B": "Diuretic medications",
-            "C": "Decreased administration of sodium-containing fluids",
-            "D": "Heart failure and renal failure"
+            "A. Consumption of fewer amounts of sodium salts",
+            "B. Diuretic medications",
+            "C. Decreased administration of sodium-containing fluids",
+            "D. Heart failure and renal failure"
         },
         "answer": "D"
     },
     {
         "question": "A patient is discharged from post anesthesia care unit when he/she has:",
         "options": {
-            "A": "Orientation to person, place, events, and time",
-            "B": "Compromised pulmonary function",
-            "C": "Inadequate blood oxygen saturation",
-            "D": "Severe pain"
+            "A. Orientation to person, place, events, and time",
+            "B. Compromised pulmonary function",
+            "C. Inadequate blood oxygen saturation",
+            "D. Severe pain"
         },
         "answer": "A"
     },
     {
         "question": "Prerenal causes of acute renal failure include:",
         "options": {
-            "A": "Nephrotoxic agents",
-            "B": "Ischemia and blockages",
-            "C": "Volume depletion from hemorrhage or renal losses",
-            "D": "Infections as acute glomerulonephritis"
+            "A. Nephrotoxic agents",
+            "B. Ischemia and blockages",
+            "C. Volume depletion from hemorrhage or renal losses",
+            "D. Infections as acute glomerulonephritis"
         },
         "answer": "C"
     },
     {
         "question": "A compound or open fracture is:",
         "options": {
-            "A": "A break across the entire cross-section of the bone",
-            "B": "A break through only part of cross-section of the bone",
-            "C": "Fracture that does not cause a break in the skin",
-            "D": "Fracture in which skin wound extends to the fractured bone"
+            "A. A break across the entire cross-section of the bone",
+            "B. A break through only part of cross-section of the bone",
+            "C. Fracture that does not cause a break in the skin",
+            "D. Fracture in which skin wound extends to the fractured bone"
         },
         "answer": "D"
     },
     {
         "question": "Signs and symptoms of fracture include:",
         "options": {
-            "A": "Adequate function of the extremity",
-            "B": "Lengthening of the extremity",
-            "C": "Pain and deformity",
-            "D": "Generalized Edema"
+            "A. Adequate function of the extremity",
+            "B. Lengthening of the extremity",
+            "C. Pain and deformity",
+            "D. Generalized Edema"
         },
         "answer": "C"
     },
     {
         "question": "Which intervention is most important for the nurse to use to prevent infection by cross-contamination in patient with open burn wounds?",
         "options": {
-            "A": "Hand washing on entering the client’s room",
-            "B": "Encouraging the client to cough and deep breathe",
-            "C": "Administering the prescribed tetanus toxoid vaccine",
-            "D": "Changing gloves between cleansing different burn areas"
+            "A. Hand washing on entering the client’s room",
+            "B. Encouraging the client to cough and deep breathe",
+            "C. Administering the prescribed tetanus toxoid vaccine",
+            "D. Changing gloves between cleansing different burn areas"
         },
         "answer": "D"
     },
     {
         "question": "Acute respiratory distress syndrome (ARDS) is characterized by:",
         "options": {
-            "A": "Chronic hypoxemic respiratory failure",
-            "B": "Diffuse unilateral infiltrates",
-            "C": "Adequate lung compliance",
-            "D": "Diffuse pulmonary edema"
+            "A. Chronic hypoxemic respiratory failure",
+            "B. Diffuse unilateral infiltrates",
+            "C. Adequate lung compliance",
+            "D. Diffuse pulmonary edema"
         },
         "answer": "A"
     },
     {
         "question": "Which of the following functions is one function of the liver?",
         "options": {
-            "A": "Ammonia conversion",
-            "B": "Bile excretion",
-            "C": "Bilirubin formation",
-            "D": "Drug excretion"
+            "A. Ammonia conversion",
+            "B. Bile excretion",
+            "C. Bilirubin formation",
+            "D. Drug excretion"
         },
         "answer": "A"
     },
     {
         "question": "Speech therapy is one of rehabilitative activities for stroke patients that:",
         "options": {
-            "A": "Learn movement and co-ordination",
-            "B": "Improve ability to carry out daily activities",
-            "C": "Improve blood supply to the brain",
-            "D": "Restore skeletal muscle tone"
+            "A. Learn movement and co-ordination",
+            "B. Improve ability to carry out daily activities",
+            "C. Improve blood supply to the brain",
+            "D. Restore skeletal muscle tone"
         },
         "answer": "B"
     },
     {
         "question": "Emergency Management of fracture:",
         "options": {
-            "A": "Immediately after injury, mobilize the body part",
-            "B": "Joints proximal to fracture must be mobilized",
-            "C": "Assess neurovascular status distal to the injury",
-            "D": "Administering intravenous therapy"
+            "A. Immediately after injury, mobilize the body part",
+            "B. Joints proximal to fracture must be mobilized",
+            "C. Assess neurovascular status distal to the injury",
+            "D. Administering intravenous therapy"
         },
         "answer": "C"
     },
     {
         "question": "The most important medical treatment for patients with liver cirrhosis is:",
         "options": {
-            "A": "Silymarin",
-            "B": "Histamine-2 (H2) antagonists",
-            "C": "Vitamins and nutritional supplements",
-            "D": "Potassium-sparing diuretics"
+            "A. Silymarin",
+            "B. Histamine-2 (H2) antagonists",
+            "C. Vitamins and nutritional supplements",
+            "D. Potassium-sparing diuretics"
         },
         "answer": "D"
     },
     {
         "question": "Hypokalemia is treated with:",
         "options": {
-            "A": "Potassium chloride",
-            "B": "Dextrose",
-            "C": "Sodium",
-            "D": "Calcium"
+            "A. Potassium chloride",
+            "B. Dextrose",
+            "C. Sodium",
+            "D. Calcium"
         },
         "answer": "A"
     },
     {
         "question": "Complications of traction include:",
         "options": {
-            "A": "Skin burn",
-            "B": "Nerve damage",
-            "C": "Adequate circulatory supply",
-            "D": "Fluid imbalance"
+            "A. Skin burn",
+            "B. Nerve damage",
+            "C. Adequate circulatory supply",
+            "D. Fluid imbalance"
         },
         "answer": "B"
     },
     {
         "question": "One of the most important preventive measures of acute renal failure is to:",
         "options": {
-            "A": "Monitor patient’s weight daily",
-            "B": "Monitor vital signs frequently",
-            "C": "Provide adequate hydration",
-            "D": "Treat hypertension promptly"
+            "A. Monitor patient’s weight daily",
+            "B. Monitor vital signs frequently",
+            "C. Provide adequate hydration",
+            "D. Treat hypertension promptly"
         },
         "answer": "C"
     },
     {
         "question": "Types of Internal Fixation include:",
         "options": {
-            "A": "Open reduction internal fixation",
-            "B": "Casts",
-            "C": "Traction",
-            "D": "External Fixators"
+            "A. Open reduction internal fixation",
+            "B. Casts",
+            "C. Traction",
+            "D. External Fixators"
         },
         "answer": "A"
     },
     {
         "question": "The most common cause of liver cirrhosis in Egypt:",
         "options": {
-            "A": "Alcohol consumption",
-            "B": "Viral hepatitis",
-            "C": "Exposure to certain chemicals",
-            "D": "Infectious schistosomiasis"
+            "A. Alcohol consumption",
+            "B. Viral hepatitis",
+            "C. Exposure to certain chemicals",
+            "D. Infectious schistosomiasis"
         },
         "answer": "B"
     },
     {
         "question": "In patients with hemorrhagic stroke, arterial ruptures can be caused by:",
         "options": {
-            "A": "Hypotension",
-            "B": "Blood-clotting medications",
-            "C": "Aneurysms",
-            "D": "Bed rest"
+            "A. Hypotension",
+            "B. Blood-clotting medications",
+            "C. Aneurysms",
+            "D. Bed rest"
         },
         "answer": "C"
     },
     {
         "question": "One of the pharmacologic therapies of COPD:",
         "options": {
-            "A": "Bronchodilators",
-            "B": "Analgesics",
-            "C": "Antihypertensive medications",
-            "D": "Antipyretic medications"
+            "A. Bronchodilators",
+            "B. Analgesics",
+            "C. Antihypertensive medications",
+            "D. Antipyretic medications"
         },
         "answer": "A"
     },
     {
         "question": "Which of the following solutions is used to draw fluid into intravascular compartment?",
         "options": {
-            "A": "Isotonic solution",
-            "B": "Hypotonic solution",
-            "C": "Hypertonic solution",
-            "D": "Hemodynamic solution"
+            "A. Isotonic solution",
+            "B. Hypotonic solution",
+            "C. Hypertonic solution",
+            "D. Hemodynamic solution"
         },
         "answer": "C"
     },
     {
         "question": "Post-Operative Complication includes:",
         "options": {
-            "A": "Hemorrhage",
-            "B": "Fever",
-            "C": "Cough",
-            "D": "Pain"
+            "A. Hemorrhage",
+            "B. Fever",
+            "C. Cough",
+            "D. Pain"
         },
         "answer": "A"
     },
     {
         "question": "Cardiovascular manifestations of chronic renal failure include:",
         "options": {
-            "A": "Hypotension",
-            "B": "Pitting edema",
-            "C": "Anemia",
-            "D": "Fatigue"
+            "A. Hypotension",
+            "B. Pitting edema",
+            "C. Anemia",
+            "D. Fatigue"
         },
         "answer": "B"
     },
     {
         "question": "Damage of respiratory and speech muscles can result in:",
         "options": {
-            "A": "Hypokalemia",
-            "B": "Hyperkalemia",
-            "C": "Hypocalcemia",
-            "D": "Hypernatremia"
+            "A. Hypokalemia",
+            "B. Hyperkalemia",
+            "C. Hypocalcemia",
+            "D. Hypernatremia"
         },
         "answer": "B"
     },
     {
         "question": "During the first 24 hours postoperatively, vital signs can be monitored every:",
         "options": {
-            "A": "Once or twice",
-            "B": "Every 15 minutes if the patient is stable",
-            "C": "Every five minutes",
-            "D": "Every twelve hours"
+            "A. Once or twice",
+            "B. Every 15 minutes if the patient is stable",
+            "C. Every five minutes",
+            "D. Every twelve hours"
         },
         "answer": "B"
     },
     {
         "question": "Risk factors of acute renal failure include:",
         "options": {
-            "A": "Chronic kidney disease",
-            "B": "History of lung disease",
-            "C": "Hypovolemia",
-            "D": "Age of 40 years"
+            "A. Chronic kidney disease",
+            "B. History of lung disease",
+            "C. Hypovolemia",
+            "D. Age of 40 years"
         },
         "answer": "C"
     },
     {
         "question": "A fracture in which bone has splintered into several fragments:",
         "options": {
-            "A": "Transverse fracture",
-            "B": "Comminuted fracture",
-            "C": "Oblique fracture",
-            "D": "Spiral fracture"
+            "A. Transverse fracture",
+            "B. Comminuted fracture",
+            "C. Oblique fracture",
+            "D. Spiral fracture"
         },
         "answer": "B"
     },
     {
         "question": "Which type of fluid should the nurse administer as fluid resuscitation during the emergent phase of burn recovery?",
         "options": {
-            "A": "Colloids",
-            "B": "Crystalloids",
-            "C": "Fresh-frozen plasma",
-            "D": "Packed red blood cells"
+            "A. Colloids",
+            "B. Crystalloids",
+            "C. Fresh-frozen plasma",
+            "D. Packed red blood cells"
         },
         "answer": "B"
     },
     {
         "question": "The most important nursing management for ARDS:",
         "options": {
-            "A": "Treating the underlying cause or injury",
-            "B": "Suction oral cavity",
-            "C": "Initiate bronchodilators",
-            "D": "Start IV fluids immediately"
+            "A. Treating the underlying cause or injury",
+            "B. Suction oral cavity",
+            "C. Initiate bronchodilators",
+            "D. Start IV fluids immediately"
         },
         "answer": "A"
     },
     {
         "question": "Delayed complications of fracture:",
         "options": {
-            "A": "Avascular necrosis of bone",
-            "B": "Hypovolemic shock",
-            "C": "Fat embolism",
-            "D": "Compartment syndrome"
+            "A. Avascular necrosis of bone",
+            "B. Hypovolemic shock",
+            "C. Fat embolism",
+            "D. Compartment syndrome"
         },
         "answer": "A"
     },
     {
         "question": "What is the most painful type of burn?",
         "options": {
-            "A": "First-degree burns, because the outer skin is so sensitive",
-            "B": "Third-degree burns, because they are the most severe",
-            "C": "Second-degree burns, because nerve endings are still intact even though tissue damage is severe",
-            "D": "All types of burns are excruciatingly painful"
+            "A. First-degree burns, because the outer skin is so sensitive",
+            "B. Third-degree burns, because they are the most severe",
+            "C. Second-degree burns, because nerve endings are still intact even though tissue damage is severe",
+            "D. All types of burns are excruciatingly painful"
         },
         "answer": "C"
     },
     {
         "question": "Buildup of toxins in the brain causing mental confusion is defined as:",
         "options": {
-            "A": "Spontaneous bacterial peritonitis",
-            "B": "Hepatocellular carcinoma",
-            "C": "Portal hypertension",
-            "D": "Hepatic Encephalopathy"
+            "A. Spontaneous bacterial peritonitis",
+            "B. Hepatocellular carcinoma",
+            "C. Portal hypertension",
+            "D. Hepatic Encephalopathy"
         },
         "answer": "D"
     },
     {
         "question": "Rehabilitative activities of stroke include:",
         "options": {
-            "A": "Physical therapy",
-            "B": "Vision therapy",
-            "C": "Social therapy",
-            "D": "Recreational therapy"
+            "A. Physical therapy",
+            "B. Vision therapy",
+            "C. Social therapy",
+            "D. Recreational therapy"
         },
         "answer": "A"
     },
     {
         "question": "Clinical manifestations of fluid volume deficit include:",
         "options": {
-            "A": "Acute weight gain",
-            "B": "Orthostatic hypertension",
-            "C": "Flattened neck veins",
-            "D": "Normal skin turgor"
+            "A. Acute weight gain",
+            "B. Orthostatic hypertension",
+            "C. Flattened neck veins",
+            "D. Normal skin turgor"
         },
         "answer": "C"
     },
     {
         "question": "Kidneys normally filter ............ of plasma every day in the adult:",
         "options": {
-            "A": "180 L",
-            "B": "150 L",
-            "C": "120 L",
-            "D": "200 L"
+            "A. 180 L",
+            "B. 150 L",
+            "C. 120 L",
+            "D. 200 L"
         },
         "answer": "A"
     },
     {
         "question": "Complications of chronic renal failure include:",
         "options": {
-            "A": "Hypokalemia",
-            "B": "Liver cirrhosis",
-            "C": "Pericarditis and pericardial effusion",
-            "D": "Hypotension"
+            "A. Hypokalemia",
+            "B. Liver cirrhosis",
+            "C. Pericarditis and pericardial effusion",
+            "D. Hypotension"
         },
         "answer": "C"
     },
