@@ -78,7 +78,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         if text == "Adults":
             keyboard = [
                 ["🧪 امتحان شامل", "📚  المحاضرات النظري وكويزات خفيفة"],
-                ["📋 أسئلة امتحانات سابقة", "أسئلة الدكتورة"],
+                ["أسئلة الدكتورة"],
                 ["🏠 القائمة الرئيسية"]
             ]
             await update.message.reply_text("📘 اختر نوع المحتوى:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
@@ -105,10 +105,9 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             user_state[uid]["type"] = ""
             await update.message.reply_text("📖 اختر المحاضرة:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True, one_time_keyboard=True))
 
-    elif "subject" in state and text in ["🧪 امتحان شامل", "📋 أسئلة امتحانات سابقة", "أسئلة الدكتورة"]:
+    elif "subject" in state and text in ["🧪 امتحان شامل", "أسئلة الدكتورة"]:
         lecture_key = {
             "🧪 امتحان شامل": "exam",
-            "📋 أسئلة امتحانات سابقة": "final",
             "أسئلة الدكتورة": "Question_Bank"
         }[text]
 
