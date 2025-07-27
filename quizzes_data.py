@@ -2643,6 +2643,716 @@ quizzes = {
             ]
     },
 
+# Diagnostic tests
+"L1 Nursing Responsibilities for Diagnostic Testing":{
+        "MCQs":[
+            {
+                "question": "What is the main purpose of diagnostic testing?",
+                "options": ["A. To prevent all diseases", "B. To treat all patients surgically", "C. To diagnose, monitor, and anticipate changes in health status", "D. To replace physical examination"],
+                "answer": "C"
+            },
+            {
+                "question": "Diagnostic screening differs from diagnostic testing in that:",
+                "options": ["A. It is done on sick individuals only", "B. It treats diseases directly", "C. It detects early disease in asymptomatic individuals", "D. It requires no medical equipment"],
+                "answer": "C"
+            },
+            {
+                "question": "A diagnostic test is primarily used to:",
+                "options": ["A. Cure disease", "B. Give medications", "C. Identify a condition based on signs and symptoms", "D. Prevent infection"],
+                "answer": "C"
+            },
+            {
+                "question": "Which of the following is NOT a purpose of diagnostic testing?",
+                "options": ["A. Confirming diagnosis", "B. Screening for abnormalities", "C. Providing therapy", "D. Establishing a baseline"],
+                "answer": "C"
+            },
+            {
+                "question": "Mammograms and colonoscopies are used mainly for:",
+                "options": ["A. Emergency treatment", "B. Screening", "C. Vaccination", "D. Pain relief"],
+                "answer": "B"
+            },
+            {
+                "question": "Which of the following is a correct match?",
+                "options": ["A. Pre-test – Specimen collection", "B. Intra-test – Observation of complications", "C. Post-test – Provide information for therapy", "D. Pre-test – Patient preparation"],
+                "answer": "D"
+            },
+            {
+                "question": "The three phases of diagnostic testing include all EXCEPT:",
+                "options": ["A. Pre-test", "B. Mid-test", "C. Intra-test", "D. Post-test"],
+                "answer": "B"
+            },
+            {
+                "question": "During the pre-test phase, a nurse must:",
+                "options": ["A. Interpret test results", "B. Assist in performing surgery", "C. Explain procedures and monitor vital signs", "D. Administer chemotherapy"],
+                "answer": "C"
+            },
+            {
+                "question": "In preparing equipment, nurses should ensure that:",
+                "options": ["A. It is old but functional", "B. It is clean, sometimes sterile, and working", "C. It belongs to the patient", "D. It is stored after use only"],
+                "answer": "B"
+            },
+            {
+                "question": "Which of the following is included in environment preparation for a diagnostic test?",
+                "options": ["A. Dim lighting", "B. Cold and noisy room", "C. Organized equipment and patient privacy", "D. Overcrowded room"],
+                "answer": "C"
+            },
+            {
+                "question": "During the intra-test phase, the nurse's responsibilities include all EXCEPT:",
+                "options": ["A. Giving emotional support", "B. Performing surgery", "C. Monitoring vital signs", "D. Assisting with positioning"],
+                "answer": "B"
+            },
+            {
+                "question": "When collecting specimens, nurses should:",
+                "options": ["A. Label them incorrectly", "B. Forget to transport them", "C. Ensure correct labeling, storage, and transport", "D. Leave them with the patient"],
+                "answer": "C"
+            },
+            {
+                "question": "During testing, the nurse should:",
+                "options": ["A. Sleep beside the patient", "B. Monitor medical condition and devices", "C. Ignore patient monitors", "D. Focus only on paperwork"],
+                "answer": "B"
+            },
+            {
+                "question": "Which of the following should be available during testing?",
+                "options": ["A. Food and drinks", "B. Resuscitation equipment", "C. Exercise machines", "D. None of the above"],
+                "answer": "B"
+            },
+            {
+                "question": "Post-test nursing responsibilities include all EXCEPT:",
+                "options": ["A. Observing for complications", "B. Providing recovery information", "C. Ignoring abnormal results", "D. Documenting the test"],
+                "answer": "C"
+            },
+            {
+                "question": "Nurses should recognize abnormal test values because:",
+                "options": ["A. They are fun to study", "B. They don’t affect treatment", "C. They may indicate serious problems", "D. It’s not their role"],
+                "answer": "C"
+            },
+            {
+                "question": "Nurses are responsible for reporting test results to:",
+                "options": ["A. The media", "B. The patient’s family only", "C. The appropriate doctor or specialist", "D. None of the above"],
+                "answer": "C"
+            },
+            {
+                "question": "Which of the following is true regarding critical results?",
+                "options": ["A. Nurses must ignore them", "B. Must be reported immediately", "C. Should be shared with other patients", "D. Can be delayed till next day"],
+                "answer": "B"
+            },
+            {
+                "question": "Before endoscopy, the patient should:",
+                "options": ["A. Eat heavily", "B. Avoid signing consent", "C. Be NPO for 8–12 hours", "D. Wear jewelry"],
+                "answer": "C"
+            },
+            {
+                "question": "During the endoscopy, the nurse should:",
+                "options": ["A. Monitor cardiac/respiratory status", "B. Perform the procedure", "C. Ignore patient positioning", "D. Allow patient to eat"],
+                "answer": "A"
+            },
+            {
+                "question": "Before a chest x-ray, nurses should:",
+                "options": ["A. Administer sedation", "B. Ensure patient removes metal objects", "C. Force the patient to lie down", "D. None of the above"],
+                "answer": "B"
+            },
+            {
+                "question": "X-rays are avoided in pregnancy because:",
+                "options": ["A. They are noisy", "B. They cause hunger", "C. They may harm the fetus", "D. They are not available"],
+                "answer": "C"
+            }
+            ],
+        "TF":[
+            {"question": "Diagnostic screening is the same as diagnostic testing.", "answer": False},
+            {"question": "Nurses play a role in all phases of diagnostic testing.", "answer": True},
+            {"question": "During pre-test, nurses must establish IV access if needed.", "answer": True},
+            {"question": "Nurses should never touch medical equipment.", "answer": False},
+            {"question": "Clean and sterile equipment is not required during testing.", "answer": False},
+            {"question": "Positioning the patient is a nursing role during intra-test.", "answer": True},
+            {"question": "Emotional support is not part of nursing care during tests.", "answer": False},
+            {"question": "Vital signs must be monitored during and after diagnostic procedures.", "answer": True},
+            {"question": "After a test, the nurse should ignore any complications.", "answer": False},
+            {"question": "Nurses should notify the physician of critical abnormal test results immediately.", "answer": True},
+            {"question": "Endoscopy requires fasting and patient sedation beforehand.", "answer": True},
+            {"question": "Chest X-rays require the patient to keep all jewelry on.", "answer": False},
+            {"question": "Patients can eat immediately after endoscopy, even without a gag reflex.", "answer": False},
+            {"question": "Documentation is a crucial step after any diagnostic test.", "answer": True},
+            {"question": "Nurses should assist in positioning the patient for chest x-rays.", "answer": True}
+            ]
+    },
+"L2 Physical Examination & Body Positions":{
+        "MCQs":[
+            {
+                "question": "What is the primary purpose of a physical examination?",
+                "options": ["A. To administer medication", "B. To perform surgery", "C. To gather data for diagnosis and treatment", "D. To schedule follow-up visits"],
+                "answer": "C"
+            },
+            {
+                "question": "Which of the following techniques involves listening to body sounds?",
+                "options": ["A. Percussion", "B. Inspection", "C. Auscultation", "D. Palpation"],
+                "answer": "C"
+            },
+            {
+                "question": "Which type of palpation goes 4-5 cm deep?",
+                "options": ["A. Light palpation", "B. Superficial palpation", "C. Deep palpation", "D. Finger palpation"],
+                "answer": "C"
+            },
+            {
+                "question": "Tympany is a percussion sound typically heard over the:",
+                "options": ["A. Bone", "B. Liver", "C. Lungs", "D. Stomach"],
+                "answer": "D"
+            },
+            {
+                "question": "What type of physical exam is done for acute symptoms?",
+                "options": ["A. Routine exam", "B. Focused exam", "C. Comprehensive exam", "D. Preventive exam"],
+                "answer": "B"
+            },
+            {
+                "question": "What position is best for post-tonsillectomy in children?",
+                "options": ["A. Supine", "B. Prone", "C. Left lateral", "D. Trendelenburg"],
+                "answer": "C"
+            },
+            {
+                "question": "The Sims' position is commonly used for:",
+                "options": ["A. Heart surgery", "B. Enema administration", "C. Chest X-ray", "D. Thoracic CT"],
+                "answer": "B"
+            },
+            {
+                "question": "Which interview component includes symptoms like chest pain or dizziness?",
+                "options": ["A. Family history", "B. Review of systems", "C. Past medical history", "D. Social history"],
+                "answer": "B"
+            },
+            {
+                "question": "In which position are the knees and hips flexed with feet in stirrups?",
+                "options": ["A. Fowler’s", "B. Supine", "C. Lithotomy", "D. Trendelenburg"],
+                "answer": "C"
+            },
+            {
+                "question": "Which auscultation type requires no stethoscope?",
+                "options": ["A. Indirect auscultation", "B. Direct auscultation", "C. Passive auscultation", "D. Internal auscultation"],
+                "answer": "B"
+            },
+            {
+                "question": "What is the best position for respiratory distress?",
+                "options": ["A. Supine", "B. Orthopneic", "C. Sims’", "D. Lithotomy"],
+                "answer": "B"
+            },
+            {
+                "question": "Which examination technique is performed by tapping the body?",
+                "options": ["A. Palpation", "B. Percussion", "C. Inspection", "D. Auscultation"],
+                "answer": "B"
+            }
+            ],
+        "TF":[
+            {"question": "A comprehensive physical exam only focuses on one system.", "answer": False},
+            {"question": "Direct percussion is done using both hands.", "answer": False},
+            {"question": "Deep palpation is used to examine superficial structures only.", "answer": False},
+            {"question": "The knee-chest position is commonly used in gynecological procedures.", "answer": True},
+            {"question": "Sims’ position is best for rectal exams and enemas.", "answer": True},
+            {"question": "Review of systems includes evaluating physical, emotional, and social history.", "answer": False},
+            {"question": "The orthopneic position helps improve lung expansion.", "answer": True},
+            {"question": "Tympany is a dull sound heard over muscle.", "answer": False},
+            {"question": "In a prone position, the patient lies on their stomach.", "answer": True},
+            {"question": "Inspection involves touching the body to detect abnormalities.", "answer": False}
+            ]
+    },
+"L3 Echocardiography":{
+        "MCQs":[
+            {
+                "question": "What is echocardiography primarily used for?",
+                "options": ["A. Administering medications", "B. Visualizing bone structure", "C. Imaging the heart using ultrasound", "D. Conducting brain scans"],
+                "answer": "C"
+            },
+            {
+                "question": "Which of the following does echocardiography NOT use?",
+                "options": ["A. Radiation", "B. Ultrasound waves", "C. Real-time imaging", "D. Sound waves"],
+                "answer": "A"
+            },
+            {
+                "question": "What does ejection fraction measure?",
+                "options": ["A. Heart rate", "B. Blood pressure", "C. Pumping efficiency of the heart", "D. Electrical activity of the heart"],
+                "answer": "C"
+            },
+            {
+                "question": "Which type of echocardiography uses an ultrasound probe placed on the chest?",
+                "options": ["A. TEE", "B. TTE", "C. Doppler", "D. 3D echo"],
+                "answer": "B"
+            },
+            {
+                "question": "What is a key contraindication for Transesophageal Echocardiography (TEE)?",
+                "options": ["A. Obesity", "B. Lung disease", "C. Esophageal abnormalities", "D. Hypertension"],
+                "answer": "C"
+            },
+            {
+                "question": "Which echocardiography type is performed during physical or chemical stress?",
+                "options": ["A. TTE", "B. TEE", "C. Stress Echo", "D. Doppler Echo"],
+                "answer": "C"
+            },
+            {
+                "question": "What preparation is essential before a TEE?",
+                "options": ["A. High-protein meal", "B. Fasting for 6–8 hours", "C. Vigorous exercise", "D. Drinking contrast liquid"],
+                "answer": "B"
+            },
+            {
+                "question": "Doppler echocardiography is mainly used to assess:",
+                "options": ["A. Electrical signals", "B. Blood flow", "C. Muscle contraction", "D. Pericardial fluid"],
+                "answer": "B"
+            },
+            {
+                "question": "What is a major advantage of 3D echocardiography?",
+                "options": ["A. Simpler procedure", "B. Real-time heart rhythms", "C. More detailed structural assessment", "D. Less need for contrast"],
+                "answer": "C"
+            },
+            {
+                "question": "Which contrast agent feature is true for contrast echocardiography?",
+                "options": ["A. It uses radiation", "B. It’s contraindicated in all cardiac patients", "C. It enhances structural visualization", "D. It replaces Doppler echo"],
+                "answer": "C"
+            },
+            {
+                "question": "One of the main nursing responsibilities before echocardiography is:",
+                "options": ["A. Administering anesthesia", "B. Providing surgical tools", "C. Educating the patient and obtaining consent", "D. Prescribing medications"],
+                "answer": "C"
+            },
+            {
+                "question": "During the procedure, nurses should:",
+                "options": ["A. Record the echocardiogram", "B. Interpret the results", "C. Monitor and ensure patient comfort", "D. Insert the ultrasound probe"],
+                "answer": "C"
+            },
+            {
+                "question": "What should nurses encourage post-contrast echo?",
+                "options": ["A. Sedation", "B. Dehydration", "C. Hydration", "D. Bed rest"],
+                "answer": "C"
+            },
+            {
+                "question": "What is the most common echocardiography type?",
+                "options": ["A. TEE", "B. Stress echo", "C. TTE", "D. Doppler echo"],
+                "answer": "C"
+            },
+            {
+                "question": "Which valve issue can be identified by echocardiography?",
+                "options": ["A. Nephritis", "B. Regurgitation", "C. Gastritis", "D. Hepatitis"],
+                "answer": "B"
+            }
+            ],
+        "TF":[
+            {"question": "Echocardiography uses radiation like CT scans.", "answer": False},
+            {"question": "TTE is an invasive form of echocardiography.", "answer": False},
+            {"question": "Doppler techniques can help detect abnormal blood flow.", "answer": True},
+            {"question": "TEE requires fasting before the procedure.", "answer": True},
+            {"question": "Echocardiography cannot detect congenital heart defects.", "answer": False},
+            {"question": "Nurses should assess patient anxiety levels before the procedure.", "answer": True},
+            {"question": "Removing gel from the skin is part of post-echo care.", "answer": True},
+            {"question": "TEE is performed through the esophagus to get clearer images.", "answer": True},
+            {"question": "Stress echocardiography is never done using medication.", "answer": False},
+            {"question": "Contrast agents in echocardiography commonly cause severe allergic reactions.", "answer": False}
+            ]
+    },
+"L4 Holter":{
+        "MCQs":[
+            {
+                "question": "What is the main purpose of using a Holter monitor?",
+                "options": [
+                    "A. To assess lung function over time",
+                    "B. To monitor blood pressure fluctuations",
+                    "C. To record the electrical activity of the heart continuously",
+                    "D. To detect blood glucose levels"
+                ],
+                "answer": "C"
+            },
+            {
+                "question": "For how long does a Holter monitor typically record heart activity?",
+                "options": [
+                    "A. 6–8 hours",
+                    "B. 12 hours",
+                    "C. 24 hours or more",
+                    "D. 1 hour"
+                ],
+                "answer": "C"
+            },
+            {
+                "question": "Which of the following is NOT an indication for Holter monitoring?",
+                "options": [
+                    "A. Detecting sporadic arrhythmias",
+                    "B. Evaluating palpitations",
+                    "C. Assessing liver function",
+                    "D. Monitoring post-MI patients"
+                ],
+                "answer": "C"
+            },
+            {
+                "question": "Which of the following is a contraindication for Holter monitoring?",
+                "options": [
+                    "A. The presence of chest pain",
+                    "B. Patient with syncope and high-risk factors requiring inpatient care",
+                    "C. History of hypertension",
+                    "D. History of diabetes"
+                ],
+                "answer": "B"
+            },
+            {
+                "question": "What is one of the major nursing responsibilities before applying a Holter monitor?",
+                "options": [
+                    "A. Administering a sedative",
+                    "B. Cleaning the skin with alcohol and shaving if necessary",
+                    "C. Giving a high-fat meal",
+                    "D. Measuring blood pressure hourly"
+                ],
+                "answer": "B"
+            },
+            {
+                "question": "Why is a patient advised to keep a diary during Holter monitoring?",
+                "options": [
+                    "A. To record meals and fluids consumed",
+                    "B. To note exercise frequency only",
+                    "C. To correlate symptoms with recorded ECG data",
+                    "D. To track medication intake only"
+                ],
+                "answer": "C"
+            },
+            {
+                "question": "Which activity may interfere with Holter monitor results?",
+                "options": [
+                    "A. Watching television",
+                    "B. Sleeping on your back",
+                    "C. Using an electric razor",
+                    "D. Reading a book"
+                ],
+                "answer": "C"
+            },
+            {
+                "question": "What should a patient do once the Holter monitoring period is complete?",
+                "options": [
+                    "A. Dispose of the monitor",
+                    "B. Remove and store the electrodes for future use",
+                    "C. Return the monitor to the technician",
+                    "D. Wash the monitor with water"
+                ],
+                "answer": "C"
+            },
+            {
+                "question": "Which of the following is a risk associated with Holter monitoring?",
+                "options": [
+                    "A. Cardiac arrest",
+                    "B. Sudden hypertension",
+                    "C. Skin irritation or blistering from electrodes",
+                    "D. Internal bleeding"
+                ],
+                "answer": "C"
+            },
+            {
+                "question": "Which statement is TRUE about how a Holter monitor works?",
+                "options": [
+                    "A. It sends electricity into the heart to stimulate it",
+                    "B. It continuously pumps blood",
+                    "C. It records heart rhythms detected by sensors on the chest",
+                    "D. It replaces a pacemaker"
+                ],
+                "answer": "C"
+            }
+            ],
+        "TF":[  
+            {"question": "Holter monitoring can detect cardiac dysrhythmias that occur during normal daily activities.", "answer": True},
+            {"question": "The Holter monitor delivers electrical shocks to regulate heartbeats.", "answer": False},
+            {"question": "A patient with recent myocardial infarction can be monitored with a Holter device to assess ischemia and arrhythmias.", "answer": True},
+            {"question": "It is safe to place the Holter monitor near electric blankets or microwaves during use.", "answer": False},
+            {"question": "Routine Holter monitoring is recommended for asymptomatic patients.", "answer": False},
+            {"question": "Patients are required to fast for 12 hours before Holter monitoring.", "answer": False},
+            {"question": "Sweating can affect the placement and effectiveness of the electrodes.", "answer": True},
+            {"question": "Nurses should instruct the patient to document any chest pain or dizziness during the monitoring period.", "answer": True},
+            {"question": "The Holter monitor uses radiation to collect cardiac data.", "answer": False},
+            {"question": "Patients with known esophageal disorders should not undergo Holter monitoring.", "answer": False}
+            ]
+    },
+"L5 X-Ray, CT, MRI":{
+        "MCQs":[
+            {
+                "question": "What does a chest X-ray primarily evaluate?",
+                "options": ["A. Liver function", "B. Lung, heart, and chest structures", "C. Kidney function", "D. Intestinal lining"],
+                "answer": "B"
+            },
+            {
+                "question": "Which of the following is NOT a typical indication for a chest X-ray?",
+                "options": ["A. Diagnosing pneumonia", "B. Monitoring fracture healing", "C. Evaluating rib fractures", "D. Confirming lung cancer"],
+                "answer": "B"
+            },
+            {
+                "question": "Which patient condition is a contraindication for a chest X-ray?",
+                "options": ["A. COPD", "B. Asthma", "C. Pregnancy", "D. Tuberculosis"],
+                "answer": "C"
+            },
+            {
+                "question": "What is a limitation of the chest X-ray?",
+                "options": ["A. Overexposure to iodine", "B. Limited visualization of soft tissues", "C. Poor assessment of heart", "D. Time-consuming process"],
+                "answer": "B"
+            },
+            {
+                "question": "The Posteroanterior (PA) view in chest X-ray is commonly used because:",
+                "options": ["A. It provides a lateral view", "B. It is ideal for supine patients", "C. It is the standard upright view", "D. It eliminates all superimposed structures"],
+                "answer": "C"
+            },
+            {
+                "question": "CT scanning provides images in which of the following formats?",
+                "options": ["A. Linear", "B. Axial only", "C. Slices (cross-sections)", "D. 2D sketches"],
+                "answer": "C"
+            },
+            {
+                "question": "Which of the following is a contraindication to CT with contrast?",
+                "options": ["A. Hypertension", "B. Diabetes with metformin", "C. Epilepsy", "D. Stroke history"],
+                "answer": "B"
+            },
+            {
+                "question": "Why is renal function tested before CT with contrast?",
+                "options": ["A. To rule out anemia", "B. To avoid iodine overdose", "C. To detect allergies", "D. To prevent nephrotoxicity"],
+                "answer": "D"
+            },
+            {
+                "question": "What is a common emergency use of CT?",
+                "options": ["A. Diagnosing migraines", "B. Detecting acute appendicitis", "C. Stroke differentiation", "D. Skin infection analysis"],
+                "answer": "C"
+            },
+            {
+                "question": "MRI primarily uses:",
+                "options": ["A. Ionizing radiation", "B. X-ray beams", "C. Magnetic fields and radio waves", "D. Gamma rays"],
+                "answer": "C"
+            },
+            {
+                "question": "Which of the following patients is NOT suitable for MRI?",
+                "options": ["A. Patient with kidney disease", "B. Patient with asthma", "C. Patient with pacemaker", "D. Patient with hypertension"],
+                "answer": "C"
+            },
+            {
+                "question": "One of the advantages of MRI over CT is:",
+                "options": ["A. Faster image capture", "B. Higher dose of radiation", "C. Better soft tissue resolution", "D. Cheaper cost"],
+                "answer": "C"
+            },
+            {
+                "question": "Which of the following is NOT a nursing responsibility before MRI?",
+                "options": ["A. Checking for metal objects", "B. Giving contrast dye", "C. Removing dentures", "D. Assessing claustrophobia"],
+                "answer": "B"
+            }
+            ],
+        "TF":[
+            {"question": "Chest X-ray is a non-invasive diagnostic test.", "answer": True},
+            {"question": "Chest X-ray is contraindicated in children.", "answer": False},
+            {"question": "A lateral view in CXR provides a side image of the chest.", "answer": True},
+            {"question": "MRI uses ionizing radiation to form images.", "answer": False},
+            {"question": "CT scans are not suitable for emergency settings.", "answer": False},
+            {"question": "Metal objects inside the body may interfere with MRI.", "answer": True},
+            {"question": "CT with contrast is always safe, regardless of the patient's kidney function.", "answer": False},
+            {"question": "Pregnant women should avoid MRI only in the first trimester.", "answer": False},
+            {"question": "One disadvantage of MRI is that it is less effective in detecting calcifications.", "answer": True},
+            {"question": "Patients with claustrophobia may require sedation for MRI.", "answer": True}
+            ]
+    },
+"Bank Diagnostic tests":{
+        "MCQs":[
+            {
+                "question": "What is the main source of signal in MRI?",
+                "options": ["A. Oxygen", "B. Hydrogen", "C. Iron", "D. Calcium"],
+                "answer": "B"
+            },
+            {
+                "question": "Which of the following is a contraindication for MRI?",
+                "options": ["A. Dental fillings", "B. Old metallic implants", "C. Braces", "D. Hearing aids"],
+                "answer": "B"
+            },
+            {
+                "question": "MRI is especially good for imaging:",
+                "options": ["A. Bones", "B. Lungs", "C. Soft tissues", "D. Teeth"],
+                "answer": "C"
+            },
+            {
+                "question": "A key advantage of MRI is:",
+                "options": ["A. It’s cheap", "B. It uses ionizing radiation", "C. It provides better soft tissue images", "D. It is faster than CT"],
+                "answer": "C"
+            },
+            {
+                "question": "A patient complains of claustrophobia before MRI. What should the nurse do?",
+                "options": ["A. Cancel the scan", "B. Offer sedation and reassurance", "C. Give food", "D. Ignore"],
+                "answer": "B"
+            },
+            {
+                "question": "Which of the following is a contraindication for CT with contrast?",
+                "options": ["A. High blood pressure", "B. Renal failure", "C. Old age", "D. Anemia"],
+                "answer": "B"
+            },
+            {
+                "question": "The best imaging for head trauma is:",
+                "options": ["A. MRI", "B. Chest X-ray", "C. CT", "D. Ultrasound"],
+                "answer": "C"
+            },
+            {
+                "question": "One of the preparation steps before CT with contrast includes:",
+                "options": ["A. Giving glucose", "B. Checking hemoglobin", "C. Checking creatinine", "D. Giving pain killers"],
+                "answer": "C"
+            },
+            {
+                "question": "What does CT scan use to create images?",
+                "options": ["A. Sound waves", "B. X-rays", "C. Magnetic fields", "D. Heat sensors"],
+                "answer": "B"
+            },
+            {
+                "question": "Which of the following is not a normal CT chest result?",
+                "options": ["A. Clear lungs", "B. Enlarged heart", "C. No fractures", "D. Well-defined diaphragm"],
+                "answer": "B"
+            },
+            {
+                "question": "Tomography literally means:",
+                "options": ["A. Deep scanning", "B. Magnetic images", "C. Slice writing", "D. Soft tissue scan"],
+                "answer": "C"
+            },
+            {
+                "question": "What is pulmonary edema?",
+                "options": ["A. Air in the chest", "B. Water in the lungs", "C. Tumor in the heart", "D. Broken rib"],
+                "answer": "B"
+            },
+            {
+                "question": "What is the standard view used in Chest X-ray for ambulatory patients?",
+                "options": ["A. AP view", "B. Lateral view", "C. PA view", "D. Lordotic view"],
+                "answer": "C"
+            },
+            {
+                "question": "Which of the following is a contraindication for Chest X-ray?",
+                "options": ["A. Asthma", "B. Pneumothorax", "C. Pregnancy", "D. Fever"],
+                "answer": "C"
+            },
+            {
+                "question": "Which view helps in detecting pleural effusion?",
+                "options": ["A. Decubitus", "B. Lateral", "C. PA", "D. AP"],
+                "answer": "A"
+            },
+            {
+                "question": "What is the main purpose of the Holter monitor?",
+                "options": ["A. Monitor blood pressure", "B. Record blood sugar", "C. Record heart’s electrical activity", "D. Measure lung function"],
+                "answer": "C"
+            },
+            {
+                "question": "Holter monitoring is most useful to detect:",
+                "options": ["A. Bone fractures", "B. Cardiac arrhythmias", "C. Kidney stones", "D. Brain activity"],
+                "answer": "B"
+            },
+            {
+                "question": "A contraindication of Holter monitoring is:",
+                "options": ["A. Mild chest pain", "B. Patient needing urgent care", "C. Tiredness", "D. Sweating"],
+                "answer": "B"
+            },
+            {
+                "question": "Nurses must advise patients to avoid:",
+                "options": ["A. Sleeping", "B. Writing symptoms", "C. Getting the monitor wet", "D. Taking deep breaths"],
+                "answer": "C"
+            },
+            {
+                "question": "One of the responsibilities of the nurse is to:",
+                "options": ["A. Interpret results", "B. Perform surgery", "C. Educate the patient", "D. Design the Holter device"],
+                "answer": "C"
+            },
+            {
+                "question": "Which of the following is not a preparation step for Holter monitoring?",
+                "options": ["A. Cleaning the skin", "B. Shaving excess hair", "C. Removing electrodes", "D. Applying electrodes"],
+                "answer": "C"
+            },
+            {
+                "question": "The phase of diagnostic tests that focus on observation of the patient is:",
+                "options": ["A. Pre-test", "B. Intra-test", "C. Post-test", "D. During test"],
+                "answer": "B"
+            },
+            {
+                "question": "Which of the following procedures is more accurate than radiographic exam:",
+                "options": ["A. Abdominal X-ray", "B. Endoscopy", "C. Abdominal Ultrasound", "D. Abdominal CT"],
+                "answer": "D"
+            },
+            {
+                "question": "When taking a liver biopsy, nurse must put the patient in what position:",
+                "options": ["A. Dorsal recumbent", "B. Prone", "C. Semi-sitting", "D. Left lateral position"],
+                "answer": "C"
+            },
+            {
+                "question": "The type of Echocardiography that requires IV access is:",
+                "options": ["A. 3D Echocardiography", "B. Doppler Echocardiography", "C. Contrast Echocardiography", "D. Trans-thoracic Echocardiography"],
+                "answer": "C"
+            },
+            {
+                "question": "When the patient is positioned on his back with the bed tilted and the head is lower than the feet, it is called:",
+                "options": ["A. Sim’s position", "B. Prone position", "C. Semi-Fowler position", "D. Trendelenburg position"],
+                "answer": "D"
+            },
+            {
+                "question": "Echocardiography is commonly used to evaluate all the following EXCEPT:",
+                "options": ["A. Heart size", "B. Pulmonary function", "C. Valves function", "D. Blood flow"],
+                "answer": "B"
+            },
+            {
+                "question": "The other name of the orthopneic position is called:",
+                "options": ["A. Tripod position", "B. Sitting position", "C. Fowler position", "D. Reverse Trendelenburg position"],
+                "answer": "A"
+            },
+            {
+                "question": "A type of portable electrocardiogram (ECG) that records the electrical activity of the heart over 24 hours is:",
+                "options": ["A. Holter", "B. 3D Echo", "C. Stress Echo", "D. Doppler Echo"],
+                "answer": "A"
+            },
+            {
+                "question": "The most body position used to examine rectal and proctologic examinations is:",
+                "options": ["A. Sitting position", "B. Lateral position", "C. Knee-chest position", "D. Prone position"],
+                "answer": "C"
+            },
+            {
+                "question": "Lithotomy position is the position used to examine all the following EXCEPT:",
+                "options": ["A. Urologic surgery", "B. Childbirth", "C. Pelvic surgery", "D. Enema administration"],
+                "answer": "D"
+            }
+            ],
+        "TF":[
+            {"question": "Echocardiography involves high radiation levels.", "answer": False},
+            {"question": "Echocardiography can detect congenital heart defects.", "answer": True},
+            {"question": "Pericardial effusion can be assessed using echocardiography.", "answer": True},
+            {"question": "Doppler technique helps evaluate bone fractures.", "answer": False},
+            {"question": "TTE requires the patient to fast for 8 hours.", "answer": False},
+            {"question": "TEE gives more detailed images than TTE.", "answer": True},
+            {"question": "Stress echo uses either exercise or medication to stress the heart.", "answer": True},
+            {"question": "Doppler is useful for detecting valve problems.", "answer": True},
+            {"question": "Contrast echo can be risky for people with severe lung disease.", "answer": True},
+            {"question": "Holter monitor gives electric shocks to the heart.", "answer": False},
+            {"question": "It should be used even if the patient has no symptoms at all.", "answer": False},
+            {"question": "Nurses help in attaching electrodes and educating patients.", "answer": True},
+            {"question": "Holter monitor is a type of ECG.", "answer": True},
+            {"question": "Patients can take showers freely while wearing the monitor.", "answer": False},
+            {"question": "Holter monitor records heart activity continuously for up to 72 hours.", "answer": True},
+            {"question": "The patient can take a shower while wearing a Holter monitor.", "answer": False},
+            {"question": "Electromagnetic devices can interfere with Holter monitor signals.", "answer": True},
+            {"question": "The nurse should remove electrodes after the monitoring is complete.", "answer": True},
+            {"question": "Holter monitor results are interpreted manually by nurses.", "answer": False},
+            {"question": "Chest X-ray can detect soft tissue tumors clearly.", "answer": False},
+            {"question": "Radiation exposure in chest X-ray is high and dangerous.", "answer": False},
+            {"question": "Chest X-ray can help in diagnosing heart failure.", "answer": True},
+            {"question": "Patients must remove metal objects before the procedure.", "answer": True},
+            {"question": "CT scans can show images in axial, coronal, and sagittal views.", "answer": True},
+            {"question": "Cardiomegaly means the heart is smaller than normal.", "answer": False},
+            {"question": "CT uses magnetic fields like MRI.", "answer": False},
+            {"question": "A collapsed lung is also called pneumothorax.", "answer": True},
+            {"question": "Subcutaneous emphysema is air in abnormal locations.", "answer": True},
+            {"question": "CT scans are only used for bones.", "answer": False},
+            {"question": "CT can differentiate between ischemic and hemorrhagic stroke.", "answer": True},
+            {"question": "Pregnant women can safely do CT with contrast without restrictions.", "answer": False},
+            {"question": "CT with contrast is safe for all diabetic patients regardless of medication.", "answer": False},
+            {"question": "3D images can be generated using CT technology.", "answer": True},
+            {"question": "MRI uses ionizing radiation.", "answer": False},
+            {"question": "Pacemakers are safe during MRI.", "answer": False},
+            {"question": "MRI gives better images of soft tissues than CT.", "answer": True},
+            {"question": "Patient must fast for all MRI scans.", "answer": False},
+            {"question": "Earplugs should be offered during MRI scan.", "answer": True},
+            {"question": "Echocardiography uses no radiation", "answer": True},
+            {"question": "Diagnostic screening is different to diagnostic tests", "answer": True},
+            {"question": "Preparation of a consent form, if required, must be done during intra phase of test", "answer": False},
+            {"question": "Diagnostic tests assess the patient’s physical condition to identify any clinical signs of disease and monitor the progression of existing conditions", "answer": True},
+            {"question": "If contrast agents were used (e.g., in a stress echocardiogram), encourage the patient to drink a lot of fluids", "answer": True},
+            {"question": "Physical examination is a fundamental clinical skill and vital aspect of physicians only", "answer": False},
+            {"question": "Assess the patient’s ability to hold his or her breath during the X-ray to enable the lungs and heart to be seen more clearly", "answer": True},
+            {"question": "X-rays and CT scans use small amounts of radiation", "answer": True},
+            {"question": "Patient must be sedated before endoscopy", "answer": True},
+            {"question": "X-rays are usually recommended for pregnant women", "answer": False},
+            {"question": "3D echocardiography has many contraindications that affect image", "answer": False},
+            {"question": "Doppler Echocardiography is often used to detect valve diseases or abnormal shunts of the heart", "answer": True},
+            {"question": "Echocardiography detects sporadic arrhythmias missed by an exercise or resting ECG", "answer": False},
+            {"question": "Transesophageal Echocardiography (TEE) provides clearer, more detailed images, especially useful in cases of suspected infections, masses, or clots", "answer": True},
+            {"question": "Patients should fast for 6–8 hours before the Holter use", "answer": False}
+            ]
+    },
 
 }
 #  7774771769:AAHXK9PVehCzEh5d9NOksBlD4UyfqbZ5ObM
