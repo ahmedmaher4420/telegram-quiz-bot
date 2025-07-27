@@ -59,7 +59,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         user_state[uid] = {"subject": text}
         keyboards = {
             "Adults": [["المحاضرات وكويزات خفيفة"], ["🧪 امتحان شامل", "أسئلة الدكتورة"], ["🏠 القائمة الرئيسية"]],
-            "Diagnostic tests": [["المحاضرات وكويزات خفيفة"], ["🏠 القائمة الرئيسية"]],
+            "Diagnostic tests": [["بنك أسئلة"],["المحاضرات وكويزات خفيفة"], ["🏠 القائمة الرئيسية"]],
             "General Surgery": [["المحاضرات وكويزات خفيفة"], ["🏠 القائمة الرئيسية"]],
             "Health Assessment": [["Mid Term"], ["أسئلة دفعات سابقة"], ["المحاضرات وكويزات خفيفة"], ["🏠 القائمة الرئيسية"]],
             "Internal Medecin": [["المحاضرات وكويزات خفيفة"], ["Mid Term"], ["🏠 القائمة الرئيسية"]],
@@ -71,7 +71,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             reply_markup=ReplyKeyboardMarkup(keyboards.get(text, [["🏠 القائمة الرئيسية"]]), resize_keyboard=True, one_time_keyboard=True)
         )
 
-    elif "subject" in state and text in ["الميد ترم وبنك شامل","Strategies's Mid Term","بنك سامي","Mid Term", "أسئلة دفعات سابقة", "🧪 امتحان شامل", "أسئلة الدكتورة","Sami's Bank Dr. Shahirah", "Sami's Bank Dr. Eman"]:
+    elif "subject" in state and text in ["بنك أسئلة","الميد ترم وبنك شامل","Strategies's Mid Term","بنك سامي","Mid Term", "أسئلة دفعات سابقة", "🧪 امتحان شامل", "أسئلة الدكتورة","Sami's Bank Dr. Shahirah", "Sami's Bank Dr. Eman"]:
         subject = state["subject"]
         lecture_key = {
             "Mid Term": "Internal Medecin Mid Term" if subject == "Internal Medecin" else "Mid Term",
@@ -82,7 +82,8 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             "Sami's Bank Dr. Eman": "Sami's Bank Dr. Eman",
             "بنك سامي": "Sami's Bank",
             "Mid Term": "Strategies's Mid Term",
-            "الميد ترم وبنك شامل": "Bank Research"
+            "الميد ترم وبنك شامل": "Bank Research",
+            "بنك أسئلة": "Bank Diagnostic tests"
         }[text]
 
         if lecture_key not in quizzes:
